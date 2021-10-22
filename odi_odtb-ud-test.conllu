@@ -1,0 +1,1375 @@
+# sent_id = 1
+# text = ଗୁରୁତର ଅବସ୍ଥାରେ ପ୍ରଥମେ ତାଙ୍କୁ MKCG ହସ୍ପିଟାଲ୍‌ରେ ଭର୍ତ୍ତି କରାଯାଇଥିଲା ।
+1	ଗୁରୁତର	_	ADJ	JJ	_	2	amod	_	_
+2	ଅବସ୍ଥାରେ	_	NOUN	N_NN	_	4	nmod	_	_
+3	ପ୍ରଥମେ	_	ADV	RB	_	8	advmod	_	_
+4	ତାଙ୍କୁ	_	PRON	PR_PRP	_	8	nsubj	_	_
+5	MKCG	_	PROPN	N_NNP	_	8	obj	_	_
+6	ହସ୍ପିଟାଲ୍‌ରେ	_	NOUN	N_NN	_	5	compound	_	_
+7	ଭର୍ତ୍ତି	_	VERB	N_NNV	_	8	nmod	_	_
+8	କରାଯାଇଥିଲା	_	VERB	V_VM_VF	_	0	root	_	_
+9	।	_	PUNCT	RD_PUNC	_	8	punct	_	SpacesAfter=\n
+
+# sent_id = 2
+# text = ସ୍ଵଜନମାନଙ୍କ , ମିତ୍ରମାନଙ୍କ ସହିତ ପର୍ଯ୍ୟଟନର ଆନନ୍ଦ ନେଇ ପାରିବେ ।
+1	ସ୍ଵଜନମାନଙ୍କ	_	NOUN	N_NN	_	7	nmod	_	_
+2	,	_	PUNCT	RD_PUNC	_	1	punct	_	_
+3	ମିତ୍ରମାନଙ୍କ	_	NOUN	N_NN	_	7	compound	_	_
+4	ସହିତ	_	ADP	PSP	_	3	fixed	_	_
+5	ପର୍ଯ୍ୟଟନର	_	NOUN	N_NN	_	6	nsubj	_	_
+6	ଆନନ୍ଦ	_	NOUN	N_NN	_	5	obj	_	_
+7	ନେଇ	_	VERB	V_VM_VNF	_	0	root	_	_
+8	ପାରିବେ	_	VERB	V_VM_VNG	_	7	compound:lvc	_	_
+9	।	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
+
+sent_id = 3
+# text = ସ୍ଥାନୀୟ କୋର୍ଟ ସେମାନଙ୍କ ଜାମିନ ନାମଞ୍ଜୁର କରିବାଫଳରେ ସେମାନଙ୍କୁ ଜେଲ ହାଜତକୁ ପଠାଇଦିଆଯାଇଛି ।
+1	ସ୍ଥାନୀୟ	_	ADJ	JJ	_	2	amod	_	_
+2	କୋର୍ଟ	_	NOUN	N_NN	_	10	nsubj	_	_
+3	ସେମାନଙ୍କ	_	PRON	PR_PRP	_	4	iobj	_	_
+4	ଜାମିନ	_	NOUN	N_NN	_	5	nmod	_	_
+5	ନାମଞ୍ଜୁର	_	NOUN	N_NN	_	6	nmod	_	_
+6	କରିବାଫଳରେ	_	CCONJ	CC_CCD	_	10	cc	_	_
+7	ସେମାନଙ୍କୁ	_	PRON	PR_PRP	_	8	iobj	_	_
+8	ଜେଲ	_	NOUN	N_NN	_	9	nmod	_	_
+9	ହାଜତକୁ	_	NOUN	N_NN	_	10	obj	_	_
+10	ପଠାଇଦିଆଯାଇଛି	_	VERB	V_VM_VF	_	0	root	_	_
+11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
+
+# sent_id = 4
+# text = ବିଦ୍ୟାର୍ଥୀ ମାନେ ବିଦ୍ୟାରେ ଅମନ ଯୋଗି ହେବେ ।
+1	ବିଦ୍ୟାର୍ଥୀମାନେ	_	NOUN	N_NN	_	4	nsubj	_	_
+2	ବିଦ୍ୟାରେ	_	NOUN	N_NN	_	1	nmod	_	_
+3	ଅମନଯୋଗି	_	ADJ	JJ	_	2	amod	_	_
+4	ହେବେ	_	AUX	V_VAUX	_	0	root	_	_
+5	।	_	PUNCT	RD_PUNC	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 5
+# text = ଶିଷ୍ଯମାନେ ଉପରକୁ ଚାହିଁଲେ ।
+1	ଶିଷ୍ଯମାନେ	_	NOUN	N_NN	_	3	nsubj	_	_
+2	ଉପରକୁ	_	NOUN	N_NST	_	1	nmod	_	_
+3	ଚାହିଁଲେ	_	VERB	V_VM_VF	_	0	root	_	_
+4	।	_	PUNCT	RD_PUNC	_	3	punct	_	_
+
+# sent_id = 6
+# text = ସେମାନେେ ଯୀଶୁଙ୍କ ଛଡା ଆଉ କାହାରିକୁ ଦେଖିଲେ ନାହିଁ ।
+1	ସମାନେେ	_	PRON	PR_PRP	_	5	nsubj	_	_
+2	ଯୀଶୁଙ୍କ	_	NOUN	N_NN	_	6	nmod	_	_
+3	ଛଡା	_	CCONJ	CC_CCS	_	2	cc	_	_
+4	ଆଉ	_	CCONJ	CC_CCS	_	5	cc	_	_
+5	କାହାରିକୁ	_	NOUN	N_NN	_	6	iobj	_	_
+6	ଦେଖିଲେ	_	VERB	V_VM_VF	_	0	root	_	_
+7	ନାହିଁ	_	AUX	V_VAUX	_	6	aux	_	_
+8	।	_	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n
+	 
+# sent_id = 7
+# text = ଏହି ପ୍ରସଙ୍ଗକୁ ନେଇ ଉଭୟ ଉଭୟଙ୍କୁ କଟାକ୍ଷ କରୁଛନ୍ତି ।
+1	ଏହି	_	DET	DM_DMD	_	2	det	_	_
+2	ପ୍ରସଙ୍ଗକୁ	_	NOUN	N_NN	_	1	nmod	_	_
+3	ନେଇ	_	VERB	V_VM_VNF	_	2	compound	_	_
+4	ଉଭୟ	_	PRON	PR_PRC	_	7	nsubj	_	_
+5	ଉଭୟଙ୍କୁ	_	PRON	PR_PRC	_	4	iobj	_	_
+6	କଟାକ୍ଷ	_	NOUN	N_NN	_	7	obj	_	_
+7	କରୁଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	_
+8	।	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
+
+# sent_id = 8
+# text = ଏହାଯୋଗୁ ଭୁଲ୍ କରିବାର ବିପଦ ବଢ଼ିଯାଇଥାଏ ।
+1	ଏହାଯୋଗୁ	_	DET	DM_DMD	_	5	det	_	_	_
+2	ଭୁଲ୍	_	NOUN	N_NN	_	3	nmod	_	_
+3	କରିବାର	_	VERB	V_VM_VNG	_	5	compound	_	_
+4	ବିପଦ	_	NOUN	N_NN	_	5	nsubj	_	_
+5	ବଢ଼ିଯାଇଥାଏ	_	VERB	V_VM_VF	_	0	root	_	_
+6	।	_	PUNCT	RD_PUNC	_	5	punct	_	SpacesAfter=\n
+
+# sent_id = 9
+# text = ତା’ନିକଟରୁ ଗୋଟିଏ ପିସ୍ତଲ ଓ ଜୀବନ୍ତ ଗୁଳି ଜବତ ହୋଇଛି ।
+1	ତା’ନିକଟରୁ	_	PRON	PR_PRP	_	7	iobj	_	_
+2	ଗୋଟିଏ	_	DET	QT	_	3	nummod	_	_
+3	ପିସ୍ତଲ	_	NOUN	N_NN	_	8	nsubj	_	_
+4	ଓ	_	CONJ	CC_CCD	_	6	conj	_	_
+5	ଜୀବନ୍ତ	_	ADJ	JJ	_	6	amod	_	_
+6	ଗୁଳି	_	NOUN	N_NN	_	5	compound	_	_
+7	ଜବତ	_	NOUN	N_NN	_	8	nmod	_	_
+8	ହୋଇଛି	_	VERB	V_VM_VF	_	0	root	_	_
+9	।	_	PUNCT	RD_PUNC	_	8	punct	_	SpacesAfter=\n
+
+# sent_id = 10
+# text = ତା’ପରେ ଆବଶ୍ୟକ ଅନୁଯାୟୀ ଲୁଣ ଓ ହଳଦୀ ପକାନ୍ତୁ ।
+1	ତା’ପରେ	_	NOUN	N_NST	_	7	nmod	_	_
+2	ଆବଶ୍ୟକ	_	NOUN	N_NN	_	3	nmod	_	_
+3	ଅନୁଯାୟୀ	_	NOUN	N_NN	_	2	compound	_	_
+4	ଲୁଣ	_	NOUN	N_NN	_	2	obj	_	_
+5	ଓ	_	CONJ	CC_CCD	_	6	conj	_	_
+6	ହଳଦୀ	_	NOUN	N_NN	_	2	compound	_	_
+7	ପକାନ୍ତୁ	_	VERB	V_VM_VF	_	0	root	_	_
+8	।	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
+
+# sent_id = 11
+# text = ବଜ୍ରପାତର ଅନେକ କାରଣ ରହିଛି ।
+1	ବଜ୍ରପାତର	_	NOUN	N_NN	_	3	nsubj	_	_
+2	ଅନେକ	_	NUM	QT_QTC	_	1	nummod	_	_
+3	କାରଣ	_	NOUN	N_NN	_	2	obj	_	_
+4	ରହିଛି	_	VERB	V_VM_VF	_	0	root	_	_
+5	।	_	PUNCT	RD_PUNC	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 12
+# text = ଅନ୍ୟ ଏକ ପାତ୍ରରେ ତେଲ ଗରମ କରନ୍ତୁ ।
+1	ଅନ୍ୟ	_	DET	DM_DMI	_	3	det	_	_
+2	ଏକ	_	NUM	QT_QTC	_	3	nummod	_	_
+3	ପାତ୍ରରେ	_	NOUN	N_NST	_	1	nmod	_	_
+4	ତେଲ	_	NOUN	N_NN	_	3	obj	_	_
+5	ଗରମ	_	NOUN	N_NN	_	4	nmod	_	_
+6	କରନ୍ତୁ	_	VERB	V_VM_VF	_	0	root	_	_
+7	।	_	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n
+
+# sent_id = 13
+# text = ଶ୍ରୀମନ୍ଦିର ମରାମତି ପାଇଁ ପଦକ୍ଷେବ ନେବ ଏଏସଆଇ ।
+1	ଶ୍ରୀମନ୍ଦିର	_	NOUN	N_NN	_	5	nmod	_
+2	ମରାମତି	_	NOUN	N_NN	_	1	obj	_	_
+3	ପାଇଁ	_	ADP	PSP	_	2	fixed	_	_
+4	ପଦକ୍ଷେବ	_	NOUN	N_NN	_	1	nmod	_	_
+5	ନେବ	_	VERB	V_VM_VNF	_	0	root	_	_
+6	ଏଏସଆଇ	_	PROPN	N_NNP	_	1	nsubj	_	_
+7	।	_	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n
+
+# sent_id = 14
+# text = ଏହି ଫିଲ୍ମ ସଲମାନ ଖାନ ପ୍ରଡକ୍ସନ ହାଉସ ଦ୍ୱାରା ନିର୍ମାଣ କରାଯିବ ।
+1	ଏହି	_	DET	DM_DMD	_	2	det	_	_
+2	ଫିଲ୍ମ	_	NOUN	N_NN	_	1	nsubj	_	_
+3	ସଲମାନ	_	PROPN	N_NNP	_	7	nmod	_	_
+4	ଖାନ	_	PROPN	N_NNP	_	3	flat	_	_
+5	ପ୍ରଡକ୍ସନ	_	X	RD_RDF	_	7	flat:foreign	_	_
+6	ହାଉସ	_	X	RD_RDF	_	5	flat:foreign	_	_
+7	ଦ୍ୱାରା	_	ADP	PSP	_	6	fixed	_	_
+8	ନିର୍ମାଣ	_	NOUN	N_NN	_	9	obj	_
+9	କରାଯିବ	_	VERB	V_VM_VF	_	0	root	_	_
+10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
+
+# sent_id = 15
+# text = ସ୍ଥାନୀୟ ଲୋକ ମଧ୍ୟ ଉଦ୍ଧାର କାର୍ଯ୍ୟରେ ସହାୟତା କରିଥିଲେ ।
+1	ସ୍ଥାନୀୟ	_	ADJ	JJ	_	2	amod	_
+2	ଲୋକ	_	NOUN	N_NN	_	1	nsubj	_
+3	ମଧ୍ୟ	_	CCONJ	CC_CCD	_	2	cc	_
+4	ଉଦ୍ଧାର	_	NOUN	N_NN	_	5	nmod	_
+5	କାର୍ଯ୍ୟରେ	_	NOUN	N_NN	_	4	nmod	_
+6	ସହାୟତା	_	NOUN	N_NN	_	5	obj	_
+7	କରିଥିଲେ	_	VERB	V_VM_VF	_	0	root	_
+8	।	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
+
+# sent_id = 16
+# text = ମାତ୍ର ଏବେ ଧୀରେ ଧୀରେ ଏବେ ସମୟ ବଦଳିବାରେ ଲାଗିଛି ।
+1	ମାତ୍ର	_	CONJ	CC_CCD	_	6	cc	_	_
+2	ଏବେ	_	ADV	RB	_	1	advmod	_	_
+3	ଧୀରେ	_	ADV	RB	_	6	advmod	_	_
+4	ଧୀରେ	_	ADV	RB	_	6	compound:redup	_	_
+5	ଏବେ	_	ADV	RB	_	4	advmod	_	_
+6	ସମୟ	_	NOUN	N_NN	_	7	nsubj	_	_
+7	ବଦଳିବାରେ	_	VERB	V_VM_VNG	_	6	vmod	_	_
+8	ଲାଗିଛି	_	VERB	V_VM_VF	_	0	root	_	_
+9	।	_	PUNCT	RD_PUNC	_	8	punct	_	SpacesAfter=\n
+
+# sent_id = 17
+# text = ଭାରତ କୃଷି କ୍ଷେତ୍ରରେ ଐତିହାସିକ ସୁଧାର କରିଛି ।
+1	ଭାରତ	_	NOUN	N_NN	_	6	nsubj	_	_
+2	କୃଷି	_	NOUN	N_NN	_	1	nmod	_	_
+3	କ୍ଷେତ୍ରରେ	_	NOUN	N_NN	_	1	compound	_	_
+4	ଐତିହାସିକ	_	ADJ	JJ	_	2	amod	_	_
+5	ସୁଧାର	_	VERB	V_VM_VNG	_	4	obj	_	_
+6	କରିଛି	_	VERB	V_VM_VF	_	0	root	_	_
+7	।	_	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n
+
+# sent_id = 18
+# text = ବିଭିନ୍ନ ଅନୁଷ୍ଠାନ ମଧ୍ୟ ଉତ୍ସାହର ସହିତ ଏହି କାର୍ଯ୍ୟକ୍ରମରେ ଯୋଗଦାନ କଲେ ।
+1	ବିଭିନ୍ନ	_	DET	QT_QTF	_	2	det	_	_
+2	ଅନୁଷ୍ଠାନ	_	NOUN	N_NN	_	1	nsubj	_	_
+3	ମଧ୍ୟ	_	CCONJ	CC_CCD	_	2	cc	_	_
+4	ଉତ୍ସାହର	_	ADJ	JJ	_	7	amod	_	_
+5	ସହିତ	_	ADP	PSP	_	4	fixed	_	_
+6	ଏହି	_	DET	DM_DMD	_	7	det	_	_
+7	କାର୍ଯ୍ୟକ୍ରମରେ	_	NOUN	N_NN	_	6	obj	_	_
+8	ଯୋଗଦାନ	_	NOUN	N_NN	_	2	nmod	_	_
+9	କଲେ	_	VERB	V_VM_VF	_	0	root	_	_
+10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
+
+# sent_id = 19
+# text = ଏଥିପାଇଁ ଆପଣ ଗରମ ପାଣି ବ୍ୟବହାର କରନ୍ତୁ ନାହିଁ।
+1	ଏଥିପାଇଁ	_	ADV	RB	_	6	advmod	_	_
+2	ଆପଣ	_	PROPN	PR_PRP	_	1	nsubj	_	_
+3	ଗରମ	_	ADJ	JJ	_	4	amod	_	_
+4	ପାଣି	_	NOUN	N_NN	_	3	obj	_	_
+5	ବ୍ୟବହାର	_	NOUN	N_NN	_	2	nmod	_	_
+6	କରନ୍ତୁ	_	VERB 	V_VM_VF	_	0	root	_	_
+7	ନାହିଁ	_	AUX	RP_NEG	_	6	aux	_	_
+8	।	_	PUNCT	RD_PUNC	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 20
+# text = ଏହି ବୈଠକରେ ଭାରତୀୟ କ୍ରିକେଟ ଦଳର ଅଧିନାୟକ ବିରାଟ କୋହଲି ଉପସ୍ଥିତ ଥିଲେ ।
+1	ଏହି	_	DET	DM_DMD	_	2	det	_	_
+2	ବୈଠକରେ	_	NOUN	N_NN	_	1	nmod	_	_
+3	ଭାରତୀୟ	_	ADJ	JJ	_	4	amod	_	_
+4	କ୍ରିକେଟ	_	NOUN	N_NN	_	3	nmod	_	_
+5	ଦଳର	_	NOUN	N_NN	_	4	compound	_	_
+6	ଅଧିନାୟକ	_	NOUN	N_NN	_	7	nmod	_	_
+7	ବିରାଟ	_	PROPN	N_NNP	_	6	nsubj	_	_
+8	କୋହଲି	_	PROPN	N_NNP	_	7	flat	_	_
+9	ଉପସ୍ଥିତ	_	ADJ	JJ	_	7	amod	_	_
+10	ଥିଲେ	_	VERB 	V_VM_VF	_	0	root	_	_
+11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
+
+# sent_id = 21
+# text = ତାଙ୍କୁ ଡାକ୍ତରଖାନା ନିଆ ଯାଇଥିଲେ ମଧ୍ୟ ସେ ମୃତ୍ୟୁବରଣ କରିଥିଲେ ।
+1	ତାଙ୍କୁ	_	PRON	PR_PRP	_	4	iobj	_	_
+2	ଡାକ୍ତରଖାନା	_	NOUN	N_NN	_	4	obj	_	_
+3	ନିଆ	_	VERB	V_VM_VNF	_	1	nmod	_	_
+4	ଯାଇଥିଲେ	_	VERB	V_VM_VF	_	8	compound	_	_
+5	ମଧ୍ୟ	_	PART	RP_RPD	_	4	fixed	_	_
+6	ସେ	_	PRON	PR_PRP	_	8	nsubj	_	_
+7	ମୃତ୍ୟୁବରଣ	_	NOUN	N_NN	_	8	nmod	_	_
+8	କରିଥିଲେ	_	VERB	V_VM_VF	_	0	root	_	_
+9	।	_	PUNCT	RD_PUNC	_	8	punct	_	SpacesAfter=\n
+
+# sent_id = 22
+# text = ଏଥିରେ ଥିବା ପୋଷକ ତତ୍ତ୍ୱ ଶରୀର ପାଇଁ ଆଣ୍ଟି-ଅକ୍ସିଡ଼ାଣ୍ଟ ଭଳି କାର୍ଯ୍ୟ କରିଥାଏ।
+1	ଏଥିରେ	_	DET	DM_DMD	_	2	det	_	_
+2	ଥିବା	_	AUX	V_VAUX 	_	3	aux	_	_
+3	ପୋଷକ	_	ADJ	JJ	_	11	amod	_	_
+4	ତତ୍ତ୍ୱ	_	NOUN	N_NN	_	11	compound	_	_
+5	ଶରୀର	_	NOUN	N_NN	_	8	nmod	_	_
+7	ପାଇଁ	_	ADP	PSP	_	8	fixed	_	_
+8	 ଆଣ୍ଟି-ଅକ୍ସିଡ଼ାଣ୍ଟ	_	X	RD_RDF	_	11	obj 	_	_
+9	ଭଳି	_	ADP	PSP	_	8	fixed	_	_
+10	କାର୍ଯ୍ୟ	_	NOUN	N_NN	_	11	nmod	_	_
+11	କରିଥାଏ	_	VERB	V_VM_VF	_	0	root	_	_
+12	।	_	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n
+
+# sent_id = 23
+# text = କ୍ରିଷ୍ଟିଆନ ରୋନାଲ୍ଡୋ ହେଲେ ଫୁଟବଲ ଇତିହାସର ସର୍ବାଧିକ ଗୋଲ ସ୍କୋରର।
+1	କ୍ରିଷ୍ଟିଆନ	_	PROPN	N_NNP	_	3	nsubj	_
+2	ରୋନାଲ୍ଡୋ	_	PROPN	N_NNP	_	3	flat	_
+3	ହେଲେ	_	VERB	V_VM_VF	_	0	root	_
+4	ଫୁଟବଲ 	_	NOUN	N_NN	_	5	nmod	_
+5	ଇତିହାସର	_	NOUN	N_NN	_	4	nmod	_
+6	ସର୍ବାଧିକ 	_	ADJ	JJ	_	7	amod
+7	ଗୋଲ	_	NOUN	N_NN	_	4	obj	_
+8	ସ୍କୋରର	_	NOUN	N_NN	_	4	compound
+9	।	_	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 24
+# text =ପୁଲିସ ଘଟଣାସ୍ଥଳରେ ପହଞ୍ଚି ଶବକୁ ଜବତ କରି ବ୍ୟବଚ୍ଛେଦ ପାଇଁ ପଠାଇ ଦେଇଛି।
+1	ପୁଲିସ	_	NOUN	N_NN	_	3	nmod	_
+2	ଘଟଣାସ୍ଥଳରେ	_	ADV	RB	_	1	advmod:lmod	_
+3	 ପହଞ୍ଚି	_	VERB	V_VM_VNF	_	1	nmod	_
+4	 ଶବକୁ	_	NOUN	N_NN	_	1	obj	_
+5	 ଜବତ	_	NOUN	N_NN	_	1	nmod	_
+6	କରି	_	VERB	V_VM_VNF	_	5	compound	_
+7	ବ୍ୟବଚ୍ଛେଦ	_	NOUN	N_NN	_	4	nsubj	_
+8	 ପାଇଁ	_	ADP	PSP	_	7	fixed	_
+9	 ପଠାଇ 	_	VERB	V_VM_VNF	_	0	root	_
+10	ଦେଇଛି	_	VERB	V_VAUX	_	9	compound:lvc	_
+11	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
+
+# sent_id = 25
+# text = ଘଟଣାସ୍ଥଳରେ ସ୍ଥାନୀୟ ଲୋକ ଆହତଙ୍କୁ ଉଦ୍ଧାର କରିଥିଲେ।
+1	ଘଟଣାସ୍ଥଳରେ	_	ADV	RB	_	5	advmod	_
+2	ସ୍ଥାନୀୟ	_	ADJ	JJ	_	3	amod	_
+3	ଲୋକ	_	NOUN	N_NN	_	5	iobj	_
+4	ଆହତଙ୍କୁ	_	NOUN	N_NN	_	5	nsubj	_
+5	ଉଦ୍ଧାର 	_	NOUN	N_NN	_	6	nmod	_
+6	କରିଥିଲେ	_	VERB	V_VM_VF	_	0	root	_
+7	।	_	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n
+
+# sent_id = 26
+# text = ବର୍ତ୍ତମାନ ପର‌୍ୟ୍ୟନ୍ତ ଏହି ଘଟଣାରେ କୌଣସି ଆତଙ୍କୀ ସଂଗଠନକୁ ଦାୟିତ୍ବ ଦିଆଯାଇ ନାହିଁ।
+1	ବର୍ତ୍ତମାନ	_	ADV	RB	_	2	advmod	_
+2	ପର‌୍ୟ୍ୟନ୍ତ	_	ADP	PSP	_	1	fixed	_
+3	ଏହି	_	DET	DM_DMI	_	4	det	_
+4	ଘଟଣାରେ	_	NOUN	N_NN	_	8	nmod	_
+5	କୌଣସି	_	DET	DM_DMI	_	6	det	_
+6	ଆତଙ୍କୀ 	_	ADJ	JJ	_	7	amod	_	SpacesAfter=\n
+7	ସଂଗଠନକୁ 	_	NOUN	N_NN	_	6	case
+8	ଦାୟିତ୍ବ 	_	NOUN	N_NN	_	9	nmod
+9	ଦିଆଯାଇ	_	VERB	V_VM_VNF	_	0	root
+10	ନାହିଁ	_	AUX	V_VAUX	_	9	aux
+11	।	_	PUNCT	RD_PUNC	_	9	punct
+
+# sent_id = 27
+# text = ସମସ୍ତ ପ୍ରକାର ପ୍ରସ୍ତୁତି ସରିଛି ।
+1	ସମସ୍ତ	_	DET	DM_DMI	_	2	det	_
+2	ପ୍ରକାର	_	NOUN	N_NN	_	3	nmod	_
+3	ପ୍ରସ୍ତୁତି	_	NOUN	N_NN	_	1	nsubj	_
+4	ସରିଛି 	_	VERB	V_VM_VF	_	0	root	_
+5	।	_	PUNCT	RD_PUNC	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 28
+# text = ତେବେ ଏକଥା ଆମେ କହୁନାହୁଁ ।
+1	ତେବେ	_	ADV	RB	_	2	advmod	_
+2	ଏକଥା	_	NOUN	N_NN	_	4	obj	_
+3	ଆମେ 	_	PRON	PR_PRP	_	4	nsubj	_
+4	କହୁନାହୁଁ	_	VERB	V_VM_VF	_	0	root	_
+5	।	_	PUNCT	RD_PUNC	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 29
+# text = ପ୍ରଶ୍ନ: ମୁଁ ଅନ୍ୟମାନଙ୍କ ସାଙ୍ଗରେ ମିଳାମିଶା କରିପାରିବି କି?
+1	ପ୍ରଶ୍ନ	_	NOUN	N_NN	_	2	nmod	_
+2	:	_	PUNCT	RD_PUNC	_	1	punct
+3	 ମୁଁ   	_	PRON	PR_PRP	_	7	nsubj
+4	ଅନ୍ୟମାନଙ୍କ	_	PRON	PR_PRP	_	6	nmod	_
+5	 ସାଙ୍ଗରେ	_	ADP	PSP	_	6	fixed	_
+6	ମିଳାମିଶା	_	VERB	V_VM	_	7	obj	_
+7	କରିପାରିବି 	_	VERB	V_VM_VF	_	0	root	_
+8	 କି	_	DET	DM_DMQ	_	7	det	_
+9	?	_	PUNCT	RD_PUNC	_	8	punct	_	SpacesAfter=\n
+
+# sent_id = 30
+# text = ରାହୁଲ ଭାରତରେ ଜନ୍ମିତ ଓ ପାଳିତ ବୋଲି ସଭିଏଁ ଜାଣିଥିବା ସେ ଦର୍ଶାଇଛନ୍ତି।
+1	ରାହୁଲ	_	NOUN	N_NN	_	2	nsubj	_
+2	ଭାରତରେ	_	NOUN	N_NN	_	1	nmod	_
+3	ଜନ୍ମିତ	_	ADJ	JJ	_	2	amod	_
+4	 ଓ	_	CCONJ	CC_CCD	_	2	cc	_
+5	ପାଳିତ	_	ADJ	JJ	_	2	amod	_
+6	ବୋଲି 	_	ADP	PSP	_	5	mark	_
+7	ସଭିଏଁ 	_	PRON	PR_PRC	_	8	iobj	_
+8	ଜାଣିଥିବା	_	VERB	V_VM_VNF	_	7	nmod	_
+9	ସେ	_	PRON	PR_PRP	_	10	nsubj	_
+10	ଦର୍ଶାଇଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_
+11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
+
+# sent_id = 31
+# text = ପରେ ଉଭୟ ପରସ୍ପର ଉପରକୁ ପଥର ଫୋପାଡ଼ି ଥିଲେ।
+1	ପରେ	_	ADV	RB	_	2	advmod	_
+2	ଉଭୟ	_	PRON	PR_PRC	_	3	nsubj	_
+3	ପରସ୍ପର 	_	PRON	PR_PRC	_	4	iobj	_
+4	ଉପରକୁ	_	ADV	RB	_	3	advmod	_
+5	ପଥର	_	NOUN	N_NN	_	6	obj	_
+6	ଫୋପାଡ଼ି	_	VERB	V_VM_VNF	_	0	root	_
+7	ଥିଲେ	_	AUX	V_VAUX	_	6	aux
+8	।	_	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n
+
+# sent_id = 32
+# text = ପ୍ରଧାନମନ୍ତ୍ରୀ ଆସନ୍ତାକାଲି ସକାଳେ ଗୌହାଟୀରୁ ଇଟାନଗରରେ ପହଂଚିବେ ।
+1	ପ୍ରଧାନମନ୍ତ୍ରୀ	_	NOUN	N_NN	_	7	nsubj	_	_
+2	ଆସନ୍ତାକାଲି	_	ADV	RB	_	3	advmod	_	_
+3	ସକାଳେ	_	ADV	RB	_	7	advmod	_	_
+4	ଗୌହାଟୀରୁ	_	PROPN	N_NNP	_	5	obl:lmod	_	_
+5	ଇଟାନଗରରେ	_	PROPN	N_NNP	_	7	obl:lmod	_	_
+7	ପହଂଚିବେ	_	VERB	V_VM_VF	_	0	root	_	_
+8	।	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
+
+# sent_id = 33
+# text = ଏହି ଘଟଣାରେ କୌଣସି ମୃତାହତ ସୂଚନା ମିଳିନାହିଁ ।
+1	ଏହି	_	DET	DM_DMD	_	2	det	_	_
+2	ଘଟଣାରେ	_	NOUN	N_NN	_	1	nmod	_	_
+3	କୌଣସି	_	DET	DM_DMI	_	4	det	_	_
+4	ମୃତାହତ	_	ADJ	JJ	_	5	amod	_	_
+5	ସୂଚନା	_	NOUN	N_NN	_	6	nsubj	_	_
+6	ମିଳିନାହିଁ	_	VERB	V_VM_VF	_	0	root	_	_
+7	।	_	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n
+
+# sent_id = 34
+# text = ସିକ୍କିମ୍‌ର ପ୍ରଥମ ବିମାନବନ୍ଦର ଉଦ୍‌ଘାଟନ କଲେ ମୋଦୀ ।
+1	ସିକ୍କିମ୍‌ର	_	PROPN	N_NNP	_	3	obl:lmod	_
+2	ପ୍ରଥମ	_	NUM	QT_QTO	_	1	nummod	_
+3	ବିମାନବନ୍ଦର	_	NOUN	N_NN	_	1	obj	_
+4	ଉଦ୍‌ଘାଟନ	_	NOUN	N_NN	_	5	nmod
+5	କଲେ	_	VERB	V_VM_VF	_	0	root	_
+6	ମୋଦୀ	_	PROPN	N_NNP	_	4	nsubj	_
+7	।	_	PUNCT	RD_PUNC	_	5	punct	_	SpacesAfter=\n
+
+# sent_id = 35
+# text = ଏନେଇ ନାବାଳିକାର ବାପା ତାଳଚୁଆ ଥାନାରେ ଏକ ଲିଖିତ ଅଭିଯୋଗ କରିଥିଲେ ।
+1	ଏନେଇ	_	DET	DM_DMD	_	8	det	_
+2	ନାବାଳିକାର	_	NOUN	N_NN	_	3	nmod	_
+3	ବାପା	_	NOUN	N_NN	_	2	nsubj	_
+4	ତାଳଚୁଆ	_	PROPN	N_NNP	_	5	obl:lmod	_
+5	ଥାନାରେ	_	NOUN	N_NN	_	4	compound	_
+6	ଏକ	_	NUM	QT_QTC	_	8	nummod	_
+7	ଲିଖିତ	_	ADJ	JJ	_	8	amod	_
+8	ଅଭିଯୋଗ	_	NOUN	N_NN	_	9	obj	_
+9	କରିଥିଲେ	_	VERB	V_VM_VF	_	0	root
+10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
+
+# sent_id = 36
+# text = ଏ ଅତି ଉତ୍ସାହର କାରଣ କ’ଣ ?
+1	ଏ	_	DET	DM_DMD	_	2	det	_
+2	ଅତି	_	ADV	RB	_	3	advmod	_
+3	ଉତ୍ସାହର	_	NOUN	N_NN	_	4	obj	_
+4	କାରଣ	_	NOUN	N_NN	_	3	nsubj	_
+5	କ’ଣ	_	DET	DM_DMQ	_	0	root	_
+6	?	_	PUNCT	RD_PUNC	_	5	punct	_	SpacesAfter=\n
+
+# sent_id = 37
+# text = ଆମି ଏଯାଏଁ କିନ୍ତୁ ବିବାହ କରିନାହାନ୍ତି ।
+1	ଆମି	_	PROPN	N_NNP	_	2	nsubj	_
+2	ଏଯାଏଁ	_	DET	DM_DMD	_	4	det	_
+3	କିନ୍ତୁ	_	SCONJ	CC_CCS	_	2	conj	_
+4	ବିବାହ	_	NOUN	N_NN	_	1	obj	_
+5	କରିନାହାନ୍ତି	_	VERB	V_VM_VF	_	0	root
+6	।	_	PUNCT	RD_PUNC	_	5	punct	_	SpacesAfter=\n
+
+# sent_id = 38
+# text = କର୍କଟ : ଏହି ରାଶିର ବ୍ୟକ୍ତିଙ୍କୁ ଜୀବନ ସାଥୀଙ୍କ ସହଯୋଗ ମିଳିବ ।
+1	କର୍କଟ	_	PROPN	N_NNP	_	4	nmod	_
+2	:	_	PUNCT	RD_PUNC	_	1	punct	_
+3	ଏହି	_	DET	DM_DMD	_	1	det	_
+4	ରାଶିର	_	NOUN	N_NN	_	3	nmod	_
+5	ବ୍ୟକ୍ତିଙ୍କୁ	_	NOUN	N_NN	_	4	nsubj	_
+6	ଜୀବନ	_	ADJ	JJ	_	7	amod	_
+7	ସାଥୀଙ୍କ	_	NOUN	N_NN	_	6	compound	_
+8	ସହଯୋଗ	_	NOUN	N_NN	_	9	obj	_
+9	ମିଳିବ	_	VERB	V_VM_VF	_	0	root
+10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
+
+# sent_id = 39
+# text = ଦୀପାବଳୀ ହେଉଛି ଏକ ଖୁସି ଏବଂ ଉଲ୍ଲାସର ପର୍ବ ।
+1	ଦୀପାବଳୀ	_	PROPN	N_NNP	_	2	nsubj	_
+2	ହେଉଛି	_	VERB	V_VM_VF	_	0	root
+3	ଏକ	_	NUM	QT_QTC	_	7	nummod	_
+4	ଖୁସି	_	ADJ	JJ	_	5	amod	_
+5	ଏବଂ	_	CCONJ	CC_CCD	_	4	cc	_
+6	ଉଲ୍ଲାସର	_	ADJ	JJ	_	5	amod	_
+7	ପର୍ବ	_	NOUN	N_NN	_	1	obj	_
+8	।	_	PUNCT	RD_PUNC	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 40
+# text = ଓଡ଼ିଶାଲାଇଭ୍‌ ବ୍ୟୁରୋ ବାତ୍ୟା ‘ ବୁଲ୍‌ବୁଲ୍‌ ’ ପଶ୍ଚିମବଙ୍ଗ ଓ ବାଂଲାଦେଶ ମୁହାଁ ହୋଇଛି ।
+1	ଓଡ଼ିଶାଲାଇଭ୍‌	_	NOUN	N_NN	_	3	nmod	_
+2	ବ୍ୟୁରୋ	_	X	RD_RDF	_	3	flat:foreign	_
+3	ବାତ୍ୟା	_	NOUN	N_NN	_	5	nmod	_
+4	‘	_	PUNCT	RD_PUNC	_	5	punct	_
+5	ବୁଲ୍‌ବୁଲ୍‌	_	PROPN	N_NNP	_	11	nsubj	_
+6	’	_	PUNCT	RD_PUNC	_	5	punct	_
+7	ପଶ୍ଚିମବଙ୍ଗ	_	PROPN	N_NNP	_	3	obj	_
+8	ଓ	_	CCONJ	CC_CCD	_	7	cc	_
+9	ବାଂଲାଦେଶ	_	PROPN	N_NNP	_	3	compound	_
+10	ମୁହାଁ	_	VERB	V_VM_VNF	_	11	nmod	_
+11	ହୋଇଛି	_	VERB	V_VM_VF	_	0	root
+12	।	_	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n
+
+# sent_id = 41
+# text = ଗାଜର ଶରୀର ପାଇଁ ବେଶ୍‌ ଉପକାରୀ ସାବ୍ୟସ୍ତ ହୋଇଥାଏ ।
+1	ଗାଜର	_	NOUN	N_NN	_	2	nsubj	_
+2	ଶରୀର	_	NOUN	N_NN	_	3	obj	_
+3	ପାଇଁ	_	ADP	PSP	_	1	fixed	_
+4	ବେଶ୍‌	_	ADV	RB	_	5	advmod	_
+5	ଉପକାରୀ	_	ADJ	JJ	_	1	amod	_
+6	ସାବ୍ୟସ୍ତ	_	NOUN	N_NN	_	7	nmod	_
+7	ହୋଇଥାଏ	_	VERB	V_VM_VF	_	0	root	_
+8	।	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
+
+# sent_id = 42
+# text = ଲୋକସଭା ନିର୍ବାଚନ ଲଢିବେନି ଏନସିପି ସୁପ୍ରିମୋ ଶରଦ ପାୱାର ।
+1	ଲୋକସଭା	_	NOUN	N_NN	_	2	nmod	_
+2	ନିର୍ବାଚନ	_	NOUN	N_NN	_	3	obj	_
+3	ଲଢିବେନି	_	VERB	V_VM_VNG	_	0	root	_
+4	ଏନସିପି	_	NOUN	N_NN	_	5	nmod	_
+5	ସୁପ୍ରିମୋ	_	NOUN	N_NN	_	6	compound	_
+6	ଶରଦ	_	PROPN	N_NNP	_	3	iobj	_
+7	ପାୱାର	_	PROPN	N_NNP	_	3	flat:name	_
+8	।	_	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n
+
+# sent_id = 43
+# text = କିନ୍ତୁ ଏତିକି ବେଳେ ଘଟିଗଲା ଏକ ବଡ଼ ଅଘଟଣ ।
+1	କିନ୍ତୁ	_	CCONJ	CC_CCD	_	2	cc	_
+2	ଏତିକି	_	ADV	RB	_	3	advmod	_
+3	ବେଳେ	_	ADV	RB	_	4	advmod	_
+4	ଘଟିଗଲା	_	VERB	V_VM_VF	_	0	root	_
+5	ଏକ	_	DET	QT_QTC	_	7	det	_
+6	ବଡ଼	_	ADJ	JJ	_	7	amod	_
+7	ଅଘଟଣ	_	NOUN	N_NN	_	4	nsubj	_
+8	।	_	PUNCT	RD_PUNC	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 44
+# text = ଡଲାର ତୁଳନାରେ ଟଙ୍କାର ବିନିମୟ ମୂଲ୍ୟ ସର୍ବକାଳୀନ ରେକର୍ଡ ସ୍ତରକୁ ହ୍ରାସ ହୋଇଛି।
+1	ଡଲାର	_	NOUN	N_NN	_	2	nmod	_
+2	ତୁଳନାରେ	_	ADP	PSP	_	4	compound	_
+3	ଟଙ୍କାର	_	NOUN	N_NN	_	4	nmod	_
+4	ବିନିମୟ	_	NOUN	N_NN	_	5	nsubj	_
+5	ମୂଲ୍ୟ	_	NOUN	N_NN	_	4	compound	_
+6	ସର୍ବକାଳୀନ	_	ADJ	JJ	_	7	amod	_
+7	ରେକର୍ଡ	_	NOUN	N_NN	_	6	nmod	_
+8	ସ୍ତରକୁ	_	NOUN	N_NN	_	7	compound	_
+9	ହ୍ରାସ	_	NOUN	N_NN	_	7	obj	_
+10	ହୋଇଛି	_	VERB	V_VM_VF	_	0	root	_
+11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
+
+# sent_id = 45
+# text = ଏହି ଚର୍ଚ୍ଚା ମଧ୍ୟରେ ଦୁହିଁଙ୍କ [ … ]
+1	ଏହି	_	DET	DM_DMD	_	2	det
+2	ଚର୍ଚ୍ଚା	_	NOUN	N_NN	_	0	root
+3	ମଧ୍ୟରେ	_	PRON	PR_PRC	_	2	nmod
+4	ଦୁହିଁଙ୍କ	_	NOUN	N_NN	_	2	nmod
+5	[	_	PUNCT	RD_PUNC	_	2	punct
+6	...	_	PUNCT	RD_PUNC	_	2	punct
+7	]	_	PUNCT	RD_PUNC	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 46
+# text = ତାଙ୍କର ଏହି ଗୋଟିଏ ଭୋଟରେ ସରକାରର ପତନ ଘଟିଲା।
+1	ତାଙ୍କର	_	PRON	N_NNP	_	4	iobj
+2	ଏହି	_	DET	DM_DMD	_	4	det
+3	ଗୋଟିଏ	_	PART	RP_CL	_	4	clf
+4	ଭୋଟରେ	_	NOUN	N_NN	_	5	obj
+5	ସରକାରର	_	NOUN	N_NN	_	4	nsubj
+6	ପତନ	_	NOUN	N_NN	_	7	nmod
+7	ଘଟିଲା	_	VERB	V_VM_VF	_	0	root
+8	।	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
+
+# sent_id = 47
+# text = ସେମାନଙ୍କ ମଧ୍ୟରୁ ଜଣେ ହେଉଛନ୍ତି ଅଭିନେତ୍ରୀ ଜାହ୍ନବୀ କପୁର ।
+1	ସେମାନଙ୍କ	_	PRON	PR_PRP	_	2	iobj	_	_
+2	ମଧ୍ୟରୁ	_	PRON	PR_PRC	_	4	nmod	_	_
+3	ଜଣେ	_	PART	RP_CL	_	2	clf	_	_
+4	ହେଉଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	_
+5	ଅଭିନେତ୍ରୀ	_	NOUN	N_NN	_	6	appos	_	_
+6	ଜାହ୍ନବୀ	_	PROPN	N_NNP	_	4	nsubj	_	_
+7	କପୁର	_	PROPN	N_NNP	_	4	flat:name	_	_
+8	।	_	PUNCT	RD_PUNC	_	4	punct	_	SpacesAfter=\n
+
+# sent_id = 48
+# text = ଅଳ୍ପକେ ମା ଓ ଝିଅ ବଞ୍ଚି ଯାଇଛନ୍ତି ।
+1	ଅଳ୍ପକେ	_	ADV	RB	_	5	advmod	_	_
+2	ମା	_	NOUN	N_NN	_	5	nsubj	_	_
+3	ଓ	_	CCONJ	CC_CCD	_	2	cc	_	_
+4	ଝିଅ	_	NOUN	N_NN	_	5	compound	_	_
+5	ବଞ୍ଚି	_	VERB	V_VM_VNF	_	1	nmod	_
+6	ଯାଇଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	_
+7	।	_	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n
+
+# sent_id = 49
+# text = ଏହାର ଅନେକ ବାହ୍ୟ ( ଆନ୍ତର୍ଜାତିକ ) ଓ ଆଭ୍ୟନ୍ତରୀଣ ( ଘରୋଇ ) କାରଣ ରହିଛି ।
+1	ଏହାର	_	DET	DM_DMD	_	2	det	_	_
+2	ଅନେକ	_	PRON	PR_PRC	_	3	nmod	_	_
+3	ବାହ୍ୟ	_	ADJ	JJ	_	12	amod	_	_
+4	(	_	PUNCT	RD_PUNC	_	5	punct	_	_
+5	ଆନ୍ତର୍ଜାତିକ	_	ADJ	JJ	_	12	amod	_	_
+6	)	_	PUNCT	RD_PUNC	_	5	punct	_	_
+7	ଓ	_	CCONJ	CC_CCD	_	8	cc	_	_
+8	ଆଭ୍ୟନ୍ତରୀଣ	_	ADJ	JJ	_	12	amod	_	_
+9	(	_	PUNCT	RD_PUNC	_	10	punct	_	_
+10	ଘରୋଇ	_	ADJ	JJ	_	12	amod	_	_
+11	)	_	PUNCT	RD_PUNC	_	10	punct	_	_
+12	କାରଣ	_	NOUN	N_NN	_	2	obj	_	_
+13	ରହିଛି	_	VERB	V_VM_VF	_	0	root	_	_
+14	।	_	PUNCT	RD_PUNC	_	13	punct	_	SpacesAfter=\n
+
+# sent_id = 50
+# text = ଫିଲ୍ମଟି ହେଉଛି ‘ପ୍ୟାର କିୟା ତୋ ଡରନା କ୍ୟା ’ ।
+1	ଫିଲ୍ମଟି	_	NOUN	N_NN	_	2	nsubj	_	_
+2	ହେଉଛି	_	VERB	V_VM_VF	_	0	root	_	_
+3	‘	_	PUNCT	RD_PUNC	_	2	punct	_	_
+4	ପ୍ୟାର	_	X	RD_RDF	_	2	flat:foreign	_	_
+5	କିୟା	_	X	RD_RDF	_	2	flat:foreign	_	_
+6	ତୋ	_	X	RD_RDF	_	2	flat:foreign	_	_
+7	ଡରନା	_	X	RD_RDF	_	2	flat:foreign	_	_
+8	କ୍ୟା	_	X	RD_RDF	_	2	flat:foreign	_	_
+9	’	_	PUNCT	RD_PUNC	_	8	punct	_	_
+10	।	_	PUNCT	RD_PUNC	_	2	punct	_	SpacesAfter=\n
+
+# sent_id = 51
+# text = ପରିବେଶର ସୁରକ୍ଷା ନିମନ୍ତେ ସେ ଅତ୍ୟନ୍ତ ଭାବପ୍ରବଣ ଥିଲେ ।
+1	ପରିବେଶର	_	NOUN	N_NN	_	2	nsubj	_	_
+2	ସୁରକ୍ଷା	_	NOUN	N_NN	_	1	obj	_	_
+3	ନିମନ୍ତେ	_	ADP	PSP	_	2	mark	_	_
+4	ସେ	_	PRON	N_NNP	_	5	nmod	_	_
+5	ଅତ୍ୟନ୍ତ	_	ADJ	JJ	_	6	amod	_	_
+6	ଭାବପ୍ରବଣ	_	ADJ	JJ	_	4	amod	_	_
+7	ଥିଲେ	_	VERB	V_VM_VF	_	0	root	_	_
+8	।	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
+
+
+# sent_id = 52
+# text = ପ୍ରଧାନମନ୍ତ୍ରୀ ମୋଦୀଙ୍କ ମା’ ଗୁଜୁରାଟର ଗାନ୍ଧୀନଗରରେ ନିଜର ଅନ୍ୟ ଏକ ପୁଅ ସହିତ ରୁହନ୍ତି।
+1	ପ୍ରଧାନମନ୍ତ୍ରୀ	_	NOUN	N_NN	_	2	nsubj	_	_
+2	ମୋଦୀଙ୍କ	_	PROPN	PR_PRP	_	3	nmod	_	_
+3	ମା’	_	NOUN	N_NN	_	2	compound	_	_
+4	ଗୁଜୁରାଟର	_	PROPN	N_NNP	_	5	obl:lmod	_	_
+5	ଗାନ୍ଧୀନଗରରେ	_	PROPN	N_NNP	_	4	compound	_	_
+6	ନିଜର	_	PRON	PR_PRP	_	3	nmod	_	_
+7	ଅନ୍ୟ	_	DET	DM_DMD	_	8	det	_	_
+8	ଏକ	_	NUM	QT_QTC	_	9	nummod	_	_
+9	ପୁଅ	_	NOUN	N_NN	_	11	iobj	_	_
+10	ସହିତ	_	ADP	PSP	_	9	fixed	_	_
+11	ରୁହନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No
+12	।	_	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n
+
+# sent_id = 53
+# text = ଦକ୍ଷିଣ ସୁଦାନ ମରୁଡିକୁ ନେଇ UNଙ୍କ ବଡ଼ ଚେତାବନୀ, ଅନାହାର ମୃତ୍ୟୁ ଅପେକ୍ଷାରେ ହଜାର ହଜାର ଲୋକେ
+1	ଦକ୍ଷିଣ	_	ADJ	JJ	_	2	amod	_	_
+2	ସୁଦାନ	_	PROPN	N_NNP	_	3	compound	_	_
+3	ମରୁଡିକୁ	_	NOUN	N_NN	_	4	nsubj	_	_
+4	ନେଇ	_	VERB	V_VM_VNF	_	0	root	_	_
+5	UNଙ୍କ	_	X	RD_RDF	_	4	flat:foreign	_	_
+6	ବଡ଼	_	ADJ	JJ	_	3	amod	_	_
+7	ଚେତାବନୀ	_	NOUN	N_NN	_	3	compound	_	SpaceAfter=No
+8	,	_	PUNCT	RD_PUNC	_	7	punct	_	_
+9	ଅନାହାର	_	ADJ	JJ	_	10	amod	_	_
+10	ମୃତ୍ୟୁ	_	NOUN	N_NN	_	9	obj	_	_
+11	ଅପେକ୍ଷାରେ	_	ADP	PSP	_	10	mark	_	_
+12	ହଜାର	_	NUM	QT_QTC	_	14	nummod	_	_
+13	ହଜାର	_	NUM	QT_QTC	_	14	nummod	_	_
+14	ଲୋକେ	_	NOUN	N_NN	_	12	iobj	_	SpacesAfter=\n
+
+# sent_id = 54
+# text = 60 କିଗ୍ରା ବର୍ଗରେ ଅନ୍ୟତମ ବିଶ୍ବ ଚାମ୍ପିୟନ୍‌ ଏଲ୍‌ ସରିତା ଦେବୀଙ୍କୁ ସିମ୍‌ରନ୍‌ ଜିତ୍‌ କୌର୍‌ ପରାସ୍ତ କରିଛନ୍ତି ।
+1	60	_	NUM	QT_QTC	_	2	nummod	_	_
+2	କିଗ୍ରା	_	NOUN	N_NN	_	1	compound	_	_
+3	ବର୍ଗରେ	_	NOUN	N_NN	_	1	iobj	_	_
+4	ଅନ୍ୟତମ	_	ADJ	JJ	_	5	amod	_	_
+5	ବିଶ୍ବ	_	NOUN	N_NN	_	6	nmod	_	_
+6	ଚାମ୍ପିୟନ୍‌	_	NOUN	N_NN	_	8	compound	_	_
+7	ଏଲ୍‌	_	PROPN	N_NNP	_	13	nmod	_	_
+8	ସରିତା	_	PROPN	N_NNP	_	13	flat	_	_
+9	ଦେବୀଙ୍କୁ	_	PROPN	N_NNP	_	13	flat	_	_
+10	ସିମ୍‌ରନ୍‌	_	PROPN	N_NNP	_	13	nmod	_	_
+11	ଜିତ୍‌	_	PROPN	N_NNP	_	13	flat	_	_
+12	କୌର୍‌	_	PROPN	N_NNP	_	13	flat	_	_
+13	ପରାସ୍ତ	_	NOUN	N_NN	_	8	nsubj	_	_
+14	କରିଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	_
+15	।	_	PUNCT	RD_PUNC	_	14	punct	_	SpacesAfter=\n
+
+# sent_id = 55
+# text = ଏହାକୁ ଦୃଷ୍ଟିରେ ରଖି ନିର୍ବାଚନ କମିଶନ ମହାରାଷ୍ଟ୍ର ବିଧାନ ପରିଷଦ ନିର୍ବାଚନ ଅନୁଷ୍ଠିତ କରିବାକୁ ତାରିଖ ଘୋଷଣା କରନ୍ତୁ।
+1	ଏହାକୁ	_	DET	DM_DMD	_	2	det	_	_
+2	ଦୃଷ୍ଟିରେ	_	NOUN	N_NN	_	3	nmod	_	_
+3	ରଖି	_	VERB	V_VM_VNF	_	4	compound	_	_
+4	ନିର୍ବାଚନ	_	NOUN	N_NN	_	5	nmod	_	_
+5	କମିଶନ	_	NOUN	N_NN	_	13	compound	_	_
+6	ମହାରାଷ୍ଟ୍ର	_	PROPN	N_NNP	_	9	obl:lmod	_	_
+7	ବିଧାନ	_	NOUN	N_NN	_	9	nmod	_	_
+8	ପରିଷଦ	_	NOUN	N_NN	_	9	compound	_	_
+9	ନିର୍ବାଚନ	_	NOUN	N_NN	_	10	obj	_	_
+10	ଅନୁଷ୍ଠିତ	_	ADJ	JJ	_	11	amod	_	_
+11	କରିବାକୁ	_	VERB	V_VM_VINF	_	4	nmod	_	_
+12	ତାରିଖ	_	NOUN	N_NN	_	9	nmod	_	_
+13	ଘୋଷଣା	_	NOUN	N_NN	_	12	nsubj	_	_
+14	କରନ୍ତୁ	_	VERB	V_VM_VF	_	0	root	_	SpacesAfter=\n
+15	।	_	PUNCT	RD_PUNC	_	14	punct
+
+# sent_id = 56
+# text = ଅଳେଇଚ: ଏକ ଚାମଚ ଅଳେଇଚ ଗୁଣ୍ଡ ଗୋଟେ ଗ୍ଲାସ୍ ଗରମ ପାଣିରେ ଭଲ ଭାବେ ମିଶାଇ ଦିଅନ୍ତୁ।
+1	ଅଳେଇଚ	_	PROPN	N_NNP	_	2	nmod	_	_
+2	:	_	PUNCT	RD_PUNC	_	1	punct
+3	ଏକ	_	NUM	QT_QTC	_	4	nummod	_	_
+4	ଚାମଚ	_	NOUN	N_NN	_	5	nmod	_	_
+5	ଅଳେଇଚ	_	PROPN	N_NNP	_	6	nmod	_	_
+6	ଗୁଣ୍ଡ	_	NOUN	N_NN	_	4	compund	_	_
+7	ଗୋଟେ	_	PART	RP_CL	_	8	clf	_	_
+8	ଗ୍ଲାସ୍	_	NOUN	N_NN	_	9	nmod	_	_
+9	ଗରମ	_	ADJ	JJ	_	10	amod	_	_
+10	ପାଣିରେ	_	NOUN	N_NN	_	12	obj	_	_
+11	ଭଲଭାବେ	_	ADV	RB	_	12	advmod	_	_
+12	ମିଶାଇ	_	VERB	V_VM_VNF	_	12	nsubj	_	_
+13	ଦିଅନ୍ତୁ	_	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No
+14	।	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
+
+# sent_id = 57
+# text = ଲୋକସଭା ନିର୍ବାଚନ ପୂର୍ବରୁ ପ୍ରଧାନମନ୍ତ୍ରୀ ମୋଦିଙ୍କ ପ୍ରୟାଗରାଜ ଗସ୍ତକୁ ମହତ୍ତ୍ୱପୂର୍ଣ୍ଣ ବୋଲି କୁହାଯାଉଛି ।
+1	ଲୋକସଭା	_	NOUN	N_NN	_	2	nmod	_	_
+2	ନିର୍ବାଚନ	_	NOUN	N_NN	_	3	nmod	_	_
+3	ପୂର୍ବରୁ	_	ADV	RB	_	2	advmod	_	_
+4	ପ୍ରଧାନମନ୍ତ୍ରୀ	_	NOUN	N_NN	_	5	nmod	_	_
+5	ମୋଦିଙ୍କ	_	PROPN	N_NNP	_	6	compound	_	_
+6	ପ୍ରୟାଗରାଜ	_	PROPN	N_NNP	_	7	nmod	_	_
+7	ଗସ୍ତକୁ	_	VERB	V_VM_VINF	_	6	nsubj	_	_
+8	ମହତ୍ତ୍ୱପୂର୍ଣ୍ଣ	_	ADJ	JJ	_	7	amod	_	_
+9	ବୋଲି	_	SCONJ	CC_CCS	_	8	conj	_	_
+10	କୁହାଯାଉଛି	_	VERB	V_VM_VF	_	0	root	_	_
+11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
+
+# sent_id = 58
+# text = ତେବେ ବାରମ୍ବାର ଦାବି ସତ୍ତ୍ୱେ ମଧ୍ୟ ପ୍ରଶାସନ ପକ୍ଷରୁ କୌଣସି ପଦକ୍ଷେପ ଗ୍ରହଣ କରାଯାଇନାହିଁ।
+1	ତେବେ	_	CCONJ	CC_CCD	_	2	cc	_	_
+2	ବାରମ୍ବାର	_	ADV	RB	_	1	advmod	_	_
+3	ଦାବି	_	NOUN	N_NN	_	2	nmod	_	_
+4	ସତ୍ତ୍ୱେ	_	ADV	RB	_	3	advmod	_	_
+5	ମଧ୍ୟ	_	PART	RP_RPD	_	4	fixed	_	_
+6	ପ୍ରଶାସନ	_	NOUN	N_NN	_	9	nmod	_	_
+7	ପକ୍ଷରୁ	_	ADV	RB	_	6	advmod	_	_
+8	କୌଣସି	_	ADV	RB	_	9	advmod	_	_
+9	ପଦକ୍ଷେପ	_	NOUN	N_NN	_	10	nsubj	_	_
+10	ଗ୍ରହଣ	_	NOUN	N_NN	_	9	nmod	_	_
+11	କରାଯାଇନାହିଁ	_	VERB	V_VM_VF	_	0	root	_	SpacesAfter=\n
+12	।	_	PUNCT	RD_PUNC	_	11	punct
+
+# sent_id = 59
+# text = ଏବେ ଭୁବନେଶ୍ୱରରୁ ନୂଆଦିଲ୍ଲୀ, କୋଲକାତା, ମୁମ୍ବାଇ, ବେଙ୍ଗାଲୁରୁ, ହାଇଦ୍ରାବାଦ୍‌, ପୋର୍ଟବ୍ଲେୟାର, ଭାଇଜାଗ୍‌, ବାରଣାସୀକୁ ବିମାନ ସଂଯୋଗ ରହିଛି।
+1	ଏବେ	_	ADV	RB	_	2	advmod	_	_
+2	ଭୁବନେଶ୍ୱରରୁ	_	PROPN	N_NNP	_	3	obl:lmod	_	_
+3	ନୂଆଦିଲ୍ଲୀ	_	PROPN	N_NNP	_	2	compound	_	SpaceAfter=No
+4	,	_	PUNCT	RD_PUNC	_	3	punct	_	_
+5	କୋଲକାତା	_	PROPN	N_NNP	_	2	compound	_	SpaceAfter=No
+6	,	_	PUNCT	RD_PUNC	_	5	punct	_	_
+7	ମୁମ୍ବାଇ	_	PROPN	N_NNP	_	2	compound	_	SpaceAfter=No
+8	,	_	PUNCT	RD_PUNC	_	7	punct	_	_
+9	ବେଙ୍ଗାଲୁରୁ	_	PROPN	N_NNP	_	2	compound	_	SpaceAfter=No
+10	,	_	PUNCT	RD_PUNC	_	9	punct	_	_
+11	ହାଇଦ୍ରାବାଦ୍‌	_	PROPN	N_NNP	_	2	compound	_	SpaceAfter=No
+12	,	_	PUNCT	RD_PUNC	_	11	punct	_	_
+13	ପୋର୍ଟବ୍ଲେୟାର	_	PROPN	N_NNP	_	2	compound	_	SpaceAfter=No
+14	,	_	PUNCT	RD_PUNC	_	13	punct	_	_
+15	ଭାଇଜାଗ୍‌	_	PROPN	N_NNP	_	2	compound	_	SpaceAfter=No
+16	,	_	PUNCT	RD_PUNC	_	15	punct	_	_
+17	ବାରଣାସୀକୁ	_	PROPN	N_NNP	_	2	compound	_	_
+18	ବିମାନ	_	NOUN	N_NN	_	19	nmod	_	_
+19	ସଂଯୋଗ	_	NOUN	N_NN	_	18	nsubj	_	_
+20	ରହିଛି	_	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No
+21	।	_	PUNCT	RD_PUNC	_	20	punct	_	SpacesAfter=\n
+
+# sent_id = 60
+# text = ଏହି ରୋଗର ମୁଖ୍ୟ କାରଣ ଭୁଲ ଜୀବନଶୈଳୀ ଏବଂ ଖାଇବାରେ ଅବହେଳା ହେତୁ ହୋଇଥାଏ ।
+1	ଏହି	_	DET	DM_DMD	_	2	det	_	_
+2	ରୋଗର	_	NOUN	N_NN	_	3	nsubj	_	_
+3	ମୁଖ୍ୟ	_	ADJ	JJ	_	4	amod	_	_
+4	କାରଣ	_	NOUN	N_NN	_	3	nmod	obj	2
+5	ଭୁଲ	_	ADJ	JJ	_	6	amod	_	_
+6	ଜୀବନଶୈଳୀ	_	NOUN	N_NN	_	5	nmod	_	_
+7	ଏବଂ	_	CCONJ	CC_CCD	_	6	cc	_	_
+8	ଖାଇବାରେ	_	VERB	V_VM_VNF	_	9	nmod	_	_
+9	ଅବହେଳା	_	NOUN	N_NN	_	8	nmod	compound	_
+10	ହେତୁ	_	ADV	RB	_	9	advmod	_	_
+11	ହୋଇଥାଏ	_	VERB	V_VM_VF	_	0	root	_	_
+12	।	_	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n
+
+# sent_id = 61
+# text = କୃଷି, ସ୍ୱାସ୍ଥ୍ୟ , ଶିକ୍ଷା, ଗମନାଗମନ, ନିଯୁକ୍ତି,ମହିଳା ସୁରକ୍ଷା, ଆଦିବାସୀ କଲ୍ୟାଣ ଆଦି ଅନେକ କ୍ଷେତ୍ରକୁ ଗୁରୁତ୍ୱ ଦିଆଯିବ।
+1	କୃଷି	_	NOUN	N_NN	_	18	nmod	_	SpaceAfter=No
+2	,	_	PUNCT	RD_PUNC	_	1	punct	_	_
+3	ସ୍ୱାସ୍ଥ୍ୟ	_	NOUN	N_NN	_	18	compound	_	_
+4	,	_	PUNCT	RD_PUNC	_	3	punct	_	_
+5	ଶିକ୍ଷା	_	NOUN	N_NN	_	18	compound	_	SpaceAfter=No
+6	,	_	PUNCT	RD_PUNC	_	5	punct	_	_
+7	ଗମନାଗମନ	_	NOUN	N_NN	_	18	compound	_	SpaceAfter=No
+8	,	_	PUNCT	RD_PUNC	_	7	punct	_	_
+9	ନିଯୁକ୍ତି	_	NOUN	N_NN	_	18	compound
+10	,	_	PUNCT	RD_PUNC	_	9	punct
+11	ମହିଳା	_	NOUN	N_NN	_	12	nmod	_	_
+12	ସୁରକ୍ଷା	_	NOUN	N_NN	_	18	compound	_	SpaceAfter=No
+13	,	_	PUNCT	RD_PUNC	_	12	punct	_	_
+14	ଆଦିବାସୀ	_	NOUN	N_NN	_	15	nmod	_	_
+15	କଲ୍ୟାଣ	_	NOUN	N_NN	_	18	compound	_	_
+16	ଆଦି	_	PART	RP_RPD	_	15	fixed	_	_
+17	ଅନେକ	_	DET 	DM_DMI	_	18	det	_	_
+18	କ୍ଷେତ୍ରକୁ	_	NOUN	N_NN	_	20	obj	_	_
+19	ଗୁରୁତ୍ୱ	_	NOUN	N_NN	_	20	nmod	_	_
+20	ଦିଆଯିବ	_	VERB	V_VM_VF	_	0	root	_	SpacesAfter=\n
+21	।	_	PUNCT	RD_PUNC	_	20	punct
+
+# sent_id = 62
+# text = ଏ ନେଇ ସମସ୍ତ ରାଜ୍ୟର ମୁଖ୍ୟମନ୍ତ୍ରୀଙ୍କ ସହିତ ଆଲୋଚନା କରିବେ ବୋଲି ଗଡକରୀ କହିଛନ୍ତି ।
+1	ଏ	_	DET	DM_DMD	_	2	det	_	_
+2	ନେଇ	_	VERB	V_VM_VNF	_	3	nmod	_	_
+3	ସମସ୍ତ	_	ADJ	JJ	_	4	amod	_	_
+4	ରାଜ୍ୟର	_	NOUN	N_NN	_	3	nmod	_	_
+5	ମୁଖ୍ୟମନ୍ତ୍ରୀଙ୍କ	_	NOUN	N_NN	_	6	compound	_	_
+6	ସହିତ	_	ADP	PSP	_	5	mark	_	_
+7	ଆଲୋଚନା	_	NOUN	N_NN	_	8	obj	_	_
+8	କରିବେ	_	VERB	V_VM_VF	_	7	nmod	_	_
+9	ବୋଲି	_	SCONJ	CC_CCS	_	8	conj	_	_
+10	ଗଡକରୀ	_	PRON	PR_PRP	_	8	nsubj	_	_
+11	କହିଛନ୍ତି	_	VERB	V_VM	_	0	root	_	_
+12	।	_	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n
+
+# sent_id = 63
+# text = ଭୁବନେଶ୍ୱର: ଦିନକୁ ଦିନ ବ୍ୟାପୁଥିବା ମହାମାରୀ କରୋନାକୁ ରୋକିବା ପାଇଁ ରାଜ୍ୟ ସରକାର ଅଂଟା ଭିଡିଛନ୍ତି ।
+1	ଭୁବନେଶ୍ୱର	_	PROPN	N_NNP	_	12	obl:lmod
+2	:	_	PUNCT	RD_PUNC	_	1	punct
+3	ଦିନକୁ 	_	NOUN	N_NN	_	1	nmod	_	_
+4	ଦିନ	_	NOUN	N_NN	_	1	compound	_	_
+5	ବ୍ୟାପୁଥିବା	_	VERB	V_VM_VNF	_	3	nmod	_
+6	ମହାମାରୀ	_	ADJ	JJ	_	7	amod	_	_
+7	କରୋନାକୁ	_	PROPN	N_NNP	_	5	obj	_	_
+8	ରୋକିବା	_	VERB	V_VM_VNG	_	8	nmod	_	_
+9	ପାଇଁ	_	ADP	PSP	_	7	mark	_	_
+10	ରାଜ୍ୟ	_	NOUN	N_NN	_	10	nmod	_	_
+11	ସରକାର	_	NOUN	N_NN	_	9	nsubj	_	_
+12	ଅଂଟା	_	NOUN	N_NN	_	10	nmod	_	_
+13	ଭିଡିଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	_
+14	।	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
+
+# sent_id = 64
+# text = ଖବର ପାଇ ପୁଲିସ ଘଟଣାସ୍ଥଳରେ ପହଞ୍ଚି ମୃତଦେହ ଜବତ କରି ଘଟଣାର ତଦନ୍ତ ଚଳାଇଛି।
+1	ଖବର	_	NOUN	N_NN	_	2	nmod	_	_
+2	ପାଇ	_	VERB	V_VM_VNF	_	1	nmod	_	_
+3	ପୁଲିସ	_	NOUN	N_NN	_	2	nsubj	_	_
+4	ଘଟଣାସ୍ଥଳରେ	_	NOUN	N_NST	_	3	obl:lmod	_	_
+5	ପହଞ୍ଚି	_	VERB	V_VM_VNF	_	3	compound	_	_
+6	ମୃତଦେହ	_	NOUN	N_NN	_	8	nmod	_	_
+7	ଜବତ	_	NOUN	N_NN	_	6	nmod	_	_
+8	କରି	_	VERB	V_VM_VINF	_	7	goeswith	_	_
+9	ଘଟଣାର	_	NOUN	N_NN	_	10	nmod	_	_
+10	ତଦନ୍ତ	_	NOUN	N_NN	_	9	obj	_	_
+11	ଚଳାଇଛି	_	VERB	V_VM_VF	_	0	root	_	SpacesAfter=\n
+12	।	_	PUNCT	RD_PUNC	_	11	punct
+
+# sent_id = 65
+# text = ଯୁବତୀଙ୍କୁ ଅର୍ଦ୍ଧଦଗ୍ଧ ଅବସ୍ଥାରେ ପଡୋଶୀମାନେ ଉଦ୍ଧାର କରି ହସ୍ପିଟାଲରେ ଭର୍ତ୍ତି କରିଥିଲେ ।
+1	ଯୁବତୀଙ୍କୁ	_	NOUN	N_NN	_	9	iobj	_	7
+2	ଅର୍ଦ୍ଧଦଗ୍ଧ	_	ADJ	JJ	_	3	amod	_	_
+3	ଅବସ୍ଥାରେ	_	NOUN	N_NN	_	2	nmod	_	_
+4	ପଡୋଶୀମାନେ	_	NOUN	N_NN	_	9	nsubj	_	_
+5	ଉଦ୍ଧାର	_	NOUN	N_NN	_	4	nmod	_	_
+6	କରି	_	VERB	V_VM_VNF	_	5	nmod	_	_
+7	ହସ୍ପିଟାଲରେ	_	NOUN	N_NST	_	6	obl:lmod	_	_
+8	ଭର୍ତ୍ତି	_	NOUN	N_NNV	_	7	nmod	_	_
+9	କରିଥିଲେ	_	VERB	V_VM_VF	_	0	root	_	_
+10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
+
+# sent_id = 66
+# text = ଜଣେ ପୋଲିସ ଅଧିକାରୀଙ୍କ ସୂଚନା ଅନୁସାରେ ଘଟଣାର କୌଣସି ମାମଲା ରୁଜୁ କରାଯାଇନାହିଁ ।
+1	ଜଣେ	_	DET	DM_DMI	_	2	det	_	_
+2	ପୋଲିସ	_	NOUN	N_NN	_	4	nmod	_	_
+3	ଅଧିକାରୀଙ୍କ	_	NOUN	N_NN	_	5	compound	_	_
+4	ସୂଚନା	_	NOUN	N_NN	_	5	nmod	_	_
+5	ଅନୁସାରେ	_	ADP	PSP	_	4	mark	_	_
+6	ଘଟଣାର	_	NOUN	N_NN	_	5	nmod	_	_
+7	କୌଣସି	_	PRON	PR_PRI	_	6	nmod	_	_
+8	ମାମଲା	_	NOUN	N_NN	_	10	nsubj	_	_
+9	ରୁଜୁ	_	NOUN	N_NN	_	8	nmod	_	_
+10	କରାଯାଇନାହିଁ	_	VERB	V_VM_VF	_	0	root	_	_
+11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
+
+# sent_id = 67
+# text = ହରିୟାଣା ମୁଖ୍ୟମନ୍ତ୍ରୀ ମନୋହର ଲାଲ ଖଟ୍ଟର ମଧ୍ୟ ଗଣତନ୍ତ୍ରର ମହାପର୍ବରେ ନିଜକୁ ସାମିଲ କରିଛନ୍ତି ।
+1	ହରିୟାଣା	_	PROPN	N_NNP	_	2	nmod	_	_
+2	ମୁଖ୍ୟମନ୍ତ୍ରୀ	_	NOUN	N_NN	_	1	nsubj	_	_
+3	ମନୋହର	_	PROPN	N_NNP	_	4	appos	_	_
+4	ଲାଲ	_	PROPN	N_NNP	_	5	flat:name	_	_
+5	ଖଟ୍ଟର	_	PROPN	N_NNP	_	3	flat:name	_	_
+6	ମଧ୍ୟ	_	PART	RP_RPD	_	5	fixed	_	_
+7	ଗଣତନ୍ତ୍ରର	_	NOUN	N_NN	_	8	nmod	_	_
+8	ମହାପର୍ବରେ	_	NOUN	N_NN	_	7	compound	_	_
+9	ନିଜକୁ	_	PRON	PR_PRF	_	3	iobj	_	_
+10	ସାମିଲ	_	NOUN	N_NN	_	9	nmod	_	_
+11	କରିଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	_
+12	।	_	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n
+
+# sent_id = 68
+# text = କଂଗ୍ରେସ ରାଜ୍ୟପାଳଙ୍କୁ ଭେଟି ରାଜ୍ୟରେ ରାଷ୍ଟ୍ରପତି ଶାସନ ଜାରି କରିବା ନେଇ ସୁପାରିଶ କରିବାକୁ ଦାବି କରିଛି।
+1	କଂଗ୍ରେସ	_	NOUN	N_NN	_	13	nsubj	_	_
+2	ରାଜ୍ୟପାଳଙ୍କୁ	_	NOUN	N_NN	_	1	iobj	_	_
+3	ଭେଟି	_	VERB	V_VM_VNF	_	1	compound 	_	_
+4	ରାଜ୍ୟରେ	_	NOUN	N_NST	_	6	obl:lmod	_	_
+5	ରାଷ୍ଟ୍ରପତି	_	NOUN	N_NN	_	6	nmod	_	_
+6	ଶାସନ	_	NOUN	N_NN	_	5	compound	_	_
+7	ଜାରି	_	NOUN	N_NN	_	6	nmod	_	_
+8	କରିବା	_	NOUN	N_NNV	_	9	obl	_	_
+9	ନେଇ	_	VERB	V_VM_VNF	_	8	fixed	_	_
+10	ସୁପାରିଶ	_	NOUN	N_NN	_	11	nmod	_	_
+11	କରିବାକୁ	_	VERB	V_VM_VINF	_	10	nmod	_	_
+12	ଦାବି	_	NOUN	N_NN	_	13	compound	_	_
+13	କରିଛି	_	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No
+14	।	_	PUNCT	RD_PUNC	_	13	punct	_	SpacesAfter=\n
+
+# sent_id = 69
+# text = ଟ୍ବିଟ୍ ଜରିଆରେ ପ୍ରଧାନମନ୍ତ୍ରୀଙ୍କ କାର୍ଯ୍ୟାଳୟ ପକ୍ଷରୁ ଏ ନେଇ ସୂଚନା ଦିଆଯାଇଛି ।
+1	ଟ୍ବିଟ୍	_	NOUN	N_NN	_	2	nmod	_	_
+2	ଜରିଆରେ	_	ADP	PSP	_	1	mark	_	_
+3	ପ୍ରଧାନମନ୍ତ୍ରୀଙ୍କ	_	PROPN	N_NNP	_	4	nmod	_	_
+4	କାର୍ଯ୍ୟାଳୟ	_	NOUN	N_NN	_	3	compound	_	_
+5	ପକ୍ଷରୁ	_	ADP	PSP	_	4	mark	_	_
+6	ଏ	_	DET	DM_DMD	_	7	det	_	_
+7	ନେଇ	_	PART	RP_RPD	_	6	fixed	_	_
+8	ସୂଚନା	_	NOUN	N_NN	_	1	obj	_	_
+9	ଦିଆଯାଇଛି	_	VERB	V_VM_VF	_	0	root	_	_
+10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
+
+# sent_id = 70
+# text = ଏହି କାର୍ଯ୍ୟକ୍ରମରେ ରାଷ୍ଟ୍ରପତିଙ୍କ ସମେତ ରାଜ୍ୟପାଳ ପ୍ରଫେସର୍‌ ଗଣେଶୀ ଲାଲ, ମୁଖ୍ୟମନ୍ତ୍ରୀ ନବୀନ ପଟ୍ଟନାୟକ ଉପସ୍ଥିତ ରହିବେ।
+1	ଏହି	_	DET	DM_DMI	_	2	det	_	_
+2	କାର୍ଯ୍ୟକ୍ରମରେ	_	NOUN	N_NN	_	14	nmod	_	_
+3	ରାଷ୍ଟ୍ରପତିଙ୍କ	_	PROPN	N_NNP	_	4	nsubj	_	_
+4	ସମେତ	_	ADP	PSP	_	14	mark	_	_
+5	ରାଜ୍ୟପାଳ	_	NOUN	N_NN	_	6	nmod	_	_
+6	ପ୍ରଫେସର୍‌	_	PROPN	N_NNP	_	7	nmod	_	_
+7	ଗଣେଶୀ	_	PROPN	N_NNP	_	8	iobj	_	_
+8	ଲାଲ	_	PROPN	N_NNP	_	14	flat	_	SpaceAfter=No
+9	,	_	PUNCT	RD_PUNC	_	8	punct	_	_
+10	ମୁଖ୍ୟମନ୍ତ୍ରୀ	_	NOUN	N_NN	_	11	nmod	_	_
+11	ନବୀନ	_	PROPN	N_NNP	_	12	iobj	_	_
+12	ପଟ୍ଟନାୟକ	_	PROPN	N_NNP	_	14	flat	_	_
+13	ଉପସ୍ଥିତ	_	ADJ	JJ	_	14	amod	_	_
+14	ରହିବେ	_	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No
+15	।	_	PUNCT	RD_PUNC	_	14	punct	_	SpacesAfter=\n
+
+# sent_id = 71
+# text = ଆମେ ବନ୍ଦରଗୁଡ଼ିକର ବିକାଶ କରିବାକୁ ଚାହୁଁଛୁ କିନ୍ତୁ ଆମେ ବନ୍ଦର ଆଧାରିତ ବିକାଶ ମଧ୍ୟ କରିବାକୁ ଚାହୁଁଛୁ ।
+1	ଆମେ	_	PRON	PR_PRP	_	5	nsubj	_	କିନ୍ତୁ ଆମେ ବନ୍ଦର ଆଧାରିତ ବିକାଶ କରିବାକୁ ଚାହୁଁଛୁ  has no meaning  here 
+2	ବନ୍ଦରଗୁଡ଼ିକର	_	NOUN	N_NN	_	3	nmod	_	_
+3	ବିକାଶ	_	NOUN	N_NN	_	2	obj	_	_
+4	କରିବାକୁ	_	VERB	V_VM_VINF	_	3	nmod	_	_
+5	ଚାହୁଁଛୁ	_	VERB	V_VM_VF	_	4	compound	_	_
+6	କିନ୍ତୁ	_	CCONJ	CC_CCD	_	5	cc	_	_
+7	ଆମେ	_	PRON	PR_PRP	_	6	nsubj	_	_
+8	ବନ୍ଦର	_	NOUN	N_NN	_	9	nmod	_	_
+9	ଆଧାରିତ	_	ADJ	JJ	_	8	amod	_	_
+10	ବିକାଶ	_	NOUN	N_NN	_	11	obj	_	_
+11	ମଧ୍ୟ	_	PART	RP_RPD	_	10	fixed	_	_
+12	କରିବାକୁ	_	VERB	V_VM_VINF	_	10	nmod	_	_
+13	ଚାହୁଁଛୁ	_	VERB	V_VM_VF	_	0	root	_	_
+14	।	_	PUNCT	RD_PUNC	_	13	punct	_	SpacesAfter=\n
+
+# sent_id = 72
+# text = ସାରଜା କ୍ରିକେଟ୍ ଷ୍ଟାଡିୟମରେ ପ୍ରଥମ ମ୍ୟାଚ୍‌ରେ ମୁହାଁମୁହିଁ ହେଉଛନ୍ତି ମୁମ୍ବାଇ ଇଣ୍ଡିଆନ୍ସ ଓ ସନରାଇଜର୍ସ ହାଇଦ୍ରାବାଦ।
+1	ସାରଜା	_	PROPN	N_NNP	_	2	nsubj	_	_
+2	କ୍ରିକେଟ୍	_	PROPN	N_NNP	_	3	compound	_	_
+3	ଷ୍ଟାଡିୟମରେ	_	PROPN	N_NNP	_	7	compound	_	_
+4	ପ୍ରଥମ	_	NUM	QT_QTO	_	5	nummod	_	_
+5	ମ୍ୟାଚ୍‌ରେ	_	NOUN	N_NN	_	7	nmod	_	_
+6	ମୁହାଁମୁହିଁ	_	NOUN	N_NN	_	7	obj	_	_
+7	ହେଉଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	_
+8	ମୁମ୍ବାଇ	_	PROPN	N_NNP	_	9	iobj	_	_
+9	ଇଣ୍ଡିଆନ୍ସ	_	NOUN	N_NN	_	7	flat	_	_
+10	ଓ	_	CONJ	CC_CCD	_	9	conj	_	_
+11	ସନରାଇଜର୍ସ	_	PROPN	N_NNP	_	12	compound	_	_
+12	ହାଇଦ୍ରାବାଦ	_	PROPN	N_NNP	_	7	flat	_	SpacesAfter=\n
+13	।	_	PUNCT	RD_PUNC	_	7	punct
+
+# sent_id = 73
+# text = ଏଥିଲାଗି ସେ ପୁଣିଥରେ ଆଉ ଏକ ସର୍ଜରୀ କରିବା ପାଇଁ ନିଷ୍ପତ୍ତି ନେଇଛନ୍ତି।
+1	ଏଥିଲାଗି	_	ADV	RB	_	10	advmod	_	_
+2	ସେ	_	PRON	PR_PRP	_	9	nsubj	_	_
+3	ପୁଣିଥରେ	_	ADV	RB	_	6	advmod	_	_
+4	ଆଉ	_	DET	DM_DMD	_	5	det	_	_
+5	ଏକ	_	NUM	QT_QTC	_	9	nummod	_	_
+6	ସର୍ଜରୀ	_	NOUN	N_NN	_	8	obj	_	_
+7	କରିବା	_	VERB	V_VM_VNF	_	6	nmod	_	_
+8	ପାଇଁ	_	ADP	PSP	_	6	fixed	_	_
+9	ନିଷ୍ପତ୍ତି	_	NOUN	N_NN	_	6	nmod	_	_
+10	ନେଇଛନ୍ତି	_	VERB	V_VM_VF	_	9	root	_	SpacesAfter=\n
+11	।	_	PUNC	RD_PUNC	_	10	punc
+# sent_id = 74
+# text = ଏତେ ପରିମାଣର ଟଙ୍କା କେଉଁଠୁ ଆସୁଥିଲା ଏବଂ କୁଆଡ଼େ ଯାଉଥିଲା ସେ ସମ୍ପର୍କରେ ପୋଲିସ୍‌ ତଦନ୍ତ କରୁଛି ।
+1	ଏତେ	_	NUM	QT_QTF	_	3	nummod	_	_
+2	ପରିମାଣର	_	NOUN	N_NN	_	1	nmod	_	_
+3	ଟଙ୍କା	_	NOUN	N_NN	_	2	compound	_	_
+4	କେଉଁଠୁ	_	DET	DM_DMR	_	3	det	_	_
+5	ଆସୁଥିଲା	_	VERB	V_VM_VF	_	4	nmod	_	_
+6	ଏବଂ	_	CCONJ	CC_CCD	_	5	cc	_	_
+7	କୁଆଡ଼େ	_	ADV	RB	_	8	advmod	_	_
+8	ଯାଉଥିଲା	_	VERB	V_VM_VF	_	7	nmod	_	_
+9	ସେ	_	PRON	PR_PRP	_	3	nsubj	_	_
+10	ସମ୍ପର୍କରେ	_	ADP	 PSP	_	3	nmod	_	_
+11	ପୋଲିସ୍‌	_	NOUN	N_NN	_	10	nmod	_	_
+12	ତଦନ୍ତ	_	NOUN	N_NN	_	11	obj	_	_
+13	କରୁଛି	_	VERB	V_VM_VF	_	12	root	_	_
+14	।	_	PUNCT	RD_PUNC	_	13	punc	_	SpacesAfter=\n
+
+# sent_id = 75
+# text = ଠିକ ଏହିଭଳି ପରିସ୍ଥିତି ଯଦି ବର୍ତ୍ତମାନ ସମୟରେ ଆସେ ତେବେ ଗୃହମନ୍ତ୍ରୀ ଅମିତ ଶାହା କ’ଣ କରିବେ?
+1	ଠିକ	_	NOUN	N_NN	_	2	nmod	_	_
+2	ଏହିଭଳି	_	ADV	RB	_	1	advmod	_	_
+3	ପରିସ୍ଥିତି	_	NOUN	N_NN	_	2	nsubj	_	_
+4	ଯଦି	_	SCONJ	CC_CCS	_	3	conj	_	_
+5	ବର୍ତ୍ତମାନ	_	NOUN	N_NST	_	6	nmod	_	_
+6	ସମୟରେ	_	NOUN	N_NN	_	5	compound	_	_
+7	ଆସେ	_	VERB	V_VM_VF	_	2	nmod	_	_
+8	ତେବେ	_	SCONJ	CC_CCS	_	7	conj	_	_
+9	ଗୃହମନ୍ତ୍ରୀ	_	NOUN	N_NN	_	12	iobj	_	_
+10	ଅମିତ	_	PROPN	N_NNP	_	9	nmod	_	_
+11	ଶାହା	_	PROPN	N_NNP	_	9	flat:name	_	_
+12	କ’ଣ	_	DET	DM_DMQ	_	13	det	_	_
+13	କରିବେ	_	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No
+14	?	_	PUNCT	RD_PUNC	_	13	punc	_	SpacesAfter=\n
+
+# sent_id = 76
+# text = ତେବେ ଆଗକୁ ଏହା କେଉଁ ରୂପ ନେଉଛି ତାହା ଦେଖିବା ବାକି ରହିଲା ।
+1	ତେବେ	_	SCONJ	CC_CCS	_	2	conj	_	_
+2	ଆଗକୁ	_	NOUN	N_NST	_	4	obl:tmod	_	_
+3	ଏହା	_	DET	DM_DMD	_	2	det	_	_
+4	କେଉଁ	_	DET	DM_DMQ	_	5	det	_	_
+5	ରୂପ	_	NOUN	N_NN	_	4	obj	_	_
+6	ନେଉଛି	_	VERB	V_VM_VNF	_	5	nmod	_	_
+7	ତାହା	_	DET	DM_DMD	_	5	det	_	_
+8	ଦେଖିବା	_	VERB	V_VM_VNF 	_	7	nmod	_	_
+9	ବାକି	_	NOUN	N_NN	_	10	nmod	_	_
+10	ରହିଲା	_	VERB	V_VM_VF	_	0	root	_	_
+11	।	_	PUNCT	RD_PUNC	_	10	punc	_	SpacesAfter=\n
+
+# sent_id = 77
+# text = ୨୦୦ରୁ ଅଧିକ ଫିଲ୍ମରେ ଅଭିନୟ କରିଥିବା ଅମ୍ବରିଶ ରିବେଲ୍‌ ଷ୍ଟାର ଭାବେ ପରିଚିତ।
+1	୨୦୦ରୁ	_	NUM	QT_QTC	_	2	nummod	_	_
+2	ଅଧିକ	_	DET	DM_DMD	_	1	det	_	_
+3	ଫିଲ୍ମରେ	_	NOUN	N_NN	_	2	nsubj	_	_
+4	ଅଭିନୟ	_	NOUN	N_NN	_	3	nmod	_	_
+5	କରିଥିବା	_	VERB	V_VM_VNG	_	3	nmod	_	_
+6	ଅମ୍ବରିଶ	_	NOUN	N_NN	_	8	nmod	_	_
+7	ରିବେଲ୍‌	_	NOUN	N_NN	_	6	flat:name	_	_
+8	ଷ୍ଟାର	_	NOUN	N_NN	_	7	appos	_	_
+9	ଭାବେ	_	ADV	RB	_	8	advmod	_	_
+10	ପରିଚିତ	_	VERB	V_VM_VF	_	0	root	the root verb is missing in this sentence.	SpacesAfter=\n
+11	|	_	PUNC	RD_PUNC	_	10	punc
+# sent_id = 78
+# text = ପଞ୍ଜାବ ଏବଂ ହରିୟାଣାର ଚାଷୀମାନେ ଲଗାତାର ଭାବେ ବିରୋଧ ପ୍ରଦର୍ଶନ ଜାରି ରଖିଛନ୍ତି ।
+1	ପଞ୍ଜାବ	_	PROPN	N_NNP	_	4	obl:lmod	_	_
+2	ଏବଂ	_	CCONJ	CC_CCD	_	1	cc	_	_
+3	ହରିୟାଣାର	_	PROPN	N_NNP	_	4	compound	_	_	 
+4	ଚାଷୀମାନେ	_	NOUN	N_NN	_	7	nsubj	_	_
+5	ଲଗାତାର	_	ADV	RB	_	7	advmod	_	_
+6	ଭାବେ	_	ADV	RB	_	5	advmod	_	_
+7	ବିରୋଧ	_	NOUN	N_NN	_	4	nmod	_	_
+8	ପ୍ରଦର୍ଶନ	_	NOUN	N_NN	_	7	obj	_	_
+9	ଜାରି	_	VERB	V_VM_VNF	_	8	nmod	_	_
+10	ରଖିଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	_
+11	।	_	PUNCT	RD_PUNC	_	10	punc	_	SpacesAfter=\n
+
+# sent_id = 79
+# text = ସରକାର ଓ ରିଜର୍ଭ ବ୍ୟାଙ୍କ ମଧ୍ୟରେ ଗତ କିଛିଦିନ ହେଲା ବିଭିନ୍ନ ବିଷୟକୁ ନେଇ ମତଭେଦ ରହିଆସିଥିଲା।
+1	ସରକାର	_	NOUN	N_NN	_	5	nmod	_	_
+2	ଓ	_	CCONJ	CC_CCD	_	1	cc	_	_
+3	ରିଜର୍ଭ	_	NOUN	N_NN	_	5	compound	_	_
+4	ବ୍ୟାଙ୍କ	_	NOUN	N_NN	_	3	flat	_	_
+5	ମଧ୍ୟରେ	_	ADP	PSP	_	4	fixed	_	_
+6	ଗତ	_	NOUN	N_NN	_	7	nmod	_	_
+7	କିଛିଦିନ	_	NOUN	N_NN	_	6	nmod:tmod	_	_
+8	ହେଲା	_	VERB	V_VM_VF	_	7	compound	_	_
+9	ବିଭିନ୍ନ	_	PART	RP_CL	_	10	clf	_	_
+10	ବିଷୟକୁ	_	NOUN	N_NN	_	9	obj	_	_
+11	ନେଇ	_	VERB	V_VM_VNF	_	10	fixed	_	_
+12	ମତଭେଦ	_	NOUN	N_NN	_	10	nsubj	_	_
+13	ରହିଆସିଥିଲା	_	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No
+14	।	_	PUNCT	RD_PUNC	_	13	punct	_	SpacesAfter=\n
+
+# sent_id = 80
+# text = ବ୍ୟାଙ୍କ ବୋର୍ଡ ପାଖରୁ ହିଁ ଏ ସଂକ୍ରାନ୍ତ ପ୍ରସ୍ତାବ ଆସିବା ଜରୁରୀ ।
+1	ବ୍ୟାଙ୍କ	_	NOUN	N_NN	_	3	nmod	_	_
+2	ବୋର୍ଡ	_	NOUN	N_NN	_	1	compound	_	_
+3	ପାଖରୁ	_	ADP	PSP	_	2	mark	_	_
+4	ହିଁ	_	PART	RP_RPD	_	3	fixed	fixed	_
+5	ଏ	_	DET	DM_DMD	_	1	det	_	_
+6	ସଂକ୍ରାନ୍ତ	_	NOUN	N_NN	_	5	compound	_	_
+7	ପ୍ରସ୍ତାବ	_	NOUN	N_NN	_	6	obj	_	_
+8	ଆସିବା	_	VERB	V_VM_VNG	_	9	nmod	_	_
+9	ଜରୁରୀ	_	VERB	V_VM_VF	_	0	root	_	_
+10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
+
+# sent_id = 81
+# text = ସମଗ୍ର ଜେରୁଜେଲମ୍‌ ଉପରେ ଇସ୍ରାଏଲ୍‌ର ସାର୍ବଭୌମତ୍ୱକୁ ଆନ୍ତର୍ଜାତିକ ସମୁଦାୟ ଅନୁମୋଦ ଦେଉ ନାହାନ୍ତି।
+1	ସମଗ୍ର	_	NOUN	N_NN	_	2	nmod	_	_
+2	ଜେରୁଜେଲମ୍‌	_	NOUN	N_NN	_	1	nsubj	_	_
+3	ଉପରେ	_	ADP	PSP	_	4	fixed	_	_
+4	ଇସ୍ରାଏଲ୍‌ର	_	NOUN	N_NN	_	5	nmod	_	_
+5	ସାର୍ବଭୌମତ୍ୱକୁ	_	ADJ	JJ	_	4	amod	_	_
+6	ଆନ୍ତର୍ଜାତିକ	_	ADJ	JJ	_	7	amod	_	_
+7	ସମୁଦାୟ	_	NOUN	N_NN	_	6	nmod	_	_
+8	ଅନୁମୋଦ	_	NOUN	N_NN	_	5	iobj	_	_
+9	ଦେଉ	_	VERB	V_VM_VNF	_	0	root	_	_
+10	ନାହାନ୍ତି	_	AUX	V_VAUX	_	9	compound	_	SpaceAfter=No
+11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
+
+
+# sent_id = 82
+# text = ତାଙ୍କ ମୃତ୍ୟୁ ଖବର ଜଣାପଡିବା ପରେ ପ୍ରଧାନମନ୍ତ୍ରୀ ନରେନ୍ଦ୍ର ମୋଦି ଟ୍ୱିଟ କରି ଶୋକବ୍ୟକ୍ତ କରିଛନ୍ତି ।
+1	ତାଙ୍କ	_	DET	DM_DMR	_	3	det	_	_
+2	ମୃତ୍ୟୁ	_	NOUN	N_NN	_	1	nsubj	_	_
+3	ଖବର	_	NOUN	N_NN	_	2	nmod	_	_
+4	ଜଣାପଡିବା	_	VERB	V_VM_VNF	_	2	nmod	_	_
+5	ପରେ	_	ADP	PSP	_	4	mark	_	_
+6	ପ୍ରଧାନମନ୍ତ୍ରୀ	_	NOUN	N_NST	_	11	nmod	_	_
+7	ନରେନ୍ଦ୍ର	_	PROPN	N_NNP	_	6	appos	_	_
+8	ମୋଦି	_	PROPN	N_NNP	_	7	flat	_	_
+9	ଟ୍ୱିଟ	_	NOUN 	N_NN	_	6	nmod	_	_
+10	କରି	_	VERB	V_VM_VNF	_	9	nmod	_	_
+11	ଶୋକବ୍ୟକ୍ତ	_	NOUN	N_NN	_	6	obj	_	_
+12	କରିଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	_
+13	।	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
+
+# sent_id = 83
+# text = ଆବଶ୍ୟକ ସାମଗ୍ରୀ: ଚିଙ୍ଗୁଡ଼ି, ପିଆଜ, ଅଦା, ଟମାଟୋ, ଲଙ୍କା, ରସୁଣ, ଗରମ ମସଲା ଗୁଣ୍ଡ, ତେଲ, ଲୁଣ, ହଳଦୀ, ତେଲ।
+1	ଆବଶ୍ୟକ	_	ADJ	JJ	_	2	amod	_	_
+2	ସାମଗ୍ରୀ	_	NOUN	N_NN	_	27	nsubj	_	SpaceAfter=No
+3	:	_	PUNCT	RD_PUNC	_	2	punct	_	_
+4	ଚିଙ୍ଗୁଡ଼ି	_	NOUN	N_NN	_	6	nmod	_	SpaceAfter=No
+5	,	_	PUNCT	RD_PUNC	_	4	punct	_	_
+6	ପିଆଜ	_	NOUN	N_NN	_	8	nmod	_	SpaceAfter=No
+7	,	_	PUNCT	RD_PUNC	_	6	punct	_	_
+8	ଅଦା	_	NOUN	N_NN	_	10	nmod	_	SpaceAfter=No
+9	,	_	PUNCT	RD_PUNC	_	8	punct	_	_
+10	ଟମାଟୋ	_	NOUN	N_NN	_	12	nmod	_	SpaceAfter=No
+11	,	_	PUNCT	RD_PUNC	_	10	punct	_	_
+12	ଲଙ୍କା	_	NOUN	N_NN	_	14	nmod	_	SpaceAfter=No
+13	,	_	PUNCT	RD_PUNC	_	12	punct	_	_
+14	ରସୁଣ	_	NOUN	N_NN	_	16	nmod	_	SpaceAfter=No
+15	,	_	PUNCT	RD_PUNC	_	14	punct	_	_
+16	ଗରମ	_	ADJ 	JJ 	_	20	amod	_	_
+17	ମସଲା	_	NOUN	N_NN	_	20	nmod	_	_
+18	ଗୁଣ୍ଡ	_	NOUN	N_NN	_	20	compound	_	SpaceAfter=No
+19	,	_	PUNCT	RD_PUNC	_	18	punct	_	_
+20	ତେଲ	_	NOUN	N_NN	_	22	nmod	_	SpaceAfter=No
+21	,	_	PUNCT	RD_PUNC	_	20	punct	_	_
+22	ଲୁଣ	_	NOUN	N_NN	_	24	nmod	_	SpaceAfter=No
+23	,	_	PUNCT	RD_PUNC	_	22	punct	_	_
+24	ହଳଦୀ	_	NOUN	N_NN	_	26	nmod	_	SpaceAfter=No
+25	,	_	PUNCT	RD_PUNC	_	24	punct	_	_
+26	ତେଲ	_	NOUN	N_NN	_	0	nmod	_	SpacesAfter=\n
+27	|	_	PUNCT	RD_PUNC	_	26	punct
+
+# sent_id = 84
+# text = ଚେନ୍ନାଇରେ ଟ୍ରାନ୍ସଜେଣ୍ଡରମାନଙ୍କ ଘର ନିର୍ମାଣ ପାଇଁ ଅକ୍ଷୟ କୁମାର ୧.୫ କୋଟି ଟଙ୍କା ପ୍ରଦାନ କରିଛନ୍ତି।
+1	ଚେନ୍ନାଇରେ	_	NOUN	N_NN	_	11	nmod	_	_
+2	ଟ୍ରାନ୍ସଜେଣ୍ଡରମାନଙ୍କ	_	X	RD_RDF	_	5	flat:foreign	_	_
+3	ଘର	_	NOUN	N_NN	_	5	nmod	_	_
+4	ନିର୍ମାଣ	_	NOUN	N_NN	_	5	compound	_	_
+5	ପାଇଁ	_	ADP	PSP	_	10	fixed	_	_
+6	ଅକ୍ଷୟ	_	PROPN	 N_NNP	_	10	nsubj	_	_
+7	କୁମାର	_	PROPN	N_NNP	_	10	flat	_	_
+8	୧.୫	_	NUM	QT_QTC	_	10	nummod	_	_
+9	କୋଟି	_	NUM	QT_QTC	_	10	nummod	_	_
+10	ଟଙ୍କା	_	NOUN	N_NN	_	11	nmod 	_	_
+11	ପ୍ରଦାନ	_	NOUN	N_NN	_	12	obj	_	_
+12	କରିଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No
+13	।	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
+
+# sent_id = 85
+# text = ଆମଦାନୀ କରିବା ପାଇଁ ହସ୍ତକୃତ ଭାବରେ କୌଣସି F-ସ୍ପଟ ତଥ୍ୟାଧାର ଫାଇଲକୁ ବାଛନ୍ତୁ: ଘଟଣାରେ ଆଉ କେଉଁମାନେ ସାମିଲ ଅଛନ୍ତି ତା ଉପରେ ମଧ୍ୟ ତଦନ୍ତ ଜାରି ରହିଛି ।
+1	ଆମଦାନୀ	_	NOUN	N_NN	_	3	nsubj	_	_
+2	କରିବା	_	VERB	V_VM_VNG	_	3	compound	_	_
+3	ପାଇଁ	_	ADP	PSP	_	10	fixed	_	_
+4	ହସ୍ତକୃତ	_	NOUN	N_NN	_	9	compound	_	_
+5	ଭାବରେ	_	ADV	RB	_	9	advmod	_	_
+6	କୌଣସି	_	DET	DM_DMI	_	9	det	_	_
+7	F-ସ୍ପଟ	_	X	RD_RDF	_	9	flat:foreign	_	_
+8	ତଥ୍ୟାଧାର	_	NOUN	N_NN	_	9	nmod	_	_
+9	ଫାଇଲକୁ	_	NOUN	N_NN	_	10	nmod	_	_
+10	ବାଛନ୍ତୁ	_	VERB	V_VM_VF	_	22	obj	_	SpacesAfter=\n
+11	:	_	PUNCT	RD_PUNC	_	10	punct
+12	ଘଟଣାରେ	_	NOUN	N_NN	_	15	iobj	_	_
+13	ଆଉ	_	CCONJ	CC_CCD	_	14	cc	_	_
+14	କେଉଁମାନେ	_	ADV	RB	_	15	advmod	_	_
+15	ସାମିଲ	_	NOUN	N_NN	_	16	nmod	_	_
+16	ଅଛନ୍ତି	_	VERB	V_VM_VF	_	22	nmod	_	_
+17	ତା	_	PRON	PR_PRP	_	21	iobj	_	_
+18	ଉପରେ	_	ADP	 PSP	_	20	mark	_	_
+19	ମଧ୍ୟ	_	PART	RP_RPD	_	20	fixed	_	_
+20	ତଦନ୍ତ	_	NOUN	N_NN	_	21	nmod	_	_
+21	ଜାରି	_	VERB	V_VM_VNF	_	22	nmod	_	_
+22	ରହିଛି	_	VERB	V_VM_VF	_	0	root	_	_
+23	।	_	PUNCT	RD_PUNC	_	22	punct	_	SpacesAfter=\n
+
+# sent_id = 86
+# text = ଏହି ଅବସରରେ କେନ୍ଦ୍ର ପରିବେଶ, ଜଙ୍ଗଲ ଏବଂ ଜଳବାୟୁ ପରିବର୍ତ୍ତନ ରାଷ୍ଟ୍ରମନ୍ତ୍ରୀ ଶ୍ରୀ ବାବୁଲ ସୁପ୍ରିୟୋ ମଧ୍ୟ ଉପସ୍ଥିତ ଥିଲେ।
+1	ଏହି	_	DET	DM_DMD	_	2	det	_	_
+2	ଅବସରରେ	_	NOUN	N_NN	_	1	nmod	_	_
+3	କେନ୍ଦ୍ର	_	NOUN	N_NN	_	4	compound	_	_
+4	ପରିବେଶ	_	NOUN	N_NN	_	3	nmod	_	SpaceAfter=No
+5	,	_	PUNCT	RD_PUNC	_	4	punct	_	_
+6	ଜଙ୍ଗଲ	_	NOUN	N_NN	_	3	nmod	_	_
+7	ଏବଂ	_	CCONJ	CC_CCD	_	6	cc	_	_
+8	ଜଳବାୟୁ	_	NOUN	N_NN	_	3	nmod	_	_
+9	ପରିବର୍ତ୍ତନ	_	NOUN	N_NN	_	8	compound	_	_
+10	ରାଷ୍ଟ୍ରମନ୍ତ୍ରୀ	_	PROPN	N_NNP	_	3	nmod	_	_
+11	ଶ୍ରୀ	_	PROPN	N_NNP	_	10	flat	_	_
+12	ବାବୁଲ	_	PROPN	N_NNP	_	13	nsubj	_	_
+13	ସୁପ୍ରିୟୋ	_	PROPN	N_NNP	_	12	flat	_	_
+14	ମଧ୍ୟ	_	PART	RP_RPD	_	10	fixed	_	_
+15	ଉପସ୍ଥିତ	_	ADJ	JJ	_	10	amod	_	_
+16	ଥିଲେ	_	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No
+17	।	_	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n
+
+# sent_id = 87
+# text = ଆସନ୍ତା ନିର୍ବାଚନ ବିଜେପି ଓ ଶିବସେନା ମହାରାଷ୍ଟ୍ରରେ ଏକାଠି ଲଢ଼ିବାକୁ ନିଷ୍ପତ୍ତି ନେଇଛନ୍ତି।
+1	ଆସନ୍ତା	_	NOUN	N_NN	_	2	nmod	_	_
+2	ନିର୍ବାଚନ	_	NOUN	N_NN	_	1	nsubj	_	_
+3	ବିଜେପି	_	NOUN	N_NN	_	9	nmod	_	_
+4	ଓ	_	CCONJ	CC_CCD	_	3	conj	_	_
+5	ଶିବସେନା	_	NOUN	N_NN	_	9	nmod	_	_
+6	ମହାରାଷ୍ଟ୍ରରେ	_	PROPN	N_NNP	_	8	iobj	_	_
+7	ଏକାଠି	_	ADV	RB	_	6	advmod	_	_
+8	ଲଢ଼ିବାକୁ	_	VERB	V_VM_VNF	_	7	obj	_	_
+9	ନିଷ୍ପତ୍ତି	_	NOUN	N_NN	_	8	nmod	_	_
+10	ନେଇଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No
+11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
+
+# sent_id = 88
+# text = ପୁଲିସ ଓ ସାଇଣ୍ଟିଫିକ୍ ଟିମ୍ ସନ୍ଧାନୀ କୁକୁର ସହାୟତାରେ ଘଟଣା ସ୍ଥଳରେ ପହଞ୍ଚô ଅନୁସନ୍ଧାନ କରିଥିଲେ ।
+1	ପୁଲିସ	_	NOUN	N_NN	_	11	iobj	_	_
+2	ଓ	_	CCONJ	CC_CCD	_	1	cc	_	_
+3	ସାଇଣ୍ଟିଫିକ୍	_	X	RD_RDF	_	11	flat:foreign	_	_
+4	ଟିମ୍	_	X	RD_RDF	_	11	flat:foreign	_	_
+5	ସନ୍ଧାନୀ	_	ADJ	JJ	_	7	amod	_	_
+6	କୁକୁର	_	NOUN	N_NN	_	7	nmod	_	_
+7	ସହାୟତାରେ	_	NOUN	N_NN	_	6	nmod	_	_
+8	ଘଟଣା	_	NOUN	N_NN	_	10	iobj	_	_
+9	ସ୍ଥଳରେ	_	NOUN	N_NN	_	10	obl:lmod	_	_
+10	ପହଞ୍ଚô	_	VERB	V_VM_VNF	_	11	compound	_	_
+11	ଅନୁସନ୍ଧାନ	_	NOUN	N_NN	_	12	nsubj	_	_
+12	କରିଥିଲେ	_	VERB	V_VM_VF	_	0	root	_	_
+13	।	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
+
+# sent_id = 89
+# text = ଅନେକ ଆହତଙ୍କ ଅବସ୍ଥା ସଙ୍କଟାପନ୍ନ ଥିବାରୁ ମୃତ୍ୟୁ ସଂଖ୍ୟା ବଢ଼ିବା ଆଶଙ୍କା କରାଯାଉଛି ।
+1	ଅନେକ	_	DET	DM_DMI	_	3	det	_	_
+2	ଆହତଙ୍କ	_	NOUN	N_NN	_	3	nsubj	_	_
+3	ଅବସ୍ଥା	_	NOUN	N_NN	_	2	iobj	_	_
+4	ସଙ୍କଟାପନ୍ନ	_	NOUN	N_NN	_	2	nmod	_	_
+5	ଥିବାରୁ	_	VERB	V_VM_VNF	_	4	compound	_	_
+6	ମୃତ୍ୟୁ	_	NOUN	N_NN	_	8	nmod	_	_
+7	ସଂଖ୍ୟା	_	NOUN	N_NN	_	8	compound	_	_
+8	ବଢ଼ିବା	_	VERB 	V_VM_VNG	_	7	nmod	_	_
+9	ଆଶଙ୍କା	_	NOUN	N_NN	_	8	nmod	_	_
+10	କରାଯାଉଛି	_	VERB	V_VM_VF	_	0	root	_	_
+11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
+
+# sent_id = 90
+# text = ଶାନ୍ତି ବଜାୟ ରଖିବାକୁ ପ୍ରଶାସନ ପକ୍ଷରୁ ଶାନ୍ତି କମିଟି ଗଠନ କରାଯାଇଛି ।
+1	ଶାନ୍ତି	_	NOUN 	N_NN 	_	2	obj	_	_
+2	ବଜାୟ	_	NOUN	N_NN	_	3	nmod	_	_
+3	ରଖିବାକୁ	_	VERB	V_VM_VNF	_	2	compound	_	_
+4	ପ୍ରଶାସନ	_	NOUN	N_NN	_	5	nsubj	_	_
+5	ପକ୍ଷରୁ	_	NOUN 	N_NN	_	4	flat	_	_
+6	ଶାନ୍ତି	_	NOUN	N_NN	_	7	nmod	_	_
+7	କମିଟି	_	NOUN	N_NN	_	8	flat	_	_
+8	ଗଠନ	_	NOUN	N_NN	_	9	nmod	_	_
+9	କରାଯାଇଛି	_	VERB	V_VM_VF	_	0	root	_	_
+10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
+
+# sent_id = 91
+# text = ଏଥିପାଇଁ ସେମାନେ ଗୁଗୁଲ ମିଟ୍, ଜୁମ୍, ସ୍କାଏପି କିମ୍ବା ଅନ୍ୟ ଡିଜିଟାଲ ପ୍ଲାଟଫର୍ମ ବ୍ୟବହାର କରିପାରିବେ।
+1	ଏଥିପାଇଁ	_	DET	DM_DMD	_	2	det	_	_
+2	ସେମାନେ	_	PRON	PR_PRP	_	13	nsubj	_	_
+3	ଗୁଗୁଲ	_	NOUN	N_NN	_	4	iobj	_	_
+4	ମିଟ୍	_	NOUN	N_NN	_	13	flat	_	SpaceAfter=No
+5	,	_	PUNCT	RD_PUNC	_	4	punct	_	_
+6	ଜୁମ୍	_	NOUN	N_NN	_	13	iobj	_	SpaceAfter=No
+7	,	_	PUNCT	RD_PUNC	_	6	punct	_	_
+8	ସ୍କାଏପି	_	NOUN	N_NN	_	13	iobj	_	_
+9	କିମ୍ବା	_	CCONJ	CC_CCD 	_	8	conj 	_	_
+10	ଅନ୍ୟ	_	DET	DM_DMI	_	11	det	_	_
+11	ଡିଜିଟାଲ	_	ADJ 	JJ 	_	12	amod	_	_
+12	ପ୍ଲାଟଫର୍ମ	_	NOUN	N_NN	_	13	iobj	_	_
+13	ବ୍ୟବହାର	_	NOUN	N_NN	_	14	 nmod	_	_
+14	କରିପାରିବେ	_	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No
+15	।	_	PUNCT	RD_PUNC	_	14	punct	_	SpacesAfter=\n
+
+# sent_id = 92
+# text = ଏକ ଟିମ୍‌ ଗଠନ କରାଯାଇ ବିଭିନ୍ନ ସ୍ଥାନରେ ଚଢ଼ାଉ କରି ଲୁଟେରାଙ୍କୁ ଗିରଫ କରାଯାଇଛି ।
+1	ଏକ	_	NUM	QT_QTC	_	2	nummod	_	_
+2	ଟିମ୍‌	_	NOUN	N_NN	_	3	nmod	_	_
+3	ଗଠନ	_	NOUN	N_NN	_	4	nmod	_	_
+4	କରାଯାଇ	_	VERB	V_VM_VNF	_	11	nmod	_	_
+5	ବିଭିନ୍ନ	_	CCONJ	CC_CCD	_	6	cc	_	_
+6	ସ୍ଥାନରେ	_	NOUN	N_NN	_	7	nmod	_	_
+7	ଚଢ଼ାଉ	_	NOUN	 N_NN	_	8	iobj	_	_
+8	କରି	_	VERB	V_VM_VNF	_	7	nmod	_	_
+9	ଲୁଟେରାଙ୍କୁ	_	NOUN	N_NN	_	10	nsubj	_	_
+10	ଗିରଫ	_	NOUN	N_NN	_	11	nmod	_	_
+11	କରାଯାଇଛି	_	VERB	V_VM_VF	_	0	root	_	_
+12	।	_	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n
+
+# sent_id = 93
+# text = ଓଡିଶା ହାଇକୋର୍ଟର ମୁଖ୍ୟ ବିଚାରପତି ମହମ୍ମଦ ରଫିକ୍ଙ୍କୁ ମଧ୍ୟପ୍ରଦେଶ ହାଇକୋର୍ଟକୁ ବଦଳି କରାଯିବ।
+1	ଓଡିଶା	_	PROPN	N_NNP	_	2	nmod	_	_
+2	ହାଇକୋର୍ଟର	_	NOUN	N_NN	_	4	iobj	_	_
+3	ମୁଖ୍ୟ	_	ADJ	JJ	_	4	amod	_	_
+4	ବିଚାରପତି	_	NOUN	N_NN	_	9	nmod	_	_
+5	ମହମ୍ମଦ	_	PROPN	N_NNP	_	9	nsubj	_	_
+6	ରଫିକ୍ଙ୍କୁ	_	PROPN	N_NNP	_	9	flat	_	_
+7	ମଧ୍ୟପ୍ରଦେଶ	_	PROPN	N_NNP	_	8	iobj	_	_
+8	ହାଇକୋର୍ଟକୁ	_	PROPN	N_NNP	_	9	nmod	_	_
+9	ବଦଳି	_	NOUN	N_NN	_	10	obj	_	_
+10	କରାଯିବ	_	VERB	V_VM_VF	_	0	root	_	SpacesAfter=\n
+11	|	_	PUNC	RD_PUNC	_	10	punct
+# sent_id = 94 
+# text = କାର୍ଯ୍ୟକ୍ରମରେ ମୁଖ୍ୟ ଅତିଥି ଭାବେ ଯୋଗ ଦେଇଛନ୍ତି ବାୟୁସେନା ମୁଖ୍ୟ ବି. ଏସ ଧନୋଆ ।
+1	କାର୍ଯ୍ୟକ୍ରମରେ	_	NOUN	N_NN	_	3	nmod	_	_
+2	ମୁଖ୍ୟ	_	ADJ	JJ	_	3	amod	_	_
+3	ଅତିଥି	_	NOUN	N_NN	_	4	nmod	_	_
+4	ଭାବେ	_	ADV	RB	_	3	advmod	_	_
+5	ଯୋଗ	_	NOUN	N_NN	_	6	obj	_	_
+6	ଦେଇଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	_
+7	ବାୟୁସେନା	_	NOUN	N_NN	_	8	nmod	_	_
+8	ମୁଖ୍ୟ	_	NOUN	N_NN	_	7	compound	_	_
+9	ବି.	_	PROPN	N_NNP	_	5	nsubj	_	_
+10	ଏସ	_	PROPN	N_NNP	_	5	flat:name	_	_
+11	ଧନୋଆ	_	PROPN	 N_NNP	_	5	flat:name	_	_
+12	।	_	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n
+
+# sent_id = 95
+# text = ସୂତ୍ର ଅନୁଯାୟୀ ଯୁବରାଜ ସିଂହଙ୍କ ମା’ ଶବନମ ବି ଏହି ୱେବ ସିରିଜ ସହ ଜଡିତ ଅଛନ୍ତି ।
+1	ସୂତ୍ର	_	NOUN	N_NN	_	2	nmod	_	_
+2	ଅନୁଯାୟୀ	_	NOUN	N_NN	_	1	compound	_	_
+3	ଯୁବରାଜ	_	PROPN	N_NNP	_	6	iobj	_	_
+4	ସିଂହଙ୍କ	_	PROPN	N_NNP	_	6	flat	_	_
+5	ମା’	_	NOUN	N_NN	_	6	nmod	_	_
+6	ଶବନମ	_	PROPN	N_NNP	_	12	iobj	_	_
+7	ବି	_	PART	RP_RPD	_	6	fixed	_	_
+8	ଏହି	_	DET	DM_DMD	_	10	det	_	_
+9	ୱେବ	_	NOUN	N_NN	_	11	nsubj	_	_
+10	ସିରିଜ	_	NOUN	N_NN	_	11	compound	_	_
+11	ସହ	_	ADP	PSP	_	12	fixed	_	_
+12	ଜଡିତ	_	ADJ	JJ	_	13	amod	_	_
+13	ଅଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	_
+14	।	_	PUNCT	RD_PUNC	_	13	punct	_	SpacesAfter=\n
+
+# sent_id = 96
+# text = ରିପୋର୍ଟ ଆସିବା ପରେ କାର୍ଯ୍ୟାନୁଷ୍ଠାନ ନିଆଯିବ ବୋଲି ପୋଲିସ ପକ୍ଷରୁ ସୂଚନା ଦିଆଯାଇଛି ।
+1	ରିପୋର୍ଟ	_	NOUN	N_NN	_	2	nsubj	_	_
+2	ଆସିବା	_	VERB	V_VM_VNG	_	3	compound	_	_
+3	ପରେ	_	ADP	PSP	_	1	fixed	_	_
+4	କାର୍ଯ୍ୟାନୁଷ୍ଠାନ	_	NOUN	N_NN	_	5	obj	_	_
+5	ନିଆଯିବ	_	VERB	V_VM_VF	_	4	nmod	_	_
+6	ବୋଲି	_	ADP	PSP	_	5	fixed	_	_
+7	ପୋଲିସ	_	NOUN	N_NN	_	9	iobj	_	_
+8	ପକ୍ଷରୁ	_	NOUN	N_NN	_	7	compound	_	_
+9	ସୂଚନା	_	NOUN	N_NN	_	10	nmod	_	_
+10	ଦିଆଯାଇଛି	_	VERB	V_VM_VF	_	0	root	_	_
+11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
+
+# sent_id = 97
+# text = ଖୁବ୍ ଶୀଘ୍ର ଦୋଷୀଙ୍କୁ ଧରାଯିବ ବୋଲି ଏସ୍ପି ବି ଯୁଗଳ କିଶୋର କହିଛନ୍ତି ।
+1	ଖୁବ୍	_	ADJ	JJ	_	2	amod	_	_
+2	ଶୀଘ୍ର	_	ADV	RB	_	4	nmod	_	_
+3	ଦୋଷୀଙ୍କୁ	_	NOUN	N_NN	_	4	iobj	_	_
+4	ଧରାଯିବ	_	VERB	 V_VM_VF	_	5	nmod	_	_
+5	ବୋଲି	_	ADP	PSP	_	4	mark	_	_
+6	ଏସ୍ପି	_	PROPN	N_NNP	_	10	nsubj	_	_
+7	ବି	_	PROPN	N_NNP	_	10	appos	_	_
+8	ଯୁଗଳ	_	PROPN	N_NNP	_	10	flat:name	_	_
+9	କିଶୋର	_	PROPN	N_NNP	_	10	flat:name	_	_
+10	କହିଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	_
+11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
+
+# sent_id = 98
+# text = ପାଣିପାଗ ବିଭାଗର ରିପୋର୍ଟ ଅନୁଯାୟୀ ଠା​‌ଣେ ଓ ନଭି ମୁମ୍ବାଇରେ ପ୍ରବଳ ବର୍ଷା ଦେଖିବାକୁ ମିଳିଛି ।
+1	ପାଣିପାଗ	_	NOUN	N_NN	_	2	nmod	_	_
+2	ବିଭାଗର	_	NOUN	N_NN	_	3	compound	_	_
+3	ରିପୋର୍ଟ	_	NOUN	N_NN	_	4	nmod	_	_
+4	ଅନୁଯାୟୀ	_	NOUN	N_NN	_	3	nmod	_	_
+5	ଠା​‌ଣେ	_	PROPN	 N_NNP	_	10	obl:lmod	_	_
+6	ଓ	_	CCONJ	CC_CCD	_	5	cc	_	_
+7	ନଭି	_	PROPN	 N_NNP	_	8	obl:lmod	_	_
+8	ମୁମ୍ବାଇରେ	_	PROPN	 N_NNP	_	10	compound	_	_
+9	ପ୍ରବଳ	_	ADJ	JJ	_	10	amod	_	_
+10	ବର୍ଷା	_	NOUN	N_NN	_	9	nsubj	_	_
+11	ଦେଖିବାକୁ	_	VERB 	V_VM_VINF 	_	12	compound	_	_
+12	ମିଳିଛି	_	VERB	V_VM_VF	_	0	root	_	_
+13	।	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
+
+# sent_id = 99
+# text = ପୋଲିସ କହିବାନୁଯାୟୀ କାର ଡ୍ରାଇଭରଙ୍କୁ ଗିରଫ କରାଯାଇଛି ଏବଂ ସେ ନିଶାସକ୍ତ ଅବସ୍ଥାରେ ଥିବା ଜଣାପଡିଛି।
+1	ପୋଲିସ	_	NOUN	N_NN	_	2	nsubj	_	_
+2	କହିବାନୁଯାୟୀ	_	NOUN	N_NN	_	5	nmod	_	_
+3	କାର	_	NOUN 	N_NN 	_	5	nmod	_	_
+4	ଡ୍ରାଇଭରଙ୍କୁ	_	NOUN	N_NN	_	5	compound	_	_
+5	ଗିରଫ	_	NOUN	N_NN	_	6	nmod	_	_
+6	କରାଯାଇଛି	_	VERB	V_VM_VF	_	0	root	_	_
+7	ଏବଂ	_	CCONJ	CC_CCD	_	6	cc	_	_
+8	ସେ	_	PRON	PR_PRP	_	12	iobj	_	_
+9	ନିଶାସକ୍ତ	_	ADJ	JJ	_	10	amod	_	_
+10	ଅବସ୍ଥାରେ	_	NOUN	N_NN	_	11	iobj	_	_
+11	ଥିବା	_	VERB	V_VM_VNG	_	12	nmod	_	_
+12	ଜଣାପଡିଛି	_	VERB	V_VM_VF	_	6	root	_	SpaceAfter=No
+13	।	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
+
+# sent_id = 100
+# text = ଏଥର ଫିଲ୍ମରେ ଟାଇଗରଙ୍କ ସହ ବାପା ଜ୍ୟାକି ଶ୍ରଫ ମଧ୍ୟ ନଜର ଆସିବେ।
+1	ଏଥର	_	DET	DM_DMD	_	2	det	_	_
+2	ଫିଲ୍ମରେ	_	NOUN	N_NN	_	6	nsubj	_	_
+3	ଟାଇଗରଙ୍କ	_	PROPN	N_NNP	_	4	iobj	_	_
+4	ସହ	_	ADP	PSP	_	3	fixed	_	_
+5	ବାପା	_	NOUN	N_NN	_	6	nmod	_	_
+6	ଜ୍ୟାକି	_	PROPN	N_NNP	_	7	iobj	_	_
+7	ଶ୍ରଫ	_	PROPN	N_NNP	_	8	flat	_	_
+8	ମଧ୍ୟ	_	PART	RP_RPD	_	6	fixed	_	_
+9	ନଜର	_	NOUN	N_NN	_	10	nmod	_	_
+10	ଆସିବେ	_	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No
+11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
