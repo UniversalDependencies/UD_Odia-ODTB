@@ -1,11 +1,10 @@
 # Summary
 
-... 1-2 sentences (see [release checklist](http://universaldependencies.org/release_checklist.html#the-readme-file) for README guidelines) ...
-
+The Odia UD Treebank (ODTB) is a part of the Universal Dependency treebank project.
 
 # Introduction
 
-...
+The Odia UD Treebank (ODTB) v2.9 consists of approx 1,282 tokens(100 sentences).
 
 
 # Acknowledgments
