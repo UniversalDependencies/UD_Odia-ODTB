@@ -192,7 +192,7 @@
 10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
 
 # sent_id = 19
-# text = ଏଥିପାଇଁ ଆପଣ ଗରମ ପାଣି ବ୍ୟବହାର କରନ୍ତୁ ନାହିଁ।
+# text = ଏଥିପାଇଁ ଆପଣ ଗରମ ପାଣି ବ୍ୟବହାର କରନ୍ତୁ ନାହିଁ ।
 1	ଏଥିପାଇଁ	_	ADV	RB	_	6	advmod	_	_
 2	ଆପଣ	_	PROPN	PR_PRP	_	6	nsubj	_	_
 3	ଗରମ	_	ADJ	JJ	_	4	amod	_	_
@@ -229,7 +229,7 @@
 9	।	_	PUNCT	RD_PUNC	_	8	punct	_	SpacesAfter=\n
 
 # sent_id = 22
-# text = ଏଥିରେ ଥିବା ପୋଷକ ତତ୍ତ୍ୱ ଶରୀର ପାଇଁ ଆଣ୍ଟିଅକ୍ସିଡ଼ାଣ୍ଟ ଭଳି କାର୍ଯ୍ୟ କରିଥାଏ।
+# text = ଏଥିରେ ଥିବା ପୋଷକ ତତ୍ତ୍ୱ ଶରୀର ପାଇଁ ଆଣ୍ଟିଅକ୍ସିଡ଼ାଣ୍ଟ ଭଳି କାର୍ଯ୍ୟ କରିଥାଏ ।
 1	ଏଥିରେ	_	DET	DM_DMD	_	2	det	_	_
 2	ଥିବା	_	AUX	V_VAUX	_	3	aux	_	_
 3	ପୋଷକ	_	ADJ	JJ	_	4	amod	_	_
@@ -660,27 +660,27 @@
 12	।		PUNCT	RD_PUNC	_	11	punct
 
 # sent_id = 59
-# text = ଏବେ ଭୁବନେଶ୍ୱରରୁ ନୂଆଦିଲ୍ଲୀ , କୋଲକାତା , ମୁମ୍ବାଇ , ବେଙ୍ଗାଲୁରୁ , ହାଇଦ୍ରାବାଦ୍‌ , ପୋର୍ଟବ୍ଲେୟାର , ଭାଇଜାଗ୍‌ , ବାରଣାସୀକୁ ବିମାନ ସଂଯୋଗ ରହିଛି।
+# text = ଏବେ ଭୁବନେଶ୍ୱରରୁ ନୂଆଦିଲ୍ଲୀ , କୋଲକାତା , ମୁମ୍ବାଇ , ବେଙ୍ଗାଲୁରୁ , ହାଇଦ୍ରାବାଦ୍‌ , ପୋର୍ଟବ୍ଲେୟାର , ଭାଇଜାଗ୍‌ , ବାରଣାସୀକୁ ବିମାନ ସଂଯୋଗ ରହିଛି ।
 1	ଏବେ	_	ADV	RB	_	20	advmod	_	_
 2	ଭୁବନେଶ୍ୱରରୁ	_	PROPN	N_NNP	_	20	obl	_	_
-3	ନୂଆଦିଲ୍ଲୀ	_	PROPN	N_NNP	_	2	compound	_	SpaceAfter=No
+3	ନୂଆଦିଲ୍ଲୀ	_	PROPN	N_NNP	_	2	compound	_	_
 4	,	_	PUNCT	RD_PUNC	_	20	punct	_	_
-5	କୋଲକାତା	_	PROPN	N_NNP	_	2	compound	_	SpaceAfter=No
+5	କୋଲକାତା	_	PROPN	N_NNP	_	2	compound	_	_
 6	,	_	PUNCT	RD_PUNC	_	20	punct	_	_
-7	ମୁମ୍ବାଇ	_	PROPN	N_NNP	_	2	compound	_	SpaceAfter=No
+7	ମୁମ୍ବାଇ	_	PROPN	N_NNP	_	2	compound	_	_
 8	,	_	PUNCT	RD_PUNC	_	20	punct	_	_
-9	ବେଙ୍ଗାଲୁରୁ	_	PROPN	N_NNP	_	2	compound	_	SpaceAfter=No
+9	ବେଙ୍ଗାଲୁରୁ	_	PROPN	N_NNP	_	2	compound	_	_
 10	,	_	PUNCT	RD_PUNC	_	20	punct	_	_
-11	ହାଇଦ୍ରାବାଦ୍‌	_	PROPN	N_NNP	_	2	compound	_	SpaceAfter=No
+11	ହାଇଦ୍ରାବାଦ୍‌	_	PROPN	N_NNP	_	2	compound	_	_
 12	,	_	PUNCT	RD_PUNC	_	20	punct	_	_
-13	ପୋର୍ଟବ୍ଲେୟାର	_	PROPN	N_NNP	_	2	compound	_	SpaceAfter=No
+13	ପୋର୍ଟବ୍ଲେୟାର	_	PROPN	N_NNP	_	2	compound	_	_
 14	,	_	PUNCT	RD_PUNC	_	20	punct	_	_
-15	ଭାଇଜାଗ୍‌	_	PROPN	N_NNP	_	2	compound	_	SpaceAfter=No
+15	ଭାଇଜାଗ୍‌	_	PROPN	N_NNP	_	2	compound	_	_
 16	,	_	PUNCT	RD_PUNC	_	20	punct	_	_
 17	ବାରଣାସୀକୁ	_	PROPN	N_NNP	_	2	compound	_	_
 18	ବିମାନ	_	NOUN	N_NN	_	19	nmod	_	_
 19	ସଂଯୋଗ	_	NOUN	N_NN	_	20	nsubj	_	_
-20	ରହିଛି	_	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No
+20	ରହିଛି	_	VERB	V_VM_VF	_	0	root	_	_
 21	।	_	PUNCT	RD_PUNC	_	20	punct	_	SpacesAfter=\n
 
 # sent_id = 60
@@ -699,7 +699,7 @@
 12	।	_	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n
 
 # sent_id = 61
-# text = କୃଷି , ସ୍ୱାସ୍ଥ୍ୟ , ଶିକ୍ଷା , ଗମନାଗମନ , ନିଯୁକ୍ତି ,ମହିଳା ସୁରକ୍ଷା , ଆଦିବାସୀ କଲ୍ୟାଣ ଆଦି ଅନେକ କ୍ଷେତ୍ରକୁ ଗୁରୁତ୍ୱ ଦିଆଯିବ।
+# text = କୃଷି , ସ୍ୱାସ୍ଥ୍ୟ , ଶିକ୍ଷା , ଗମନାଗମନ , ନିଯୁକ୍ତି , ମହିଳା ସୁରକ୍ଷା , ଆଦିବାସୀ କଲ୍ୟାଣ ଆଦି ଅନେକ କ୍ଷେତ୍ରକୁ ଗୁରୁତ୍ୱ ଦିଆଯିବ ।
 1	କୃଷି	_	NOUN	N_NN	_	18	nmod	_	_
 2	,	_	PUNCT	RD_PUNC	_	20	punct	_	_
 3	ସ୍ୱାସ୍ଥ୍ୟ	_	NOUN	N_NN	_	18	compound	_	_
@@ -743,7 +743,7 @@
 2	:	_	PUNCT	RD_PUNC	_	13	punct	_
 3	ଦିନକୁ 	_	NOUN	N_NN	_	4	nmod	_	_
 4	ଦିନ	_	NOUN	N_NN	_	5	compound	_	_
-5	ବ୍ୟାପୁଥିବା	_	VERB	V_VM_VNF	_	6	nmod	_
+5	ବ୍ୟାପୁଥିବା	_	VERB	V_VM_VNF	_	6	nmod	_	_
 6	ମହାମାରୀ	_	ADJ	JJ	_	7	amod	_	_
 7	କରୋନାକୁ	_	PROPN	N_NNP	_	13	obj	_	_
 8	ରୋକିବା	_	VERB	V_VM_VNG	_	9	nmod	_	_
@@ -767,7 +767,7 @@
 9	ଘଟଣାର	_	NOUN	N_NN	_	10	nmod	_	_
 10	ତଦନ୍ତ	_	NOUN	N_NN	_	11	obj	_	_
 11	ଚଳାଇଛି	_	VERB	V_VM_VF	_	0	root	_	SpacesAfter=\n
-12	।		PUNCT	RD_PUNC	_	11	punct
+12	।		PUNCT	RD_PUNC	_	11	punct	_	_
 
 # sent_id = 65
 # text = ଯୁବତୀଙ୍କୁ ଅର୍ଦ୍ଧଦଗ୍ଧ ଅବସ୍ଥାରେ ପଡୋଶୀମାନେ ଉଦ୍ଧାର କରି ହସ୍ପିଟାଲରେ ଭର୍ତ୍ତି କରିଥିଲେ ।
@@ -812,7 +812,7 @@
 12	।	_	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n
 
 # sent_id = 68
-# text = କଂଗ୍ରେସ ରାଜ୍ୟପାଳଙ୍କୁ ଭେଟି ରାଜ୍ୟରେ ରାଷ୍ଟ୍ରପତି ଶାସନ ଜାରି କରିବା ନେଇ ସୁପାରିଶ କରିବାକୁ ଦାବି କରିଛି।
+# text = କଂଗ୍ରେସ ରାଜ୍ୟପାଳଙ୍କୁ ଭେଟି ରାଜ୍ୟରେ ରାଷ୍ଟ୍ରପତି ଶାସନ ଜାରି କରିବା ନେଇ ସୁପାରିଶ କରିବାକୁ ଦାବି କରିଛି ।
 1	କଂଗ୍ରେସ	_	NOUN	N_NN	_	13	nsubj	_	_
 2	ରାଜ୍ୟପାଳଙ୍କୁ	_	NOUN	N_NN	_	13	iobj	_	_
 3	ଭେଟି	_	VERB	V_VM_VNF	_	13	mark	_	_
@@ -855,12 +855,12 @@
 10	ଓ	_	CCONJ	CC_CCD	_	7	cc	_	_
 11	ସନରାଇଜର୍ସ	_	PROPN	N_NNP	_	10	compound	_	_
 12	ହାଇଦ୍ରାବାଦ	_	PROPN	N_NNP	_	11	flat	_	SpacesAfter=\n
-13	।		PUNCT	RD_PUNC	_	7	punct
+13	।		PUNCT	RD_PUNC	_	7	punct	_	_
 
 # sent_id = 73
-# text = ଏଥିଲାଗି ସେ ପୁଣିଥରେ ଆଉ ଏକ ସର୍ଜରୀ କରିବା ପାଇଁ ନିଷ୍ପତ୍ତି ନେଇଛନ୍ତି।
+# text = ଏଥିଲାଗି ସେ ପୁଣିଥରେ ଆଉ ଏକ ସର୍ଜରୀ କରିବା ପାଇଁ ନିଷ୍ପତ୍ତି ନେଇଛନ୍ତି ।
 1	ଏଥିଲାଗି	_	ADV	RB	_	10	advmod	_	_
-2	ସେ		PRON	PR_PRP	_	10	nsubj	_	_
+2	ସେ	_	PRON	PR_PRP	_	10	nsubj	_	_
 3	ପୁଣିଥରେ	_	ADV	RB	_	4	advmod	_	_
 4	ଆଉ	_	DET	DM_DMD	_	5	det	_	_
 5	ଏକ	_	NUM	QT_QTC	_	6	nummod	_	_
@@ -868,8 +868,9 @@
 7	କରିବା	_	NOUN	N_NNV	_	8	nmod	_	_
 8	ପାଇଁ	_	ADP	PSP	_	10	fixed	_	_
 9	ନିଷ୍ପତ୍ତି	_	NOUN	N_NN	_	10	nmod	_	_
-10	ନେଇଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	SpacesAfter=\n
-11	।		PUNC	RD_PUNC		10	punc
+10	ନେଇଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	_
+11	।	_	PUNC	RD_PUNC	_	10	punct	_	_
+
 # sent_id = 74
 # text = ଏତେ ପରିମାଣର ଟଙ୍କା କେଉଁଠୁ ଆସୁଥିଲା ଏବଂ କୁଆଡ଼େ ଯାଉଥିଲା ସେ ସମ୍ପର୍କରେ ପୋଲିସ୍‌ ତଦନ୍ତ କରୁଛି ।
 1	ଏତେ	_	NUM	QT_QTF	_	2	nummod	_	_
@@ -885,7 +886,7 @@
 11	ପୋଲିସ୍‌	_	NOUN	N_NN	_	13	nsubj	_	_
 12	ତଦନ୍ତ	_	NOUN	N_NN	_	13	nmod	_	_
 13	କରୁଛି	_	VERB	V_VM_VF	_	0	root	_	_
-14	।	_	PUNCT	RD_PUNC	_	13	punc	_	SpacesAfter=\n
+14	।	_	PUNCT	RD_PUNC	_	13	punct	_	SpacesAfter=\n
 
 # sent_id = 75
 # text = ଠିକ ଏହିଭଳି ପରିସ୍ଥିତି ଯଦି ବର୍ତ୍ତମାନ ସମୟରେ ଆସେ ତେବେ ଗୃହମନ୍ତ୍ରୀ ଅମିତ ଶାହା କ’ଣ କରିବେ ?
@@ -905,7 +906,7 @@
 14	?	_	PUNCT	RD_PUNC	_	13	punc	_	SpacesAfter=\n
 
 # sent_id = 77
-# text = ୨୦୦ରୁ ଅଧିକ ଫିଲ୍ମରେ ଅଭିନୟ କରିଥିବା ଅମ୍ବରିଶ ରିବେଲ୍‌ ଷ୍ଟାର ଭାବେ ପରିଚିତ।
+# text = ୨୦୦ରୁ ଅଧିକ ଫିଲ୍ମରେ ଅଭିନୟ କରିଥିବା ଅମ୍ବରିଶ ରିବେଲ୍‌ ଷ୍ଟାର ଭାବେ ପରିଚିତ ।
 1	୨୦୦ରୁ	_	NUM	QT_QTC	_	2	nummod	_	_
 2	ଅଧିକ	_	DET	DM_DMD	_	3	det	_	_
 3	ଫିଲ୍ମରେ	_	NOUN	N_NN	_	4	nmod	_	_
@@ -963,7 +964,7 @@
 10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
 
 # sent_id = 81
-# text = ସମଗ୍ର ଜେରୁଜେଲମ୍‌ ଉପରେ ଇସ୍ରାଏଲ୍‌ର ସାର୍ବଭୌମତ୍ୱକୁ ଆନ୍ତର୍ଜାତିକ ସମୁଦାୟ ଅନୁମୋଦ ଦେଉ ନାହାନ୍ତି।
+# text = ସମଗ୍ର ଜେରୁଜେଲମ୍‌ ଉପରେ ଇସ୍ରାଏଲ୍‌ର ସାର୍ବଭୌମତ୍ୱକୁ ଆନ୍ତର୍ଜାତିକ ସମୁଦାୟ ଅନୁମୋଦ ଦେଉ ନାହାନ୍ତି ।
 1	ସମଗ୍ର	_	DET	DM_DMQ	_	2	det	_	_
 2	ଜେରୁଜେଲମ୍‌	_	PROPN	N_NNP	_	3	obl	_	_
 3	ଉପରେ	_	ADP	PSP	_	9	fixed	_	_
@@ -994,7 +995,7 @@
 13	।	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
 
 # sent_id = 84
-# text = ଚେନ୍ନାଇରେ ଟ୍ରାନ୍ସଜେଣ୍ଡରମାନଙ୍କ ଘର ନିର୍ମାଣ ପାଇଁ ଅକ୍ଷୟ କୁମାର ୧.୫ କୋଟି ଟଙ୍କା ପ୍ରଦାନ କରିଛନ୍ତି।
+# text = ଚେନ୍ନାଇରେ ଟ୍ରାନ୍ସଜେଣ୍ଡରମାନଙ୍କ ଘର ନିର୍ମାଣ ପାଇଁ ଅକ୍ଷୟ କୁମାର ୧.୫ କୋଟି ଟଙ୍କା ପ୍ରଦାନ କରିଛନ୍ତି ।
 1	ଚେନ୍ନାଇରେ	_	PROPN	N_NNP	_	12	obl	_	_
 2	ଟ୍ରାନ୍ସଜେଣ୍ଡରମାନଙ୍କ	_	NOUN	N_NN	_	3	iobj	_	_
 3	ଘର	_	NOUN	N_NN	_	4	nmod	_	_
@@ -1010,7 +1011,7 @@
 13	।	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
 
 # sent_id = 86
-# text = ଏହି ଅବସରରେ କେନ୍ଦ୍ର ପରିବେଶ, ଜଙ୍ଗଲ ଏବଂ ଜଳବାୟୁ ପରିବର୍ତ୍ତନ ରାଷ୍ଟ୍ରମନ୍ତ୍ରୀ ଶ୍ରୀ ବାବୁଲ ସୁପ୍ରିୟୋ ମଧ୍ୟ ଉପସ୍ଥିତ ଥିଲେ।
+# text = ଏହି ଅବସରରେ କେନ୍ଦ୍ର ପରିବେଶ, ଜଙ୍ଗଲ ଏବଂ ଜଳବାୟୁ ପରିବର୍ତ୍ତନ ରାଷ୍ଟ୍ରମନ୍ତ୍ରୀ ଶ୍ରୀ ବାବୁଲ ସୁପ୍ରିୟୋ ମଧ୍ୟ ଉପସ୍ଥିତ ଥିଲେ ।
 1	ଏହି	_	DET	DM_DMD	_	2	det	_	_
 2	ଅବସରରେ	_	NOUN	N_NN	_	3	nmod	_	_
 3	କେନ୍ଦ୍ର	_	NOUN	N_NN	_	4	nmod	_	_
@@ -1030,7 +1031,7 @@
 17	।	_	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n
 
 # sent_id = 87
-# text = ଆସନ୍ତା ନିର୍ବାଚନ ବିଜେପି ଓ ଶିବସେନା ମହାରାଷ୍ଟ୍ରରେ ଏକାଠି ଲଢ଼ିବାକୁ ନିଷ୍ପତ୍ତି ନେଇଛନ୍ତି।
+# text = ଆସନ୍ତା ନିର୍ବାଚନ ବିଜେପି ଓ ଶିବସେନା ମହାରାଷ୍ଟ୍ରରେ ଏକାଠି ଲଢ଼ିବାକୁ ନିଷ୍ପତ୍ତି ନେଇଛନ୍ତି ।
 1	ଆସନ୍ତା	_	NOUN	N_NN	_	2	nmod	_	_
 2	ନିର୍ବାଚନ	_	NOUN	N_NN	_	10	nsubj	_	_
 3	ବିଜେପି	_	PROPN	N_NNP	_	4	nmod	_	_
@@ -1120,7 +1121,7 @@
 12	।	_	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n
 
 # sent_id = 93
-# text = ଓଡିଶା ହାଇକୋର୍ଟର ମୁଖ୍ୟ ବିଚାରପତି ମହମ୍ମଦ ରଫିକ୍ଙ୍କୁ ମଧ୍ୟପ୍ରଦେଶ ହାଇକୋର୍ଟକୁ ବଦଳି କରାଯିବ।
+# text = ଓଡିଶା ହାଇକୋର୍ଟର ମୁଖ୍ୟ ବିଚାରପତି ମହମ୍ମଦ ରଫିକ୍ଙ୍କୁ ମଧ୍ୟପ୍ରଦେଶ ହାଇକୋର୍ଟକୁ ବଦଳି କରାଯିବ ।
 1	ଓଡିଶା	_	PROPN	N_NNP	_	2	nmod	_	_
 2	ହାଇକୋର୍ଟର	_	NOUN	N_NN	_	4	compound	_	_
 3	ମୁଖ୍ୟ	_	ADJ	JJ	_	4	amod	_	_
