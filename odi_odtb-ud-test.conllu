@@ -229,14 +229,14 @@ sent_id = 3
 9	।	_	PUNCT	RD_PUNC	_	8	punct	_	SpacesAfter=\n
 
 # sent_id = 22
-# text = ଏଥିରେ ଥିବା ପୋଷକ ତତ୍ତ୍ୱ ଶରୀର ପାଇଁ ଆଣ୍ଟିଅକ୍ସିଡ଼ାଣ୍ଟ ଭଳି କାର୍ଯ୍ୟ କରିଥାଏ।
+# text = ଏଥିରେ ଥିବା ପୋଷକ ତତ୍ତ୍ୱ ଶରୀର ପାଇଁ ଆଣ୍ଟିଅକ୍ସିଡ଼ାଣ୍ଟ ଭଳି କାର୍ଯ୍ୟ କରିଥାଏ।
 1	ଏଥିରେ	_	DET	DM_DMD	_	2	det	_	_
 2	ଥିବା	_	AUX	V_VAUX 	_	3	aux	_	_
 3	ପୋଷକ	_	ADJ	JJ	_	4	amod	_	_
 4	ତତ୍ତ୍ୱ	_	NOUN	N_NN	_	11	nsubj	_	_
 5	ଶରୀର	_	NOUN	N_NN	_	8	nmod	_	_
 7	ପାଇଁ	_	ADP	PSP	_	5	fixed	_	_
-8	ଆଣ୍ଟିଅକ୍ସିଡ଼ାଣ୍ଟ	_	NOUN	N_NN	_	11	obj 	_	_
+8	ଆଣ୍ଟିଅକ୍ସିଡ଼ାଣ୍ଟ	_	NOUN	N_NN	_	11	obj 	_	_
 9	ଭଳି	_	ADP	PSP	_	8	fixed	_	_
 10	କାର୍ଯ୍ୟ	_	NOUN	N_NN	_	11	nmod	_	_
 11	କରିଥାଏ	_	VERB	V_VM_VF	_	0	root	_	_
@@ -321,13 +321,13 @@ sent_id = 3
 9	?		PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = 31
-# text = ପରେ ଉଭୟ ପରସ୍ପର ଉପରକୁ ପଥର ଫୋପାଡ଼ିଥିଲେ।
+# text = ପରେ ଉଭୟ ପରସ୍ପର ଉପରକୁ ପଥର ଫୋପାଡ଼ିଥିଲେ।
 1	ପରେ		ADV	RB	_	2	advmod	_
 2	ଉଭୟ		PRON	PR_PRC	_	6	nsubj	_
 3	ପରସ୍ପର 		PRON	PR_PRC	_	6	iobj	_
 4	ଉପରକୁ		ADV	RB	_	3	advmod	_
 5	ପଥର		NOUN	N_NN	_	6	obj	_
-6	ଫୋପାଡ଼ିଥିଲେ		VERB	V_VM_VF	_	0	root	_
+6	ଫୋପାଡ଼ିଥିଲେ		VERB	V_VM_VF	_	0	root	_
 7	।		PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = 32
@@ -416,8 +416,8 @@ sent_id = 3
 8	।		PUNCT	RD_PUNC	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = 40
-# text = ଓଡ଼ିଶାଲାଇଭ୍‌ ବ୍ୟୁରୋ : ବାତ୍ୟା ‘ ବୁଲ୍‌ବୁଲ୍‌ ’ ପଶ୍ଚିମବଙ୍ଗ ଓ ବାଂଲାଦେଶ ମୁହାଁ ହୋଇଛି ।
-1	ଓଡ଼ିଶାଲାଇଭ୍‌		NOUN	N_NN	_	2	nmod	_
+# text = ଓଡ଼ିଶାଲାଇଭ୍‌ ବ୍ୟୁରୋ : ବାତ୍ୟା ‘ ବୁଲ୍‌ବୁଲ୍‌ ’ ପଶ୍ଚିମବଙ୍ଗ ଓ ବାଂଲାଦେଶ ମୁହାଁ ହୋଇଛି ।
+1	ଓଡ଼ିଶାଲାଇଭ୍‌		NOUN	N_NN	_	2	nmod	_
 2	ବ୍ୟୁରୋ		NOUN	N_NN	_	3	flat	_
 3	:		PUNCT	RD_PUNC	_	12	punct	_
 4	ବାତ୍ୟା		NOUN	N_NN	_	6	nmod	_
@@ -454,13 +454,13 @@ sent_id = 3
 8	।	_	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = 43
-# text = କିନ୍ତୁ ଏତିକି ବେଳେ ଘଟିଗଲା ଏକ ବଡ଼ ଅଘଟଣ ।
+# text = କିନ୍ତୁ ଏତିକି ବେଳେ ଘଟିଗଲା ଏକ ବଡ଼ ଅଘଟଣ ।
 1	କିନ୍ତୁ	_	CCONJ	CC_CCD	_	2	cc	_
 2	ଏତିକି	_	ADV	RB	_	3	advmod	_
 3	ବେଳେ	_	ADV	RB	_	4	advmod	_
 4	ଘଟିଗଲା	_	VERB	V_VM_VF	_	0	root	_
 5	ଏକ	_	DET	QT_QTC	_	7	det	_
-6	ବଡ଼	_	ADJ	JJ	_	7	amod	_
+6	ବଡ଼	_	ADJ	JJ	_	7	amod	_
 7	ଅଘଟଣ	_	NOUN	N_NN	_	4	nsubj	_
 8	।	_	PUNCT	RD_PUNC	_	4	punct	_	SpacesAfter=\n
 
@@ -783,9 +783,9 @@ sent_id = 3
 10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
 
 # sent_id = 66
-# text = ଜଣେ ପୋଲିସ ଅଧିକାରୀଙ୍କ ସୂଚନା ଅନୁସାରେ ଘଟଣାର କୌଣସି ମାମଲା ରୁଜୁ କରାଯାଇନାହିଁ ।
+# text = ଜଣେ ପୋଲିସ ଅଧିକାରୀଙ୍କ ସୂଚନା ଅନୁସାରେ ଘଟଣାର କୌଣସି ମାମଲା ରୁଜୁ କରାଯାଇନାହିଁ ।
 1	ଜଣେ	_	DET	DM_DMI	_	2	det	_	_
-2	ପୋଲିସ	_	NOUN	N_NN	_	3	nmod	_	_
+2	ପୋଲିସ	_	NOUN	N_NN	_	3	nmod	_	_
 3	ଅଧିକାରୀଙ୍କ	_	NOUN	N_NN	_	4	compound	_	_
 4	ସୂଚନା	_	NOUN	N_NN	_	5	nmod	_	_
 5	ଅନୁସାରେ	_	ADP	PSP	_	10	mark	_	_
@@ -871,14 +871,14 @@ sent_id = 3
 10	ନେଇଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	SpacesAfter=\n
 11	।		PUNC	RD_PUNC		10	punc
 # sent_id = 74
-# text = ଏତେ ପରିମାଣର ଟଙ୍କା କେଉଁଠୁ ଆସୁଥିଲା ଏବଂ କୁଆଡ଼େ ଯାଉଥିଲା ସେ ସମ୍ପର୍କରେ ପୋଲିସ୍‌ ତଦନ୍ତ କରୁଛି ।
+# text = ଏତେ ପରିମାଣର ଟଙ୍କା କେଉଁଠୁ ଆସୁଥିଲା ଏବଂ କୁଆଡ଼େ ଯାଉଥିଲା ସେ ସମ୍ପର୍କରେ ପୋଲିସ୍‌ ତଦନ୍ତ କରୁଛି ।
 1	ଏତେ	_	NUM	QT_QTF	_	2	nummod	_	_
 2	ପରିମାଣର	_	NOUN	N_NN	_	3	nmod	_	_
 3	ଟଙ୍କା	_	NOUN	N_NN	_	5	compound	_	_
 4	କେଉଁଠୁ	_	PRON	PR_PRI	_	5	obl	_	_
 5	ଆସୁଥିଲା	_	VERB	V_VM_VF	_	13	mark	_	_
 6	ଏବଂ	_	CCONJ	CC_CCD	_	7	cc	_	_
-7	କୁଆଡ଼େ	_	ADV	RB	_	8	advmod	_	_
+7	କୁଆଡ଼େ	_	ADV	RB	_	8	advmod	_	_
 8	ଯାଉଥିଲା	_	VERB	V_VM_VF	_	13	mark	_	_
 9	ସେ	_	DET	DM_DMD	_	10	det	_	_
 10	ସମ୍ପର୍କରେ	_	NOUN	N_NN	_	13	obj	_	_
@@ -1029,7 +1029,7 @@ sent_id = 3
 17	।	_	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n
 
 # sent_id = 87
-# text = ଆସନ୍ତା ନିର୍ବାଚନ ବିଜେପି ଓ ଶିବସେନା ମହାରାଷ୍ଟ୍ରରେ ଏକାଠି ଲଢ଼ିବାକୁ ନିଷ୍ପତ୍ତି ନେଇଛନ୍ତି।
+# text = ଆସନ୍ତା ନିର୍ବାଚନ ବିଜେପି ଓ ଶିବସେନା ମହାରାଷ୍ଟ୍ରରେ ଏକାଠି ଲଢ଼ିବାକୁ ନିଷ୍ପତ୍ତି ନେଇଛନ୍ତି।
 1	ଆସନ୍ତା	_	NOUN	N_NN	_	2	nmod	_	_
 2	ନିର୍ବାଚନ	_	NOUN	N_NN	_	10	nsubj	_	_
 3	ବିଜେପି	_	PROPN	N_NNP	_	4	nmod	_	_
@@ -1037,7 +1037,7 @@ sent_id = 3
 5	ଶିବସେନା	_	PROPN	N_NNP	_	4	nmod	_	_
 6	ମହାରାଷ୍ଟ୍ରରେ	_	PROPN	N_NNP	_	7	obl	_	_
 7	ଏକାଠି	_	ADV	RB	_	8	advmod	_	_
-8	ଲଢ଼ିବାକୁ	_	NOUN	N_NNV	_	10	obj	_	_
+8	ଲଢ଼ିବାକୁ	_	NOUN	N_NNV	_	10	obj	_	_
 9	ନିଷ୍ପତ୍ତି	_	NOUN	N_NN	_	10	nmod	_	_
 10	ନେଇଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
@@ -1059,7 +1059,7 @@ sent_id = 3
 13	।	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
 
 # sent_id = 89
-# text = ଅନେକ ଆହତଙ୍କ ଅବସ୍ଥା ସଙ୍କଟାପନ୍ନ ଥିବାରୁ ମୃତ୍ୟୁ ସଂଖ୍ୟା ବଢ଼ିବା ଆଶଙ୍କା କରାଯାଉଛି ।
+# text = ଅନେକ ଆହତଙ୍କ ଅବସ୍ଥା ସଙ୍କଟାପନ୍ନ ଥିବାରୁ ମୃତ୍ୟୁ ସଂଖ୍ୟା ବଢ଼ିବା ଆଶଙ୍କା କରାଯାଉଛି ।
 1	ଅନେକ	_	DET	DM_DMI	_	2	det	_	_
 2	ଆହତଙ୍କ	_	NOUN	N_NN	_	3	nsubj	_	_
 3	ଅବସ୍ଥା	_	NOUN	N_NN	_	4	iobj	_	_
@@ -1067,7 +1067,7 @@ sent_id = 3
 5	ଥିବାରୁ	_	VERB	V_VM_VNF	_	10	mark	_	_
 6	ମୃତ୍ୟୁ	_	NOUN	N_NN	_	7	nmod	_	_
 7	ସଂଖ୍ୟା	_	NOUN	N_NN	_	8	compound	_	_
-8	ବଢ଼ିବା	_	VERB 	V_VM_VNG	_	10	mark	_	_
+8	ବଢ଼ିବା	_	VERB 	V_VM_VNG	_	10	mark	_	_
 9	ଆଶଙ୍କା	_	NOUN	N_NN	_	10	nmod	_	_
 10	କରାଯାଉଛି	_	VERB	V_VM_VF	_	0	root	_	_
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
@@ -1104,14 +1104,14 @@ sent_id = 3
 15	।	_	PUNCT	RD_PUNC	_	14	punct	_	SpacesAfter=\n
 
 # sent_id = 92
-# text = ଏକ ଟିମ୍‌ ଗଠନ କରାଯାଇ ବିଭିନ୍ନ ସ୍ଥାନରେ ଚଢ଼ାଉ କରି ଲୁଟେରାଙ୍କୁ ଗିରଫ କରାଯାଇଛି ।
+# text = ଏକ ଟିମ୍‌ ଗଠନ କରାଯାଇ ବିଭିନ୍ନ ସ୍ଥାନରେ ଚଢ଼ାଉ କରି ଲୁଟେରାଙ୍କୁ ଗିରଫ କରାଯାଇଛି ।
 1	ଏକ	_	NUM	QT_QTC	_	2	nummod	_	_
 2	ଟିମ୍‌	_	NOUN	N_NN	_	3	nmod	_	_
 3	ଗଠନ	_	NOUN	N_NN	_	4	nmod	_	_
 4	କରାଯାଇ	_	VERB	V_VM_VNF	_	11	mark	_	_
 5	ବିଭିନ୍ନ	_	DET	DM_DMI	_	6	det	_	_
 6	ସ୍ଥାନରେ	_	NOUN	N_NN	_	7	obl	_	_
-7	ଚଢ଼ାଉ	_	NOUN	N_NN	_	8	nmod	_	_
+7	ଚଢ଼ାଉ	_	NOUN	N_NN	_	8	nmod	_	_
 8	କରି	_	VERB	V_VM_VNF	_	11	mark	_	_
 9	ଲୁଟେରାଙ୍କୁ	_	NOUN	N_NN	_	11	iobj	_	_
 10	ଗିରଫ	_	NOUN	N_NN	_	11	nmod	_	_
@@ -1251,13 +1251,13 @@ sent_id = 3
 10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
 
 # sent_id = 120
-# text = ଚୀନ୍‌ର ଜିଙ୍ଗସୁ ପ୍ରଦେଶ ସ୍ଥିତ ୟାଙ୍ଗ୍‌ଚେଙ୍ଗ୍‌ ଚିଡ଼ିଆଖାନାରେ ଏହି ଅଜବ ଘଟଣା ଘଟିଛି।
+# text = ଚୀନ୍‌ର ଜିଙ୍ଗସୁ ପ୍ରଦେଶ ସ୍ଥିତ ୟାଙ୍ଗ୍‌ଚେଙ୍ଗ୍‌ ଚିଡ଼ିଆଖାନାରେ ଏହି ଅଜବ ଘଟଣା ଘଟିଛି।
 1	ଚୀନ୍‌ର	_	PROPN	N_NNP	_	2	obl	_	_
 2	ଜିଙ୍ଗସୁ	_	PROPN	N_NNP	_	3	nmod	_	_
 3	ପ୍ରଦେଶ	_	PROPN	N_NNP	_	4	compound	_	_
 4	ସ୍ଥିତ	_	ADP	PSP	_	10	fixed	_	_
 5	ୟାଙ୍ଗ୍‌ଚେଙ୍ଗ୍‌	_	PROPN	N_NNP	_	10	nsubj	_	_
-6	ଚିଡ଼ିଆଖାନାରେ	_	NOUN	N_NN	_	5	obl	_	_
+6	ଚିଡ଼ିଆଖାନାରେ	_	NOUN	N_NN	_	5	obl	_	_
 7	ଏହି	_	DET	DM_DMD	_	8	det	_	_
 8	ଅଜବ	_	ADJ	JJ	_	9	amod	_	_
 9	ଘଟଣା	_	NOUN	N_NN	_	10	obj	_	_
@@ -1286,13 +1286,13 @@ sent_id = 3
 9	।	_	PUNCT	RD_PUNC	_	8	punct	_	SpaceAfter=No
 
 # sent_id = 115
-# text = ଏହି ତଥାକଥିତ ଗାନ୍ଧୀ ପରିବାର ଲାଭ ଛଡ଼ା ଅନ୍ୟ କିଛି ଚିନ୍ତା କରି ପାରନ୍ତି ନାହିଁ।
+# text = ଏହି ତଥାକଥିତ ଗାନ୍ଧୀ ପରିବାର ଲାଭ ଛଡ଼ା ଅନ୍ୟ କିଛି ଚିନ୍ତା କରି ପାରନ୍ତି ନାହିଁ।
 1	ଏହି	_	DET	DM_DMD	_	2	det	_	_
 2	ତଥାକଥିତ	_	ADJ	JJ	_	3	amod	_	_
 3	ଗାନ୍ଧୀ	_	PROPN	N_NNP	_	10	nsubj	_	_
 4	ପରିବାର	_	NOUN	N_NN	_	3	compound	_	_
 5	ଲାଭ	_	NOUN	N_NN	_	10	obj	_	_
-6	ଛଡ଼ା	_	ADP	PSP	_	5	fixed	_	_
+6	ଛଡ଼ା	_	ADP	PSP	_	5	fixed	_	_
 7	ଅନ୍ୟ	_	DET	DM_DMI	_	8	det	_	_
 8	କିଛି	_	NUM	QT_QTF	_	9	nummod	_	_
 9	ଚିନ୍ତା	_	NOUN	N_NN	_	10	nmod	_	_
