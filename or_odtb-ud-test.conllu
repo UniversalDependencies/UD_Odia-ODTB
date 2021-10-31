@@ -198,7 +198,7 @@
 3	ଗରମ	_	ADJ	JJ	_	4	amod	_	_
 4	ପାଣି	_	NOUN	N_NN	_	6	obj	_	_
 5	ବ୍ୟବହାର	_	NOUN	N_NN	_	6	nmod	_	_
-6	କରନ୍ତୁ	_	VERB 	V_VM_VF	_	0	root	_	_
+6	କରନ୍ତୁ	_	VERB	V_VM_VF	_	0	root	_	_
 7	ନାହିଁ	_	AUX	RP_NEG	_	6	aux	_	_
 8	।	_	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n
 
@@ -213,7 +213,7 @@
 7	ବିରାଟ	_	PROPN	N_NNP	_	8	nsubj	_	_
 8	କୋହଲି	_	PROPN	N_NNP	_	10	flat	_	_
 9	ଉପସ୍ଥିତ	_	ADJ	JJ	_	10	amod	_	_
-10	ଥିଲେ	_	VERB 	V_VM_VF	_	0	root	_	_
+10	ଥିଲେ	_	VERB	V_VM_VF	_	0	root	_	_
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
 
 # sent_id = 21
@@ -231,12 +231,12 @@
 # sent_id = 22
 # text = ଏଥିରେ ଥିବା ପୋଷକ ତତ୍ତ୍ୱ ଶରୀର ପାଇଁ ଆଣ୍ଟିଅକ୍ସିଡ଼ାଣ୍ଟ ଭଳି କାର୍ଯ୍ୟ କରିଥାଏ।
 1	ଏଥିରେ	_	DET	DM_DMD	_	2	det	_	_
-2	ଥିବା	_	AUX	V_VAUX 	_	3	aux	_	_
+2	ଥିବା	_	AUX	V_VAUX	_	3	aux	_	_
 3	ପୋଷକ	_	ADJ	JJ	_	4	amod	_	_
 4	ତତ୍ତ୍ୱ	_	NOUN	N_NN	_	11	nsubj	_	_
 5	ଶରୀର	_	NOUN	N_NN	_	8	nmod	_	_
 7	ପାଇଁ	_	ADP	PSP	_	5	fixed	_	_
-8	ଆଣ୍ଟିଅକ୍ସିଡ଼ାଣ୍ଟ	_	NOUN	N_NN	_	11	obj 	_	_
+8	ଆଣ୍ଟିଅକ୍ସିଡ଼ାଣ୍ଟ	_	NOUN	N_NN	_	11	obj	_	_
 9	ଭଳି	_	ADP	PSP	_	8	fixed	_	_
 10	କାର୍ଯ୍ୟ	_	NOUN	N_NN	_	11	nmod	_	_
 11	କରିଥାଏ	_	VERB	V_VM_VF	_	0	root	_	_
@@ -716,7 +716,7 @@
 14	ଆଦିବାସୀ	_	NOUN	N_NN	_	15	nmod	_	_
 15	କଲ୍ୟାଣ	_	NOUN	N_NN	_	18	compound	_	_
 16	ଆଦି	_	PART	RP_RPD	_	20	fixed	_	_
-17	ଅନେକ	_	DET 	DM_DMI	_	18	det	_	_
+17	ଅନେକ	_	DET	DM_DMI	_	18	det	_	_
 18	କ୍ଷେତ୍ରକୁ	_	NOUN	N_NN	_	20	obj	_	_
 19	ଗୁରୁତ୍ୱ	_	NOUN	N_NN	_	20	nmod	_	_
 20	ଦିଆଯିବ	_	VERB	V_VM_VF	_	0	root	_	_
@@ -916,7 +916,8 @@
 8	ଷ୍ଟାର	_	NOUN	N_NN	_	9	appos	_	_
 9	ଭାବେ	_	ADV	RB	_	10	advmod	_	_
 10	ପରିଚିତ	_	ADJ	JJ	_	0	root	_	SpacesAfter=\n
-11	|		PUNC	RD_PUNC	_	10	punc	_
+11	।		PUNC	RD_PUNC	_	10	punct	_	_
+
 # sent_id = 78
 # text = ପଞ୍ଜାବ ଏବଂ ହରିୟାଣାର ଚାଷୀମାନେ ଲଗାତାର ଭାବେ ବିରୋଧ ପ୍ରଦର୍ଶନ ଜାରି ରଖିଛନ୍ତି ।
 1	ପଞ୍ଜାବ	_	PROPN	N_NNP	_	2	obl	_	_
@@ -986,7 +987,7 @@
 6	ପ୍ରଧାନମନ୍ତ୍ରୀ	_	NOUN	N_NST	_	11	appos	_	_
 7	ନରେନ୍ଦ୍ର	_	PROPN	N_NNP	_	12	nsubj	_	_
 8	ମୋଦି	_	PROPN	N_NNP	_	7	flat	_	_
-9	ଟ୍ୱିଟ	_	NOUN 	N_NN	_	10	nmod	_	_
+9	ଟ୍ୱିଟ	_	NOUN	N_NN	_	10	nmod	_	_
 10	କରି	_	VERB	V_VM_VNF	_	12	mark	_	_
 11	ଶୋକବ୍ୟକ୍ତ	_	NOUN	N_NN	_	12	obj	_	_
 12	କରିଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	_
@@ -1067,14 +1068,14 @@
 5	ଥିବାରୁ	_	VERB	V_VM_VNF	_	10	mark	_	_
 6	ମୃତ୍ୟୁ	_	NOUN	N_NN	_	7	nmod	_	_
 7	ସଂଖ୍ୟା	_	NOUN	N_NN	_	8	compound	_	_
-8	ବଢ଼ିବା	_	VERB 	V_VM_VNG	_	10	mark	_	_
+8	ବଢ଼ିବା	_	VERB	V_VM_VNG	_	10	mark	_	_
 9	ଆଶଙ୍କା	_	NOUN	N_NN	_	10	nmod	_	_
 10	କରାଯାଉଛି	_	VERB	V_VM_VF	_	0	root	_	_
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
 
 # sent_id = 90
 # text = ଶାନ୍ତି ବଜାୟ ରଖିବାକୁ ପ୍ରଶାସନ ପକ୍ଷରୁ ଶାନ୍ତି କମିଟି ଗଠନ କରାଯାଇଛି ।
-1	ଶାନ୍ତି	_	NOUN 	N_NN 	_	9	obj	_	_
+1	ଶାନ୍ତି	_	NOUN	N_NN	_	9	obj	_	_
 2	ବଜାୟ	_	NOUN	N_NN	_	3	nmod	_	_
 3	ରଖିବାକୁ	_	VERB	V_VM_VNF	_	9	mark	_	_
 4	ପ୍ରଶାସନ	_	NOUN	N_NN	_	5	nsubj	_	_
