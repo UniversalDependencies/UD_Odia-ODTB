@@ -1133,7 +1133,7 @@
 10	କରାଯିବ	_	VERB	V_VM_VF	_	0	root	_	SpacesAfter=\n
 11	।	_	PUNC	RD_PUNC	_	10	punct
 
-# sent_id = 94 
+# sent_id = 94
 # text = କାର୍ଯ୍ୟକ୍ରମରେ ମୁଖ୍ୟ ଅତିଥି ଭାବେ ଯୋଗ ଦେଇଛନ୍ତି ବାୟୁସେନା ମୁଖ୍ୟ ବି. ଏସ ଧନୋଆ ।
 1	କାର୍ଯ୍ୟକ୍ରମରେ	_	NOUN	N_NN	_	3	nmod	_	_
 2	ମୁଖ୍ୟ	_	ADJ	JJ	_	3	amod	_	_
@@ -1287,7 +1287,7 @@
 9	।	_	PUNCT	RD_PUNC	_	8	punct	_	SpaceAfter=No
 
 # sent_id = 115
-# text = ଏହି ତଥାକଥିତ ଗାନ୍ଧୀ ପରିବାର ଲାଭ ଛଡ଼ା ଅନ୍ୟ କିଛି ଚିନ୍ତା କରି ପାରନ୍ତି ନାହିଁ।
+# text = ଏହି ତଥାକଥିତ ଗାନ୍ଧୀ ପରିବାର ଲାଭ ଛଡ଼ା ଅନ୍ୟ କିଛି ଚିନ୍ତା କରି ପାରନ୍ତି ନାହିଁ ।
 1	ଏହି	_	DET	DM_DMD	_	2	det	_	_
 2	ତଥାକଥିତ	_	ADJ	JJ	_	3	amod	_	_
 3	ଗାନ୍ଧୀ	_	PROPN	N_NNP	_	10	nsubj	_	_
@@ -1318,7 +1318,7 @@
 12	।	_	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n
 
 # sent_id = 112
-# text = ସାଧାରଣ ସଭାରେ ମୁଁ ଯାହା କହିଲି ମୋଦି ତାକୁ ସତ ଭାବିବା ଅନୁଚିତ।
+# text = ସାଧାରଣ ସଭାରେ ମୁଁ ଯାହା କହିଲି ମୋଦି ତାକୁ ସତ ଭାବିବା ଅନୁଚିତ ।
 1	ସାଧାରଣ	_	ADJ	JJ	_	2	amod	_	_
 2	ସଭାରେ	_	NOUN	N_NN	_	10	obl	_	_
 3	ମୁଁ	_	PRON	PR_PRP	_	4	nmod	_	_
