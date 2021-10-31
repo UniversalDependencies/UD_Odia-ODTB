@@ -1087,7 +1087,7 @@
 10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
 
 # sent_id = 91
-# text = ଏଥିପାଇଁ ସେମାନେ ଗୁଗୁଲ ମିଟ୍ , ଜୁମ୍ , ସ୍କାଏପି କିମ୍ବା ଅନ୍ୟ ଡିଜିଟାଲ ପ୍ଲାଟଫର୍ମ ବ୍ୟବହାର କରିପାରିବେ।
+# text = ଏଥିପାଇଁ ସେମାନେ ଗୁଗୁଲ ମିଟ୍ , ଜୁମ୍ , ସ୍କାଏପି କିମ୍ବା ଅନ୍ୟ ଡିଜିଟାଲ ପ୍ଲାଟଫର୍ମ ବ୍ୟବହାର କରିପାରିବେ ।
 1	ଏଥିପାଇଁ	_	DET	DM_DMD	_	2	det	_	_
 2	ସେମାନେ	_	PRON	PR_PRP	_	14	nsubj	_	_
 3	ଗୁଗୁଲ	_	NOUN	N_NN	_	4	iobj	_	_
@@ -1131,7 +1131,7 @@
 8	ହାଇକୋର୍ଟକୁ	_	PROPN	N_NNP	_	9	compound	_	_
 9	ବଦଳି	_	NOUN	N_NN	_	10	nmod	_	_
 10	କରାଯିବ	_	VERB	V_VM_VF	_	0	root	_	SpacesAfter=\n
-11	।	_	PUNC	RD_PUNC	_	10	punct
+11	।	_	PUNC	RD_PUNC	_	10	punct	_	_
 
 # sent_id = 94
 # text = କାର୍ଯ୍ୟକ୍ରମରେ ମୁଖ୍ୟ ଅତିଥି ଭାବେ ଯୋଗ ଦେଇଛନ୍ତି ବାୟୁସେନା ମୁଖ୍ୟ ବି. ଏସ ଧନୋଆ ।
