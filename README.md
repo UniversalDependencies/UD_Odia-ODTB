@@ -34,6 +34,6 @@ Features: manual native
 Relations: manual native
 Contributors: Parida, Shantipriya; Sahoo, Kalyanamalini; Ojha, Atul Kr.; Sahoo, Saraswati; Dash, Satya Ranjan; Dash, Bijayalaxmi
 Contributing: here
-Contact: shantipriya.parida@gmail.com, shashwatup9k@gmail.com, sdashfca@kiit.ac.in, kalyani.eflu@gmail.com, sahoosaraswati455@gmail.com, rudrabijayalaxmi@gmail.com
+Contact: shantipriya.parida@gmail.com, shashwatup9k@gmail.com, sdashfca@kiit.ac.in, kalyanamalini.shabadi@univ-lille.fr, sahoosaraswati455@gmail.com, rudrabijayalaxmi@gmail.com
 ===============================================================================
 </pre>
