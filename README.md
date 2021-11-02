@@ -4,11 +4,19 @@ The Odia UD Treebank (ODTB) is a part of the Universal Dependency treebank proje
 
 # Introduction
 
-The Odia UD Treebank (ODTB) v2.9 consists of approx 1,282 tokens(100 sentences). The ODTB data contains syntactic annotation according to dependency-constituency schema, as well as morphological/POS tags and lemmas. In this data, XPOS is annotated according to Bureau of Indian Standards (BIS) Part Of Speech (POS) tagset.
+The Odia Universal Dependency Treebank (ODTB) project is a collaboration initiated by the below institute/univeristy to develop the first Universal Dependency Treebank in Odia language suitable for many natural language processing (NLP) tasks.
+  * [Idiap Research Institute](https://www.idiap.ch/en), Switzerland
+  * [University of Lille](https://www.univ-lille.fr/home/), France
+  * [Insight Centre for Data Analytics, DSI](https://www.insight-centre.org/),[NUI, Galway](https://www.nuigalway.ie/), Ireland
+  * [Institute of Mathematics & Applications](https://iomaorissa.ac.in/), India
+  * [KIIT University](https://kiit.ac.in/), India
+  * [Ravenshaw University](https://ravenshawuniversity.ac.in/), India
+
+The Odia UD Treebank (ODTB) v2.9 consists of 100 sentences. The ODTB data contains syntactic annotation according to dependency-constituency schema, as well as morphological/POS tags and lemmas. In this data, XPOS is annotated according to Bureau of Indian Standards (BIS) Part Of Speech (POS) tagset.
 
 # Acknowledgments
 
-...
+We would like to thank the EU’s Horizon 2020 Research and Innovation programme through the ELEXIS project under grant agreement No. 731015 for the research support.The authors thank Dr. Daniel Zeman (UFAL, Charles University) for his encouragement and support in building ODTB.
 
 ## References
 
