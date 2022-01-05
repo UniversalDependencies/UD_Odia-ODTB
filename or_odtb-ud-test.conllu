@@ -274,7 +274,7 @@
 2	ସ୍ଥାନୀୟ	_	ADJ	JJ	_	3	amod	_	_
 3	ଲୋକ	_	NOUN	N_NN	_	6	nsubj	_	_
 4	ଆହତଙ୍କୁ	_	NOUN	N_NN	_	6	iobj	_	_
-5	ଉଦ୍ଧାର 	_	NOUN	N_NN	_	6	nmod	_	_
+5	ଉଦ୍ଧାର	_	NOUN	N_NN	_	6	nmod	_	_
 6	କରିଥିଲେ	_	VERB	V_VM_VF	_	0	root	_	_
 7	।	_	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n
 
@@ -286,8 +286,8 @@
 4	ଘଟଣାରେ	_	NOUN	N_NN	_	9	nmod	_	_
 5	କୌଣସି	_	DET	DM_DMI	_	7	det	_	_
 6	ଆତଙ୍କୀ	_	ADJ	JJ	_	7	amod	_	_
-7	ସଂଗଠନକୁ 	_	NOUN	N_NN	_	9	nsubj	_	_
-8	ଦାୟିତ୍ବ 	_	NOUN	N_NN	_	9	nmod	_	_
+7	ସଂଗଠନକୁ	_	NOUN	N_NN	_	9	nsubj	_	_
+8	ଦାୟିତ୍ବ	_	NOUN	N_NN	_	9	nmod	_	_
 9	ଦିଆଯାଇ	_	VERB	V_VM_VNF	_	0	root	_	_
 10	ନାହିଁ	_	AUX	V_VAUX	_	9	aux	_	_
 11	।	_	PUNCT	RD_PUNC	_	9	punct	_	_
@@ -297,14 +297,14 @@
 1	ସମସ୍ତ	_	DET	DM_DMI	_	2	det	_	_
 2	ପ୍ରକାର	_	NOUN	N_NN	_	3	nmod	_	_
 3	ପ୍ରସ୍ତୁତି	_	NOUN	N_NN	_	4	nsubj	_	_
-4	ସରିଛି 	_	VERB	V_VM_VF	_	0	root	_	_
+4	ସରିଛି	_	VERB	V_VM_VF	_	0	root	_	_
 5	।	_	PUNCT	RD_PUNC	_	4	punct	_	SpacesAfter=\n
 
 # sent_id = 28
 # text = ତେବେ ଏକଥା ଆମେ କହୁନାହୁଁ ।
 1	ତେବେ	_	ADV	RB	_	4	advmod	_	_
 2	ଏକଥା	_	NOUN	N_NN	_	4	obj	_	_
-3	ଆମେ 	_	PRON	PR_PRP	_	4	nsubj	_	_
+3	ଆମେ	_	PRON	PR_PRP	_	4	nsubj	_	_
 4	କହୁନାହୁଁ	_	VERB	V_VM_VF	_	0	root	_	_
 5	।	_	PUNCT	RD_PUNC	_	4	punct	_	SpacesAfter=\n
 
@@ -312,11 +312,11 @@
 # text = ପ୍ରଶ୍ନ: ମୁଁ ଅନ୍ୟମାନଙ୍କ ସାଙ୍ଗରେ ମିଳାମିଶା କରିପାରିବି କି?
 1	ପ୍ରଶ୍ନ	_	NOUN	N_NN	_	2	nmod	_	_
 2	:	_	PUNCT	RD_PUNC	_	1	punct	_	_
-3	ମୁଁ   		PRON	PR_PRP	_	7	nsubj	_	_
+3	ମୁଁ		PRON	PR_PRP	_	7	nsubj	_	_
 4	ଅନ୍ୟମାନଙ୍କ	_	PRON	PR_PRP	_	7	iobj	_	_
 5	ସାଙ୍ଗରେ	_	ADP	PSP	_	4	fixed	_	_
 6	ମିଳାମିଶା	_	VERB	V_VM	_	7	obj	_	_
-7	କରିପାରିବି 	_	VERB	V_VM_VF	_	0	root	_	_
+7	କରିପାରିବି	_	VERB	V_VM_VF	_	0	root	_	_
 8	କି	_	DET	DM_DMQ	_	7	det	_	_
 9	?	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
@@ -324,7 +324,7 @@
 # text = ପରେ ଉଭୟ ପରସ୍ପର ଉପରକୁ ପଥର ଫୋପାଡ଼ିଥିଲେ।
 1	ପରେ	_	ADV	RB	_	2	advmod	_	_
 2	ଉଭୟ	_	PRON	PR_PRC	_	6	nsubj	_	_
-3	ପରସ୍ପର 	_	PRON	PR_PRC	_	6	iobj	_	_
+3	ପରସ୍ପର	_	PRON	PR_PRC	_	6	iobj	_	_
 4	ଉପରକୁ	_	ADV	RB	_	3	advmod	_	_
 5	ପଥର	_	NOUN	N_NN	_	6	obj	_	_
 6	ଫୋପାଡ଼ିଥିଲେ	_	VERB	V_VM_VF	_	0	root	_	_
