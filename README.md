@@ -5,7 +5,7 @@ The Odia UD Treebank (ODTB) is a part of the Universal Dependency treebank proje
 # Introduction
 
 The Odia Universal Dependency Treebank (ODTB) project is a collaboration initiated by the below institute/university to develop the first Universal Dependency Treebank in Odia language suitable for many natural language processing (NLP) tasks.
-  * [Idiap Research Institute](https://www.idiap.ch/en), Switzerland
+  * [Silo AI](https://silo.ai/), Finland
   * [University of Lille](https://www.univ-lille.fr/home/), France
   * [Insight Centre for Data Analytics, DSI](https://www.insight-centre.org/),[NUI, Galway](https://www.nuigalway.ie/), Ireland
   * [Institute of Mathematics & Applications](https://iomaorissa.ac.in/), India
