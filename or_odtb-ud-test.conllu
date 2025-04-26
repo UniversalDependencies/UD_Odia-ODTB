@@ -310,13 +310,13 @@
 
 # sent_id = 29
 # text = ପ୍ରଶ୍ନ: ମୁଁ ଅନ୍ୟମାନଙ୍କ ସାଙ୍ଗରେ ମିଳାମିଶା କରିପାରିବି କି?
-1	ପ୍ରଶ୍ନ	_	NOUN	N_NN	_	2	nmod	_	_
+1	ପ୍ରଶ୍ନ	_	NOUN	N_NN	_	0	root	_	_
 2	:	_	PUNCT	RD_PUNC	_	1	punct	_	_
 3	ମୁଁ	_	PRON	PR_PRP	_	7	nsubj	_	_
 4	ଅନ୍ୟମାନଙ୍କ	_	PRON	PR_PRP	_	7	iobj	_	_
 5	ସାଙ୍ଗରେ	_	ADP	PSP	_	4	fixed	_	_
 6	ମିଳାମିଶା	_	VERB	V_VM	_	7	obj	_	_
-7	କରିପାରିବି	_	VERB	V_VM_VF	_	0	root	_	_
+7	କରିପାରିବି	_	VERB	V_VM_VF	_	1	acl	_	_
 8	କି	_	DET	DM_DMQ	_	7	det	_	_
 9	?	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
@@ -409,10 +409,10 @@
 1	ଦୀପାବଳୀ	_	PROPN	N_NNP	_	2	nsubj	_	_
 2	ହେଉଛି	_	VERB	V_VM_VF	_	0	root	_	_
 3	ଏକ	_	NUM	QT_QTC	_	7	nummod	_	_
-4	ଖୁସି	_	ADJ	JJ	_	5	amod	_	_
-5	ଏବଂ	_	CCONJ	CC_CCD	_	4	cc	_	_
-6	ଉଲ୍ଲାସର	_	ADJ	JJ	_	5	amod	_	_
-7	ପର୍ବ	_	NOUN	N_NN	_	2	obj	_	_S
+4	ଖୁସି	_	ADJ	JJ	_	7	amod	_	_
+5	ଏବଂ	_	CCONJ	CC_CCD	_	6	cc	_	_
+6	ଉଲ୍ଲାସର	_	ADJ	JJ	_	4	conj	_	_
+7	ପର୍ବ	_	NOUN	N_NN	_	2	obj	_	_
 8	।	_	PUNCT	RD_PUNC	_	2	punct	_	SpacesAfter=\n
 
 # sent_id = 40
@@ -566,7 +566,7 @@
 1	ପ୍ରଧାନମନ୍ତ୍ରୀ	_	NOUN	N_NN	_	2	nmod	_	_
 2	ମୋଦୀଙ୍କ	_	PROPN	PR_PRP	_	3	nmod	_	_
 3	ମା’	_	NOUN	N_NN	_	11	nsubj	_	_
-4	ଗୁଜୁରାଟର	_	PROPN	N_NNP	_	5	obl	_	_
+4	ଗୁଜୁରାଟର	_	PROPN	N_NNP	_	11	obl	_	_
 5	ଗାନ୍ଧୀନଗରରେ	_	PROPN	N_NNP	_	4	compound	_	_
 6	ନିଜର	_	PRON	PR_PRF	_	3	nmod	_	_
 7	ଅନ୍ୟ	_	DET	DM_DMD	_	8	det	_	_
@@ -614,18 +614,18 @@
 
 # sent_id = 56
 # text = ଅଳେଇଚ: ଏକ ଚାମଚ ଅଳେଇଚ ଗୁଣ୍ଡ ଗୋଟେ ଗ୍ଲାସ୍ ଗରମ ପାଣିରେ ଭଲ ଭାବେ ମିଶାଇ ଦିଅନ୍ତୁ।
-1	ଅଳେଇଚ	_	PROPN	N_NNP	_	2	nmod	_	_
-2	:	_	PUNCT	RD_PUNC	_	12	punct	_	_
+1	ଅଳେଇଚ	_	PROPN	N_NNP	_	0	root	_	_
+2	:	_	PUNCT	RD_PUNC	_	1	punct	_	_
 3	ଏକ	_	NUM	QT_QTC	_	4	nummod	_	_
 4	ଚାମଚ	_	NOUN	N_NN	_	5	nmod	_	_
 5	ଅଳେଇଚ	_	PROPN	N_NNP	_	6	nmod	_	_
-6	ଗୁଣ୍ଡ	_	NOUN	N_NN	_	4	compound	_	_
+6	ଗୁଣ୍ଡ	_	NOUN	N_NN	_	12	obl	_	_
 7	ଗୋଟେ	_	NUM	QT_QTC	_	8	nummod	_	_
 8	ଗ୍ଲାସ୍	_	NOUN	N_NN	_	9	nmod	_	_
 9	ଗରମ	_	ADJ	JJ	_	10	amod	_	_
 10	ପାଣିରେ	_	NOUN	N_NN	_	12	obj	_	_
 11	ଭଲଭାବେ	_	ADV	RB	_	12	advmod	_	_
-12	ମିଶାଇ	_	VERB	V_VM_VNF	_	0	root	_	_
+12	ମିଶାଇ	_	VERB	V_VM_VNF	_	1	parataxis	_	_
 13	ଦିଅନ୍ତୁ	_	VERB	V_VM_VF	_	12	compound	_	SpaceAfter=No
 14	।	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
 
@@ -687,13 +687,13 @@
 1	ଏହି	_	DET	DM_DMD	_	2	det	_	_
 2	ରୋଗର	_	NOUN	N_NN	_	11	nsubj	_	_
 3	ମୁଖ୍ୟ	_	ADJ	JJ	_	4	amod	_	_
-4	କାରଣ	_	NOUN	N_NN	_	3	nmod	_	2
+4	କାରଣ	_	NOUN	N_NN	_	2	nmod	_	_
 5	ଭୁଲ	_	ADJ	JJ	_	6	amod	_	_
-6	ଜୀବନଶୈଳୀ	_	NOUN	N_NN	_	7	nmod	_	_
-7	ଏବଂ	_	CCONJ	CC_CCD	_	11	cc	_	_
+6	ଜୀବନଶୈଳୀ	_	NOUN	N_NN	_	11	obl	_	_
+7	ଏବଂ	_	CCONJ	CC_CCD	_	9	cc	_	_
 8	ଖାଇବାରେ	_	NOUN	N_NNV	_	9	nmod	_	_
-9	ଅବହେଳା	_	NOUN	N_NN	_	8	nmod	_	_
-10	ହେତୁ	_	PART	RP_RPD	_	11	fixed	_	_
+9	ଅବହେଳା	_	NOUN	N_NN	_	6	conj	_	_
+10	ହେତୁ	_	PART	RP_RPD	_	11	compound	_	_
 11	ହୋଇଥାଏ	_	VERB	V_VM_VF	_	0	root	_	_
 12	।	_	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n
 
@@ -891,16 +891,16 @@
 # text = ଠିକ ଏହିଭଳି ପରିସ୍ଥିତି ଯଦି ବର୍ତ୍ତମାନ ସମୟରେ ଆସେ ତେବେ ଗୃହମନ୍ତ୍ରୀ ଅମିତ ଶାହା କ’ଣ କରିବେ ?
 1	ଠିକ	_	NOUN	N_NN	_	2	nmod	_	_
 2	ଏହିଭଳି	_	ADV	RB	_	3	advmod	_	_
-3	ପରିସ୍ଥିତି	_	NOUN	N_NN	_	13	nmod	_	_
-4	ଯଦି	_	SCONJ	CC_CCS	_	5	conj	_	_
+3	ପରିସ୍ଥିତି	_	NOUN	N_NN	_	7	nsubj	_	_
+4	ଯଦି	_	SCONJ	CC_CCS	_	7	mark	_	_
 5	ବର୍ତ୍ତମାନ	_	NOUN	N_NST	_	6	nmod	_	_
 6	ସମୟରେ	_	NOUN	N_NN	_	7	compound	_	_
-7	ଆସେ	_	VERB	V_VM_VF	_	13	mark	_	_
-8	ତେବେ	_	SCONJ	CC_CCS	_	9	conj	_	_
-9	ଗୃହମନ୍ତ୍ରୀ	_	NOUN	N_NN	_	10	appos	_	_
-10	ଅମିତ	_	PROPN	N_NNP	_	9	nsubj	_	_
+7	ଆସେ	_	VERB	V_VM_VF	_	13	advcl	_	_
+8	ତେବେ	_	SCONJ	CC_CCS	_	13	mark	_	_
+9	ଗୃହମନ୍ତ୍ରୀ	_	NOUN	N_NN	_	10	nmod	_	_
+10	ଅମିତ	_	PROPN	N_NNP	_	13	nsubj	_	_
 11	ଶାହା	_	PROPN	N_NNP	_	10	flat	_	_
-12	କ’ଣ	_	PRON	PR_PRI	_	13	nmod	_	_
+12	କ’ଣ	_	PRON	PR_PRI	_	13	obj	_	_
 13	କରିବେ	_	VERB	V_VM_VF	_	0	root	_	_
 14	?	_	PUNCT	RD_PUNC	_	13	punct	_	SpacesAfter=\n
 
@@ -1212,8 +1212,8 @@
 # text = ଏଥର ଫିଲ୍ମରେ ଟାଇଗରଙ୍କ ସହ ବାପା ଜ୍ୟାକି ଶ୍ରଫ ମଧ୍ୟ ନଜର ଆସିବେ।
 1	ଏଥର	_	DET	DM_DMD	_	2	det	_	_
 2	ଫିଲ୍ମରେ	_	NOUN	N_NN	_	10	nsubj	_	_
-3	ଟାଇଗରଙ୍କ	_	PROPN	N_NNP	_	4	iobj	_	_
-4	ସହ	_	ADP	PSP	_	3	fixed	_	_
+3	ଟାଇଗରଙ୍କ	_	PROPN	N_NNP	_	10	iobj	_	_
+4	ସହ	_	ADP	PSP	_	3	case	_	_
 5	ବାପା	_	NOUN	N_NN	_	6	appos	_	_
 6	ଜ୍ୟାକି	_	PROPN	N_NNP	_	7	iobj	_	_
 7	ଶ୍ରଫ	_	PROPN	N_NNP	_	10	flat	_	_
