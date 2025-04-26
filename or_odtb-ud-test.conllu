@@ -978,14 +978,14 @@
 # sent_id = 77
 # text = ୨୦୦ରୁ ଅଧିକ ଫିଲ୍ମରେ ଅଭିନୟ କରିଥିବା ଅମ୍ବରିଶ ରିବେଲ୍‌ ଷ୍ଟାର ଭାବେ ପରିଚିତ ।
 # translit = 200ru adhika philmare abhinaŷa karithibā ambariśa ribel ṣṭāra bhābe paricita .
-1	୨୦୦ରୁ	_	NUM	QT_QTC	_	2	nummod	_	Translit=200ru
+1	୨୦୦ରୁ	_	NUM	QT_QTC	_	3	nummod	_	Translit=200ru
 2	ଅଧିକ	_	DET	DM_DMD	_	3	det	_	Translit=adhika
 3	ଫିଲ୍ମରେ	_	NOUN	N_NN	_	4	nmod	_	Translit=philmare
-4	ଅଭିନୟ	_	NOUN	N_NN	_	5	nmod	_	Translit=abhinaŷa
-5	କରିଥିବା	_	VERB	V_VM_VNG	_	10	mark	_	Translit=karithibā
+4	ଅଭିନୟ	_	NOUN	N_NN	_	5	obl	_	Translit=abhinaŷa
+5	କରିଥିବା	_	VERB	V_VM_VNG	_	6	acl	_	Translit=karithibā
 6	ଅମ୍ବରିଶ	_	NOUN	N_NN	_	10	nsubj	_	Translit=ambariśa
-7	ରିବେଲ୍‌	_	NOUN	N_NN	_	6	flat	_	Translit=ribel
-8	ଷ୍ଟାର	_	NOUN	N_NN	_	9	appos	_	Translit=ṣṭāra
+7	ରିବେଲ୍‌	_	NOUN	N_NN	_	10	obl	_	Translit=ribel
+8	ଷ୍ଟାର	_	NOUN	N_NN	_	7	flat	_	Translit=ṣṭāra
 9	ଭାବେ	_	ADV	RB	_	10	advmod	_	Translit=bhābe
 10	ପରିଚିତ	_	ADJ	JJ	_	0	root	_	SpacesAfter=\n|Translit=paricita
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	Translit=.
