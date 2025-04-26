@@ -332,13 +332,13 @@
 
 # sent_id = 32
 # text = ପ୍ରଧାନମନ୍ତ୍ରୀ ଆସନ୍ତାକାଲି ସକାଳେ ଗୌହାଟୀରୁ ଇଟାନଗରରେ ପହଂଚିବେ ।
-1	ପ୍ରଧାନମନ୍ତ୍ରୀ	_	NOUN	N_NN	_	7	nsubj	_	_
+1	ପ୍ରଧାନମନ୍ତ୍ରୀ	_	NOUN	N_NN	_	6	nsubj	_	_
 2	ଆସନ୍ତାକାଲି	_	ADV	RB	_	3	advmod	_	_
-3	ସକାଳେ	_	ADV	RB	_	7	advmod	_	_
+3	ସକାଳେ	_	ADV	RB	_	6	advmod	_	_
 4	ଗୌହାଟୀରୁ	_	PROPN	N_NNP	_	5	obl	_	_
-5	ଇଟାନଗରରେ	_	PROPN	N_NNP	_	7	obl	_	_
-7	ପହଂଚିବେ	_	VERB	V_VM_VF	_	0	root	_	_
-8	।	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
+5	ଇଟାନଗରରେ	_	PROPN	N_NNP	_	6	obl	_	_
+6	ପହଂଚିବେ	_	VERB	V_VM_VF	_	0	root	_	_
+7	।	_	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = 33
 # text = ଏହି ଘଟଣାରେ କୌଣସି ମୃତାହତ ସୂଚନା ମିଳିନାହିଁ ।
@@ -610,12 +610,12 @@
 12	ତାରିଖ	_	NOUN	N_NN	_	13	nmod	_	_
 13	ଘୋଷଣା	_	NOUN	N_NN	_	14	nmod	_	_
 14	କରନ୍ତୁ	_	VERB	V_VM_VF	_	0	root	_	SpacesAfter=\n
-15	।		PUNCT	RD_PUNC	_	14	punct
+15	।	_	PUNCT	RD_PUNC	_	14	punct	_	_
 
 # sent_id = 56
 # text = ଅଳେଇଚ: ଏକ ଚାମଚ ଅଳେଇଚ ଗୁଣ୍ଡ ଗୋଟେ ଗ୍ଲାସ୍ ଗରମ ପାଣିରେ ଭଲ ଭାବେ ମିଶାଇ ଦିଅନ୍ତୁ।
 1	ଅଳେଇଚ	_	PROPN	N_NNP	_	2	nmod	_	_
-2	:	_	PUNCT	RD_PUNC	_	12	punct
+2	:	_	PUNCT	RD_PUNC	_	12	punct	_	_
 3	ଏକ	_	NUM	QT_QTC	_	4	nummod	_	_
 4	ଚାମଚ	_	NOUN	N_NN	_	5	nmod	_	_
 5	ଅଳେଇଚ	_	PROPN	N_NNP	_	6	nmod	_	_
@@ -656,7 +656,7 @@
 9	ପଦକ୍ଷେପ	_	NOUN	N_NN	_	11	obj	_	_
 10	ଗ୍ରହଣ	_	NOUN	N_NN	_	11	nmod	_	_
 11	କରାଯାଇନାହିଁ	_	VERB	V_VM_VF	_	0	root	_	SpacesAfter=\n
-12	।		PUNCT	RD_PUNC	_	11	punct
+12	।	_	PUNCT	RD_PUNC	_	11	punct	_	_
 
 # sent_id = 59
 # text = ଏବେ ଭୁବନେଶ୍ୱରରୁ ନୂଆଦିଲ୍ଲୀ , କୋଲକାତା , ମୁମ୍ବାଇ , ବେଙ୍ଗାଲୁରୁ , ହାଇଦ୍ରାବାଦ୍‌ , ପୋର୍ଟବ୍ଲେୟାର , ଭାଇଜାଗ୍‌ , ବାରଣାସୀକୁ ବିମାନ ସଂଯୋଗ ରହିଛି ।
