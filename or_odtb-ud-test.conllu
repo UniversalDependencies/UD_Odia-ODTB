@@ -931,7 +931,7 @@
 8	ପ୍ରଦର୍ଶନ	_	NOUN	N_NN	_	7	compound	_	_
 9	ଜାରି	_	VERB	V_VM_VNF	_	10	nmod	_	_
 10	ରଖିଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	_
-11	।	_	PUNCT	RD_PUNC	_	10	punc	_	SpacesAfter=\n
+11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
 
 # sent_id = 79
 # text = ସରକାର ଓ ରିଜର୍ଭ ବ୍ୟାଙ୍କ ମଧ୍ୟରେ ଗତ କିଛିଦିନ ହେଲା ବିଭିନ୍ନ ବିଷୟକୁ ନେଇ ମତଭେଦ ରହିଆସିଥିଲା।
