@@ -229,7 +229,7 @@
 3	ଭାରତୀୟ	_	ADJ	JJ	_	6	amod	_	Translit=bhāratīŷa
 4	କ୍ରିକେଟ	_	NOUN	N_NN	_	5	compound	_	Translit=krikeṭa
 5	ଦଳର	_	NOUN	N_NN	_	6	nmod	_	Translit=daḷara
-6	ଅଧିନାୟକ	_	NOUN	N_NN	_	7	appos	_	Translit=adhināŷaka
+6	ଅଧିନାୟକ	_	NOUN	N_NN	_	7	nmod	_	Translit=adhināŷaka
 7	ବିରାଟ	_	PROPN	N_NNP	_	10	nsubj	_	Translit=birāṭa
 8	କୋହଲି	_	PROPN	N_NNP	_	7	flat	_	Translit=kohali
 9	ଉପସ୍ଥିତ	_	ADJ	JJ	_	10	amod	_	Translit=upasthita
@@ -1060,7 +1060,7 @@
 3	ଖବର	_	NOUN	N_NN	_	4	compound	_	Translit=khabara
 4	ଜଣାପଡିବା	_	VERB	V_VM_VNF	_	12	mark	_	Translit=jaṇāpaḍibā
 5	ପରେ	_	ADP	PSP	_	4	fixed	_	Translit=pare
-6	ପ୍ରଧାନମନ୍ତ୍ରୀ	_	NOUN	N_NST	_	11	appos	_	Translit=pradhānamantrī
+6	ପ୍ରଧାନମନ୍ତ୍ରୀ	_	NOUN	N_NST	_	11	nmod	_	Translit=pradhānamantrī
 7	ନରେନ୍ଦ୍ର	_	PROPN	N_NNP	_	12	nsubj	_	Translit=narendra
 8	ମୋଦି	_	PROPN	N_NNP	_	7	flat	_	Translit=modi
 9	ଟ୍ୱିଟ	_	NOUN	N_NN	_	10	nmod	_	Translit=ṭୱିṭa
@@ -1209,7 +1209,7 @@
 1	ଓଡିଶା	_	PROPN	N_NNP	_	2	nmod	_	Translit=oḍiśā
 2	ହାଇକୋର୍ଟର	_	NOUN	N_NN	_	4	compound	_	Translit=hāikorṭara
 3	ମୁଖ୍ୟ	_	ADJ	JJ	_	4	amod	_	Translit=mukhŷa
-4	ବିଚାରପତି	_	NOUN	N_NN	_	5	appos	_	Translit=bicārapati
+4	ବିଚାରପତି	_	NOUN	N_NN	_	5	nmod	_	Translit=bicārapati
 5	ମହମ୍ମଦ	_	PROPN	N_NNP	_	10	iobj	_	Translit=mahammada
 6	ରଫିକ୍ଙ୍କୁ	_	PROPN	N_NNP	_	5	flat	_	Translit=raphikṅku
 7	ମଧ୍ୟପ୍ରଦେଶ	_	PROPN	N_NNP	_	8	nmod	_	Translit=madhŷapradeśa
@@ -1227,7 +1227,7 @@
 4	ଭାବେ	_	ADP	PSP	_	6	fixed	_	Translit=bhābe
 5	ଯୋଗ	_	NOUN	N_NN	_	6	nmod	_	Translit=yoga
 6	ଦେଇଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	Translit=deichanti
-7	ବାୟୁସେନା	_	NOUN	N_NN	_	8	appos	_	Translit=bāŷusenā
+7	ବାୟୁସେନା	_	NOUN	N_NN	_	8	nmod	_	Translit=bāŷusenā
 8	ମୁଖ୍ୟ	_	NOUN	N_NN	_	9	compound	_	Translit=mukhŷa
 9	ବି.	_	PROPN	N_NNP	_	6	nsubj	_	Translit=bi.
 10	ଏସ	_	PROPN	N_NNP	_	9	flat	_	Translit=esa
@@ -1275,7 +1275,7 @@
 3	ଦୋଷୀଙ୍କୁ	_	NOUN	N_NN	_	4	iobj	_	Translit=doṣīṅku
 4	ଧରାଯିବ	_	VERB	V_VM_VF	_	10	mark	_	Translit=dharāyiba
 5	ବୋଲି	_	ADP	PSP	_	4	fixed	_	Translit=boli
-6	ଏସ୍ପି	_	PROPN	N_NNP	_	7	appos	_	Translit=espi
+6	ଏସ୍ପି	_	PROPN	N_NNP	_	7	nmod	_	Translit=espi
 7	ବି	_	PROPN	N_NNP	_	8	nsubj	_	Translit=bi
 8	ଯୁଗଳ	_	PROPN	N_NNP	_	9	flat	_	Translit=yugaḷa
 9	କିଶୋର	_	PROPN	N_NNP	_	10	flat	_	Translit=kiśora
@@ -1306,7 +1306,7 @@
 2	ଫିଲ୍ମରେ	_	NOUN	N_NN	_	10	nsubj	_	Translit=philmare
 3	ଟାଇଗରଙ୍କ	_	PROPN	N_NNP	_	10	iobj	_	Translit=ṭāigaraṅka
 4	ସହ	_	ADP	PSP	_	3	case	_	Translit=saha
-5	ବାପା	_	NOUN	N_NN	_	6	appos	_	Translit=bāpā
+5	ବାପା	_	NOUN	N_NN	_	6	nmod	_	Translit=bāpā
 6	ଜ୍ୟାକି	_	PROPN	N_NNP	_	7	iobj	_	Translit=jŷāki
 7	ଶ୍ରଫ	_	PROPN	N_NNP	_	10	flat	_	Translit=śrapha
 8	ମଧ୍ୟ	_	PART	RP_RPD	_	9	fixed	_	Translit=madhŷa
