@@ -1237,18 +1237,18 @@
 # sent_id = 95
 # text = ସୂତ୍ର ଅନୁଯାୟୀ ଯୁବରାଜ ସିଂହଙ୍କ ମା’ ଶବନମ ବି ଏହି ୱେବ ସିରିଜ ସହ ଜଡିତ ଅଛନ୍ତି ।
 # translit = sūtra anuyāŷī yubarāja siṁhaṅka mā’ śabanama bi ehi ୱେba sirija saha jaḍita achanti .
-1	ସୂତ୍ର	_	NOUN	N_NN	_	2	nmod	_	Translit=sūtra
-2	ଅନୁଯାୟୀ	_	ADP	PSP	_	3	fixed	_	Translit=anuyāŷī
-3	ଯୁବରାଜ	_	PROPN	N_NNP	_	13	iobj	_	Translit=yubarāja
-4	ସିଂହଙ୍କ	_	PROPN	N_NNP	_	6	flat	_	Translit=siṁhaṅka
-5	ମା’	_	NOUN	N_NN	_	6	appos	_	Translit=mā’
+1	ସୂତ୍ର	_	NOUN	N_NN	_	13	obl	_	Translit=sūtra
+2	ଅନୁଯାୟୀ	_	ADP	PSP	_	1	case	_	Translit=anuyāŷī
+3	ଯୁବରାଜ	_	PROPN	N_NNP	_	5	nmod	_	Translit=yubarāja
+4	ସିଂହଙ୍କ	_	PROPN	N_NNP	_	3	flat	_	Translit=siṁhaṅka
+5	ମା’	_	NOUN	N_NN	_	6	nmod	_	Translit=mā’
 6	ଶବନମ	_	PROPN	N_NNP	_	13	nsubj	_	Translit=śabanama
-7	ବି	_	PART	RP_RPD	_	13	fixed	_	Translit=bi
+7	ବି	_	PART	RP_RPD	_	13	advmod	_	Translit=bi
 8	ଏହି	_	DET	DM_DMD	_	10	det	_	Translit=ehi
-9	ୱେବ	_	NOUN	N_NN	_	11	nmod	_	Translit=ୱେba
-10	ସିରିଜ	_	NOUN	N_NN	_	11	compound	_	Translit=sirija
-11	ସହ	_	ADP	PSP	_	13	fixed	_	Translit=saha
-12	ଜଡିତ	_	ADJ	JJ	_	13	amod	_	Translit=jaḍita
+9	ୱେବ	_	NOUN	N_NN	_	10	nmod	_	Translit=ୱେba
+10	ସିରିଜ	_	NOUN	N_NN	_	13	obl	_	Translit=sirija
+11	ସହ	_	ADP	PSP	_	10	case	_	Translit=saha
+12	ଜଡିତ	_	ADJ	JJ	_	13	advmod	_	Translit=jaḍita
 13	ଅଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	Translit=achanti
 14	।	_	PUNCT	RD_PUNC	_	13	punct	_	SpacesAfter=\n|Translit=.
 
@@ -1364,7 +1364,7 @@
 # translit = kr̥ṣṇā dharitrī pari sarbaṁsahā nuhem̃ .
 1	କୃଷ୍ଣା	_	PROPN	N_NNP	_	4	nsubj	_	Translit=kr̥ṣṇā
 2	ଧରିତ୍ରୀ	_	PROPN	N_NNP	_	4	obj	_	Translit=dharitrī
-3	ପରି	_	ADP	PSP	_	2	fixed	_	Translit=pari
+3	ପରି	_	ADP	PSP	_	2	case	_	Translit=pari
 4	ସର୍ବଂସହା	_	ADJ	JJ	_	0	root	_	Translit=sarbaṁsahā
 5	ନୁହେଁ	_	AUX	V_VAUX	_	4	cop	_	Translit=nuhem̃
 6	।	_	PUNCT	RD_PUNC	_	4	punct	_	Translit=.
