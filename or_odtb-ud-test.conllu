@@ -32,7 +32,7 @@
 3	ସେମାନଙ୍କ	_	PRON	PR_PRP	_	4	iobj	_	Translit=semānaṅka
 4	ଜାମିନ	_	NOUN	N_NN	_	10	nmod	_	Translit=jāmina
 5	ନାମଞ୍ଜୁର	_	NOUN	N_NN	_	6	nmod	_	Translit=nāmañjura
-6	କରିବାଫଳରେ	_	SCONJ	CC_CCS	_	10	conj	_	Translit=karibāphaḷare
+6	କରିବାଫଳରେ	_	SCONJ	CC_CCS	_	10	mark	_	Translit=karibāphaḷare
 7	ସେମାନଙ୍କୁ	_	PRON	PR_PRP	_	10	iobj	_	Translit=semānaṅku
 8	ଜେଲ	_	NOUN	N_NN	_	9	nmod	_	Translit=jela
 9	ହାଜତକୁ	_	NOUN	N_NN	_	10	obj	_	Translit=hājataku
@@ -694,7 +694,7 @@
 6	ପ୍ରୟାଗରାଜ	_	PROPN	N_NNP	_	7	nmod	_	Translit=praŷāgarāja
 7	ଗସ୍ତକୁ	_	VERB	V_VM_VINF	_	10	nsubj	_	Translit=gastaku
 8	ମହତ୍ତ୍ୱପୂର୍ଣ୍ଣ	_	ADJ	JJ	_	9	amod	_	Translit=mahattppūrṇṇa
-9	ବୋଲି	_	SCONJ	CC_CCS	_	10	conj	_	Translit=boli
+9	ବୋଲି	_	SCONJ	CC_CCS	_	10	mark	_	Translit=boli
 10	କୁହାଯାଉଛି	_	VERB	V_VM_VF	_	0	root	_	Translit=kuhāyāuchi
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n|Translit=.
 
@@ -790,8 +790,8 @@
 5	ମୁଖ୍ୟମନ୍ତ୍ରୀଙ୍କ	_	NOUN	N_NN	_	6	compound	_	Translit=mukhŷamantrīṅka
 6	ସହିତ	_	ADP	PSP	_	11	fixed	_	Translit=sahita
 7	ଆଲୋଚନା	_	NOUN	N_NN	_	8	obj	_	Translit=ālocanā
-8	କରିବେ	_	VERB	V_VM_VF	_	11	mark	_	Translit=karibe
-9	ବୋଲି	_	SCONJ	CC_CCS	_	8	conj	_	Translit=boli
+8	କରିବେ	_	VERB	V_VM_VF	_	11	advcl	_	Translit=karibe
+9	ବୋଲି	_	SCONJ	CC_CCS	_	8	mark	_	Translit=boli
 10	ଗଡକରୀ	_	PRON	PR_PRP	_	11	nsubj	_	Translit=gaḍakarī
 11	କହିଛନ୍ତି	_	VERB	V_VM	_	0	root	_	Translit=kahichanti
 12	।	_	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n|Translit=.
