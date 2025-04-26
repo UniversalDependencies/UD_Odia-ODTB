@@ -252,14 +252,14 @@
 # sent_id = 22
 # text = ଏଥିରେ ଥିବା ପୋଷକ ତତ୍ତ୍ୱ ଶରୀର ପାଇଁ ଆଣ୍ଟିଅକ୍ସିଡ଼ାଣ୍ଟ ଭଳି କାର୍ଯ୍ୟ କରିଥାଏ ।
 # translit = ethire thibā poṣaka tattୱ śarīra pāim̃ āṇṭiaksiṛāṇṭa bhaḷi kāryŷa karithāe .
-1	ଏଥିରେ	_	DET	DM_DMD	_	2	det	_	Translit=ethire
-2	ଥିବା	_	AUX	V_VAUX	_	10	mark	_	Translit=thibā
+1	ଏଥିରେ	_	DET	DM_DMD	_	2	obl	_	Translit=ethire
+2	ଥିବା	_	VERB	V_VAUX	_	4	acl	_	Translit=thibā
 3	ପୋଷକ	_	ADJ	JJ	_	4	amod	_	Translit=poṣaka
 4	ତତ୍ତ୍ୱ	_	NOUN	N_NN	_	10	nsubj	_	Translit=tattୱ
 5	ଶରୀର	_	NOUN	N_NN	_	8	nmod	_	Translit=śarīra
-6	ପାଇଁ	_	ADP	PSP	_	5	fixed	_	Translit=pāim̃
+6	ପାଇଁ	_	ADP	PSP	_	5	case	_	Translit=pāim̃
 7	ଆଣ୍ଟିଅକ୍ସିଡ଼ାଣ୍ଟ	_	NOUN	N_NN	_	10	obj	_	Translit=āṇṭiaksiṛāṇṭa
-8	ଭଳି	_	ADP	PSP	_	7	fixed	_	Translit=bhaḷi
+8	ଭଳି	_	ADP	PSP	_	7	case	_	Translit=bhaḷi
 9	କାର୍ଯ୍ୟ	_	NOUN	N_NN	_	10	nmod	_	Translit=kāryŷa
 10	କରିଥାଏ	_	VERB	V_VM_VF	_	0	root	_	Translit=karithāe
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n|Translit=.
