@@ -35,10 +35,10 @@ Data available since: UD v2.9
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: nonfiction news
-Lemmas: manual native
+Lemmas: not available
 UPOS: manual native
 XPOS: not available
-Features: manual native
+Features: not available
 Relations: manual native
 Contributors: Parida, Shantipriya; Sahoo, Kalyanamalini; Ojha, Atul Kr.; Sahoo, Saraswati; Dash, Satya Ranjan; Dash, Bijayalaxmi
 Contributing: here
