@@ -456,18 +456,18 @@
 # sent_id = 40
 # text = ଓଡ଼ିଶାଲାଇଭ୍‌ ବ୍ୟୁରୋ : ବାତ୍ୟା ‘ ବୁଲ୍‌ବୁଲ୍‌ ’ ପଶ୍ଚିମବଙ୍ଗ ଓ ବାଂଲାଦେଶ ମୁହାଁ ହୋଇଛି ।
 # translit = oṛiśālāibh bŷuro : bātŷā ‘ bulbul ’ paścimabaṅga o bāṁlādeśa muhām̃ hoichi .
-1	ଓଡ଼ିଶାଲାଇଭ୍‌	_	NOUN	N_NN	_	2	nmod	_	Translit=oṛiśālāibh
-2	ବ୍ୟୁରୋ	_	NOUN	N_NN	_	3	flat	_	Translit=bŷuro
-3	:	_	PUNCT	RD_PUNC	_	12	punct	_	Translit=:
+1	ଓଡ଼ିଶାଲାଇଭ୍‌	_	NOUN	N_NN	_	0	root	_	Translit=oṛiśālāibh
+2	ବ୍ୟୁରୋ	_	NOUN	N_NN	_	1	flat	_	Translit=bŷuro
+3	:	_	PUNCT	RD_PUNC	_	1	punct	_	Translit=:
 4	ବାତ୍ୟା	_	NOUN	N_NN	_	6	nmod	_	Translit=bātŷā
-5	‘	_	PUNCT	RD_PUNC	_	12	punct	_	Translit=‘
+5	‘	_	PUNCT	RD_PUNC	_	6	punct	_	Translit=‘
 6	ବୁଲ୍‌ବୁଲ୍‌	_	PROPN	N_NNP	_	11	nsubj	_	Translit=bulbul
-7	’	_	PUNCT	RD_PUNC	_	12	punct	_	Translit=’
-8	ପଶ୍ଚିମବଙ୍ଗ	_	PROPN	N_NNP	_	9	obj	_	Translit=paścimabaṅga
-9	ଓ	_	CCONJ	CC_CCD	_	12	cc	_	Translit=o
-10	ବାଂଲାଦେଶ	_	PROPN	N_NNP	_	9	compound	_	Translit=bāṁlādeśa
-11	ମୁହାଁ	_	VERB	V_VM_VNF	_	12	nmod	_	Translit=muhām̃
-12	ହୋଇଛି	_	VERB	V_VM_VF	_	0	root	_	Translit=hoichi
+7	’	_	PUNCT	RD_PUNC	_	6	punct	_	Translit=’
+8	ପଶ୍ଚିମବଙ୍ଗ	_	PROPN	N_NNP	_	12	obj	_	Translit=paścimabaṅga
+9	ଓ	_	CCONJ	CC_CCD	_	10	cc	_	Translit=o
+10	ବାଂଲାଦେଶ	_	PROPN	N_NNP	_	8	conj	_	Translit=bāṁlādeśa
+11	ମୁହାଁ	_	VERB	V_VM_VNF	_	12	compound	_	Translit=muhām̃
+12	ହୋଇଛି	_	VERB	V_VM_VF	_	1	ccomp	_	Translit=hoichi
 13	।	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 41
@@ -799,8 +799,8 @@
 # sent_id = 63
 # text = ଭୁବନେଶ୍ୱର: ଦିନକୁ ଦିନ ବ୍ୟାପୁଥିବା ମହାମାରୀ କରୋନାକୁ ରୋକିବା ପାଇଁ ରାଜ୍ୟ ସରକାର ଅଂଟା ଭିଡିଛନ୍ତି ।
 # translit = bhubaneśrra: dinaku dina bŷāputhibā mahāmārī karonāku rokibā pāim̃ rājŷa sarakāra aṁṭā bhiḍichanti .
-1	ଭୁବନେଶ୍ୱର	_	PROPN	N_NNP	_	2	nmod	_	SpaceAfter=No|Translit=bhubaneśrra
-2	:	_	PUNCT	RD_PUNC	_	13	punct	_	Translit=:
+1	ଭୁବନେଶ୍ୱର	_	PROPN	N_NNP	_	0	root	_	SpaceAfter=No|Translit=bhubaneśrra
+2	:	_	PUNCT	RD_PUNC	_	1	punct	_	Translit=:
 3	ଦିନକୁ	_	NOUN	N_NN	_	4	nmod	_	Translit=dinaku
 4	ଦିନ	_	NOUN	N_NN	_	5	compound	_	Translit=dina
 5	ବ୍ୟାପୁଥିବା	_	VERB	V_VM_VNF	_	6	nmod	_	Translit=bŷāputhibā
@@ -811,7 +811,7 @@
 10	ରାଜ୍ୟ	_	NOUN	N_NN	_	11	nmod	_	Translit=rājŷa
 11	ସରକାର	_	NOUN	N_NN	_	13	nsubj	_	Translit=sarakāra
 12	ଅଂଟା	_	NOUN	N_NN	_	13	nmod	_	Translit=aṁṭā
-13	ଭିଡିଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	Translit=bhiḍichanti
+13	ଭିଡିଛନ୍ତି	_	VERB	V_VM_VF	_	1	parataxis	_	Translit=bhiḍichanti
 14	।	_	PUNCT	RD_PUNC	_	13	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 64
@@ -1090,20 +1090,20 @@
 # text = ଏହି ଅବସରରେ କେନ୍ଦ୍ର ପରିବେଶ, ଜଙ୍ଗଲ ଏବଂ ଜଳବାୟୁ ପରିବର୍ତ୍ତନ ରାଷ୍ଟ୍ରମନ୍ତ୍ରୀ ଶ୍ରୀ ବାବୁଲ ସୁପ୍ରିୟୋ ମଧ୍ୟ ଉପସ୍ଥିତ ଥିଲେ ।
 # translit = ehi abasarare kendra paribeśa, jaṅgala ebaṁ jaḷabāŷu paribarttana rāṣṭramantrī śrī bābula supriŷo madhŷa upasthita thile .
 1	ଏହି	_	DET	DM_DMD	_	2	det	_	Translit=ehi
-2	ଅବସରରେ	_	NOUN	N_NN	_	3	nmod	_	Translit=abasarare
-3	କେନ୍ଦ୍ର	_	NOUN	N_NN	_	4	nmod	_	Translit=kendra
-4	ପରିବେଶ	_	NOUN	N_NN	_	5	compound	_	SpaceAfter=No|Translit=paribeśa
-5	,	_	PUNCT	RD_PUNC	_	16	punct	_	Translit=,
-6	ଜଙ୍ଗଲ	_	NOUN	N_NN	_	7	nmod	_	Translit=jaṅgala
-7	ଏବଂ	_	CCONJ	CC_CCD	_	16	cc	_	Translit=ebaṁ
+2	ଅବସରରେ	_	NOUN	N_NN	_	16	obl	_	Translit=abasarare
+3	କେନ୍ଦ୍ର	_	NOUN	N_NN	_	10	nmod	_	Translit=kendra
+4	ପରିବେଶ	_	NOUN	N_NN	_	10	nmod	_	SpaceAfter=No|Translit=paribeśa
+5	,	_	PUNCT	RD_PUNC	_	6	punct	_	Translit=,
+6	ଜଙ୍ଗଲ	_	NOUN	N_NN	_	4	conj	_	Translit=jaṅgala
+7	ଏବଂ	_	CCONJ	CC_CCD	_	9	cc	_	Translit=ebaṁ
 8	ଜଳବାୟୁ	_	NOUN	N_NN	_	9	nmod	_	Translit=jaḷabāŷu
-9	ପରିବର୍ତ୍ତନ	_	NOUN	N_NN	_	7	compound	_	Translit=paribarttana
-10	ରାଷ୍ଟ୍ରମନ୍ତ୍ରୀ	_	PROPN	N_NNP	_	11	appos	_	Translit=rāṣṭramantrī
+9	ପରିବର୍ତ୍ତନ	_	NOUN	N_NN	_	4	conj	_	Translit=paribarttana
+10	ରାଷ୍ଟ୍ରମନ୍ତ୍ରୀ	_	PROPN	N_NNP	_	11	nmod	_	Translit=rāṣṭramantrī
 11	ଶ୍ରୀ	_	PROPN	N_NNP	_	16	nsubj	_	Translit=śrī
 12	ବାବୁଲ	_	PROPN	N_NNP	_	11	flat	_	Translit=bābula
 13	ସୁପ୍ରିୟୋ	_	PROPN	N_NNP	_	11	flat	_	Translit=supriŷo
-14	ମଧ୍ୟ	_	PART	RP_RPD	_	15	fixed	_	Translit=madhŷa
-15	ଉପସ୍ଥିତ	_	ADJ	JJ	_	16	amod	_	Translit=upasthita
+14	ମଧ୍ୟ	_	PART	RP_RPD	_	15	compound	_	Translit=madhŷa
+15	ଉପସ୍ଥିତ	_	ADJ	JJ	_	16	advmod	_	Translit=upasthita
 16	ଥିଲେ	_	VERB	V_VM_VF	_	0	root	_	Translit=thile
 17	।	_	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n|Translit=.
 
@@ -1171,19 +1171,19 @@
 # sent_id = 91
 # text = ଏଥିପାଇଁ ସେମାନେ ଗୁଗୁଲ ମିଟ୍ , ଜୁମ୍ , ସ୍କାଏପି କିମ୍ବା ଅନ୍ୟ ଡିଜିଟାଲ ପ୍ଲାଟଫର୍ମ ବ୍ୟବହାର କରିପାରିବେ ।
 # translit = ethipāim̃ semāne gugula miṭ , jum , skāepi kimbā anŷa ḍijiṭāla plāṭapharma bŷabahāra karipāribe .
-1	ଏଥିପାଇଁ	_	DET	DM_DMD	_	2	det	_	Translit=ethipāim̃
+1	ଏଥିପାଇଁ	_	DET	DM_DMD	_	14	obl	_	Translit=ethipāim̃
 2	ସେମାନେ	_	PRON	PR_PRP	_	14	nsubj	_	Translit=semāne
-3	ଗୁଗୁଲ	_	NOUN	N_NN	_	4	iobj	_	Translit=gugula
-4	ମିଟ୍	_	NOUN	N_NN	_	13	flat	_	Translit=miṭ
-5	,	_	PUNCT	RD_PUNC	_	14	punct	_	Translit=,
-6	ଜୁମ୍	_	NOUN	N_NN	_	7	iobj	_	Translit=jum
-7	,	_	PUNCT	RD_PUNC	_	14	punct	_	Translit=,
-8	ସ୍କାଏପି	_	NOUN	N_NN	_	9	iobj	_	Translit=skāepi
-9	କିମ୍ବା	_	CCONJ	CC_CCD	_	14	conj	_	Translit=kimbā
-10	ଅନ୍ୟ	_	DET	DM_DMI	_	11	det	_	Translit=anŷa
+3	ଗୁଗୁଲ	_	NOUN	N_NN	_	13	nmod	_	Translit=gugula
+4	ମିଟ୍	_	NOUN	N_NN	_	3	flat	_	Translit=miṭ
+5	,	_	PUNCT	RD_PUNC	_	6	punct	_	Translit=,
+6	ଜୁମ୍	_	NOUN	N_NN	_	3	conj	_	Translit=jum
+7	,	_	PUNCT	RD_PUNC	_	8	punct	_	Translit=,
+8	ସ୍କାଏପି	_	NOUN	N_NN	_	3	conj	_	Translit=skāepi
+9	କିମ୍ବା	_	CCONJ	CC_CCD	_	12	cc	_	Translit=kimbā
+10	ଅନ୍ୟ	_	DET	DM_DMI	_	12	det	_	Translit=anŷa
 11	ଡିଜିଟାଲ	_	ADJ	JJ	_	12	amod	_	Translit=ḍijiṭāla
-12	ପ୍ଲାଟଫର୍ମ	_	NOUN	N_NN	_	9	iobj	_	Translit=plāṭapharma
-13	ବ୍ୟବହାର	_	NOUN	N_NN	_	14	nmod	_	Translit=bŷabahāra
+12	ପ୍ଲାଟଫର୍ମ	_	NOUN	N_NN	_	3	conj	_	Translit=plāṭapharma
+13	ବ୍ୟବହାର	_	NOUN	N_NN	_	14	obl	_	Translit=bŷabahāra
 14	କରିପାରିବେ	_	VERB	V_VM_VF	_	0	root	_	Translit=karipāribe
 15	।	_	PUNCT	RD_PUNC	_	14	punct	_	SpacesAfter=\n|Translit=.
 
