@@ -526,11 +526,11 @@
 # translit = ehi carccā madhŷare duhim̃ṅka [ … ]
 1	ଏହି	_	DET	DM_DMD	_	2	det	_	Translit=ehi
 2	ଚର୍ଚ୍ଚା	_	NOUN	N_NN	_	0	root	_	Translit=carccā
-3	ମଧ୍ୟରେ	_	ADP	PSP	_	2	fixed	_	Translit=madhŷare
-4	ଦୁହିଁଙ୍କ	_	NOUN	N_NN	_	2	nmod	_	Translit=duhim̃ṅka
-5	[	_	PUNCT	RD_PUNC	_	2	punct	_	Translit=[
-6	...	_	PUNCT	RD_PUNC	_	2	punct	_	Translit=...
-7	]	_	PUNCT	RD_PUNC	_	2	punct	_	SpacesAfter=\n|Translit=]
+3	ମଧ୍ୟରେ	_	ADP	PSP	_	2	case	_	Translit=madhŷare
+4	ଦୁହିଁଙ୍କ	_	NOUN	N_NN	_	2	orphan	_	Translit=duhim̃ṅka
+5	[	_	PUNCT	RD_PUNC	_	6	punct	_	Translit=[
+6	…	_	PUNCT	RD_PUNC	_	2	punct	_	Translit=…
+7	]	_	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n|Translit=]
 
 # sent_id = 46
 # text = ତାଙ୍କର ଏହି ଗୋଟିଏ ଭୋଟରେ ସରକାରର ପତନ ଘଟିଲା।
@@ -666,18 +666,18 @@
 15	।	_	PUNCT	RD_PUNC	_	14	punct	_	Translit=.
 
 # sent_id = 56
-# text = ଅଳେଇଚ: ଏକ ଚାମଚ ଅଳେଇଚ ଗୁଣ୍ଡ ଗୋଟେ ଗ୍ଲାସ୍ ଗରମ ପାଣିରେ ଭଲ ଭାବେ ମିଶାଇ ଦିଅନ୍ତୁ।
-# translit = aḷeica: eka cāmaca aḷeica guṇḍa goṭe glās garama pāṇire bhala bhābe miśāi diantu.
+# text = ଅଳେଇଚ: ଏକ ଚାମଚ ଅଳେଇଚ ଗୁଣ୍ଡ ଗୋଟେ ଗ୍ଲାସ୍ ଗରମ ପାଣିରେ ଭଲଭାବେ ମିଶାଇ ଦିଅନ୍ତୁ।
+# translit = aḷeica: eka cāmaca aḷeica guṇḍa goṭe glās garama pāṇire bhalabhābe miśāi diantu.
 1	ଅଳେଇଚ	_	PROPN	N_NNP	_	0	root	_	SpaceAfter=No|Translit=aḷeica
 2	:	_	PUNCT	RD_PUNC	_	1	punct	_	Translit=:
 3	ଏକ	_	NUM	QT_QTC	_	4	nummod	_	Translit=eka
 4	ଚାମଚ	_	NOUN	N_NN	_	5	nmod	_	Translit=cāmaca
 5	ଅଳେଇଚ	_	PROPN	N_NNP	_	6	nmod	_	Translit=aḷeica
-6	ଗୁଣ୍ଡ	_	NOUN	N_NN	_	12	obl	_	Translit=guṇḍa
+6	ଗୁଣ୍ଡ	_	NOUN	N_NN	_	12	obj	_	Translit=guṇḍa
 7	ଗୋଟେ	_	NUM	QT_QTC	_	8	nummod	_	Translit=goṭe
 8	ଗ୍ଲାସ୍	_	NOUN	N_NN	_	9	nmod	_	Translit=glās
 9	ଗରମ	_	ADJ	JJ	_	10	amod	_	Translit=garama
-10	ପାଣିରେ	_	NOUN	N_NN	_	12	obj	_	Translit=pāṇire
+10	ପାଣିରେ	_	NOUN	N_NN	_	12	obl	_	Translit=pāṇire
 11	ଭଲଭାବେ	_	ADV	RB	_	12	advmod	_	Translit=bhalabhābe
 12	ମିଶାଇ	_	VERB	V_VM_VNF	_	1	parataxis	_	Translit=miśāi
 13	ଦିଅନ୍ତୁ	_	VERB	V_VM_VF	_	12	compound	_	SpaceAfter=No|Translit=diantu
