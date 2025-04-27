@@ -290,8 +290,8 @@
 # text = କ୍ରିଷ୍ଟିଆନ ରୋନାଲ୍ଡୋ ହେଲେ ଫୁଟବଲ ଇତିହାସର ସର୍ବାଧିକ ଗୋଲ ସ୍କୋରର ।
 # translit = kriṣṭiāna ronālḍo hele phuṭabala itihāsara sarbādhika gola skorara .
 # text_en = Cristiano Ronaldo is the all-time top scorer in football history.
-1	କ୍ରିଷ୍ଟିଆନ	_	PROPN	N_NNP	_	2	nsubj	_	Translit=kriṣṭiāna
-2	ରୋନାଲ୍ଡୋ	_	PROPN	N_NNP	_	3	flat	_	Translit=ronālḍo
+1	କ୍ରିଷ୍ଟିଆନ	_	PROPN	N_NNP	_	3	nsubj	_	Translit=kriṣṭiāna
+2	ରୋନାଲ୍ଡୋ	_	PROPN	N_NNP	_	1	flat	_	Translit=ronālḍo
 3	ହେଲେ	_	VERB	V_VM_VF	_	0	root	_	Translit=hele
 4	ଫୁଟବଲ	_	NOUN	N_NN	_	5	nmod	_	Translit=phuṭabala
 5	ଇତିହାସର	_	NOUN	N_NN	_	3	nmod	_	Translit=itihāsara
@@ -639,13 +639,13 @@
 # text_en = The film is 'Pyaar Kiya To Darna Kay'.
 1	ଫିଲ୍ମଟି	_	NOUN	N_NN	_	2	nsubj	_	Translit=philmaṭi
 2	ହେଉଛି	_	VERB	V_VM_VF	_	0	root	_	Translit=heuchi
-3	‘	_	PUNCT	RD_PUNC	_	8	punct	_	Translit=‘
-4	ପ୍ୟାର	_	PROPN	N_NNP	_	5	obj	_	Translit=pŷāra
-5	କିୟା	_	PROPN	N_NNP	_	6	flat	_	Translit=kiŷā
-6	ତୋ	_	PROPN	N_NNP	_	7	flat	_	Translit=to
-7	ଡରନା	_	PROPN	N_NNP	_	8	flat	_	Translit=ḍaranā
-8	କ୍ୟା	_	PROPN	N_NNP	_	2	flat	_	Translit=kŷā
-9	’	_	PUNCT	RD_PUNC	_	2	punct	_	Translit=’
+3	‘	_	PUNCT	RD_PUNC	_	4	punct	_	Translit=‘
+4	ପ୍ୟାର	_	PROPN	N_NNP	_	2	obj	_	Translit=pŷāra
+5	କିୟା	_	PROPN	N_NNP	_	4	flat	_	Translit=kiŷā
+6	ତୋ	_	PROPN	N_NNP	_	4	flat	_	Translit=to
+7	ଡରନା	_	PROPN	N_NNP	_	4	flat	_	Translit=ḍaranā
+8	କ୍ୟା	_	PROPN	N_NNP	_	4	flat	_	Translit=kŷā
+9	’	_	PUNCT	RD_PUNC	_	4	punct	_	Translit=’
 10	।	_	PUNCT	RD_PUNC	_	2	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 51
@@ -982,13 +982,13 @@
 2	କ୍ରିକେଟ୍	_	PROPN	N_NNP	_	3	compound	_	Translit=krikeṭ
 3	ଷ୍ଟାଡିୟମରେ	_	PROPN	N_NNP	_	7	obl	_	Translit=ṣṭāḍiŷamare
 4	ପ୍ରଥମ	_	NUM	QT_QTO	_	5	nummod	_	Translit=prathama
-5	ମ୍ୟାଚ୍‌ରେ	_	NOUN	N_NN	_	7	nmod	_	Translit=mŷācre
-6	ମୁହାଁମୁହିଁ	_	NOUN	N_NN	_	7	nmod	_	Translit=muhām̃muhim̃
+5	ମ୍ୟାଚ୍‌ରେ	_	NOUN	N_NN	_	7	obl	_	Translit=mŷācre
+6	ମୁହାଁମୁହିଁ	_	NOUN	N_NN	_	7	obl	_	Translit=muhām̃muhim̃
 7	ହେଉଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	Translit=heuchanti
-8	ମୁମ୍ବାଇ	_	PROPN	N_NNP	_	9	nsubj	_	Translit=mumbāi
-9	ଇଣ୍ଡିଆନ୍ସ	_	NOUN	N_NN	_	10	flat	_	Translit=iṇḍiānsa
-10	ଓ	_	CCONJ	CC_CCD	_	7	cc	_	Translit=o
-11	ସନରାଇଜର୍ସ	_	PROPN	N_NNP	_	10	compound	_	Translit=sanarāijarsa
+8	ମୁମ୍ବାଇ	_	PROPN	N_NNP	_	7	nsubj	_	Translit=mumbāi
+9	ଇଣ୍ଡିଆନ୍ସ	_	NOUN	N_NN	_	8	flat	_	Translit=iṇḍiānsa
+10	ଓ	_	CCONJ	CC_CCD	_	11	cc	_	Translit=o
+11	ସନରାଇଜର୍ସ	_	PROPN	N_NNP	_	8	conj	_	Translit=sanarāijarsa
 12	ହାଇଦ୍ରାବାଦ	_	PROPN	N_NNP	_	11	flat	_	SpacesAfter=\n|Translit=hāidrābāda
 13	।	_	PUNCT	RD_PUNC	_	7	punct	_	Translit=.
 
@@ -1360,15 +1360,15 @@
 # text = ଖୁବ୍ ଶୀଘ୍ର ଦୋଷୀଙ୍କୁ ଧରାଯିବ ବୋଲି ଏସ୍ପି ବି ଯୁଗଳ କିଶୋର କହିଛନ୍ତି ।
 # translit = khub śīghra doṣīṅku dharāyiba boli espi bi yugaḷa kiśora kahichanti .
 # text_en = The SP also said that the culprit will be caught soon.
-1	ଖୁବ୍	_	ADJ	JJ	_	2	amod	_	Translit=khub
-2	ଶୀଘ୍ର	_	ADV	RB	_	4	nmod	_	Translit=śīghra
+1	ଖୁବ୍	_	ADJ	JJ	_	2	advmod	_	Translit=khub
+2	ଶୀଘ୍ର	_	ADV	RB	_	4	advmod	_	Translit=śīghra
 3	ଦୋଷୀଙ୍କୁ	_	NOUN	N_NN	_	4	iobj	_	Translit=doṣīṅku
-4	ଧରାଯିବ	_	VERB	V_VM_VF	_	10	mark	_	Translit=dharāyiba
-5	ବୋଲି	_	ADP	PSP	_	4	fixed	_	Translit=boli
-6	ଏସ୍ପି	_	PROPN	N_NNP	_	7	nmod	_	Translit=espi
-7	ବି	_	PROPN	N_NNP	_	8	nsubj	_	Translit=bi
-8	ଯୁଗଳ	_	PROPN	N_NNP	_	9	flat	_	Translit=yugaḷa
-9	କିଶୋର	_	PROPN	N_NNP	_	10	flat	_	Translit=kiśora
+4	ଧରାଯିବ	_	VERB	V_VM_VF	_	10	ccomp	_	Translit=dharāyiba
+5	ବୋଲି	_	ADP	PSP	_	4	mark	_	Translit=boli
+6	ଏସ୍ପି	_	PROPN	N_NNP	_	10	nsubj	_	Translit=espi
+7	ବି	_	PROPN	N_NNP	_	6	flat	_	Translit=bi
+8	ଯୁଗଳ	_	PROPN	N_NNP	_	6	flat	_	Translit=yugaḷa
+9	କିଶୋର	_	PROPN	N_NNP	_	6	flat	_	Translit=kiśora
 10	କହିଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	Translit=kahichanti
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n|Translit=.
 
@@ -1378,15 +1378,15 @@
 # text_en = According to the Meteorological Department report, Thane and Navi Mumbai have witnessed heavy rain.
 1	ପାଣିପାଗ	_	NOUN	N_NN	_	2	nmod	_	Translit=pāṇipāga
 2	ବିଭାଗର	_	NOUN	N_NN	_	3	compound	_	Translit=bibhāgara
-3	ରିପୋର୍ଟ	_	NOUN	N_NN	_	4	nmod	_	Translit=riporṭa
-4	ଅନୁଯାୟୀ	_	ADP	PSP	_	12	fixed	_	Translit=anuyāŷī
+3	ରିପୋର୍ଟ	_	NOUN	N_NN	_	12	obl	_	Translit=riporṭa
+4	ଅନୁଯାୟୀ	_	ADP	PSP	_	3	case	_	Translit=anuyāŷī
 5	ଠା​‌ଣେ	_	PROPN	N_NNP	_	10	obl	_	Translit=ṭhā​ṇe
-6	ଓ	_	CCONJ	CC_CCD	_	5	cc	_	Translit=o
-7	ନଭି	_	PROPN	N_NNP	_	8	obl	_	Translit=nabhi
-8	ମୁମ୍ବାଇରେ	_	PROPN	N_NNP	_	10	flat	_	Translit=mumbāire
+6	ଓ	_	CCONJ	CC_CCD	_	7	cc	_	Translit=o
+7	ନଭି	_	PROPN	N_NNP	_	5	conj	_	Translit=nabhi
+8	ମୁମ୍ବାଇରେ	_	PROPN	N_NNP	_	7	flat	_	Translit=mumbāire
 9	ପ୍ରବଳ	_	ADJ	JJ	_	10	amod	_	Translit=prabaḷa
 10	ବର୍ଷା	_	NOUN	N_NN	_	12	nsubj	_	Translit=barṣā
-11	ଦେଖିବାକୁ	_	NOUN	N_NNV	_	12	nmod	_	Translit=dekhibāku
+11	ଦେଖିବାକୁ	_	NOUN	N_NNV	_	12	obl	_	Translit=dekhibāku
 12	ମିଳିଛି	_	VERB	V_VM_VF	_	0	root	_	Translit=miḷichi
 13	।	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n|Translit=.
 
@@ -1395,14 +1395,14 @@
 # translit = ethara philmare ṭāigaraṅka saha bāpā jŷāki śrapha madhŷa najara āsibe.
 # text_en = This time, father Jackie Shroff will also be seen in the film along with Tiger.
 1	ଏଥର	_	DET	DM_DMD	_	2	det	_	Translit=ethara
-2	ଫିଲ୍ମରେ	_	NOUN	N_NN	_	10	nsubj	_	Translit=philmare
-3	ଟାଇଗରଙ୍କ	_	PROPN	N_NNP	_	10	iobj	_	Translit=ṭāigaraṅka
+2	ଫିଲ୍ମରେ	_	NOUN	N_NN	_	10	obl	_	Translit=philmare
+3	ଟାଇଗରଙ୍କ	_	PROPN	N_NNP	_	10	obl	_	Translit=ṭāigaraṅka
 4	ସହ	_	ADP	PSP	_	3	case	_	Translit=saha
 5	ବାପା	_	NOUN	N_NN	_	6	nmod	_	Translit=bāpā
-6	ଜ୍ୟାକି	_	PROPN	N_NNP	_	7	iobj	_	Translit=jŷāki
-7	ଶ୍ରଫ	_	PROPN	N_NNP	_	10	flat	_	Translit=śrapha
-8	ମଧ୍ୟ	_	PART	RP_RPD	_	9	fixed	_	Translit=madhŷa
-9	ନଜର	_	NOUN	N_NN	_	10	nmod	_	Translit=najara
+6	ଜ୍ୟାକି	_	PROPN	N_NNP	_	10	nsubj	_	Translit=jŷāki
+7	ଶ୍ରଫ	_	PROPN	N_NNP	_	6	flat	_	Translit=śrapha
+8	ମଧ୍ୟ	_	PART	RP_RPD	_	10	advmod	_	Translit=madhŷa
+9	ନଜର	_	NOUN	N_NN	_	10	obl	_	Translit=najara
 10	ଆସିବେ	_	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No|Translit=āsibe
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n|Translit=.
 
