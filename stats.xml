@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<treebank>
+  <!-- tokens means "surface tokens", e.g. Spanish "vámonos" counts as one token
+       words means "syntactic words", e.g. Spanish "vámonos" is split to two words, "vamos" and "nos"
+       fused is the number of tokens that are split to two or more syntactic words
+       The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
+  <size>
+    <total><sentences>100</sentences><tokens>1029</tokens><words>1029</words><fused>0</fused></total>
+    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
+    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
+    <test><sentences>100</sentences><tokens>1029</tokens><words>1029</words><fused>0</fused></test>
+  </size>
+  <lemmas unique="184" /><!-- ।, ,, କରି, କରା, ଭାବେ, ଏହି, କୌଣସି, ଘଟଣା, ମୁଖ୍ୟ, ସୂଚନା, ଅନେକ, ଅବସ୍ଥା, ଅଳେଇଚ, ପକ୍ଷ, ପାଇ -->
+  <forms unique="685" /><!-- ।, ,, ଏହି, ଓ, ଏକ, ପାଇଁ, ମଧ୍ୟ, ଏବଂ, କରି, କରିଥିଲେ, ନେଇ, :, ସେ, ଅନେକ, ଅନ୍ୟ -->
+  <fusions unique="0" /><!--  -->
+  <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
+  <tags unique="14">
+    <tag name="ADJ">60</tag><!-- _, ମୁଖ୍ୟ, ଅନଲାଇନ, ଅର୍ଦ୍ଧଦଗ୍ଧ, ଗରମ, ଡିଜିଟାଲ, ପରିଚିତ, ମୃତାହତ, ସଙ୍କଟାପନ୍ନ, ସମସ୍ତ -->
+    <tag name="ADP">39</tag><!-- _, ଅନୁସାରେ, ପକ୍ଷ, ପକ୍ଷରୁ, ପରେ, ଭାବେ, ସହ, ସହିତ -->
+    <tag name="ADV">40</tag><!-- _, ଭାବେ, ଅଧିକ, ଆସନ୍ତାକାଲି, ଏକାଠି, ଏଥର, ଏବେ, ବାରମ୍ବାର, ଭଲ, ମଧ୍ୟ -->
+    <tag name="AUX">8</tag><!-- _ -->
+    <tag name="CCONJ">26</tag><!-- _, ଏବଂ, ଓ, କିମ୍ବା, ତେବେ -->
+    <tag name="DET">39</tag><!-- _, ଏହି, ଅନେକ, କୌଣସି, ଅନ୍ୟ, ଜଣେ -->
+    <tag name="NOUN">344</tag><!-- _, ଘଟଣା, ସୂଚନା, ଅବସ୍ଥା, ପୋଲିସ, ପ୍ରଶାସନ, ଫିଲ୍ମ, ଶାନ୍ତି, ଅତିଥି, ଅଧିକାରୀ -->
+    <tag name="NUM">21</tag><!-- _, ଏକ, ଗୋଟେ, ୨୦୦ -->
+    <tag name="PART">21</tag><!-- _, ଆଦି, ମଧ୍ୟ -->
+    <tag name="PRON">34</tag><!-- _, ଏ, କୌଣସି, ସେ -->
+    <tag name="PROPN">119</tag><!-- _, ଅଳେଇଚ, ଇଟାନଗର, ଏସ, ଓଡିଶା, କୋଲକାତା, ଗଡକରୀ, ଗୁଗୁଲ, ଗୌହାଟୀ, ଜୁମ୍ -->
+    <tag name="PUNCT">132</tag><!-- _, ।, ,, : -->
+    <tag name="SCONJ">8</tag><!-- _, ବୋଲି, ପାଇ -->
+    <tag name="VERB">138</tag><!-- _, କରି, କରା, ଆସିବା, ଆସିବେ, କରାଯିବ, କରିବେ, କହିଛନ୍ତି, ଚଳା, ଜବତ -->
+  </tags>
+  <!-- Statistics of features and values. The comments show the most frequent word forms. -->
+  <feats unique="0">
+  </feats>
+  <!-- Statistics of universal dependency relations. -->
+  <deps unique="29">
+    <dep name="acl">12</dep>
+    <dep name="advcl">10</dep>
+    <dep name="advmod">43</dep>
+    <dep name="amod">49</dep>
+    <dep name="appos">3</dep>
+    <dep name="aux">5</dep>
+    <dep name="case">31</dep>
+    <dep name="cc">25</dep>
+    <dep name="ccomp">3</dep>
+    <dep name="clf">4</dep>
+    <dep name="compound">62</dep>
+    <dep name="conj">31</dep>
+    <dep name="cop">3</dep>
+    <dep name="det">39</dep>
+    <dep name="discourse">5</dep>
+    <dep name="dislocated">1</dep>
+    <dep name="flat">27</dep>
+    <dep name="iobj">15</dep>
+    <dep name="list">1</dep>
+    <dep name="mark">10</dep>
+    <dep name="nmod">149</dep>
+    <dep name="nsubj">94</dep>
+    <dep name="nummod">21</dep>
+    <dep name="obj">69</dep>
+    <dep name="obl">68</dep>
+    <dep name="parataxis">3</dep>
+    <dep name="punct">132</dep>
+    <dep name="root">100</dep>
+    <dep name="xcomp">14</dep>
+  </deps>
+</treebank>
