@@ -1,20 +1,20 @@
 # sent_id = 1
-# text = ଗୁରୁତର ଅବସ୍ଥାରେ ପ୍ରଥମେ ତାଙ୍କୁ MKCG ହସ୍ପିଟାଲ୍‌ରେ ଭର୍ତ୍ତି କରାଯାଇଥିଲା ।
-# translit = gurutara abasthāre prathame tāṅku MKCG haspiṭālre bhartti karāyāithilā .
+# text = ଗୁରୁତର ଅବସ୍ଥାରେ ପ୍ରଥମେ ତାଙ୍କୁ MKCG ହସ୍ପିଟାଲ୍ରେ ଭର୍ତ୍ତି କରାଯାଇଥିଲା ।
+# translit = gurutara abasthāre prathame tāṅku MKCG haspiṭālre bhartti karājāithilā .
 # text_en = He was initially admitted to MKCG Hospital in a critical condition.
 1	ଗୁରୁତର	_	ADJ	JJ	_	2	amod	_	Translit=gurutara
 2	ଅବସ୍ଥାରେ	_	NOUN	N_NN	_	4	nmod	_	Translit=abasthāre
 3	ପ୍ରଥମେ	_	ADV	RB	_	8	advmod	_	Translit=prathame
 4	ତାଙ୍କୁ	_	PRON	PR_PRP	_	8	nsubj	_	Translit=tāṅku
 5	MKCG	_	PROPN	N_NNP	_	8	obj	_	Translit=MKCG
-6	ହସ୍ପିଟାଲ୍‌ରେ	_	NOUN	N_NN	_	5	compound	_	Translit=haspiṭālre
+6	ହସ୍ପିଟାଲ୍ରେ	_	NOUN	N_NN	_	5	compound	_	Translit=haspiṭālre
 7	ଭର୍ତ୍ତି	_	VERB	N_NNV	_	8	nmod	_	Translit=bhartti
 8	କରାଯାଇଥିଲା	_	VERB	V_VM_VF	_	0	root	_	Translit=karāyāithilā
 9	।	_	PUNCT	RD_PUNC	_	8	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 2
 # text = ସ୍ଵଜନମାନଙ୍କ, ମିତ୍ରମାନଙ୍କ ସହିତ ପର୍ଯ୍ୟଟନର ଆନନ୍ଦ ନେଇ ପାରିବେ ।
-# translit = svajanamānaṅka, mitramānaṅka sahita paryŷaṭanara ānanda nei pāribe .
+# translit = svajanamānaṅka, mitramānaṅka sahita parjŷaṭanara ānanda nei pāribe .
 # text_en = You can enjoy traveling with your family and friends.
 1	ସ୍ଵଜନମାନଙ୍କ	_	NOUN	N_NN	_	7	nmod	_	SpaceAfter=No|Translit=svajanamānaṅka
 2	,	_	PUNCT	RD_PUNC	_	1	punct	_	Translit=,
@@ -28,7 +28,7 @@
 
 # sent_id = 3
 # text = ସ୍ଥାନୀୟ କୋର୍ଟ ସେମାନଙ୍କ ଜାମିନ ନାମଞ୍ଜୁର କରିବାଫଳରେ ସେମାନଙ୍କୁ ଜେଲ ହାଜତକୁ ପଠାଇଦିଆଯାଇଛି ।
-# translit = sthānīŷa korṭa semānaṅka jāmina nāmañjura karibāphaḷare semānaṅku jela hājataku paṭhāidiāyāichi .
+# translit = sthānīŷa korṭ semānaṅka jāmina nāmañjura karibāphaḷare semānaṅku jela hājataku paṭhāidiājāichi .
 # text_en = The local court rejected their bail and sent them to jail.
 1	ସ୍ଥାନୀୟ	_	ADJ	JJ	_	2	amod	_	Translit=sthānīŷa
 2	କୋର୍ଟ	_	NOUN	N_NN	_	10	nsubj	_	Translit=korṭa
@@ -43,18 +43,18 @@
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 4
-# text = ବିଦ୍ୟାର୍ଥୀମାନେ ବିଦ୍ୟାରେ ଅମନଯୋଗି ହେବେ ।
-# translit = bidŷārthīmāne bidŷāre amanayogi hebe .
+# text = ବିଦ୍ୟାର୍ଥୀମାନେ ବିଦ୍ୟାରେ ଅମନଯୋଗୀ ହେବେ ।
+# translit = bidŷārthīmāne bidŷāre amanajogi hebe .
 # text_en = Students will be indifferent to science.
 1	ବିଦ୍ୟାର୍ଥୀମାନେ	_	NOUN	N_NN	_	3	nsubj	_	Translit=bidŷārthīmāne
 2	ବିଦ୍ୟାରେ	_	NOUN	N_NN	_	1	nmod	_	Translit=bidŷāre
-3	ଅମନଯୋଗି	_	ADJ	JJ	_	0	root	_	Translit=amanayogi
+3	ଅମନଯୋଗୀ	_	ADJ	JJ	_	0	root	_	Translit=amanayogi
 4	ହେବେ	_	AUX	V_VAUX	_	3	cop	_	Translit=hebe
 5	।	_	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 5
 # text = ଶିଷ୍ଯମାନେ ଉପରକୁ ଚାହିଁଲେ ।
-# translit = śiṣyamāne uparaku cāhim̃le .
+# translit = śiṣyamāne uparaku cāhiṁle .
 # text_en = The disciples looked up.
 1	ଶିଷ୍ଯମାନେ	_	NOUN	N_NN	_	3	nsubj	_	Translit=śiṣyamāne
 2	ଉପରକୁ	_	NOUN	N_NST	_	3	nmod	_	Translit=uparaku
@@ -89,7 +89,7 @@
 
 # sent_id = 8
 # text = ଏହାଯୋଗୁ ଭୁଲ୍ କରିବାର ବିପଦ ବଢ଼ିଯାଇଥାଏ ।
-# translit = ehāyogu bhul karibāra bipada baṛhiyāithāe .
+# translit = ehāyogu bhul karibāra bipada baṛhijāithāe .
 # text_en = This increases the risk of making mistakes.
 1	ଏହାଯୋଗୁ	_	PRON	PR_PRP	_	2	nmod	_	Translit=ehāyogu
 2	ଭୁଲ୍	_	NOUN	N_NN	_	3	nmod	_	Translit=bhul
@@ -114,7 +114,7 @@
 
 # sent_id = 10
 # text = ତା’ପରେ ଆବଶ୍ୟକ ଅନୁଯାୟୀ ଲୁଣ ଓ ହଳଦୀ ପକାନ୍ତୁ ।
-# translit = tā’pare ābaśŷaka anuyāŷī luṇa o haḷadī pakāntu .
+# translit = tā’pare ābaśŷaka anujāŷī luṇa o haḷadī pakāntu .
 # text_en = Then add salt and pepper as required.
 1	ତା’ପରେ	_	NOUN	N_NST	_	7	nmod	_	Translit=tā’pare
 2	ଆବଶ୍ୟକ	_	NOUN	N_NN	_	3	nmod	_	Translit=ābaśŷaka
@@ -161,7 +161,7 @@
 
 # sent_id = 14
 # text = ଏହି ଫିଲ୍ମ ସଲମାନ ଖାନ ପ୍ରଡକ୍ସନ ହାଉସ ଦ୍ୱାରା ନିର୍ମାଣ କରାଯିବ ।
-# translit = ehi philma salamāna khāna praḍaksana hāusa dୱାrā nirmāṇa karāyiba .
+# translit = ehi philm salamāna khāna praḍaksana hāusa dୱାrā nirmāṇa karāyiba .
 # text_en = This film will be produced by Salman Khan's production house.
 1	ଏହି	_	DET	DM_DMD	_	2	det	_	Translit=ehi
 2	ଫିଲ୍ମ	_	NOUN	N_NN	_	9	nsubj	_	Translit=philma
@@ -258,7 +258,7 @@
 
 # sent_id = 21
 # text = ତାଙ୍କୁ ଡାକ୍ତରଖାନା ନିଆ ଯାଇଥିଲେ ମଧ୍ୟ ସେ ମୃତ୍ୟୁବରଣ କରିଥିଲେ ।
-# translit = tāṅku ḍāktarakhānā niā yāithile madhŷa se mr̥tŷubaraṇa karithile .
+# translit = tāṅku ḍāktarakhānā niā jāithile madhŷa se mr̥tŷubaraṇa karithile .
 # text_en = He was taken to the hospital, but he died.
 1	ତାଙ୍କୁ	_	PRON	PR_PRP	_	4	iobj	_	Translit=tāṅku
 2	ଡାକ୍ତରଖାନା	_	NOUN	N_NN	_	4	obj	_	Translit=ḍāktarakhānā
@@ -272,7 +272,7 @@
 
 # sent_id = 22
 # text = ଏଥିରେ ଥିବା ପୋଷକ ତତ୍ତ୍ୱ ଶରୀର ପାଇଁ ଆଣ୍ଟିଅକ୍ସିଡାଣ୍ଟ ଭଳି କାର୍ଯ୍ୟ କରିଥାଏ ।
-# translit = ethire thibā poṣaka tattୱ śarīra pāim̃ āṇṭiaksiḍāṇṭa bhaḷi kāryŷa karithāe .
+# translit = ethire thibā poṣaka tattva śarīra pāim̃ āṇṭiaksiḍāṇṭa bhaḷi kārjŷa karithāe .
 # text_en = The nutrients it contains act as antioxidants for the body.
 1	ଏଥିରେ	_	PRON	PR_PRP	_	2	obl	_	Translit=ethire
 2	ଥିବା	_	VERB	V_VM_VNF	_	4	acl	_	Translit=thibā
@@ -282,7 +282,7 @@
 6	ପାଇଁ	_	ADP	PSP	_	4	nmod	_	Translit=pāim̃
 7	ଆଣ୍ଟିଅକ୍ସିଡାଣ୍ଟ	_	NOUN	N_NN	_	9	nmod	_	Translit=āṇṭiaksiḍāṇṭa
 8	ଭଳି	_	ADP	PSP	_	7	case	_	Translit=bhaḷi
-9	କାର୍ଯ୍ୟ	_	NOUN	N_NN	_	10	obj	_	Translit=kāryŷa
+9	କାର୍ଯ୍ୟ	_	NOUN	N_NN	_	10	obj	_	Translit=kārjŷa
 10	କରିଥାଏ	_	VERB	V_VM_VF	_	0	root	_	Translit=karithāe
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n|Translit=.
 
@@ -302,7 +302,7 @@
 
 # sent_id = 24
 # text = ପୁଲିସ ଘଟଣାସ୍ଥଳରେ ପହଞ୍ଚି ଶବକୁ ଜବତ କରି ବ୍ୟବଚ୍ଛେଦ ପାଇଁ ପଠାଇ ଦେଇଛି।
-# translit = pulisa ghaṭaṇāsthaḷare pahañci śabaku jabata kari bŷabaccheda pāim̃ paṭhāi deichi.
+# translit = pulis ghaṭaṇāsthaḷare pahañci śabaku jabata kari bŷabaccheda pāim̃ paṭhāi deichi.
 # text_en = Police reached the scene, seized the body and sent it for autopsy.
 1	ପୁଲିସ	_	NOUN	N_NN	_	9	nmod	_	Translit=pulisa
 2	ଘଟଣାସ୍ଥଳରେ	_	ADV	RB	_	3	advmod	_	Translit=ghaṭaṇāsthaḷare
@@ -330,7 +330,7 @@
 
 # sent_id = 26
 # text = ବର୍ତ୍ତମାନ ପର୍ଯ୍ୟନ୍ତ ଏହି ଘଟଣାରେ କୌଣସି ଆତଙ୍କୀ ସଂଗଠନକୁ ଦାୟିତ୍ବ ଦିଆଯାଇ ନାହିଁ।
-# translit = barttamāna paryŷanta ehi ghaṭaṇāre kauṇasi ātaṅkī saṁgaṭhanaku dāŷitba diāyāi nāhim̃.
+# translit = barttamāna parjŷanta ehi ghaṭaṇāre kauṇasi ātaṅkī saṁgaṭhanaku dāŷitva diājāi nāhim̃.
 # text_en = So far, no terrorist organization has been claimed responsibility for this incident.
 1	ବର୍ତ୍ତମାନ	_	ADV	RB	_	9	advmod	_	Translit=barttamāna
 2	ପର୍ଯ୍ୟନ୍ତ	_	ADP	PSP	_	1	case	_	Translit=paryŷanta
@@ -415,20 +415,20 @@
 7	।	।	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
 
 # sent_id = 34
-# text = ସିକ୍କିମ୍‌ର ପ୍ରଥମ ବିମାନବନ୍ଦର ଉଦ୍‌ଘାଟନ କଲେ ମୋଦୀ ।
+# text = ସିକ୍କିମ୍ର ପ୍ରଥମ ବିମାନବନ୍ଦର ଉଦ୍ଘାଟନ କଲେ ମୋଦୀ ।
 # translit = sikkimra prathama bimānabandara udghāṭana kale modī .
 # text_en = Modi inaugurated Sikkim's first airport.
-1	ସିକ୍କିମ୍‌ର	_	PROPN	N_NNP	_	3	obl	_	Translit=sikkimra
+1	ସିକ୍କିମ୍ର	_	PROPN	N_NNP	_	3	obl	_	Translit=sikkimra
 2	ପ୍ରଥମ	_	NUM	QT_QTO	_	3	nummod	_	Translit=prathama
 3	ବିମାନବନ୍ଦର	_	NOUN	N_NN	_	5	obj	_	Translit=bimānabandara
-4	ଉଦ୍‌ଘାଟନ	_	NOUN	N_NN	_	5	nmod	_	Translit=udghāṭana
+4	ଉଦ୍ଘାଟନ	_	NOUN	N_NN	_	5	nmod	_	Translit=udghāṭana
 5	କଲେ	_	VERB	V_VM_VF	_	0	root	_	Translit=kale
 6	ମୋଦୀ	_	PROPN	N_NNP	_	5	nsubj	_	Translit=modī
 7	।	_	PUNCT	RD_PUNC	_	5	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 35
 # text = ଏନେଇ ନାବାଳିକାର ବାପା ତାଳଚୁଆ ଥାନାରେ ଏକ ଲିଖିତ ଅଭିଯୋଗ କରିଥିଲେ ।
-# translit = enei nābāḷikāra bāpā tāḷacuā thānāre eka likhita abhiyoga karithile .
+# translit = enei nābāḷikāra bāpā tāḷacuā thānāre eka likhita abhijoga karithile .
 # text_en = The minor girl's father filed a written complaint at the Talchua police station.
 1	ଏନେଇ	_	DET	DM_DMD	_	9	det	_	Translit=enei
 2	ନାବାଳିକାର	_	NOUN	N_NN	_	3	nmod	_	Translit=nābāḷikāra
@@ -492,15 +492,15 @@
 8	।	_	PUNCT	RD_PUNC	_	2	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 40
-# text = ଓଡ଼ିଶାଲାଇଭ୍‌ ବ୍ୟୁରୋ : ବାତ୍ୟା 'ବୁଲ୍‌ବୁଲ୍‌' ପଶ୍ଚିମବଙ୍ଗ ଓ ବାଂଲାଦେଶ ମୁହାଁ ହୋଇଛି ।
+# text = ଓଡ଼ିଶାଲାଇଭ୍ ବ୍ୟୁରୋ : ବାତ୍ୟା 'ବୁଲ୍ବୁଲ୍' ପଶ୍ଚିମବଙ୍ଗ ଓ ବାଂଲାଦେଶ ମୁହାଁ ହୋଇଛି ।
 # translit = oṛiśālāibh bŷuro : bātŷā 'bulbul' paścimabaṅga o bāṁlādeśa muhām̃ hoichi .
 # text_en = OdishaLive Bureau: Cyclone 'Bulbul' is heading towards West Bengal and Bangladesh.
-1	ଓଡ଼ିଶାଲାଇଭ୍‌	_	PROPN	N_NNP	_	2	compound	_	Translit=oṛiśālāibh
+1	ଓଡ଼ିଶାଲାଇଭ୍	_	PROPN	N_NNP	_	2	compound	_	Translit=oṛiśālāibh
 2	ବ୍ୟୁରୋ	_	NOUN	N_NN	_	0	root	_	Translit=bŷuro
 3	:	_	PUNCT	RD_PUNC	_	2	punct	_	Translit=:
 4	ବାତ୍ୟା	_	NOUN	N_NN	_	6	nmod	_	Translit=bātŷā
 5	'	_	PUNCT	RD_PUNC	_	6	punct	_	SpaceAfter=No|Translit='
-6	ବୁଲ୍‌ବୁଲ୍‌	_	PROPN	N_NNP	_	12	nsubj	_	SpaceAfter=No|Translit=bulbul
+6	ବୁଲ୍ବୁଲ୍	_	PROPN	N_NNP	_	12	nsubj	_	SpaceAfter=No|Translit=bulbul
 7	'	_	PUNCT	RD_PUNC	_	6	punct	_	Translit='
 8	ପଶ୍ଚିମବଙ୍ଗ	_	PROPN	N_NNP	_	12	obl	_	Translit=paścimabaṅga
 9	ଓ	_	CCONJ	CC_CCD	_	10	cc	_	Translit=o
@@ -510,13 +510,13 @@
 13	।	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 41
-# text = ଗାଜର ଶରୀର ପାଇଁ ବେଶ୍‌ ଉପକାରୀ ସାବ୍ୟସ୍ତ ହୋଇଥାଏ ।
+# text = ଗାଜର ଶରୀର ପାଇଁ ବେଶ୍ ଉପକାରୀ ସାବ୍ୟସ୍ତ ହୋଇଥାଏ ।
 # translit = gājara śarīra pāim̃ beś upakārī sābŷasta hoithāe .
 # text_en = Carrots prove to be very beneficial for the body.
 1	ଗାଜର	_	NOUN	N_NN	_	7	nsubj	_	Translit=gājara
 2	ଶରୀର	_	NOUN	N_NN	_	7	obj	_	Translit=śarīra
 3	ପାଇଁ	_	ADP	PSP	_	2	case	_	Translit=pāim̃
-4	ବେଶ୍‌	_	ADV	RB	_	5	advmod	_	Translit=beś
+4	ବେଶ୍	_	ADV	RB	_	5	advmod	_	Translit=beś
 5	ଉପକାରୀ	_	ADJ	JJ	_	6	amod	_	Translit=upakārī
 6	ସାବ୍ୟସ୍ତ	_	NOUN	N_NN	_	7	nmod	_	Translit=sābŷasta
 7	ହୋଇଥାଏ	_	VERB	V_VM_VF	_	0	root	_	Translit=hoithāe
@@ -524,15 +524,15 @@
 
 # sent_id = 42
 # text = ଲୋକସଭା ନିର୍ବାଚନ ଲଢିବେନି ଏନସିପି ସୁପ୍ରିମୋ ଶରଦ ପାୱାର ।
-# translit = lokasabhā nirbācana laḍhibeni enasipi suprimo śarada pāୱାra .
-# text_en = NCP supremo Sharad Pawar will not contest the Lok Sabha elections.
+# translit = lokasabhā nirbācana laḍhibeni enasipi suprimo śarada pāvāra .
+# text_en = NCP supremo Sharad Pawar will not contest the Lok Sabha election.
 1	ଲୋକସଭା	_	NOUN	N_NN	_	2	nmod	_	Translit=lokasabhā
 2	ନିର୍ବାଚନ	_	NOUN	N_NN	_	3	obj	_	Translit=nirbācana
 3	ଲଢିବେନି	_	VERB	V_VM_VNG	_	0	root	_	Translit=laḍhibeni
 4	ଏନସିପି	_	NOUN	N_NN	_	5	nmod	_	Translit=enasipi
 5	ସୁପ୍ରିମୋ	_	NOUN	N_NN	_	6	compound	_	Translit=suprimo
 6	ଶରଦ	_	PROPN	N_NNP	_	3	nsubj	_	Translit=śarada
-7	ପାୱାର	_	PROPN	N_NNP	_	3	flat	_	Translit=pāୱାra
+7	ପାୱାର	_	PROPN	N_NNP	_	3	flat	_	Translit=pāvāra
 8	।	_	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 43
@@ -604,7 +604,7 @@
 
 # sent_id = 48
 # text = ଅଳ୍ପକେ ମା ଓ ଝିଅ ବଞ୍ଚି ଯାଇଛନ୍ତି ।
-# translit = aḷpake mā o jhia bañci yāichanti .
+# translit = aḷpake mā o jhia bañci jāichanti .
 # text_en = Only a few mother and daughter survived.
 1	ଅଳ୍ପକେ	_	ADV	RB	_	5	advmod	_	Translit=aḷpake
 2	ମା	_	NOUN	N_NN	_	5	nsubj	_	Translit=mā
@@ -636,7 +636,7 @@
 # sent_id = 50
 # text = ଫିଲ୍ମଟି ହେଉଛି ‘ପ୍ୟାର କିୟା ତୋ ଡରନା କ୍ୟା ’ ।
 # translit = philmaṭi heuchi ‘pŷāra kiŷā to ḍaranā kŷā ’ .
-# text_en = The film is 'Pyaar Kiya To Darna Kay'.
+# text_en = The film is 'Pyaar Kiya To Darna Kya'.
 1	ଫିଲ୍ମଟି	_	NOUN	N_NN	_	2	nsubj	_	Translit=philmaṭi
 2	ହେଉଛି	_	VERB	V_VM_VF	_	0	root	_	Translit=heuchi
 3	‘	_	PUNCT	RD_PUNC	_	2	punct	_	SpaceAfter=No|Translit=‘
@@ -679,7 +679,7 @@
 12	।	_	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter-\n|Translit=.
 
 # sent_id = 54
-# text = 60 କିଗ୍ରା ବର୍ଗରେ ଅନ୍ୟତମ ବିଶ୍ବ ଚାମ୍ପିୟନ୍‌ ଏଲ୍‌ ସରିତା ଦେବୀଙ୍କୁ ସିମ୍‌ରନ୍‌ ଜିତ୍‌ କୌର୍‌ ପରାସ୍ତ କରିଛନ୍ତି ।
+# text = 60 କିଗ୍ରା ବର୍ଗରେ ଅନ୍ୟତମ ବିଶ୍ବ ଚାମ୍ପିୟନ୍ ଏଲ୍ ସରିତା ଦେବୀଙ୍କୁ ସିମ୍ରନ୍ ଜିତ୍ କୌର୍ ପରାସ୍ତ କରିଛନ୍ତି ।
 # translit = 60 kigrā bargare anŷatama biśba cāmpiŷan el saritā debīṅku simran jit kaur parāsta karichanti .
 # text_en = Simran Jeet Kaur defeated world champion L Sarita Devi in ​​the 60 kg category.
 1	60	_	NUM	QT_QTC	_	2	nummod	_	Translit=60
@@ -687,13 +687,13 @@
 3	ବର୍ଗରେ	_	NOUN	N_NN	_	14	iobj	_	Translit=bargare
 4	ଅନ୍ୟତମ	_	ADJ	JJ	_	5	amod	_	Translit=anŷatama
 5	ବିଶ୍ବ	_	NOUN	N_NN	_	6	nmod	_	Translit=biśba
-6	ଚାମ୍ପିୟନ୍‌	_	NOUN	N_NN	_	14	compound	_	Translit=cāmpiŷan
-7	ଏଲ୍‌	_	PROPN	N_NNP	_	14	obj	_	Translit=el
+6	ଚାମ୍ପିୟନ୍	_	NOUN	N_NN	_	14	compound	_	Translit=cāmpiŷan
+7	ଏଲ୍	_	PROPN	N_NNP	_	14	obj	_	Translit=el
 8	ସରିତା	_	PROPN	N_NNP	_	7	flat	_	Translit=saritā
 9	ଦେବୀଙ୍କୁ	_	PROPN	N_NNP	_	7	flat	_	Translit=debīṅku
-10	ସିମ୍‌ରନ୍‌	_	PROPN	N_NNP	_	14	nsubj	_	Translit=simran
-11	ଜିତ୍‌	_	PROPN	N_NNP	_	10	flat	_	Translit=jit
-12	କୌର୍‌	_	PROPN	N_NNP	_	10	flat	_	Translit=kaur
+10	ସିମ୍ରନ୍	_	PROPN	N_NNP	_	14	nsubj	_	Translit=simran
+11	ଜିତ୍	_	PROPN	N_NNP	_	10	flat	_	Translit=jit
+12	କୌର୍	_	PROPN	N_NNP	_	10	flat	_	Translit=kaur
 13	ପରାସ୍ତ	_	NOUN	N_NN	_	14	nmod	_	Translit=parāsta
 14	କରିଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	Translit=karichanti
 15	।	_	PUNCT	RD_PUNC	_	14	punct	_	SpacesAfter=\n|Translit=.
@@ -756,12 +756,12 @@
 
 # sent_id = 58
 # text = ତେବେ ବାରମ୍ବାର ଦାବି ସତ୍ତ୍ୱେ ମଧ୍ୟ ପ୍ରଶାସନ ପକ୍ଷରୁ କୌଣସି ପଦକ୍ଷେପ ଗ୍ରହଣ କରାଯାଇନାହିଁ।
-# translit = tebe bārambāra dābi sattୱେ madhŷa praśāsana pakṣaru kauṇasi padakṣepa grahaṇa karāyāināhim̃.
+# translit = tebe bārambāra dābi sattve madhŷa praśāsana pakṣaru kauṇasi padakṣepa grahaṇa karāyāināhim̃.
 # text_en = However, despite repeated demands, no action has been taken by the administration.
 1	ତେବେ	ତେବେ	CCONJ	CC_CCD	_	11	advmod	_	Translit=tebe|LTranslit=tebe
 2	ବାରମ୍ବାର	ବାରମ୍ବାର	ADV	RB	_	3	advmod	_	Translit=bārambāra|LTranslit=bārambāra
 3	ଦାବି	ଦାବି	NOUN	N_NN	_	4	nmod	_	Translit=dābi|LTranslit=dābi
-4	ସତ୍ତ୍ୱେ	ସତ୍ତ୍ୱେ	ADV	RB	_	11	advmod	_	Translit=sattୱେ|LTranslit=sattୱେ
+4	ସତ୍ତ୍ୱେ	ସତ୍ତ୍ୱେ	ADV	RB	_	11	advmod	_	Translit=sattve|LTranslit=sattve
 5	ମଧ୍ୟ	ମଧ୍ୟ	PART	RP_RPD	_	4	mark	_	Translit=madhŷa|LTranslit=madhŷa
 6	ପ୍ରଶାସନ	ପ୍ରଶାସନ	NOUN	N_NN	_	7	nmod	_	Translit=praśāsana|LTranslit=praśāsana
 7	ପକ୍ଷରୁ	ପକ୍ଷ	NOUN	N_NN	_	11	obl	_	Case=Ins|Number=Sing|Translit=pakṣaru|LTranslit=pakṣa
@@ -793,7 +793,7 @@
 16	,	,	PUNCT	RD_PUNC	_	15	punct	_	Translit=,|LTranslit=,
 17	ବାରଣାସୀକୁ	ବାରଣାସୀ	PROPN	N_NNP	_	15	conj	_	Translit=bāraṇāsīku|LTranslit=bāraṇāsī
 18	ବିମାନ	ବିମାନ	NOUN	N_NN	_	19	compound	_	Translit=bimāna|LTranslit=bimāna
-19	ସଂଯୋଗ	ସଂଯୋଗ	NOUN	N_NN	_	20	nsubj	_	Translit=saṁyoga|LTranslit=saṁyoga
+19	ସଂଯୋଗ	ସଂଯୋଗ	NOUN	N_NN	_	20	nsubj	_	Translit=saṁjoga|LTranslit=saṁjoga
 20	ରହିଛି	ରହିଛି	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No|Translit=rahichi|LTranslit=rahichi
 21	।	।	PUNCT	RD_PUNC	_	20	punct	_	Translit=.|LTranslit=.
 
@@ -816,17 +816,17 @@
 
 # sent_id = 61
 # text = କୃଷି, ସ୍ୱାସ୍ଥ୍ୟ, ଶିକ୍ଷା, ଗମନାଗମନ, ନିଯୁକ୍ତି, ମହିଳା ସୁରକ୍ଷା, ଆଦିବାସୀ କଲ୍ୟାଣ ଆଦି ଅନେକ କ୍ଷେତ୍ରକୁ ଗୁରୁତ୍ୱ ଦିଆଯିବ।
-# translit = kr̥ṣi, sୱାsthŷa, śikṣā, gamanāgamana, niyukti, mahiḷā surakṣā, ādibāsī kalŷāṇa ādi aneka kṣetraku gurutୱ diāyiba.
+# translit = kr̥ṣi, swasthŷa, śikṣā, gamanāgamana, niyukti, mahiḷā surakṣā, ādibāsī kalŷāṇa ādi aneka kṣetraku guruttva diājiba.
 # text_en = Emphasis will be placed on many sectors such as agriculture, health, education, transportation, employment, women's safety, tribal welfare, etc.
 1	କୃଷି	କୃଷି	NOUN	N_NN	_	20	nmod	_	SpaceAfter=No|Translit=kr̥ṣi|LTranslit=kr̥ṣi
 2	,	,	PUNCT	RD_PUNC	_	1	punct	_	Translit=,|LTranslit=,
-3	ସ୍ୱାସ୍ଥ୍ୟ	ସ୍ୱାସ୍ଥ୍ୟ	NOUN	N_NN	_	1	conj	_	SpaceAfter=No|Translit=sୱାsthŷa|LTranslit=sୱାsthŷa
+3	ସ୍ୱାସ୍ଥ୍ୟ	ସ୍ୱାସ୍ଥ୍ୟ	NOUN	N_NN	_	1	conj	_	SpaceAfter=No|Translit=swasthŷa|LTranslit=swasthŷa
 4	,	,	PUNCT	RD_PUNC	_	3	punct	_	Translit=,|LTranslit=,
 5	ଶିକ୍ଷା	ଶିକ୍ଷା	NOUN	N_NN	_	3	conj	_	SpaceAfter=No|Translit=śikṣā|LTranslit=śikṣā
 6	,	,	PUNCT	RD_PUNC	_	5	punct	_	Translit=,|LTranslit=,
 7	ଗମନାଗମନ	ଗମନାଗମନ	NOUN	N_NN	_	5	conj	_	SpaceAfter=No|Translit=gamanāgamana|LTranslit=gamanāgamana
 8	,	,	PUNCT	RD_PUNC	_	7	punct	_	Translit=,|LTranslit=,
-9	ନିଯୁକ୍ତି	ନିଯୁକ୍ତି	NOUN	N_NN	_	7	conj	_	SpaceAfter=No|Translit=niyukti|LTranslit=niyukti
+9	ନିଯୁକ୍ତି	ନିଯୁକ୍ତି	NOUN	N_NN	_	7	conj	_	SpaceAfter=No|Translit=nijukti|LTranslit=nijukti
 10	,	,	PUNCT	RD_PUNC	_	9	punct	_	Translit=,|LTranslit=,
 11	ମହିଳା	ମହିଳା	NOUN	N_NN	_	12	nmod	_	Translit=mahiḷā|LTranslit=mahiḷā
 12	ସୁରକ୍ଷା	ସୁରକ୍ଷା	NOUN	N_NN	_	9	conj	_	SpaceAfter=No|Translit=surakṣā|LTranslit=surakṣā
@@ -895,9 +895,9 @@
 
 # sent_id = 65
 # text = ଯୁବତୀଙ୍କୁ ଅର୍ଦ୍ଧଦଗ୍ଧ ଅବସ୍ଥାରେ ପଡୋଶୀମାନେ ଉଦ୍ଧାର କରି ହସ୍ପିଟାଲରେ ଭର୍ତ୍ତି କରିଥିଲେ ।
-# translit = yubatīṅku arddhadagdha abasthāre paḍośīmāne uddhāra kari haspiṭālare bhartti karithile .
+# translit = jubatīṅku arddhadagdha abasthāre paḍośīmāne uddhāra kari haspiṭālare bhartti karithile .
 # text_en = The young woman was rescued by neighbors in a partially burned condition and admitted to the hospital.
-1	ଯୁବତୀଙ୍କୁ	ଯୁବତୀ	NOUN	N_NN	_	9	iobj	_	Translit=yubatīṅku|LTranslit=yubatī
+1	ଯୁବତୀଙ୍କୁ	ଯୁବତୀ	NOUN	N_NN	_	9	iobj	_	Translit=jubatīṅku|LTranslit=jubatī
 2	ଅର୍ଦ୍ଧଦଗ୍ଧ	ଅର୍ଦ୍ଧଦଗ୍ଧ	ADJ	JJ	_	3	amod	_	Translit=arddhadagdha|LTranslit=arddhadagdha
 3	ଅବସ୍ଥାରେ	ଅବସ୍ଥା	NOUN	N_NN	_	1	nmod	_	Translit=abasthāre|LTranslit=abasthā
 4	ପଡୋଶୀମାନେ	ପଡୋଶୀ	NOUN	N_NN	_	9	nsubj	_	Translit=paḍośīmāne|LTranslit=paḍośī
@@ -910,7 +910,7 @@
 
 # sent_id = 66
 # text = ଜଣେ ପୋଲିସ ଅଧିକାରୀଙ୍କ ସୂଚନା ଅନୁସାରେ ଘଟଣାର କୌଣସି ମାମଲା ରୁଜୁ କରାଯାଇନାହିଁ ।
-# translit = jaṇe polisa adhikārīṅka sūcanā anusāre ghaṭaṇāra kauṇasi māmalā ruju karāyāināhim̃ .
+# translit = jaṇe polisa adhikārīṅka sūcanā anusāre ghaṭaṇāra kauṇasi māmalā ruju karājāināhim̃ .
 # text_en = According to a police officer, no case has been registered in the incident.
 1	ଜଣେ	ଜଣେ	DET	DM_DMI	_	2	det	_	Translit=jaṇe|LTranslit=jaṇe
 2	ପୋଲିସ	ପୋଲିସ	NOUN	N_NN	_	3	nmod	_	Translit=polisa|LTranslit=polisa
@@ -921,7 +921,7 @@
 7	କୌଣସି	କୌଣସି	PRON	PR_PRI	_	8	det	_	Translit=kauṇasi|LTranslit=kauṇasi
 8	ମାମଲା	ମାମଲା	NOUN	N_NN	_	10	obj	_	Translit=māmalā|LTranslit=māmalā
 9	ରୁଜୁ	ରୁଜୁ	NOUN	N_NN	_	10	obl	_	Translit=ruju|LTranslit=ruju
-10	କରାଯାଇନାହିଁ	କରା	VERB	V_VM_VF	_	0	root	_	Translit=karāyāināhim̃|LTranslit=karā
+10	କରାଯାଇନାହିଁ	କରା	VERB	V_VM_VF	_	0	root	_	Translit=karājāināhim̃|LTranslit=karā
 11	।	।	PUNCT	RD_PUNC	_	10	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 67
@@ -962,12 +962,12 @@
 
 # sent_id = 69
 # text = ଟ୍ବିଟ୍ ଜରିଆରେ ପ୍ରଧାନମନ୍ତ୍ରୀଙ୍କ କାର୍ଯ୍ୟାଳୟ ପକ୍ଷରୁ ଏ ନେଇ ସୂଚନା ଦିଆଯାଇଛି ।
-# translit = ṭbiṭ jariāre pradhānamantrīṅka kāryŷāḷaŷa pakṣaru e nei sūcanā diāyāichi .
+# translit = ṭwiṭ jariāre pradhānamantrīṅka kārjŷāḷaŷa pakṣaru e nei sūcanā diājāichi .
 # text_en = The Prime Minister's Office has given information about this through tweet.
 1	ଟ୍ବିଟ୍	_	NOUN	N_NN	_	2	nmod	_	Translit=ṭbiṭ
 2	ଜରିଆରେ	_	ADP	PSP	_	5	obl	_	Translit=jariāre
 3	ପ୍ରଧାନମନ୍ତ୍ରୀଙ୍କ	_	PROPN	N_NNP	_	4	nmod	_	Translit=pradhānamantrīṅka
-4	କାର୍ଯ୍ୟାଳୟ	_	NOUN	N_NN	_	5	nmod	_	Translit=kāryŷāḷaŷa
+4	କାର୍ଯ୍ୟାଳୟ	_	NOUN	N_NN	_	5	nmod	_	Translit=kārjŷāḷaŷa
 5	ପକ୍ଷରୁ	_	ADP	PSP	_	9	nsubj	_	Translit=pakṣaru
 6	ଏ	_	DET	DM_DMD	_	8	det	_	Translit=e
 7	ନେଇ	_	PART	RP_RPD	_	8	compound	_	Translit=nei
@@ -976,14 +976,14 @@
 10	।	_	PUNCT	RD_PUNC	_	9	punct	_	Translit=.
 
 # sent_id = 72
-# text = ସାରଜା କ୍ରିକେଟ୍ ଷ୍ଟାଡିୟମରେ ପ୍ରଥମ ମ୍ୟାଚ୍‌ରେ ମୁହାଁମୁହିଁ ହେଉଛନ୍ତି ମୁମ୍ବାଇ ଇଣ୍ଡିଆନ୍ସ ଓ ସନରାଇଜର୍ସ ହାଇଦ୍ରାବାଦ।
+# text = ସାରଜା କ୍ରିକେଟ୍ ଷ୍ଟାଡିୟମରେ ପ୍ରଥମ ମ୍ୟାଚ୍ରେ ମୁହାଁମୁହିଁ ହେଉଛନ୍ତି ମୁମ୍ବାଇ ଇଣ୍ଡିଆନ୍ସ ଓ ସନରାଇଜର୍ସ ହାଇଦ୍ରାବାଦ।
 # translit = sārajā krikeṭ ṣṭāḍiŷamare prathama mŷācre muhām̃muhim̃ heuchanti mumbāi iṇḍiānsa o sanarāijarsa hāidrābāda.
 # text_en = Mumbai Indians and Sunrisers Hyderabad will face off in the first match at the Sarja Cricket Stadium.
 1	ସାରଜା	_	PROPN	N_NNP	_	3	compound	_	Translit=sārajā
 2	କ୍ରିକେଟ୍	_	PROPN	N_NNP	_	3	compound	_	Translit=krikeṭ
 3	ଷ୍ଟାଡିୟମରେ	_	PROPN	N_NNP	_	7	obl	_	Translit=ṣṭāḍiŷamare
 4	ପ୍ରଥମ	_	NUM	QT_QTO	_	5	nummod	_	Translit=prathama
-5	ମ୍ୟାଚ୍‌ରେ	_	NOUN	N_NN	_	7	obl	_	Translit=mŷācre
+5	ମ୍ୟାଚ୍ରେ	_	NOUN	N_NN	_	7	obl	_	Translit=mŷācre
 6	ମୁହାଁମୁହିଁ	_	ADV	RB	_	7	advmod	_	Translit=muhām̃muhim̃
 7	ହେଉଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	Translit=heuchanti
 8	ମୁମ୍ବାଇ	_	PROPN	N_NNP	_	9	compound	_	Translit=mumbāi
@@ -1010,7 +1010,7 @@
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	Translit=.
 
 # sent_id = 74
-# text = ଏତେ ପରିମାଣର ଟଙ୍କା କେଉଁଠୁ ଆସୁଥିଲା ଏବଂ କୁଆଡ଼େ ଯାଉଥିଲା ସେ ସମ୍ପର୍କରେ ପୋଲିସ୍‌ ତଦନ୍ତ କରୁଛି ।
+# text = ଏତେ ପରିମାଣର ଟଙ୍କା କେଉଁଠୁ ଆସୁଥିଲା ଏବଂ କୁଆଡ଼େ ଯାଉଥିଲା ସେ ସମ୍ପର୍କରେ ପୋଲିସ୍ ତଦନ୍ତ କରୁଛି ।
 # translit = ete parimāṇara ṭaṅkā keum̃ṭhu āsuthilā ebaṁ kuāṛe yāuthilā se samparkare polis tadanta karuchi .
 # text_en = The police are investigating where this amount of money was coming from and where it was going.
 1	ଏତେ	_	NUM	QT_QTF	_	2	nummod	_	Translit=ete
@@ -1023,19 +1023,19 @@
 8	ଯାଉଥିଲା	_	VERB	V_VM_VF	_	5	conj	_	Translit=yāuthilā
 9	ସେ	_	DET	DM_DMD	_	10	det	_	Translit=se
 10	ସମ୍ପର୍କରେ	_	NOUN	N_NN	_	13	obj	_	Translit=samparkare
-11	ପୋଲିସ୍‌	_	NOUN	N_NN	_	13	nsubj	_	Translit=polis
+11	ପୋଲିସ୍	_	NOUN	N_NN	_	13	nsubj	_	Translit=polis
 12	ତଦନ୍ତ	_	NOUN	N_NN	_	13	nmod	_	Translit=tadanta
 13	କରୁଛି	_	VERB	V_VM_VF	_	0	root	_	Translit=karuchi
 14	।	_	PUNCT	RD_PUNC	_	13	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 75
 # text = ଠିକ ଏହିଭଳି ପରିସ୍ଥିତି ଯଦି ବର୍ତ୍ତମାନ ସମୟରେ ଆସେ ତେବେ ଗୃହମନ୍ତ୍ରୀ ଅମିତ ଶାହା କ’ଣ କରିବେ?
-# translit = ṭhika ehibhaḷi paristhiti yadi barttamāna samaŷare āse tebe gr̥hamantrī amita śāhā ka’ṇa karibe?
+# translit = ṭhika ehibhaḷi paristhiti jadi barttamāna samaŷare āse tebe gr̥hamantrī amita śāhā ka’ṇa karibe?
 # text_en = If a similar situation were to arise today, what would Home Minister Amit Shah do?
 1	ଠିକ	_	NOUN	N_NN	_	2	nmod	_	Translit=ṭhika
 2	ଏହିଭଳି	_	ADV	RB	_	3	advmod	_	Translit=ehibhaḷi
 3	ପରିସ୍ଥିତି	_	NOUN	N_NN	_	7	nsubj	_	Translit=paristhiti
-4	ଯଦି	_	SCONJ	CC_CCS	_	7	mark	_	Translit=yadi
+4	ଯଦି	_	SCONJ	CC_CCS	_	7	mark	_	Translit=jadi
 5	ବର୍ତ୍ତମାନ	_	NOUN	N_NST	_	6	nmod	_	Translit=barttamāna
 6	ସମୟରେ	_	NOUN	N_NN	_	7	obl	_	Translit=samaŷare
 7	ଆସେ	_	VERB	V_VM_VF	_	13	advcl	_	Translit=āse
@@ -1048,7 +1048,7 @@
 14	?	_	PUNCT	RD_PUNC	_	13	punct	_	SpacesAfter=\n|Translit=?
 
 # sent_id = 77
-# text = ୨୦୦ରୁ ଅଧିକ ଫିଲ୍ମରେ ଅଭିନୟ କରିଥିବା ଅମ୍ବରିଶ ରିବେଲ୍‌ ଷ୍ଟାର ଭାବେ ପରିଚିତ।
+# text = ୨୦୦ରୁ ଅଧିକ ଫିଲ୍ମରେ ଅଭିନୟ କରିଥିବା ଅମ୍ବରିଶ ରିବେଲ୍ ଷ୍ଟାର ଭାବେ ପରିଚିତ।
 # translit = 200ru adhika philmare abhinaŷa karithibā ambariśa ribel ṣṭāra bhābe paricita.
 # text_en = Ambarish, who has acted in more than 200 films, is known as the Rebel Star.
 1	୨୦୦ରୁ	୨୦୦	NUM	QT_QTC	_	3	nummod	_	Translit=200ru|LTranslit=200
@@ -1057,7 +1057,7 @@
 4	ଅଭିନୟ	ଅଭିନୟ	NOUN	N_NN	_	5	obj	_	Translit=abhinaŷa|LTranslit=abhinaŷa
 5	କରିଥିବା	କରି	VERB	V_VM_VNG	_	6	acl	_	Translit=karithibā|LTranslit=kari
 6	ଅମ୍ବରିଶ	ଅମ୍ବରିଶ	NOUN	N_NN	_	10	nsubj	_	Translit=ambariśa|LTranslit=ambariśa
-7	ରିବେଲ୍‌	ରିବେଲ୍	NOUN	N_NN	_	6	flat	_	Translit=ribel|LTranslit=ribel
+7	ରିବେଲ୍	ରିବେଲ୍	NOUN	N_NN	_	6	flat	_	Translit=ribel|LTranslit=ribel
 8	ଷ୍ଟାର	ଷ୍ଟାର	NOUN	N_NN	_	10	obl	_	Translit=ṣṭāra|LTranslit=ṣṭāra
 9	ଭାବେ	ଭାବେ	ADV	RB	_	8	case	_	Translit=bhābe|LTranslit=bhābe
 10	ପରିଚିତ	ପରିଚିତ	ADJ	JJ	_	0	root	_	SpaceAfter=No|Translit=paricita|LTranslit=paricita
@@ -1114,13 +1114,13 @@
 10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 81
-# text = ସମଗ୍ର ଜେରୁଜେଲମ୍‌ ଉପରେ ଇସ୍ରାଏଲ୍‌ର ସାର୍ବଭୌମତ୍ୱକୁ ଆନ୍ତର୍ଜାତିକ ସମୁଦାୟ ଅନୁମୋଦ ଦେଉ ନାହାନ୍ତି।
+# text = ସମଗ୍ର ଜେରୁଜେଲମ୍ ଉପରେ ଇସ୍ରାଏଲ୍ର ସାର୍ବଭୌମତ୍ୱକୁ ଆନ୍ତର୍ଜାତିକ ସମୁଦାୟ ଅନୁମୋଦ ଦେଉ ନାହାନ୍ତି।
 # translit = samagra jerujelam upare isrāelra sārbabhaumatkku āntarjātika samudāŷa anumoda deu nāhānti.
 # text_en = The international community does not recognize Israel's sovereignty over all of Jerusalem.
 1	ସମଗ୍ର	_	DET	DM_DMQ	_	2	det	_	Translit=samagra
-2	ଜେରୁଜେଲମ୍‌	_	PROPN	N_NNP	_	9	obl	_	Translit=jerujelam
+2	ଜେରୁଜେଲମ୍	_	PROPN	N_NNP	_	9	obl	_	Translit=jerujelam
 3	ଉପରେ	_	ADP	PSP	_	2	case	_	Translit=upare
-4	ଇସ୍ରାଏଲ୍‌ର	_	PROPN	N_NNP	_	5	nmod	_	Translit=isrāelra
+4	ଇସ୍ରାଏଲ୍ର	_	PROPN	N_NNP	_	5	nmod	_	Translit=isrāelra
 5	ସାର୍ବଭୌମତ୍ୱକୁ	_	NOUN	N_NN	_	9	obj	_	Translit=sārbabhaumatkku
 6	ଆନ୍ତର୍ଜାତିକ	_	ADJ	JJ	_	7	amod	_	Translit=āntarjātika
 7	ସମୁଦାୟ	_	NOUN	N_NN	_	9	nsubj	_	Translit=samudāŷa
@@ -1131,7 +1131,7 @@
 
 # sent_id = 82
 # text = ତାଙ୍କ ମୃତ୍ୟୁ ଖବର ଜଣାପଡିବା ପରେ ପ୍ରଧାନମନ୍ତ୍ରୀ ନରେନ୍ଦ୍ର ମୋଦି ଟ୍ୱିଟ କରି ଶୋକବ୍ୟକ୍ତ କରିଛନ୍ତି ।
-# translit = tāṅka mr̥tŷu khabara jaṇāpaḍibā pare pradhānamantrī narendra modi ṭୱିṭa kari śokabŷakta karichanti .
+# translit = tāṅka mr̥tŷu khabara jaṇāpaḍibā pare pradhānamantrī narendra modi ṭwiṭa kari śokabŷakta karichanti .
 # text_en = Prime Minister Narendra Modi tweeted his condolences after the news of his death was announced.
 1	ତାଙ୍କ	_	DET	DM_DMR	_	3	det	_	Translit=tāṅka
 2	ମୃତ୍ୟୁ	_	NOUN	N_NN	_	3	nmod	_	Translit=mr̥tŷu
@@ -1141,7 +1141,7 @@
 6	ପ୍ରଧାନମନ୍ତ୍ରୀ	_	NOUN	N_NST	_	7	nmod	_	Translit=pradhānamantrī
 7	ନରେନ୍ଦ୍ର	_	PROPN	N_NNP	_	12	nsubj	_	Translit=narendra
 8	ମୋଦି	_	PROPN	N_NNP	_	7	flat	_	Translit=modi
-9	ଟ୍ୱିଟ	_	NOUN	N_NN	_	12	acl	_	Translit=ṭୱିṭa
+9	ଟ୍ୱିଟ	_	NOUN	N_NN	_	12	acl	_	Translit=ṭwiṭa
 10	କରି	_	VERB	V_VM_VF	_	9	xcomp	_	Translit=kari
 11	ଶୋକବ୍ୟକ୍ତ	_	NOUN	N_NN	_	12	obj	_	Translit=śokabŷakta
 12	କରିଛନ୍ତି	_	VERB	V_VM_VF	_	0	root	_	Translit=karichanti
@@ -1239,7 +1239,7 @@
 
 # sent_id = 90
 # text = ଶାନ୍ତି ବଜାୟ ରଖିବାକୁ ପ୍ରଶାସନ ପକ୍ଷରୁ ଶାନ୍ତି କମିଟି ଗଠନ କରାଯାଇଛି ।
-# translit = śānti bajāŷa rakhibāku praśāsana pakṣaru śānti kamiṭi gaṭhana karāyāichi .
+# translit = śānti bajāŷa rakhibāku praśāsana pakṣaru śānti kamiṭi gaṭhana karājāichi .
 # text_en = A peace committee has been formed by the administration to maintain peace.
 1	ଶାନ୍ତି	ଶାନ୍ତି	NOUN	N_NN	_	3	obj	_	Translit=śānti|LTranslit=śānti
 2	ବଜାୟ	ବଜାୟ	NOUN	N_NN	_	3	obl	_	Translit=bajāŷa|LTranslit=bajāŷa
@@ -1249,7 +1249,7 @@
 6	ଶାନ୍ତି	ଶାନ୍ତି	NOUN	N_NN	_	7	nmod	_	Translit=śānti|LTranslit=śānti
 7	କମିଟି	କମିଟି	NOUN	N_NN	_	8	compound	_	Translit=kamiṭi|LTranslit=kamiṭi
 8	ଗଠନ	ଗଠନ	NOUN	N_NN	_	9	obj	_	Translit=gaṭhana|LTranslit=gaṭhana
-9	କରାଯାଇଛି	କରା	VERB	V_VM_VF	_	0	root	_	Translit=karāyāichi|LTranslit=karā
+9	କରାଯାଇଛି	କରା	VERB	V_VM_VF	_	0	root	_	Translit=karājāichi|LTranslit=karā
 10	।	।	PUNCT	RD_PUNC	_	9	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 91
@@ -1287,7 +1287,7 @@
 
 # sent_id = 93
 # text = ଓଡିଶା ହାଇକୋର୍ଟର ମୁଖ୍ୟ ବିଚାରପତି ମହମ୍ମଦ ରଫିକ୍ଙ୍କୁ ମଧ୍ୟପ୍ରଦେଶ ହାଇକୋର୍ଟକୁ ବଦଳି କରାଯିବ।
-# translit = oḍiśā hāikorṭara mukhŷa bicārapati mahammada raphikṅku madhŷapradeśa hāikorṭaku badaḷi karāyiba.
+# translit = oḍiśā hāikorṭara mukhŷa bicārapati mahammada raphikṅku madhŷapradeśa hāikorṭaku badaḷi karājiba.
 # text_en = Odisha High Court Chief Justice Mohammad Rafiq will be transferred to the Madhya Pradesh High Court.
 1	ଓଡିଶା	ଓଡିଶା	PROPN	N_NNP	_	2	nmod	_	Translit=oḍiśā|LTranslit=oḍiśā
 2	ହାଇକୋର୍ଟର	ହାଇକୋର୍ଟ	NOUN	N_NN	_	4	nmod	_	Translit=hāikorṭara|LTranslit=hāikorṭa
@@ -1303,7 +1303,7 @@
 
 # sent_id = 94
 # text = କାର୍ଯ୍ୟକ୍ରମରେ ମୁଖ୍ୟ ଅତିଥି ଭାବେ ଯୋଗ ଦେଇଛନ୍ତି ବାୟୁସେନା ମୁଖ୍ୟ ବି. ଏସ ଧନୋଆ ।
-# translit = kāryŷakramare mukhŷa atithi bhābe yoga deichanti bāŷusenā mukhŷa bi. esa dhanoā .
+# translit = kāryŷakramare mukhŷa atithi bhābe yoga deichanti bāŷusenā mukhŷa bi. es. dhanoā .
 # text_en = Air Force Chief B. S. Dhanoa attended the event as the chief guest.
 1	କାର୍ଯ୍ୟକ୍ରମରେ	କାର୍ଯ୍ୟକ୍ରମ	NOUN	N_NN	_	3	nmod	_	Translit=kāryŷakramare|LTranslit=kāryŷakrama
 2	ମୁଖ୍ୟ	ମୁଖ୍ୟ	ADJ	JJ	_	3	amod	_	Translit=mukhŷa|LTranslit=mukhŷa
@@ -1320,7 +1320,7 @@
 
 # sent_id = 95
 # text = ସୂତ୍ର ଅନୁଯାୟୀ ଯୁବରାଜ ସିଂହଙ୍କ ମା’ ଶବନମ ବି ଏହି ୱେବ ସିରିଜ ସହ ଜଡିତ ଅଛନ୍ତି।
-# translit = sūtra anuyāŷī yubarāja siṁhaṅka mā’ śabanama bi ehi ୱେba sirija saha jaḍita achanti.
+# translit = sūtra anuyāŷī yubarāja siṁhaṅka mā’ śabanama bi ehi weba sirija saha jaḍita achanti.
 # text_en = According to sources, Yuvraj Singh's mother Shabnam is also associated with this web series.
 1	ସୂତ୍ର	_	NOUN	N_NN	_	2	nmod	_	Translit=sūtra
 2	ଅନୁଯାୟୀ	_	ADJ	JJ	_	13	obl	_	Translit=anuyāŷī
@@ -1330,7 +1330,7 @@
 6	ଶବନମ	_	PROPN	N_NNP	_	13	nsubj	_	Translit=śabanama
 7	ବି	_	PART	RP_RPD	_	6	discourse	_	Translit=bi
 8	ଏହି	_	DET	DM_DMD	_	10	det	_	Translit=ehi
-9	ୱେବ	_	NOUN	N_NN	_	10	compound	_	Translit=ୱେba
+9	ୱେବ	_	NOUN	N_NN	_	10	compound	_	Translit=weba
 10	ସିରିଜ	_	NOUN	N_NN	_	11	nmod	_	Translit=sirija
 11	ସହ	_	ADP	PSP	_	13	obl	_	Translit=saha
 12	ଜଡିତ	_	ADJ	JJ	_	13	xcomp	_	Translit=jaḍita
@@ -1344,13 +1344,13 @@
 1	ରିପୋର୍ଟ	ରିପୋର୍ଟ	NOUN	N_NN	_	4	nmod	_	Translit=riporṭa|LTranslit=riporṭa
 2	ଆସିବା	ଆସିବା	VERB	V_VM_VNF	_	4	acl	_	Translit=āsibā|LTranslit=āsibā
 3	ପରେ	ପରେ	ADP	PSP	_	2	mark	_	Translit=pare|LTranslit=pare
-4	କାର୍ଯ୍ୟାନୁଷ୍ଠାନ	କାର୍ଯ୍ୟାନୁଷ୍ଠାନ	NOUN	N_NN	_	5	obj	_	Translit=kāryŷānuṣṭhāna|LTranslit=kāryŷānuṣṭhāna
-5	ନିଆଯିବ	ନିଆଯିବ	VERB	V_VM_VF	_	7	ccomp	_	Translit=niāyiba|LTranslit=niāyiba
+4	କାର୍ଯ୍ୟାନୁଷ୍ଠାନ	କାର୍ଯ୍ୟାନୁଷ୍ଠାନ	NOUN	N_NN	_	5	obj	_	Translit=kārjŷānuṣṭhāna|LTranslit=kāryŷānuṣṭhāna
+5	ନିଆଯିବ	ନିଆଯିବ	VERB	V_VM_VF	_	7	ccomp	_	Translit=niājiba|LTranslit=niājiba
 6	ବୋଲି	ବୋଲି	SCONJ	CC_CCS	_	5	mark	_	Translit=boli|LTranslit=boli
 7	ପୋଲିସ	ପୋଲିସ	NOUN	N_NN	_	8	nmod	_	Translit=polisa|LTranslit=polisa
 8	ପକ୍ଷରୁ	ପକ୍ଷରୁ	ADP	PSP	_	10	obl	_	Translit=pakṣaru|LTranslit=pakṣaru
 9	ସୂଚନା	ସୂଚନା	NOUN	N_NN	_	10	obj	_	Translit=sūcanā|LTranslit=sūcanā
-10	ଦିଆଯାଇଛି	ଦିଆଯାଇଛି	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No|Translit=diāyāichi|LTranslit=diāyāichi
+10	ଦିଆଯାଇଛି	ଦିଆଯାଇଛି	VERB	V_VM_VF	_	0	root	_	SpaceAfter=No|Translit=diājāichi|LTranslit=diājāichi
 11	।	।	PUNCT	RD_PUNC	_	10	punct	_	Translit=.|LTranslit=.
 
 # sent_id = 97
@@ -1360,7 +1360,7 @@
 1	ଖୁବ୍	_	ADV	RB	_	2	advmod	_	Translit=khub
 2	ଶୀଘ୍ର	_	ADV	RB	_	4	advmod	_	Translit=śīghra
 3	ଦୋଷୀଙ୍କୁ	_	NOUN	N_NN	_	4	obj	_	Translit=doṣīṅku
-4	ଧରାଯିବ	_	VERB	V_VM_VNF	_	10	ccomp	_	Translit=dharāyiba
+4	ଧରାଯିବ	_	VERB	V_VM_VNF	_	10	ccomp	_	Translit=dharājiba
 5	ବୋଲି	_	SCONJ	CC_CCS	_	4	mark	_	Translit=boli
 6	ଏସ୍ପି	_	NOUN	N_NN	_	10	nsubj	_	Translit=espi
 7	ବି	_	PART	RP_RPD	_	6	discourse	_	Translit=bi
@@ -1370,14 +1370,14 @@
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	Translit=.
 
 # sent_id = 98
-# text = ପାଣିପାଗ ବିଭାଗର ରିପୋର୍ଟ ଅନୁଯାୟୀ ଠା​‌ଣେ ଓ ନଭି ମୁମ୍ବାଇରେ ପ୍ରବଳ ବର୍ଷା ଦେଖିବାକୁ ମିଳିଛି ।
+# text = ପାଣିପାଗ ବିଭାଗର ରିପୋର୍ଟ ଅନୁଯାୟୀ ଠା​ଣେ ଓ ନଭି ମୁମ୍ବାଇରେ ପ୍ରବଳ ବର୍ଷା ଦେଖିବାକୁ ମିଳିଛି ।
 # translit = pāṇipāga bibhāgara riporṭa anuyāŷī ṭhā​ṇe o nabhi mumbāire prabaḷa barṣā dekhibāku miḷichi .
 # text_en = According to the Meteorological Department report, Thane and Navi Mumbai have witnessed heavy rain.
 1	ପାଣିପାଗ	_	NOUN	N_NN	_	2	nmod	_	Translit=pāṇipāga
 2	ବିଭାଗର	_	NOUN	N_NN	_	3	compound	_	Translit=bibhāgara
 3	ରିପୋର୍ଟ	_	NOUN	N_NN	_	4	nmod	_	Translit=riporṭa
 4	ଅନୁଯାୟୀ	_	ADP	PSP	_	12	obl	_	Translit=anuyāŷī
-5	ଠା​‌ଣେ	_	PROPN	N_NNP	_	10	obl	_	Translit=ṭhā​ṇe
+5	ଠା​ଣେ	_	PROPN	N_NNP	_	10	obl	_	Translit=ṭhā​ṇe
 6	ଓ	_	CCONJ	CC_CCD	_	5	cc	_	Translit=o
 7	ନଭି	_	PROPN	N_NNP	_	8	compound	_	Translit=nabhi
 8	ମୁମ୍ବାଇରେ	_	PROPN	N_NNP	_	5	conj	_	Translit=mumbāire
@@ -1436,14 +1436,14 @@
 10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n|Translit=.
 
 # sent_id = 120
-# text = ଚୀନ୍‌ର ଜିଙ୍ଗସୁ ପ୍ରଦେଶ ସ୍ଥିତ ୟାଙ୍ଗ୍‌ଚେଙ୍ଗ୍‌ ଚିଡ଼ିଆଖାନାରେ ଏହି ଅଜବ ଘଟଣା ଘଟିଛି ।
+# text = ଚୀନ୍ର ଜିଙ୍ଗସୁ ପ୍ରଦେଶ ସ୍ଥିତ ୟାଙ୍ଗ୍ଚେଙ୍ଗ୍ ଚିଡ଼ିଆଖାନାରେ ଏହି ଅଜବ ଘଟଣା ଘଟିଛି ।
 # translit = cīnra jiṅgasu pradeśa sthita ŷāṅgceṅg ciṛiākhānāre ehi ajaba ghaṭaṇā ghaṭichi .
 # text_en = This strange incident took place at the Yangcheng Zoo in Jiangsu Province, China.
-1	ଚୀନ୍‌ର	_	PROPN	N_NNP	_	2	nmod	_	Translit=cīnra
+1	ଚୀନ୍ର	_	PROPN	N_NNP	_	2	nmod	_	Translit=cīnra
 2	ଜିଙ୍ଗସୁ	_	PROPN	N_NNP	_	3	nmod	_	Translit=jiṅgasu
 3	ପ୍ରଦେଶ	_	NOUN	N_NN	_	6	nmod	_	Translit=pradeśa
 4	ସ୍ଥିତ	_	ADJ	JJ	_	6	amod	_	Translit=sthita
-5	ୟାଙ୍ଗ୍‌ଚେଙ୍ଗ୍‌	_	PROPN	N_NNP	_	6	compound	_	Translit=ŷāṅgceṅg
+5	ୟାଙ୍ଗ୍ଚେଙ୍ଗ୍	_	PROPN	N_NNP	_	6	compound	_	Translit=ŷāṅgceṅg
 6	ଚିଡ଼ିଆଖାନାରେ	_	NOUN	N_NN	_	10	obl	_	Translit=ciṛiākhānāre
 7	ଏହି	_	DET	DM_DMD	_	9	det	_	Translit=ehi
 8	ଅଜବ	_	ADJ	JJ	_	9	amod	_	Translit=ajaba
