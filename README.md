@@ -57,7 +57,7 @@ Data available since: UD v2.16
 License: CC BY-SA 4.0
 Includes text: yes
 Genre: nonfiction news
-Lemmas: not available
+Lemmas: automatic
 UPOS: manual native
 XPOS: not available
 Features: not available
