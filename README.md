@@ -56,6 +56,7 @@ We would like to acknowledge the support of the [Research Ireland](https://www.r
 Data available since: UD v2.16
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: nonfiction news
 Lemmas: automatic
 UPOS: manual native
