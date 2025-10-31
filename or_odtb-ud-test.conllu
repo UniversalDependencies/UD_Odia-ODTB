@@ -453,7 +453,7 @@
 9	ମିଳିବ	_	VERB	V_VM_VF	Tense=Fut|VerbForm=Fin|Person=3|Number=Sing	0	root	_	Translit=miḷiba
 10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n|Translit=.
 
-# sent_id = f1-39
+# sent_id = f1-114
 # text = ଦୀପାବଳୀ ହେଉଛି ଏକ ଖୁସି ଏବଂ ଉଲ୍ଲାସର ପର୍ବ ।
 # text_en = Diwali is a happy and joyful festival.
 1	ଦୀପାବଳୀ	_	PROPN	N_NNP	Number=Sing	2	nsubj	_	Entity=(e31-event-1-new-sgl)|Translit=dīpābaḷī
@@ -1446,7 +1446,7 @@
 8	।	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = f2-2
-# text = ଚୀନ ଦେଶରେ ଥିଲେ ଜଣେ ସମ୍ରାଟ ନାମ ସିହ୍ବାଂତୀ।
+# text = ଚୀନ ଦେଶରେ ଥିଲେ ଜଣେ ସମ୍ରାଟ ନାମ ସିହ୍ବାଂତୀ ।
 # text_en = In China, there was an emperor named Shih Huang Ti.
 1	ଚୀନ	_	PROPN	N_NNP	Number=Sing	2	compound	_	Entity=(e1-location-1-new-coref)
 2	ଦେଶରେ	_	NOUN	N_NN	Case=Loc|Number=Sing	3	obl	_	_
@@ -1470,7 +1470,7 @@
 8	।	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = f2-4
-# text = କାରଣ ? ପ୍ରଜାଏ ବହୁତ ବହି ପଢୁଥିଲେ।
+# text = କାରଣ ? ପ୍ରଜାଏ ବହୁତ ବହି ପଢୁଥିଲେ ।
 # text_en = Why? Because the people used to read many books.
 1	କାରଣ	_	ADV	RB	PronType=Int	6	advmod	_	_
 2	?	_	PUNCT	RD_PUNC	_	1	punct	_	_
@@ -1481,7 +1481,7 @@
 7	।	_	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = f2-5
-# text = ଯିଏ ପଢି ଜାଣି ନଥିଲା , ସେ ପାଠୁଆ ପାଖରୁ ସବୁ ଶୁଣୁଥିଲା।
+# text = ଯିଏ ପଢି ଜାଣି ନଥିଲା , ସେ ପାଠୁଆ ପାଖରୁ ସବୁ ଶୁଣୁଥିଲା ।
 # text_en = The one who did not know how to read, listened to everything from the reciter.
 1	ଯିଏ	_	PRON	PR_PRP	PronType=Rel|Number=Sing|Person=3	4	nsubj	_	Entity=(e3-group-1,6-coref)
 2	ପଢି	_	VERB	V_VM_VNF	VerbForm=Inf|Aspect=Perf	3	advcl	_	_
@@ -1557,7 +1557,7 @@
 8	?	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = f2-9
-# text = ସେମାନେ ଯେତେ ପାରିବେ ପରିଶ୍ରମ କରନ୍ତୁ।
+# text = ସେମାନେ ଯେତେ ପାରିବେ ପରିଶ୍ରମ କରନ୍ତୁ ।
 # text_en = Let them work as hard as they can.
 1	ସେମାନେ	_	PRON	PR_PRP	PronType=Prs|Person=3|Number=Plur|Case=Nom	5	nsubj	_	Entity=(e3-group-1-coref)
 2	ଯେତେ	_	PRON	RB	PronType=Rel|Degree=Pos	3	advmod	_	_
@@ -1567,7 +1567,7 @@
 6	।	_	PUNCT	RD_PUNC	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = f2-10
-# text = ସମ୍ରାଟଙ୍କୁ ଯେତେ ଦୂର ସମ୍ଭବ ଭକ୍ତି କରୁଥାନ୍ତୁ ଓ କର ଦେଉଥାନ୍ତୁ।
+# text = ସମ୍ରାଟଙ୍କୁ ଯେତେ ଦୂର ସମ୍ଭବ ଭକ୍ତି କରୁଥାନ୍ତୁ ଓ କର ଦେଉଥାନ୍ତୁ ।
 # text_en = They worship the emperor and offer him devotion as much as possible.
 1	ସମ୍ରାଟଙ୍କୁ	_	NOUN	N_NN	Number=Sing|Gender=Masc|Case=Dat	6	iobj	_	Entity=(e2-person-1-coref)
 2	ଯେତେ	_	PRON	RB	PronType=Rel|Degree=Pos	5	advmod	_	_
@@ -1863,7 +1863,7 @@
 7	।	_	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = f2-30
-# text = ଦୁର୍ଭାଗ୍ୟକୁ ତାଙ୍କର ସ୍ୱପ୍ନ ସତ୍ୟ ହେଲା |
+# text = ଦୁର୍ଭାଗ୍ୟକୁ ତାଙ୍କର ସ୍ୱପ୍ନ ସତ୍ୟ ହେଲା  |
 # text_en =Unfortunately, his dream came true.
 1	ଦୁର୍ଭାଗ୍ୟକୁ	_	NOUN	N_NN	Number=Sing|Gender=Neut|Case=Acc	5	obl	_	_
 2	ତାଙ୍କର	_	PRON	PR_PRP	Person=3|Number=Sing|Case=Gen	3	nmod	_	Entity=(e12-person-2-coref)
