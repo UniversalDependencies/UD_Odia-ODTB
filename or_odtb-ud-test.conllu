@@ -757,7 +757,7 @@
 5	ଭୁଲ	_	ADJ	JJ	Degree=Pos	6	amod	_	Translit=bhula
 6	ଜୀବନଶୈଳୀ	_	NOUN	N_NN	_	4	nmod	_	Translit=jībanaśaiḷī
 7	ଏବଂ	_	CCONJ	CC_CCD	_	6	cc	_	Translit=ebaṁ
-8	ଖାଇବାରେ	_	NOUN	N_NNV	NounForm=Verbal Noun|Case=Loc	9	nmod	_	Translit=khāibāre
+8	ଖାଇବାରେ	_	NOUN	N_NNV	NounForm=Verbal|Noun|Case=Loc	9	nmod	_	Translit=khāibāre
 9	ଅବହେଳା	_	NOUN	N_NN	_	6	conj	_	Translit=abaheḷā
 10	ହେତୁ	_	PART	RP_RPD	_	11	advmod	_	Translit=hetu
 11	ହୋଇଥାଏ	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Pres|Aspect=Perf|Evident=Habitual	0	root	_	Translit=hoithāe
@@ -990,7 +990,7 @@
 2	ଅଧିକ	_	ADV	RB	_	1	advmod	_	Translit=adhika|LTranslit=adhika
 3	ଫିଲ୍ମରେ	_	NOUN	N_NN	Case=Loc	4	obl	_	Translit=philmare|LTranslit=philma
 4	ଅଭିନୟ	_	NOUN	N_NN	_	5	obj	_	Translit=abhinaŷa|LTranslit=abhinaŷa
-5	କରିଥିବା	_	VERB	V_VM_VNG	VerbForm=Participle | Aspect=Perf | Tense=Pres	6	acl	_	Translit=karithibā|LTranslit=kari
+5	କରିଥିବା	_	VERB	V_VM_VNG	VerbForm=Participle|Aspect=Perf|Tense=Pres	6	acl	_	Translit=karithibā|LTranslit=kari
 6	ଅମ୍ବରିଶ	_	NOUN	N_NN	_	10	nsubj	_	Entity=(e81-person-6-new-sgl)Translit=ambariśa|LTranslit=ambariśa
 7	ରିବେଲ୍	_	NOUN	N_NN	_	6	flat	_	Translit=ribel|LTranslit=ribel
 8	ଷ୍ଟାର	_	NOUN	N_NN	_	10	obl	_	Translit=ṣṭāra|LTranslit=ṣṭāra
@@ -1242,9 +1242,9 @@
 # text = ସୂତ୍ର ଅନୁଯାୟୀ ଯୁବରାଜ ସିଂହଙ୍କ ମା’ ଶବନମ ବି ଏହି ୱେବ ସିରିଜ ସହ ଜଡିତ ଅଛନ୍ତି।
 # text_en = According to sources, Yuvraj Singh's mother Shabnam is also associated with this web series.
 1	ସୂତ୍ର	_	NOUN	N_NN	Case=Nom|Number=Sing	2	nmod	_	Translit=sūtra
-2	ଅନୁଯାୟୀ	_	ADJ	JJ	Number=Sing 13	13	obl	_	Translit=anuyāŷī
-3	ଯୁବରାଜ	_	PROPN	N_NNP	Case=Nom|Number=Sing 4	4	compound	_	Entity=(e99-person-3,4-new-sgl|Translit=yubarāja
-4	ସିଂହଙ୍କ	_	PROPN	N_NNP	Case=Gen|Number=Sing|Person=3 5	6	nmod	_	Entity=e99)Translit=siṁhaṅka
+2	ଅନୁଯାୟୀ	_	ADJ	JJ	Number=Sing	13	obl	_	Translit=anuyāŷī
+3	ଯୁବରାଜ	_	PROPN	N_NNP	Case=Nom|Number=Sing	4	compound	_	Entity=(e99-person-3,4-new-sgl|Translit=yubarāja
+4	ସିଂହଙ୍କ	_	PROPN	N_NNP	Case=Gen|Number=Sing|Person=3	6	nmod	_	Entity=e99)Translit=siṁhaṅka
 5	ମା’	_	NOUN	N_NN	Case=Nom|Number=Sing	6	nmod	_	Translit=mā’
 6	ଶବନମ	_	PROPN	N_NNP	Case=Nom|Number=Sing	13	nsubj	_	Entity=(e100-person-6-new-sgl)|=śabanama
 7	ବି	_	PART	RP_RPD	_	6	discourse	_	Translit=bi
@@ -1299,7 +1299,7 @@
 8	ମୁମ୍ବାଇରେ	_	PROPN	N_NNP	Case=Loc|Number=Sing	5	conj	_	Entity=e104)Translit=mumbāire
 9	ପ୍ରବଳ	_	ADJ	JJ	_	10	amod	_	Translit=prabaḷa
 10	ବର୍ଷା	_	NOUN	N_NN	Case=Acc|Number=Sing|Gender=Fem	12	nsubj	_	Translit=barṣā
-11	ଦେଖିବାକୁ	_	NOUN	N_NNV	Noun Form=Verbal Noun|VerbForm=Inf	12	nmod	_	Translit=dekhibāku
+11	ଦେଖିବାକୁ	_	NOUN	N_NNV	NounForm=Verbal Noun|VerbForm=Inf	12	nmod	_	Translit=dekhibāku
 12	ମିଳିଛି	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Pres|Aspect=Perf|Person=3|Number=Sing	0	root	_	Translit=miḷichi
 13	।	_	PUNCT	RD_PUNC	_	12	punct	_	Translit=.
 
@@ -1759,7 +1759,7 @@
 11	ସମସ୍ତ	_	DET	DM_DMD	PronType=Tot|Number=Plur	12	det	_	_
 12	ବହି	_	NOUN	N_NN	Case=Acc|Number=Plur|Gender=Neut	15	obj	_	Entity=e12)
 13	ପୁଣି	_	ADV	RB	_	14	advmod	_	_
-14	ଦେଖା	_	VERB	V_VM_VNF	|Aspect=Perf	15	compound	_	_
+14	ଦେଖା	_	VERB	V_VM_VNF	Aspect=Perf	15	compound	_	_
 15	ଦେଲେ	_	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Mood=Ind|Number=Plur|Person=3	0	root	_	SpaceAfter=No
 16	।	_	PUNCT	RD_PUNC	_	15	punct	_	SpacesAfter=\n
 
@@ -1784,14 +1784,14 @@
 2	ବି	_	PART	RP_EMPH	_	1	discourse	_	_
 3	ଲୋକେ	_	NOUN	N_NN	Gender=Masc|Number=Plur|Case=Nom	4	nsubj	_	_
 4	ତାଙ୍କ	_	PRON	PR_PRP	Person=3|Number=Sing|Gender=Masc|Case=Gen	5	nmod	_	Entity=(e2-person-4-coref)
-5	ବହି	_	NOUN	N_NN	Gender=Fem|Number=Sing/Plur|Case=Acc	6	obj	_	Entity=(e4-object-5-coref)
+5	ବହି	_	NOUN	N_NN	Gender=Fem|Number=Sing|Case=Acc	6	obj	_	Entity=(e4-object-5-coref)
 6	ପଢ଼ନ୍ତି	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Pres|Aspect=Hab|Person=3|Number=Plur	0	root	_	_
 7	।	_	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = f2-25
 # text = ବହିପତ୍ର ଧ୍ୱଂସ କରିବା ନିମନ୍ତେ ଏଇ ଥରେ ମାତ୍ର ଯେ ଉଦ୍ୟମ ହୋଇଥିଲା, ତାହା ନୁହେଁ |
 # text_en = This was not the only attempt to destroy books.
-1	ବହିପତ୍ର	_	NOUN	N_NN	Number=Sing/Plur|Case=Acc|inanimate	2	compound	_	Entity=(e4-object-1-coref)
+1	ବହିପତ୍ର	_	NOUN	N_NN	Number=Sing|Case=Acc|inanimate	2	compound	_	Entity=(e4-object-1-coref)
 2	ଧ୍ୱଂସ	_	NOUN	N_NN	verbal noun	3	obj	_	_
 3	କରିବା	_	VERB	V_VM_VNF	infinitive|non-finite	4	acl	_	_
 4	ନିମନ୍ତେ	_	ADP	PSP	Case=Purposive|postposition	7	obl	_	_
@@ -1866,7 +1866,7 @@
 # text = ଦୁର୍ଭାଗ୍ୟକୁ ତାଙ୍କର ସ୍ୱପ୍ନ ସତ୍ୟ ହେଲା |
 # text_en =Unfortunately, his dream came true.
 1	ଦୁର୍ଭାଗ୍ୟକୁ	_	NOUN	N_NN	Number=Sing|Gender=Neut|Case=Acc	5	obl	_	_
-2	ତାଙ୍କର	_	PRON	PR_PRP	Person=3|Number=Sing/Plur|Case=Gen	3	nmod	_	Entity=(e12-person-2-coref)
+2	ତାଙ୍କର	_	PRON	PR_PRP	Person=3|Number=Sing|Case=Gen	3	nmod	_	Entity=(e12-person-2-coref)
 3	ସ୍ୱପ୍ନ	_	NOUN	N_NN	Number=Sing|Gender=Neut|Case=Nom	4	nsubj	_	_
 4	ସତ୍ୟ	_	NOUN	N_NN	Number=Sing|Gender=Neut|Case=Nom	5	xcomp	_	_
 5	ହେଲା	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Past|Aspect=Perf|Person=3|Number=Sing	0	root	_	_
@@ -1949,7 +1949,7 @@
 3	ପୋଡ଼ା	_	VERB	V_VM_VNF		4	compound	_	_
 4	ହେଲା	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Past|Aspect=Perf|Person=3|Number=Sing	10	acl	_	SpaceAfter=No
 5	,	_	PUNCT	RD_PUNC	_	4	punct	_	_
-6	ତାଙ୍କର	_	PRON	PR_PRP	Person=3|Number=Sing/Plur|Case=Gen	9	nmod	_	_
+6	ତାଙ୍କର	_	PRON	PR_PRP	Person=3|Number=Sing|Case=Gen	9	nmod	_	_
 7	ଏକ	_	DET	DM_DMD	NumType=Card	9	det	_	_
 8	ଅଦ୍ଭୁତ	_	ADJ	JJ	Degree=Pos	9	amod	_	_
 9	ଯୁକ୍ତି	_	NOUN	N_NN	Number=Sing|Gender=Fem|Case=Nom	10	nsubj	_	_
