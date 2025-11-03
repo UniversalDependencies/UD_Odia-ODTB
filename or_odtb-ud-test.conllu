@@ -1982,27 +1982,6 @@
 20	ଚାହି	_	VERB	V_VM_VF	Person=3|Number=Sing	0	root	_	_
 21	|	_	PUNCT	RD_PUNC	_	20	punct	_	SpacesAfter=\n
 
-# sent_id = f2-38
-# text = ଯଦି ସମର୍ଥନ ହିଁ କରୁଥିବ , ତେବେ ଏ ସବୁ ରହି ଲାଭ ବା କଣ ? ଧର୍ମଶାସ୍ତ୍ର ତ ଅଛି । 
-# text_en = If you continue to support it, then what is the use of all this? After all, there is scripture.
-1	ଯଦି	_	SCONJ	CC_CCS	_	4	mark	_	_
-2	ସମର୍ଥନ	_	NOUN	N_NN	Number=Sing|Gender=Masc	4	obj	_	_
-3	ହିଁ	_	PART	RP_EMPH	Polarity=Neg	4	discourse	_	_
-4	କରୁଥିବ	_	VERB	V_VM_VF	Tense=Pres|Aspect=Prog	16	advcl	_	SpaceAfter=No
-5	,	_	PUNCT	RD_PUNC	_	4	punct	_	_
-6	ତେବେ	_	ADV	RB	_	16	advmod	_	_
-7	ଏ	_	DET	DM_DMD	PronType=Dem	8	det	_	_
-8	ସବୁ	_	PRON	PR_PRC	PronType=Ind	9	nsubj	_	_
-9	ରହି	_	VERB	V_VM_VNF	Tense=Pres|Aspect=Prog	10	advcl	_	_
-10	ଲାଭ	_	NOUN	N_NN	Number=Sing|Gender=Masc	16	obj	_	_
-11	ବା	_	CCONJ	CC_CCD	_	10	cc	_	_
-12	କଣ	_	PRON	PR_Q	PronType=Int	10	conj	_	_
-13	?	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=_
-14	ଧର୍ମଶାସ୍ତ୍ର	_	NOUN	N_NN	Number=Sing|Gender=Masc	16	nsubj	_	_
-15	ତ	_	PART	RP_EMPH	_	16	discourse	_	_
-16	ଅଛି	_	VERB	V_VM_VF	Tense=Pres|Person=3	0	root	_	_
-17	|	_	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n
-
 # sent_id = f2-39
 # text = ଏହିପରି ବହିପତ୍ର ଉପରେ ଆକ୍ରମଣ ହୋଇଛି ।
 # text_en = Such manuscripts have been attacked.
@@ -3205,28 +3184,6 @@
 25	ଇଂଲଣ୍ଡ	_	PROPN	N_NNP	Case=Nom	26	obl	_	_
 26	ଯିବି	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Fut|Person=1|Number=Sing	21	advcl	_	_
 27	।	_	PUNCT	RD_PUNC	_	7	punct	_	_
-
-# sent_id = f4-1
-# text = ସ୍ୱାମୀ ବିବେକାନନ୍ଦ ( ୧୨ ଜାନୁଆରୀ ୧୮୬୩ - ୪ ଜୁଲାଇ ୧୯୦୨ ) ବେଦାନ୍ତର ଜଣେ ବିଶ୍ୱ ପ୍ରସିଦ୍ଧ ଆଧ୍ୟାତ୍ମିକ ଧର୍ମ ଗୁରୁ ।
-1	ସ୍ୱାମୀ	ସ୍ୱାମୀ	NOUN	N_NN	Case=Nom|Gender=Masc	2	compound	_	Entity=(e1-person-1,2-person-new-coref
-2	ବିବେକାନନ୍ଦ	ବିବେକାନନ୍ଦ	PROPN	N_NNP	Case=Nom|Gender=Masc	18	nsubj	_	Entity=e1)
-3	(	(	PUNCT	RD_PUNC	_	6	punct	_	SpaceAfter=No
-4	୧୨	୧୨	NUM	QT_QTC	NumType=Card	5	nummod	_	_
-5	ଜାନୁଆରୀ	ଜାନୁଆରୀ	NOUN	N_NN	Case=Nom|Gender=Masc	6	compound	_	_
-6	୧୮୬୩	୧୮୬୩	NUM	QT_QTC	NumType=Card	2	appos	_	_
-7	-	-	PUNCT	RD_PUNC	_	10	punct	_	_
-8	୪	୪	NUM	QT_QTC	NumType=Card	9	nummod	_	_
-9	ଜୁଲାଇ	ଜୁଲାଇ	NOUN	N_NN	Case=Nom|Gender=Masc	10	compound	_	_
-10	୧୯୦୨	୧୯୦୨	NUM	QT_QTC	NumType=Card	6	conj	_	_
-11	)	)	PUNCT	RD_PUNC	_	6	punct	_	_
-12	ବେଦାନ୍ତର	ବେଦାନ୍ତର	NOUN	N_NN	Case=Gen	18	nmod	_	_
-13	ଜଣେ	ଜଣେ	DET	DM_DMD	NumType=Card	16	det	_	_
-14	ବିଶ୍ୱ	ବିଶ୍ୱ	NOUN	N_NN	Case=Nom	15	compound	_	_
-15	ପ୍ରସିଦ୍ଧ	ପ୍ରସିଦ୍ଧ	ADJ	JJ	_	16	amod	_	_
-16	ଆଧ୍ୟାତ୍ମିକ	ଆଧ୍ୟାତ୍ମିକ	ADJ	JJ	_	17	amod	_	_
-17	ଧର୍ମ	ଧର୍ମ	NOUN	N_NN	Case=Nom	18	compound	_	_
-18	ଗୁରୁ	ଗୁରୁ	NOUN	N_NN	Case=Nom|Number=Sing	0	root	_	_
-19	।	।	PUNCT	RD_PUNC	_	18	punct	_	SpacesAfter=\n
 
 # sent_id = f4-2
 # text = ସନାତନ ଧର୍ମକୁ ବିଶ୍ୱଦରବାରରେ ପରିଚିତ କରିବାରେ ତାଙ୍କର ଅବଦାନ ଅତୁଳନୀୟ ।
