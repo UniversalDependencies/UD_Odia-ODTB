@@ -2184,7 +2184,7 @@
 1	ଅନେକ	_	DET	DM_DMD	_	5	det	_	_
 2	ପୁଣି	_	ADV	RB	_	5	advmod	_	_
 3	ନିଜ	_	DET	DM_DMD	_	5	det	_	_
-4	ନିଜର	_	PRON	PR_PRP	Reflexive + Gen	5	nmod	_	_
+4	ନିଜର	_	PRON	PR_PRP	PronType=Prs	5	nmod	_	_
 5	ପ୍ରିୟ	_	ADJ	JJ	Degree=Pos	6	amod	_	_
 6	ବହିକୁ	_	NOUN	N_NN	Number=Sing|Gender=Neut|Case=Acc	9	obj	_	Entity=(e4-object-6-coref)
 7	ପୂରାପୂରି	_	ADV	RB	_	9	advmod	_	_
@@ -2205,7 +2205,7 @@
 8	ଥିଲା	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Past|Aspect=Perf|Person=3|Number=Sing	10	ccomp	_	_
 9	ବୋଲି	_	SCONJ	CC_CCS	_	10	mark	_	_
 10	ମନେ	_	NOUN	N_NN	_	11	nsubj	_	_
-11	ହୁଏ	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Pres|Aspect=Gen|Person=3|Number=Sing	0	root	_
+11	ହୁଏ	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Pres|Aspect=Gen|Person=3|Number=Sing	0	root	_	_
 12	।	_	PUNCT	RD_PUNC	_	11	punct	_	_
 
 # sent_id = f2-50
@@ -2226,7 +2226,7 @@
 13	ମହାକାବ୍ୟକୁ	_	NOUN	N_NN	Gender=Neut|Number=Sing|Case=Acc	22	obj	_	_
 14	ଚାରଣ	_	NOUN	N_NN	Gender=Masc|Number=Sing|Case=Nom	15	compound	_	_
 15	ଗାୟକ	_	NOUN	N_NN	Gender=Masc|Number=Sing|Case=Nom	16	compound	_	_
-16	ମାନେ	_	PRON	PR_PRC	Plural marker	22	nsubj	_	_
+16	ମାନେ	_	PRON	PR_PRC	Number=Plur	22	nsubj	_	_
 17	ପୁରୁଷ	_	NOUN	N_NN	Gender=Masc|Number=Sing	18	compound	_	_
 18	ପୁରୁଷ	_	NOUN	N_NN	Gender=Masc|Number=Sing	19	obl	_	_
 19	ଧରି	_	VERB	V_VM_VNF	_	20	advcl	_	_
@@ -2275,7 +2275,7 @@
 4	ସ୍ୱଭାବତଃ	_	ADV	RB	_	7	advmod	_	_
 5	ବେଦ	_	NOUN	N_NN	Number=Sing|Gender=Masc	6	compound	_	Entity=(e18-object-5-new-coref)
 6	କଥା	_	NOUN	N_NN	Number=Sing|Gender=Fem	7	nsubj	_	_
-7	ମନେପଡେ	_	VERB	V_VM_VF	CompoundVerb erbForm=Fin|Tense=Pres|Person=3|Number=Sing	0	root	_	_
+7	ମନେପଡେ	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing	0	root	_	_
 8	।	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = f2-54
@@ -2311,15 +2311,15 @@
 # text = ପିତାଠୁ ଶୁଣି ପୁତ୍ର ଓ ଗୁରୁଠୁ ଶୁଣି ଶିଷ୍ୟ ତାକୁ ମନେ ରଖୁଥିଲା |
 # text_en = ‘Hearing from the father, the son, and hearing from the teacher, the disciple, used to keep it in mind.’
 1	ପିତାଠୁ	_	NOUN	N_NN	Case=Abl|Gender=Masc|Number=Sing	2	obl	_	_
-2	ଶୁଣି	_	VERB	V_VM_VNF	VerbForm=Converb|Aspect=Perf	3	advcl	_	_
+2	ଶୁଣି	_	VERB	V_VM_VNF	VerbForm=Conv|Aspect=Perf	3	advcl	_	_
 3	ପୁତ୍ର	_	NOUN	N_NN	Gender=Masc|Number=Sing	10	nsubj	_	_
 4	ଓ	_	CCONJ	CC_CCD	_	6	cc	_	_
 5	ଗୁରୁଠୁ	_	NOUN	N_NN	Case=Abl|Gender=Masc|Number=Sing	6	obl	_	Entity=(e19-profession-5-new-coref)
-6	ଶୁଣି	_	VERB	V_VM_VNF	VerbForm=Converb|Aspect=Perf	7	advcl	_	_
+6	ଶୁଣି	_	VERB	V_VM_VNF	VerbForm=Conv|Aspect=Perf	7	advcl	_	_
 7	ଶିଷ୍ୟ	_	NOUN	N_NN	Gender=Masc|Number=Sing	3	conj	_	_
-8	ତାକୁ	_	PRON	PR_PRP	PronType=Dem/3rd|Case=Acc|Number=Sing	9	obj	_	Entity=(e18-object-8-coref)
-9	ମନେ	_	NOUN	N_NN	Case=Loc|Indecl	10	obl	_	_
-10	ରଖୁଥିଲା	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Past|Aspect=Prog/Hab|Person=3|Number=Sing	0	root	_	_
+8	ତାକୁ	_	PRON	PR_PRP	PronType=Dem|Case=Acc|Number=Sing	9	obj	_	Entity=(e18-object-8-coref)
+9	ମନେ	_	NOUN	N_NN	Case=Loc	10	obl	_	_
+10	ରଖୁଥିଲା	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Past|Aspect=Prog|Person=3|Number=Sing	0	root	_	_
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	_
 
 # sent_id = f2-57
@@ -2330,7 +2330,7 @@
 3	ହୋଇଥିଲା	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Past|Aspect=Perf	0	root	_	_
 4	ପ୍ରାଚୀନ	_	ADJ	JJ	Degree=Pos	5	amod	_	_
 5	ସଂସ୍କୃତିରେ	_	NOUN	N_NN	Gender=Fem|Number=Sing|Case=Loc	3	obl	_	Entity=(e20-abstract-5-new-coref)
-6	।	_	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n
+6	|	_	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = f2-58
 # text = ଭାରତରେ କେତେ ଭାଷା ଚଳୁଛି ସତ; କିନ୍ତୁ ଏକଦା ସାରା ଦେଶର ଲୋକେ ସଂସ୍କୃତ ଜାଣିଥିଲେ ।
@@ -2363,7 +2363,7 @@
 8	ସଂସ୍କୃତ	_	NOUN	N_NN	Gender=Fem|Number=Sing	9	compound	_	Entity=(e20-abstract-8-coref)
 9	ଜରିଆରେ	_	NOUN	N_NN	Case=Ins/Loc	15	obl	_	_
 10	ହିଁ	_	PART	RP_EMPH	Focus=Restr	15	discourse	_	_
-11	ଭାରତୀୟ	_	ADJ	JJ	Adjective= Nationality	12	amod	_	Entity=e9)
+11	ଭାରତୀୟ	_	ADJ	JJ	_	12	amod	_	Entity=e9)
 12	ସାହିତ୍ୟକୁ	_	NOUN	N_NN	Gender=Neut|Number=Sing|Case=Acc	14	obj	_	Entity=(e22-abstract-12-new-coref)
 13	ସେମାନଙ୍କ	_	PRON	PR_PRP	Person=3|Number=Plur|Case=Gen	14	nmod	_	_
 14	ଅବଦାନ	_	NOUN	N_NN	Gender=Masc|Number=Sing	15	nsubj	_	_
@@ -2412,7 +2412,7 @@
 # text_en = ‘Of the stories described in the Bible, Aesop’s fables, the Grimm brothers’ tales of Germany, and Hans Andersen’s fairy tales of Denmark, the majority have their source in India; on this matter the researchers are unanimous.’
 1	ବାଇବଲ୍	_	PROPN	N_NNP	Number=Sing	4	nmod	_	Entity=(e4-object-1-coref)
 2	ରେ	_	ADP	PSP	Case=Loc	1	case	_	_
-3	ବର୍ଣ୍ଣିତ	_	VERB	V_VM_VNF		4	acl	_	_
+3	ବର୍ଣ୍ଣିତ	_	VERB	V_VM_VNF	_	4	acl	_	_
 4	କାହାଣୀ	_	NOUN	N_NN	Number=Sing	23	nsubj	_	_
 5	,	_	PUNCT	RD_PUNC	–	4	punct	_	_
 6	ଇସପ୍	_	PROPN	N_NNP	Number=Sing	7	nmod	_	_
@@ -2427,19 +2427,19 @@
 15	ଡେନମାର୍କର	_	PROPN	N_NNP	Case=Gen	16	nmod	_	Entity=(e16-location-15-coref)
 16	ହାନ୍‌ସ	_	PROPN	N_NNP	Number=Sing	17	compound	_	_
 17	ଏଣ୍ଡାରସନ଼ଙ୍କ	_	PROPN	N_NNP	Case=Gen	18	nmod	_	_
-18	ସଙ୍କଳିତ	_	ADJ	JJ		19	amod	_	_
+18	ସଙ୍କଳିତ	_	ADJ	JJ	_	19	amod	_	_
 19	ପରୀ	_	ADJ	JJ	Gender=Fem|Number=Sing	20	amod	_	_
 20	ଗଳ୍ପ	_	NOUN	N_NN	Gender=Masc|Number=Sing	4	conj	_	_
 21	ସବୁରୁ	_	DET	DM_DMD	Case=Abl|Superlative	23	det	_	_
 22	ଅଧିକାଂଶର	_	DET	DM_DMD	Number=Sing|Case=Gen	23	nmod	_	_
 23	ଉତ୍ସ	_	NOUN	N_NN	Gender=Masc|Number=Sing	25	nsubj	_	_
-24	ଯେ	_	SCONJ	CC_CCS	Subordinating Conjunction	25	mark	_	_
+24	ଯେ	_	SCONJ	CC_CCS	_	25	mark	_	_
 25	ଭାରତବର୍ଷ	_	PROPN	N_NNP	Number=Sing	28	ccomp	_	_
 26	,	_	PUNCT	RD_PUNC	_	25	punct	_	_
-27	ଏ	_	DET	DM_DMD	Deixis	28	det	_	_
+27	ଏ	_	DET	DM_DMD	_	28	det	_	_
 28	ବିଷୟରେ	_	NOUN	N_NN	Case=Loc	30	obl	_	_
 29	ଗବେଷକମାନେ	_	NOUN	N_NN	Gender=Masc|Number=Plur	30	nsubj	_	_
-30	ଏକମତ	_	ADJ	JJ	Predicative	0	root	_	_
+30	ଏକମତ	_	ADJ	JJ	_	0	root	_	_
 31	।	_	PUNCT	RD_PUNC	_	30	punct	_	_
 
 # sent_id = f2-63
@@ -2448,25 +2448,25 @@
 1	ଭାରତର	_	PROPN	N_NNP	Case=Gen	2	nmod	_	Entity=(e9-location-1-coref)
 2	ସାହିତ୍ୟ	_	NOUN	N_NN	Gender=Neut|Number=Sing	3	compound	_	Entity=(e22-abstract-2-coref)
 3	ପରମ୍ପରା	_	NOUN	N_NN	Gender=Fem|Number=Sing	5	nsubj	_	_
-4	ଅତି	_	ADV	RB	Degree=Intens	5	advmod	_	_
+4	ଅତି	_	ADV	RB	_	5	advmod	_	_
 5	ବ୍ୟାପକ	_	ADJ	JJ	Degree=Pos	0	root	_	_
 6	।	_	PUNCT	RD_PUNC	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = f2-64
 # text = ସେହି ବିସ୍ତୃତ , ସୁନ୍ଦର ଉଦ୍ୟାନ ଭିତରକୁ ଏ ବହି ଏକ ଛୋଟ ଗବାକ୍ଷ ମାତ୍ର ।
 # text_en = Into that vast, beautiful garden, this book is only a small window.
-1	ସେହି	_	DET	DM_DMD	Deixis=Dist	2	det	_	_
+1	ସେହି	_	DET	DM_DMD	_	2	det	_	_
 2	ବିସ୍ତୃତ	_	ADJ	JJ	Degree=Pos	5	amod	_	_
 3	,	_	PUNCT	RD_PUNC	–	5	punct	_	_
 4	ସୁନ୍ଦର	_	ADJ	JJ	Degree=Pos	5	amod	_	_
 5	ଉଦ୍ୟାନ	_	NOUN	N_NN	Gender=Neut|Number=Sing	6	nmod	_	Entity=(e25-abstract-5-new-coref)
-6	ଭିତରକୁ	_	NOUN	N_NN	Case=Allat|Suffix=କୁ	12	obl	_	_
+6	ଭିତରକୁ	_	NOUN	N_NN	Case=Lat	12	obl	_	_
 7	ଏ	_	DET	DM_DMD	_	8	det	_	_
 8	ବହି	_	NOUN	N_NN	Gender=Neut|Number=Sing	12	nsubj	_	Entity=(e4-object-7-coref)
 9	ଏକ	_	DET	DM_DMD	NumType=Card	10	det	_	_
 10	ଛୋଟ	_	ADJ	JJ	Degree=Pos	11	amod	_	_
 11	ଗବାକ୍ଷ	_	NOUN	N_NN	Gender=Neut|Number=Sing	12	compound	_	_
-12	ମାତ୍ର	_	NOUN	N_NN	Focus=Restr	0	root	_	_
+12	ମାତ୍ର	_	NOUN	N_NN	_	0	root	_	_
 13	।	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
 
 # sent_id = f2-65
@@ -2477,12 +2477,12 @@
 3	ବଡ଼	_	ADJ	JJ	Degree=Pos	4	advcl	_	_
 4	ହେବ	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Fut|Person=2|Number=Plur	12	advcl	_	SpaceAfter=No
 5	,	_	PUNCT	RD_PUNC	_	4	punct	_	_
-6	ସେତେବେଳେ	_	ADV	RB	Deixis=Dist|Time=Temp	12	advmod	_	_
+6	ସେତେବେଳେ	_	ADV	RB	Deixis=Dist	12	advmod	_	_
 7	ସେ	_	PRON	PR_PRP	Person=3|Number=Sing	12	nsubj	_	_
 8	ଉଦ୍ୟାନ	_	NOUN	N_NN	Gender=Neut|Number=Sing	9	obl	_	Entity=(e4-object-8-coref)
 9	ଭିତରେ	_	NOUN	N_NN	Case=Loc	12	obl	_	_
 10	ଆନନ୍ଦରେ	_	NOUN	N_NN	Case=Loc	12	obl	_	_
-11	ବିଚରଣ	_	NOUN	N_NN	VerbNominal	12	compound	_	_
+11	ବିଚରଣ	_	NOUN	N_NN	VerbForm=Conv	12	compound	_	_
 12	କରିବ	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Fut|Person=3|Number=Sing	0	root	_	_
 13	।	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
 
@@ -3115,7 +3115,7 @@
 24	ଭଦ୍ର	_	ADJ	JJ	Degree=Pos	25	amod	_	_
 25	ଭାବରେ	_	NOUN	N_NN	Case=Loc	29	obl	_	_
 26	ପ୍ରଫେସର	_	NOUN	N_NN	Case=Nom	27	nmod	_	_
-27	ଭାବେ	_	NOUN	N_NN	Case=As (Essive)	29	obl	_	_
+27	ଭାବେ	_	NOUN	N_NN	Case=Gen	29	obl	_	_
 28	ସମ୍ବୋଧନ	_	NOUN	N_NN	VerbForm=Vnoun	29	obj	_	_
 29	କରିଥିଲେ	_	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Person=3|Number=Plur	21	conj	_	SpaceAfter=No
 30	।	_	PUNCT	RD-PUNC	_	29	punct	_	_
@@ -3136,7 +3136,7 @@
 11	ଲେବେଲିନ୍	_	PROPN	N_NNP	_	9	flat	_	_
 12	ଜୋନ୍ସ	_	PROPN	N_NNP	_	9	flat	_	Entity=e21)
 13	କହିଥିଲେ	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Past|Aspect=Perf|Person=3|Number=Plur	0	root	_	_
-14	ଯେ	_	SCONJ	CC-CCS	Subordinating Conjunction	19	mark	_	_
+14	ଯେ	_	SCONJ	CC-CCS	_	19	mark	_	_
 15	ସେ	_	PRON	PR_PRP	PronType=Prs|Person=3|Number=Sing|Case=Nom	19	nsubj	_	Entity=e15)
 16	ଇଂଲଣ୍ଡରେ	_	NOUN	N_NN	Case=Loc	19	obl	_	Entity=(e22-location-16-new-coref)
 17	ଗବେଷଣା	_	NOUN	N_NN	Gender=Neuter|Number=Sing|Case=Nom	19	compound	_	_
@@ -3239,7 +3239,6 @@
 7	ଅବଦାନ	ଅବଦାନ	NOUN	N_NN	Case=Nom|Number=Sing	0	root	_	_
 8	ଅତୁଳନୀୟ	ଅତୁଳନୀୟ	ADJ	JJ	_	7	amod	_	_
 9	।	।	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
-9	।	।	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = f4-3
 # text = ସେ ୧୮୯୩ ମସିହା ଆମେରିକାର ଚିକାଗୋ ବିଶ୍ୱଧର୍ମ ସମ୍ମିଳନୀରେ ହିନ୍ଦୁଧର୍ମର ପ୍ରତିନିଧିତ୍ୱ କରିଥିଲେ।
@@ -3253,7 +3252,6 @@
 8	ହିନ୍ଦୁଧର୍ମର	ହିନ୍ଦୁଧର୍ମ	NOUN	N_NN	Case=Gen	9	obj	_	Entity=(e2-abstract-8-coref)
 9	ପ୍ରତିନିଧିତ୍ୱ	ପ୍ରତିନିଧିତ୍ୱ	VERB	N_NNV	VerbForm=Inf	10	xcomp	_	_
 10	କରିଥିଲେ	କରିଥିଲେ	VERB	V_VM_VF	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
-11	।	।	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
 11	।	।	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
 
 # sent_id = f4-4
@@ -3269,7 +3267,6 @@
 9	ରଚନା	ରଚନା	NOUN	N_NN	Case=Nom	10	obj	_	_
 10	କରିଥିଲେ	କରିଥିଲେ	VERB	V_VM_VF	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 11	।	।	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
-11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
 
 # sent_id = f4-5
 # text = ୧୮୬୩ ମସିହା ଜାନୁଆରୀ ୧୨ ତାରିଖର କଲିକତାର ସିମିଳାପଲ୍ଲୀରେ ବିଶ୍ୱନାଥ ଦତ୍ତ ଓ ଭୁବନେଶ୍ୱରୀ ଦେବୀଙ୍କର ପ୍ରଥମ ପୁତ୍ରରୁପେ ଜନ୍ମଗ୍ରହଣ କରିଥିଲେ ।
@@ -3290,7 +3287,6 @@
 15	ଜନ୍ମଗ୍ରହଣ	ଜନ୍ମଗ୍ରହଣ	VERB	N_NNV	VerbForm=Inf	16	xcomp	_	_
 16	କରିଥିଲେ	କରିଥିଲେ	VERB	V_VM_VF	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 17	।	।	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n
-17	।	।	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n
 
 # sent_id = f4-6
 # text = ଛୋଟବେଳୁ ତାଙ୍କ ମନରେ ଧର୍ମଭାବ ପରିଲକ୍ଷିତ ହୋଇଥିଲା ।
@@ -3300,7 +3296,7 @@
 4	ଧର୍ମଭାବ	ଧର୍ମଭାବ	NOUN	N_NN	Case=Nom|Number=Sing|Gender=Neut|Animacy=Inan|Person=3|Polite=Form|Clusivity=NA	6	nsubj	_	_
 5	ପରିଲକ୍ଷିତ	ପରିଲକ୍ଷିତ	ADJ	JJ	Degree=Pos|Polarity=Pos|Aspect=Perf	6	amod	_	_
 6	ହୋଇଥିଲା	ହେବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Mood=Ind|Voice=Mid|Person=3|Number=Sing|Polarity=Pos	0	root	_	_
-7	।	।	PUNCT	RD_PUNC	PunctType=Peri	6	punct	_	SpacesAfter=\n
+7	।	।	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = f4-7
 # text = ତାଙ୍କର ଏକ ମାତ୍ର ଆକାଂକ୍ଷା ଥିଲା ଭଗବତ ଦର୍ଶନ ।
@@ -3311,7 +3307,7 @@
 5	ଥିଲା	ହେବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Mood=Ind|Voice=Act|Person=3|Number=Sing|Polarity=Pos	0	root	_	_
 6	ଭଗବତ	ଭଗବତ	PROPN	N_NNP	Case=Nom|Number=Sing|Gender=Masc|Animacy=Anim|Person=3	7	compound	_	_
 7	ଦର୍ଶନ	ଦର୍ଶନ	NOUN	N_NN	Case=Acc|Number=Sing|Gender=Neut|Animacy=Inan|Person=3	5	xcomp	_	_
-8	।	।	PUNCT	RD_PUNC	PunctType=Peri	5	punct	_	SpacesAfter=\n
+8	।	।	PUNCT	RD_PUNC	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = f4-8
 # text = ସେ ପାଠପଢ଼ିବା ସମୟରେ ବ୍ରାହ୍ମସମାଜଭୁତ ହୋଇ ନିୟମିତ ଉପାସନାରେ ଯୋଗ ଦେଉଥିଲେ ।
@@ -3324,7 +3320,7 @@
 7	ଉପାସନାରେ	ଉପାସନା	NOUN	N_NN	Case=Loc|Number=Sing|Gender=Fem|Animacy=Inan|Person=3	9	obl	_	_
 8	ଯୋଗ	ଯୋଗ	NOUN	N_NN	Case=Acc|Number=Sing|Gender=Neut|Animacy=Inan|Person=3	9	obj	_	_
 9	ଦେଉଥିଲେ	ଦେବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Prog|Tense=Past|Mood=Ind|Voice=Act|Person=3|Number=Plur|Polarity=Pos	0	root	_	_
-10	।	।	PUNCT	RD_PUNC	PunctType=Peri	9	punct	_	SpacesAfter=\n
+10	।	।	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
 
 # sent_id = f4-9
 # text = ଭଗବାନଙ୍କୁ ଆନ୍ତରିକ ଦର୍ଶନ କରିବାକୁ ଚାହୁଁଥିବା ବଳିଷ୍ଠଦେହ ଓ ଦୃଢ଼ମନର ଅଧିକାରୀ ସ୍ୱାମୀ ବିବେକାନନ୍ଦ ରାମକୃଷ୍ଣ ପରମହଂସଙ୍କୁ ଗୁରୁରୁପେ ବରଣ କରିଥିଲେ ।
@@ -3344,7 +3340,7 @@
 14	ଗୁରୁରୁପେ	ଗୁରୁରୁପେ	NOUN	N_NN	Case=Ins|Number=Sing|Gender=Com|Animacy=Inan	16	obl	_	_
 15	ବରଣ	ବରଣ	NOUN	N_NNV	Case=Nom|VerbForm=Vnoun|Aspect=Perf	16	compound	_	_
 16	କରିଥିଲେ	କରିବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Mood=Ind|Voice=Act|Person=3|Number=Plur|Polarity=Pos	0	root	_	_
-17	।	।	PUNCT	RD_PUNC	PunctType=Peri	16	punct	_	SpacesAfter=\n
+17	।	।	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n
 
 # sent_id = f4-10
 # text = ରାମକୃଷ୍ଣ ନିଜର ମହାନ ଭାବାଦର୍ଶ ପ୍ରସାର କାର୍ଯ୍ୟ ବିବେକାନନ୍ଦଙ୍କଦ୍ୱାରା ସମ୍ପାଦିତ କରାଇଥିଲେ ।
@@ -3357,7 +3353,7 @@
 7	ବିବେକାନନ୍ଦଙ୍କଦ୍ୱାରା	ବିବେକାନନ୍ଦ	PROPN	N_NNP	Case=Ins|Number=Sing|Gender=Masc|Animacy=Anim|Person=3	9	obl	_	Entity=(e1-person-7-coref)
 8	ସମ୍ପାଦିତ	ସମ୍ପାଦିତ	VERB	V_VNG	VerbForm=Part|Aspect=Perf|Voice=Pass|Polarity=Pos	9	xcomp	_	_
 9	କରାଇଥିଲେ	କରାଇବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Mood=Ind|Voice=Caus|Person=3|Number=Sing|Polarity=Pos	0	root	_	_
-10	।	।	PUNCT	RD_PUNC	PunctType=Peri	9	punct	_	SpacesAfter=\n
+10	।	।	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
 
 # sent_id = f4-11
 # text = ଗୌରବମୟ ଭାରତୀୟ ସଂସ୍କୁତି ବିବେକାନନ୍ଦଙ୍କୁ ବହୁତ ଆନନ୍ଦ ଦେଇଥିଲା କିନ୍ତୁ ଭାରତର ଜନସାଧାରଣଙ୍କର ଦାରିଦ୍ର୍ୟ ଓ ଅଶିକ୍ଷା ତାଙ୍କୁ ବ୍ୟଥିତ କରିଥିଲା ।
@@ -3377,7 +3373,7 @@
 14	ତାଙ୍କୁ	ସେ	PRON	PR_PRP	Case=Dat|Number=Sing|Gender=Com|Person=3|Polite=Form	16	obj	_	Entity=e1)
 15	ବ୍ୟଥିତ	ବ୍ୟଥିତ	ADJ	JJ	Degree=Pos|Polarity=Pos	16	xcomp	_	_
 16	କରିଥିଲା	କରିବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Mood=Ind|Voice=Act|Polarity=Pos	7	conj	_	_
-17	।	।	PUNCT	RD_PUNC	PunctType=Peri	7	punct	_	SpacesAfter=\n
+17	।	।	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = f4-12
 # text = ମାତ୍ର ୨୬ ବର୍ଷ ବୟସରେ ସେ ସନ୍ନ୍ୟାସୀ ହୋଇଥିଲେ ଓ ତା ପରେ ପାଶ୍ଚାତ୍ୟ ଭ୍ରମଣ କରି ସଂପୂର୍ଣ୍ଣ ବିଶ୍ୱରେ ହିନ୍ଦୁ ଧର୍ମ ଓ ବେଦାନ୍ତର ପ୍ରଚାର ଓ ପ୍ରସାର କରିଥିଲେ ।
@@ -3405,7 +3401,7 @@
 21	ଓ	ଓ	CCONJ	CC_CCD	_	22	cc	_	_
 22	ପ୍ରସାର	ପ୍ରସାର	NOUN	N_NN	Case=Acc|Number=Sing|Gender=Neut|Animacy=Inan	20	conj	_	_
 23	କରିଥିଲେ	କରିବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Voice=Act|Polarity=Pos|Person=3|Number=Plur	7	conj	_	_
-24	।	।	PUNCT	RD_PUNC	PunctType=Peri	7	punct	_	SpacesAfter=\n
+24	।	।	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = f4-13
 # text = ୧୮୬୩ ଖ୍ରୀଷ୍ଟାବ୍ଦ ଜାନୁଆରୀ ୧୨ ତାରିଖ, ପୌଷ ସଂକ୍ରାନ୍ତି ଦିନ ପ୍ରତ୍ୟୁଷରେ କଲିକତାର ସିମଳାପଲ୍ଲୀରେ ବିଶ୍ୱନାଥ ଦତ୍ତ ଓ ଭୁବନେଶ୍ୱରୀ ଦେବୀଙ୍କର ପ୍ରଥମ ପୁତ୍ର ଜନ୍ମଗ୍ରହଣ କରିଥିଲେ ।
@@ -3430,7 +3426,7 @@
 19	ପୁତ୍ର	ପୁତ୍ର	NOUN	N_NN	Case=Acc|Number=Sing|Gender=Masc|Animacy=Anim	21	obj	_	_
 20	ଜନ୍ମଗ୍ରହଣ	ଜନ୍ମଗ୍ରହଣ	VERB	N_NNV	VerbForm=Vnoun|Aspect=Perf	21	xcomp	_	_
 21	କରିଥିଲେ	କରିବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Mood=Ind|Voice=Act|Person=3|Number=Plur	0	root	_	_
-22	।	।	PUNCT	RD_PUNC	PunctType=Peri	21	punct	_	SpacesAfter=\n
+22	।	।	PUNCT	RD_PUNC	_	21	punct	_	SpacesAfter=\n
 
 # sent_id = f4-14
 # text = ସେହି ନବଜାତକ ପ୍ରତି ଆମମାନଙ୍କର ଗଭୀର ପ୍ରଣତି ।
@@ -3440,7 +3436,7 @@
 4	ଆମମାନଙ୍କର	ଆମ	PRON	PR_PRC	Case=Gen|Number=Plur|Person=1	6	nmod	_	_
 5	ଗଭୀର	ଗଭୀର	ADJ	JJ	Degree=Pos	6	amod	_	_
 6	ପ୍ରଣତି	ପ୍ରଣତି	NOUN	N_NN	Case=Nom|Number=Sing|Gender=Fem	0	root	_	_
-7	।	।	PUNCT	RD_PUNC	PunctType=Peri	6	punct	_	SpacesAfter=\n
+7	।	।	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = f4-15
 # text = ସେଦିନ ହୁଏତ ଶତ ଶତ ଶିଶୁଙ୍କର ଜନ୍ମ ହୋଇଛି, କିନ୍ତୁ ଏହି ଶିଶୁଟିକୁ ହିଁ ବିଶେଷ କରି ଜଗତ ସ୍ମରଣ କରି ରଖିଛି ।
@@ -3462,7 +3458,7 @@
 16	ସ୍ମରଣ	ସ୍ମରଣ	NOUN	N_NN	Case=Acc|Number=Sing	17	obj	_	_
 17	କରି	କରି	VERB	V_VNF	VerbForm=Conv|Aspect=Perf	7	conj	_	_
 18	ରଖିଛି	ରଖିଛି	AUX	V_VAUX	VerbForm=Fin|Aspect=Perf|Tense=Pres|Person=3|Number=Sing	17	aux	_	_
-19	।	।	PUNCT	RD_PUNC	PunctType=Peri	7	punct	_	SpacesAfter=\n
+19	।	।	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = f4-16
 # text = ଏହି ନବଜାତକ ନରେନ୍ଦ୍ରନାଥ ଦତ୍ତ, ଯିଏ ପରବର୍ତ୍ତୀ କାଳରେ ବିଶ୍ୱବରେଣ୍ୟ ଯୁଗାଚାର୍ଯ୍ୟ ସ୍ୱାମୀ ବିବେକାନନ୍ଦ ହୋଇଥିଲେ ।
@@ -3479,7 +3475,7 @@
 11	ସ୍ୱାମୀ	ସ୍ୱାମୀ	PROPN	N_NNP	Case=Nom|Number=Sing	13	compound	_	_
 12	ବିବେକାନନ୍ଦ	ବିବେକାନନ୍ଦ	PROPN	N_NNP	Case=Nom|Number=Sing	13	xcomp	_	_
 13	ହୋଇଥିଲେ	ହେବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Mood=Ind|Voice=Act|Person=3|Number=Sing	3	acl	_	_
-14	।	।	PUNCT	RD_PUNC	PunctType=Peri	3	punct	_	SpacesAfter=\n
+14	।	।	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = f4-17
 # text = ବିଶ୍ୱନାଥ ଦତ୍ତ ଥିଲେ ଜଣେ ଲବ୍‌ଧପ୍ରତିଷ୍ଠିତ ଆଟର୍ଣ୍ଣି ।
@@ -3489,7 +3485,7 @@
 4	ଜଣେ	ଜଣେ	DET	DM_DMQ	DetType=Indef	6	det	_	_
 5	ଲବ୍ଧପ୍ରତିଷ୍ଠିତ	ଲବ୍ଧପ୍ରତିଷ୍ଠିତ	ADJ	JJ	Degree=Pos	6	amod	_	_
 6	ଆଟର୍ଣ୍ଣି	ଆଟର୍ଣ୍ଣି	NOUN	N_NN	Case=Nom|Number=Sing	3	xcomp	_	_
-7	।	।	PUNCT	RD_PUNC	PunctType=Peri	3	punct	_	SpacesAfter=\n
+7	।	।	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = f4-18
 # text = ତାଙ୍କର ଉଦାରତା, ଚରିତ୍ରର ତେଜସ୍ୱିତା ଓ ପରଦୁଃଖକାତରତା ସମସ୍ତଙ୍କର ଶ୍ରଦ୍ଧା ଆକର୍ଷଣ କରୁଥିଲା ।
@@ -3504,7 +3500,7 @@
 9	ଶ୍ରଦ୍ଧା	ଶ୍ରଦ୍ଧା	NOUN	N_NN	Case=Acc|Number=Sing	10	obj	_	_
 10	ଆକର୍ଷଣ	ଆକର୍ଷଣ	NOUN	N_NN	Case=Acc|Number=Sing	11	obj	_	_
 11	କରୁଥିଲା	କରିବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Mood=Ind|Voice=Act|Person=3|Number=Sing	0	root	_	_
-12	।	।	PUNCT	RD_PUNC	PunctType=Peri	11	punct	_	SpacesAfter=\n
+12	।	।	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n
 
 # sent_id = f4-19
 # text = ଭୁବନେଶ୍ୱରୀ ଦେବୀ ଥିଲେ ସୁରୂପା, ତେଜସ୍ୱିନୀ, ଧର୍ମପ୍ରାଣା, ଆଦର୍ଶ ହିନ୍ଦୁ ରମଣୀ ।
@@ -3520,7 +3516,7 @@
 10	ଆଦର୍ଶ	ଆଦର୍ଶ	ADJ	JJ	Degree=Pos	12	amod	_	_
 11	ହିନ୍ଦୁ	ହିନ୍ଦୁ	NOUN	N_NN	Case=Nom|Number=Sing	12	compound	_	Entity=(e2-abstract-11-coref)
 12	ରମଣୀ	ରମଣୀ	NOUN	N_NN	Case=Nom|Number=Sing	4	conj	_	_
-13	।	।	PUNCT	RD_PUNC	PunctType=Peri	3	punct	_	SpacesAfter=\n
+13	।	।	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = f4-20
 # text = କାଶୀର ବୀରେଶ୍ୱର ଶିବଙ୍କର ପ୍ରସନ୍ନତାରୁ ଏହି ପୁତ୍ର ଲାଭ ହୋଇଥିଲା, ତେଣୁ ନାମ ରଖାହେଲା ବୀରେଶ୍ୱର - ଡାକନାମ ‘ବିଲେ’ ।
@@ -3540,7 +3536,7 @@
 14	-	-	PUNCT	RD_SYM	_	15	punct	_	_
 15	ଡାକନାମ	ଡାକନାମ	NOUN	N_NN	Case=Nom|Number=Sing	13	appos	_	_
 16	‘ବିଲେ’	ବିଲେ	PROPN	N_NNP	Case=Nom|Number=Sing	15	appos	_	Entity=e1)
-17	।	।	PUNCT	RD_PUNC	PunctType=Peri	8	punct	_	SpacesAfter=\n
+17	।	।	PUNCT	RD_PUNC	_	8	punct	_	SpacesAfter=\n
 
 # sent_id = f4-21
 # text = ଅନ୍ନପ୍ରାଶନ ସମୟରେ ନାମ ଦିଆଗଲା ନରେନ୍ଦ୍ରନାଥ ।
@@ -3762,7 +3758,6 @@
 15	କିପରି	କିପରି	ADV	RB	_	16	advmod	_	_
 16	ଯାଏ	ଯା	VERB	V_VM_VF	Tense=Pres|Mood=Ind|Person=3	14	acl	_	_
 17	।	।	PUNCT	RD_PUNC	_	14	punct	_	SpacesAfter=\n
-17	।	_	PUNCT	RD_PUNC	_	14	punct	_	SpacesAfter=\n
 
 # sent_id = f4-37
 # text = ଜଣେ ମୁସଲମାନ ମହକିଲ ଥରେ ଆଦର କରି ନରେନ୍‌କୁ ଭଲ ଭଲ ସନ୍ଦେଶ ଖୁଆଇ ଦେଲେ ।
@@ -3779,7 +3774,6 @@
 11	ଖୁଆଇ	ଖୁଆ	VERB	V_VM_VNF	VerbForm=Conv	12	advcl	_	_
 12	ଦେଲେ	ଦେ	VERB	V_VM_VF	Tense=Past|Mood=Ind|Person=3	0	root	_	_
 13	।	।	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
-13	।	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
 
 # sent_id = f4-38
 # text = ମା’ ତାହା ଦେଖି କହିଲେ, ‘ଅନ୍ୟ ଜାତିର ଛୁଆଁ ଖାଇଲେ ଜାତି ଯାଏ ।’
@@ -3797,7 +3791,6 @@
 12	ଯାଏ	ଯା	VERB	V_VM_VF	Tense=Pres|Mood=Ind|Person=3	4	ccomp	_	_
 13	।	।	PUNCT	RD_PUNC	_	12	punct	_	SpaceAfter=No
 14	’	’	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
-14	’	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
 
 # sent_id = f4-39
 # text = କିନ୍ତୁ ଜାତି କିପରି ଯାଏ, ତାହା ହିଁ ହେଲା ନରେନ୍‌ର ଚିନ୍ତାର ବିଷୟ ।
@@ -3813,7 +3806,6 @@
 10	ଚିନ୍ତାର	ଚିନ୍ତା	NOUN	N_NN	Case=Gen	11	nmod	_	_
 11	ବିଷୟ	ବିଷୟ	NOUN	N_NN	_	8	xcomp	_	_
 12	।	।	PUNCT	RD_PUNC	_	8	punct	_	SpacesAfter=\n
-12	।	_	PUNCT	RD_PUNC	_	8	punct	_	SpacesAfter=\n
 
 # sent_id = f4-40
 # text = ଛ’ ବର୍ଷ ବୟସରେ ସ୍କୁଲରେ ନରେନ୍ଦ୍ରଙ୍କର ନାମ ଲେଖା ହେଲା, କିନ୍ତୁ ସେ ଇଂରାଜୀ ପଢ଼ିବାକୁ ରାଜି ହେଲା ନାହିଁ ।
@@ -3834,7 +3826,6 @@
 15	ହେଲା	ହେ	VERB	V_VM_VF	Tense=Past|Mood=Ind|Person=3	8	conj	_	_
 16	ନାହିଁ	ନାହିଁ	PART	RP_NEG	_	15	advmod	_	_
 17	।	।	PUNCT	RD_PUNC	_	15	punct	_	SpacesAfter=\n
-17	।	_	PUNCT	RD_PUNC	_	15	punct	_	SpacesAfter=\n
 
 # sent_id = f4-41
 # text = ସେ ତ ବିଦେଶୀ ଭାଷା, କାହିଁକି ପଢ଼ିବି ?
@@ -5051,10 +5042,8 @@
 14	କରିଥିଲେ	_	VERB	V_VM_VF	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
 15	।	_	PUNCT	PUNCT	_	14	punct	_	_
 
-# sent_id=17
-# text = ରମାଦେବୀ ୧୯୩୦ ର ଆଇନ ଅମାନ୍ୟ ଆନ୍ଦୋଳନ, ଲବଣ ସତ୍ୟାଗ୍ରହ, ୧୯୩୪ ଅଗଷ୍ଟ ୮ ଗାନ୍ଧିଜୀଙ୍କ "ପୁରୀ ହରିଜନ ସମାବେଶ" ସହ ଜଗନ୍ନାଥ ମନ୍ଦିର ଆଗରେରେ ଉତ୍କଳମଣିଙ୍କ ପ୍ରତିମୂର୍ତ୍ତି ଉନ୍ମୋଚନର ମୁଖ୍ୟ ଦାୟିତ୍ୱ ନେଇଥିଲେ ।
-
 # sent_id = f5-18
+# text = ରମାଦେବୀ ୧୯୩୦ ର ଆଇନ ଅମାନ୍ୟ ଆନ୍ଦୋଳନ, ଲବଣ ସତ୍ୟାଗ୍ରହ, ୧୯୩୪ ଅଗଷ୍ଟ ୮ ଗାନ୍ଧିଜୀଙ୍କ "ପୁରୀ ହରିଜନ ସମାବେଶ" ସହ ଜଗନ୍ନାଥ ମନ୍ଦିର ଆଗରେରେ ଉତ୍କଳମଣିଙ୍କ ପ୍ରତିମୂର୍ତ୍ତି ଉନ୍ମୋଚନର ମୁଖ୍ୟ ଦାୟିତ୍ୱ ନେଇଥିଲେ ।
 1	ରମାଦେବୀ	_	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing	29	nsubj	_	Entity=(e1-person-1-coref)
 2	୧୯୩୦	_	NUM	QT_QTC	NumType=Card	6	nmod	_	_
 3	ର	_	ADP	PSP	Case=Gen	2	case	_	_
@@ -5089,9 +5078,8 @@
 29	ନେଇଥିଲେ	_	VERB	V_VM_VF	_	0	root	_	_
 30	।	_	PUNCT	PUNCT	_	29	punct	_	_
 
-# sent_id=18
+# sent_id = f5-18
 # text = ୧୯୨୫ ଅଗଷ୍ଟ ୧୯ ଓ ୨୦ ଦୁଇଦିନ ଧରି ମହାତ୍ମା ଗାନ୍ଧୀ ମଧୁସୂଦନ ଦାସଙ୍କ କଟକ ବାସଭବନରେ ରହିବା ବେଳେ ତାଙ୍କଠାରୁ ସ୍ୱଦେଶ ଜାଗରଣ କାର୍ଯ୍ୟର ଅନେକ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ପରାମର୍ଶ ଗ୍ରହଣ କରିଥିଲେ ।
-
 1	୧୯୨୫	୧୯୨୫	NUM	QT_QTC	NumType=Card	2	nummod	_	_
 2	ଅଗଷ୍ଟ	ଅଗଷ୍ଟ	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	6	compound	_	_
 3	୧୯	୧୯	NUM	QT_QTC	NumType=Card	6	nummod	_	_
@@ -5117,6 +5105,7 @@
 23	ଗ୍ରହଣ	ଗ୍ରହଣ	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing	24	compound	_	_
 24	କରିଥିଲେ	କରିଥିଲେ	VERB	V_VM_VF	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
 25	।	।	PUNCT	PUNCT	_	24	punct	_	_
+
 # sent_id = f5-19
 # text = କଟକ ରହଣି ସମୟରେ ମଧୁସୂଦନଙ୍କ ସଞ୍ଚାଳିତ କୁଟୀର ଶିଳ୍ପ, ତାରକସୀ ଶିଳ୍ପ, ଚମଡ଼ା ଶିଳ୍ପ କେନ୍ଦ୍ରଗୁଡ଼ିକ ଦେଖି ଗାନ୍ଧୀ ପ୍ରଭାବିତ ହୋଇଥିଲେ ।
 1	କଟକ	କଟକ	PROPN	N_NNP	Case=Nom|Gender=Neut|Number=Sing	2	compound	_	Entity=(e7-location-1-coref)
@@ -5207,7 +5196,7 @@
 19	ରଖିଥିଲେ	ରଖିବା	VERB	V_VM_VF	Aspect=Perf|Mood=Ind|Tense=Past|Person=3|Number=Plur	0	root	_	_
 20	।	।	PUNCT	RD_PUNC	_	19	punct	_	_
 
-# sent_id=24
+# sent_id = f5-24
 # text = ୧୯୪୨ ଭାରତଛାଡ଼ ଆନ୍ଦୋଳନରେ ପ୍ରତ୍ୟକ୍ଷ ସମ୍ପୃକ୍ତି ହେତୁ ଇଂରେଜ ସରକାର ରମାଦେବୀ ଓ ଗୋପବନ୍ଧୁଙ୍କୁ ଦୁଇ ବର୍ଷ ପାଇଁ ଜେଲଦଣ୍ଡ ଦେଲେ ।
 1	୧୯୪୨	୧୯୪୨	NUM	QT_QTC	NumType=Card	3	nummod	_	_
 2	ଭାରତଛାଡ଼	ଭାରତଛାଡ଼	PROPN	N_NNP	Case=Nom|Gender=Neut|Number=Sing	3	compound	_	_
@@ -5405,7 +5394,6 @@
 17	ଧର୍ମ	ଧର୍ମ	NOUN	N_NN	Case=Nom	18	compound	_	_
 18	ଗୁରୁ	ଗୁରୁ	NOUN	N_NN	Case=Nom|Number=Sing	0	root	_	_
 19	।	।	PUNCT	RD_PUNC	_	18	punct	_	SpacesAfter=\n
-19	।	।	PUNCT	RD_PUNC	_	18	punct	_	SpacesAfter=\n
 
 # sent_id = f6-2
 # text = ସନାତନ ଧର୍ମକୁ ବିଶ୍ୱଦରବାରରେ ପରିଚିତ କରିବାରେ ତାଙ୍କର ଅବଦାନ ଅତୁଳନୀୟ ।
@@ -5417,7 +5405,6 @@
 6	ତାଙ୍କର	ତାଙ୍କର	PRON	PR_PRP	Case=Gen|Person=3|PronType=Prs	7	nmod	_	Entity=(e1-person-6-coref)
 7	ଅବଦାନ	ଅବଦାନ	NOUN	N_NN	Case=Nom|Number=Sing	0	root	_	_
 8	ଅତୁଳନୀୟ	ଅତୁଳନୀୟ	ADJ	JJ	_	7	amod	_	_
-9	।	।	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 9	।	।	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = f6-3
@@ -5434,7 +5421,6 @@
 10	କରିଥିଲେ	କରିଥିଲେ	VERB	V_VM_VF	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	SpaceAfter=No
 11	।	।	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
 
-
 # sent_id = f6-4
 # text = ସେଠାରେ ସେ ହିନ୍ଦୁ ଧର୍ମ ଉପରେ ମର୍ମସ୍ପର୍ଶୀ ଭାଷଣଦେଇ ଇତିହାସ ରଚନା କରିଥିଲେ ।
 1	ସେଠାରେ	ସେଠାରେ	ADV	RB	_	10	advmod	_	Entity=(e4-location-1-coref)
@@ -5448,7 +5434,6 @@
 9	ରଚନା	ରଚନା	NOUN	N_NN	Case=Nom	10	obj	_	_
 10	କରିଥିଲେ	କରିଥିଲେ	VERB	V_VM_VF	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 11	।	।	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
-11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
 
 # sent_id = f6-5
 # text = ୧୮୬୩ ମସିହା ଜାନୁଆରୀ ୧୨ ତାରିଖର କଲିକତାର ସିମିଳାପଲ୍ଲୀରେ ବିଶ୍ୱନାଥ ଦତ୍ତ ଓ ଭୁବନେଶ୍ୱରୀ ଦେବୀଙ୍କର ପ୍ରଥମ ପୁତ୍ରରୁପେ ଜନ୍ମଗ୍ରହଣ କରିଥିଲେ ।
@@ -5469,17 +5454,16 @@
 15	ଜନ୍ମଗ୍ରହଣ	ଜନ୍ମଗ୍ରହଣ	VERB	N_NNV	VerbForm=Inf	16	xcomp	_	_
 16	କରିଥିଲେ	କରିଥିଲେ	VERB	V_VM_VF	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	_
 17	।	।	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n
-17	।	।	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n
 
 # sent_id = f6-6
 # text = ଛୋଟବେଳୁ ତାଙ୍କ ମନରେ ଧର୍ମଭାବ ପରିଲକ୍ଷିତ ହୋଇଥିଲା ।
-1	ଛୋଟବେଳୁ	ଛୋଟବେଳୁ	NOUN	N_NN	Case=Abl|Number=Sing|Gender=Neut|Animacy=Inan|Person=3|Polite=Form|Clusivity=NA	6	obl	_	_
-2	ତାଙ୍କ	ସେ	PRON	PR_PRP	Case=Gen|Number=Sing|Gender=Com|Person=3|Polite=Form|Clusivity=NA	3	nmod	_	Entity=(e1-person-2-coref)
-3	ମନରେ	ମନ	NOUN	N_NN	Case=Loc|Number=Sing|Gender=Neut|Animacy=Inan|Person=3|Polite=Form|Clusivity=NA	6	obl	_	_
-4	ଧର୍ମଭାବ	ଧର୍ମଭାବ	NOUN	N_NN	Case=Nom|Number=Sing|Gender=Neut|Animacy=Inan|Person=3|Polite=Form|Clusivity=NA	6	nsubj	_	_
+1	ଛୋଟବେଳୁ	ଛୋଟବେଳୁ	NOUN	N_NN	Case=Abl|Number=Sing|Gender=Neut|Animacy=Inan|Person=3|Polite=Form	6	obl	_	_
+2	ତାଙ୍କ	ସେ	PRON	PR_PRP	Case=Gen|Number=Sing|Gender=Com|Person=3|Polite=Form	3	nmod	_	Entity=(e1-person-2-coref)
+3	ମନରେ	ମନ	NOUN	N_NN	Case=Loc|Number=Sing|Gender=Neut|Animacy=Inan|Person=3|Polite=Form	6	obl	_	_
+4	ଧର୍ମଭାବ	ଧର୍ମଭାବ	NOUN	N_NN	Case=Nom|Number=Sing|Gender=Neut|Animacy=Inan|Person=3|Polite=Form	6	nsubj	_	_
 5	ପରିଲକ୍ଷିତ	ପରିଲକ୍ଷିତ	ADJ	JJ	Degree=Pos|Polarity=Pos|Aspect=Perf	6	amod	_	_
 6	ହୋଇଥିଲା	ହେବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Mood=Ind|Voice=Mid|Person=3|Number=Sing|Polarity=Pos	0	root	_	_
-7	।	।	PUNCT	RD_PUNC	PunctType=Peri	6	punct	_	SpacesAfter=\n
+7	।	।	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = f6-7
 # text = ତାଙ୍କର ଏକ ମାତ୍ର ଆକାଂକ୍ଷା ଥିଲା ଭଗବତ ଦର୍ଶନ ।
@@ -5490,7 +5474,7 @@
 5	ଥିଲା	ହେବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Mood=Ind|Voice=Act|Person=3|Number=Sing|Polarity=Pos	0	root	_	_
 6	ଭଗବତ	ଭଗବତ	PROPN	N_NNP	Case=Nom|Number=Sing|Gender=Masc|Animacy=Anim|Person=3	7	compound	_	_
 7	ଦର୍ଶନ	ଦର୍ଶନ	NOUN	N_NN	Case=Acc|Number=Sing|Gender=Neut|Animacy=Inan|Person=3	5	xcomp	_	_
-8	।	।	PUNCT	RD_PUNC	PunctType=Peri	5	punct	_	SpacesAfter=\n
+8	।	।	PUNCT	RD_PUNC	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = f6-8
 # text = ସେ ପାଠପଢ଼ିବା ସମୟରେ ବ୍ରାହ୍ମସମାଜଭୁତ ହୋଇ ନିୟମିତ ଉପାସନାରେ ଯୋଗ ଦେଉଥିଲେ ।
@@ -5503,7 +5487,7 @@
 7	ଉପାସନାରେ	ଉପାସନା	NOUN	N_NN	Case=Loc|Number=Sing|Gender=Fem|Animacy=Inan|Person=3	9	obl	_	_
 8	ଯୋଗ	ଯୋଗ	NOUN	N_NN	Case=Acc|Number=Sing|Gender=Neut|Animacy=Inan|Person=3	9	obj	_	_
 9	ଦେଉଥିଲେ	ଦେବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Prog|Tense=Past|Mood=Ind|Voice=Act|Person=3|Number=Plur|Polarity=Pos	0	root	_	_
-10	।	।	PUNCT	RD_PUNC	PunctType=Peri	9	punct	_	SpacesAfter=\n
+10	।	।	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
 
 # sent_id = f6-9
 # text = ଭଗବାନଙ୍କୁ ଆନ୍ତରିକ ଦର୍ଶନ କରିବାକୁ ଚାହୁଁଥିବା ବଳିଷ୍ଠଦେହ ଓ ଦୃଢ଼ମନର ଅଧିକାରୀ ସ୍ୱାମୀ ବିବେକାନନ୍ଦ ରାମକୃଷ୍ଣ ପରମହଂସଙ୍କୁ ଗୁରୁରୁପେ ବରଣ କରିଥିଲେ ।
@@ -5523,7 +5507,7 @@
 14	ଗୁରୁରୁପେ	ଗୁରୁରୁପେ	NOUN	N_NN	Case=Ins|Number=Sing|Gender=Com|Animacy=Inan	16	obl	_	_
 15	ବରଣ	ବରଣ	NOUN	N_NNV	Case=Nom|VerbForm=Vnoun|Aspect=Perf	16	compound	_	_
 16	କରିଥିଲେ	କରିବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Mood=Ind|Voice=Act|Person=3|Number=Plur|Polarity=Pos	0	root	_	_
-17	।	।	PUNCT	RD_PUNC	PunctType=Peri	16	punct	_	SpacesAfter=\n
+17	।	।	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n
 
 # sent_id = f6-10
 # text = ରାମକୃଷ୍ଣ ନିଜର ମହାନ ଭାବାଦର୍ଶ ପ୍ରସାର କାର୍ଯ୍ୟ ବିବେକାନନ୍ଦଙ୍କଦ୍ୱାରା ସମ୍ପାଦିତ କରାଇଥିଲେ ।
@@ -5536,7 +5520,7 @@
 7	ବିବେକାନନ୍ଦଙ୍କଦ୍ୱାରା	ବିବେକାନନ୍ଦ	PROPN	N_NNP	Case=Ins|Number=Sing|Gender=Masc|Animacy=Anim|Person=3	9	obl	_	Entity=(e1-person-7-coref)
 8	ସମ୍ପାଦିତ	ସମ୍ପାଦିତ	VERB	V_VNG	VerbForm=Part|Aspect=Perf|Voice=Pass|Polarity=Pos	9	xcomp	_	_
 9	କରାଇଥିଲେ	କରାଇବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Mood=Ind|Voice=Caus|Person=3|Number=Sing|Polarity=Pos	0	root	_	_
-10	।	।	PUNCT	RD_PUNC	PunctType=Peri	9	punct	_	SpacesAfter=\n
+10	।	।	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
 
 # sent_id = f6-11
 # text = ଗୌରବମୟ ଭାରତୀୟ ସଂସ୍କୁତି ବିବେକାନନ୍ଦଙ୍କୁ ବହୁତ ଆନନ୍ଦ ଦେଇଥିଲା କିନ୍ତୁ ଭାରତର ଜନସାଧାରଣଙ୍କର ଦାରିଦ୍ର୍ୟ ଓ ଅଶିକ୍ଷା ତାଙ୍କୁ ବ୍ୟଥିତ କରିଥିଲା ।
@@ -5556,7 +5540,7 @@
 14	ତାଙ୍କୁ	ସେ	PRON	PR_PRP	Case=Dat|Number=Sing|Gender=Com|Person=3|Polite=Form	16	obj	_	Entity=e1)
 15	ବ୍ୟଥିତ	ବ୍ୟଥିତ	ADJ	JJ	Degree=Pos|Polarity=Pos	16	xcomp	_	_
 16	କରିଥିଲା	କରିବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Mood=Ind|Voice=Act|Polarity=Pos	7	conj	_	_
-17	।	।	PUNCT	RD_PUNC	PunctType=Peri	7	punct	_	SpacesAfter=\n
+17	।	।	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = f6-12
 # text = ମାତ୍ର ୨୬ ବର୍ଷ ବୟସରେ ସେ ସନ୍ନ୍ୟାସୀ ହୋଇଥିଲେ ଓ ତା ପରେ ପାଶ୍ଚାତ୍ୟ ଭ୍ରମଣ କରି ସଂପୂର୍ଣ୍ଣ ବିଶ୍ୱରେ ହିନ୍ଦୁ ଧର୍ମ ଓ ବେଦାନ୍ତର ପ୍ରଚାର ଓ ପ୍ରସାର କରିଥିଲେ ।
@@ -5583,7 +5567,7 @@
 21	ଓ	ଓ	CCONJ	CC_CCD	_	22	cc	_	_
 22	ପ୍ରସାର	ପ୍ରସାର	NOUN	N_NN	Case=Acc|Number=Sing|Gender=Neut|Animacy=Inan	20	conj	_	_
 23	କରିଥିଲେ	କରିବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Voice=Act|Polarity=Pos|Person=3|Number=Plur	7	conj	_	_
-24	।	।	PUNCT	RD_PUNC	PunctType=Peri	7	punct	_	SpacesAfter=\n
+24	।	।	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = f6-13
 # text = ୧୮୬୩ ଖ୍ରୀଷ୍ଟାବ୍ଦ ଜାନୁଆରୀ ୧୨ ତାରିଖ, ପୌଷ ସଂକ୍ରାନ୍ତି ଦିନ ପ୍ରତ୍ୟୁଷରେ କଲିକତାର ସିମଳାପଲ୍ଲୀରେ ବିଶ୍ୱନାଥ ଦତ୍ତ ଓ ଭୁବନେଶ୍ୱରୀ ଦେବୀଙ୍କର ପ୍ରଥମ ପୁତ୍ର ଜନ୍ମଗ୍ରହଣ କରିଥିଲେ ।
@@ -5608,7 +5592,7 @@
 19	ପୁତ୍ର	ପୁତ୍ର	NOUN	N_NN	Case=Acc|Number=Sing|Gender=Masc|Animacy=Anim	21	obj	_	_
 20	ଜନ୍ମଗ୍ରହଣ	ଜନ୍ମଗ୍ରହଣ	VERB	N_NNV	VerbForm=Vnoun|Aspect=Perf	21	xcomp	_	_
 21	କରିଥିଲେ	କରିବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Mood=Ind|Voice=Act|Person=3|Number=Plur	0	root	_	_
-22	।	।	PUNCT	RD_PUNC	PunctType=Peri	21	punct	_	SpacesAfter=\n
+22	।	।	PUNCT	RD_PUNC	_	21	punct	_	SpacesAfter=\n
 
 # sent_id = f6-14
 # text = ସେହି ନବଜାତକ ପ୍ରତି ଆମମାନଙ୍କର ଗଭୀର ପ୍ରଣତି ।
@@ -5618,7 +5602,7 @@
 4	ଆମମାନଙ୍କର	ଆମ	PRON	PR_PRC	Case=Gen|Number=Plur|Person=1	6	nmod	_	_
 5	ଗଭୀର	ଗଭୀର	ADJ	JJ	Degree=Pos	6	amod	_	_
 6	ପ୍ରଣତି	ପ୍ରଣତି	NOUN	N_NN	Case=Nom|Number=Sing|Gender=Fem	0	root	_	_
-7	।	।	PUNCT	RD_PUNC	PunctType=Peri	6	punct	_	SpacesAfter=\n
+7	।	।	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n
 
 # sent_id = f6-15
 # text = ସେଦିନ ହୁଏତ ଶତ ଶତ ଶିଶୁଙ୍କର ଜନ୍ମ ହୋଇଛି, କିନ୍ତୁ ଏହି ଶିଶୁଟିକୁ ହିଁ ବିଶେଷ କରି ଜଗତ ସ୍ମରଣ କରି ରଖିଛି ।
@@ -5640,7 +5624,7 @@
 16	ସ୍ମରଣ	ସ୍ମରଣ	NOUN	N_NN	Case=Acc|Number=Sing	17	obj	_	_
 17	କରି	କରି	VERB	V_VNF	VerbForm=Conv|Aspect=Perf	7	conj	_	_
 18	ରଖିଛି	ରଖିଛି	AUX	V_VAUX	VerbForm=Fin|Aspect=Perf|Tense=Pres|Person=3|Number=Sing	17	aux	_	_
-19	।	।	PUNCT	RD_PUNC	PunctType=Peri	7	punct	_	SpacesAfter=\n
+19	।	।	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = f6-16
 # text = ଏହି ନବଜାତକ ନରେନ୍ଦ୍ରନାଥ ଦତ୍ତ, ଯିଏ ପରବର୍ତ୍ତୀ କାଳରେ ବିଶ୍ୱବରେଣ୍ୟ ଯୁଗାଚାର୍ଯ୍ୟ ସ୍ୱାମୀ ବିବେକାନନ୍ଦ ହୋଇଥିଲେ ।
@@ -5657,7 +5641,7 @@
 11	ସ୍ୱାମୀ	ସ୍ୱାମୀ	PROPN	N_NNP	Case=Nom|Number=Sing	13	compound	_	_
 12	ବିବେକାନନ୍ଦ	ବିବେକାନନ୍ଦ	PROPN	N_NNP	Case=Nom|Number=Sing	13	xcomp	_	_
 13	ହୋଇଥିଲେ	ହେବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Mood=Ind|Voice=Act|Person=3|Number=Sing	3	acl	_	_
-14	।	।	PUNCT	RD_PUNC	PunctType=Peri	3	punct	_	SpacesAfter=\n
+14	।	।	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = f6-17
 # text = ବିଶ୍ୱନାଥ ଦତ୍ତ ଥିଲେ ଜଣେ ଲବ୍‌ଧପ୍ରତିଷ୍ଠିତ ଆଟର୍ଣ୍ଣି ।
@@ -5667,7 +5651,7 @@
 4	ଜଣେ	ଜଣେ	DET	DM_DMQ	DetType=Indef	6	det	_	_
 5	ଲବ୍‌ଧପ୍ରତିଷ୍ଠିତ	ଲବ୍‌ଧପ୍ରତିଷ୍ଠିତ	ADJ	JJ	Degree=Pos	6	amod	_	_
 6	ଆଟର୍ଣ୍ଣି	ଆଟର୍ଣ୍ଣି	NOUN	N_NN	Case=Nom|Number=Sing	3	xcomp	_	_
-7	।	।	PUNCT	RD_PUNC	PunctType=Peri	3	punct	_	SpacesAfter=\n
+7	।	।	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = f6-18
 # text = ତାଙ୍କର ଉଦାରତା, ଚରିତ୍ରର ତେଜସ୍ୱିତା ଓ ପରଦୁଃଖକାତରତା ସମସ୍ତଙ୍କର ଶ୍ରଦ୍ଧା ଆକର୍ଷଣ କରୁଥିଲା ।
@@ -5682,7 +5666,7 @@
 9	ଶ୍ରଦ୍ଧା	ଶ୍ରଦ୍ଧା	NOUN	N_NN	Case=Acc|Number=Sing	10	obj	_	_
 10	ଆକର୍ଷଣ	ଆକର୍ଷଣ	NOUN	N_NN	Case=Acc|Number=Sing	11	obj	_	_
 11	କରୁଥିଲା	କରିବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Mood=Ind|Voice=Act|Person=3|Number=Sing	0	root	_	_
-12	।	।	PUNCT	RD_PUNC	PunctType=Peri	11	punct	_	SpacesAfter=\n
+12	।	।	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n
 
 # sent_id = f6-19
 # text = ଭୁବନେଶ୍ୱରୀ ଦେବୀ ଥିଲେ ସୁରୂପା, ତେଜସ୍ୱିନୀ, ଧର୍ମପ୍ରାଣା, ଆଦର୍ଶ ହିନ୍ଦୁ ରମଣୀ ।
@@ -5698,7 +5682,7 @@
 10	ଆଦର୍ଶ	ଆଦର୍ଶ	ADJ	JJ	Degree=Pos	12	amod	_	_
 11	ହିନ୍ଦୁ	ହିନ୍ଦୁ	NOUN	N_NN	Case=Nom|Number=Sing	12	compound	_	Entity=(e2-abstract-11-coref)
 12	ରମଣୀ	ରମଣୀ	NOUN	N_NN	Case=Nom|Number=Sing	4	conj	_	_
-13	।	।	PUNCT	RD_PUNC	PunctType=Peri	3	punct	_	SpacesAfter=\n
+13	।	।	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n
 
 # sent_id = f6-20
 # text = କାଶୀର ବୀରେଶ୍ୱର ଶିବଙ୍କର ପ୍ରସନ୍ନତାରୁ ଏହି ପୁତ୍ର ଲାଭ ହୋଇଥିଲା, ତେଣୁ ନାମ ରଖାହେଲା ବୀରେଶ୍ୱର - ଡାକନାମ ‘ବିଲେ’ ।
@@ -5718,7 +5702,7 @@
 14	-	-	PUNCT	RD_SYM	_	15	punct	_	_
 15	ଡାକନାମ	ଡାକନାମ	NOUN	N_NN	Case=Nom|Number=Sing	13	appos	_	_
 16	‘ବିଲେ’	ବିଲେ	PROPN	N_NNP	Case=Nom|Number=Sing	15	appos	_	Entity=e1
-17	।	।	PUNCT	RD_PUNC	PunctType=Peri	8	punct	_	SpacesAfter=\n
+17	।	।	PUNCT	RD_PUNC	_	8	punct	_	SpacesAfter=\n
 
 # sent_id = f6-21
 # text = ଅନ୍ନପ୍ରାଶନ ସମୟରେ ନାମ ଦିଆଗଲା ନରେନ୍ଦ୍ରନାଥ ।
@@ -5940,7 +5924,6 @@
 15	କିପରି	କିପରି	ADV	RB	_	16	advmod	_	_
 16	ଯାଏ	ଯା	VERB	V_VM_VF	Tense=Pres|Mood=Ind|Person=3	14	acl	_	_
 17	।	।	PUNCT	RD_PUNC	_	14	punct	_	SpacesAfter=\n
-17	।	_	PUNCT	RD_PUNC	_	14	punct	_	SpacesAfter=\n
 
 # sent_id = f6-37
 # text = ଜଣେ ମୁସଲମାନ ମହକିଲ ଥରେ ଆଦର କରି ନରେନ୍‌କୁ ଭଲ ଭଲ ସନ୍ଦେଶ ଖୁଆଇ ଦେଲେ ।
@@ -5957,7 +5940,6 @@
 11	ଖୁଆଇ	ଖୁଆ	VERB	V_VM_VNF	VerbForm=Conv	12	advcl	_	_
 12	ଦେଲେ	ଦେ	VERB	V_VM_VF	Tense=Past|Mood=Ind|Person=3	0	root	_	_
 13	।	।	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
-13	।	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
 
 # sent_id = f6-38
 # text = ମା’ ତାହା ଦେଖି କହିଲେ, ‘ଅନ୍ୟ ଜାତିର ଛୁଆଁ ଖାଇଲେ ଜାତି ଯାଏ ।’
@@ -5975,7 +5957,6 @@
 12	ଯାଏ	ଯା	VERB	V_VM_VF	Tense=Pres|Mood=Ind|Person=3	4	ccomp	_	_
 13	।	।	PUNCT	RD_PUNC	_	12	punct	_	SpaceAfter=No
 14	’	’	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
-14	’	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=\n
 
 # sent_id = f6-39
 # text = କିନ୍ତୁ ଜାତି କିପରି ଯାଏ, ତାହା ହିଁ ହେଲା ନରେନ୍‌ର ଚିନ୍ତାର ବିଷୟ ।
@@ -5991,7 +5972,6 @@
 10	ଚିନ୍ତାର	ଚିନ୍ତା	NOUN	N_NN	Case=Gen	11	nmod	_	_
 11	ବିଷୟ	ବିଷୟ	NOUN	N_NN	_	8	xcomp	_	_
 12	।	।	PUNCT	RD_PUNC	_	8	punct	_	SpacesAfter=\n
-12	।	_	PUNCT	RD_PUNC	_	8	punct	_	SpacesAfter=\n
 
 # sent_id = f6-40
 # text = ଛ’ ବର୍ଷ ବୟସରେ ସ୍କୁଲରେ ନରେନ୍ଦ୍ରଙ୍କର ନାମ ଲେଖା ହେଲା, କିନ୍ତୁ ସେ ଇଂରାଜୀ ପଢ଼ିବାକୁ ରାଜି ହେଲା ନାହିଁ ।
@@ -6012,7 +5992,6 @@
 15	ହେଲା	ହେ	VERB	V_VM_VF	Tense=Past|Mood=Ind|Person=3	8	conj	_	_
 16	ନାହିଁ	ନାହିଁ	PART	RP_NEG	_	15	advmod	_	_
 17	।	।	PUNCT	RD_PUNC	_	15	punct	_	SpacesAfter=\n
-17	।	_	PUNCT	RD_PUNC	_	15	punct	_	SpacesAfter=\n
 
 # sent_id = f6-41
 # text = ସେ ତ ବିଦେଶୀ ଭାଷା, କାହିଁକି ପଢ଼ିବି ?
@@ -6785,7 +6764,7 @@
 # text = ସେ ନରେନ୍ଦ୍ରଙ୍କର ମାନସିକ ଅବସ୍ଥା ବିଷୟରେ ଜାଣିପାରି କହିଲେ, ‘ଦେଖ ନରେନ୍‌, ଯଦି ଭଗବତ୍‌ ଲାଭ ହିଁ ତୁମ ଜୀବନର ଲକ୍ଷ୍ୟ ହୋଇଥାଏ, ତେବେ ଏଣେତେଣେ ନ ବୁଲି ଦକ୍ଷିଣେଶ୍ୱରରେ ଥିବା ପରମହଂସଦେବଙ୍କ ପାଖକୁ ଯାଅ, ଶାନ୍ତି ପାଇବ ।’
 1	ସେ	ସେ	PRON	PR_PRP	Case=Nom|Person=3|Number=Sing|PronType=Prs	7	nsubj	_	Entity=(e16-person-1-coref)
 2	ନରେନ୍ଦ୍ରଙ୍କର	ନରେନ୍ଦ୍ର	PROPN	N_NNP	Case=Gen|Number=Sing|Gender=Masc	5	nmod	_	Entity=(e1-person-2,10-coref)
-3	ମା�ନସିକ	ମାନସିକ	ADJ	JJ	Degree=Pos	4	amod	_	_
+3	ମାନସିକ	ମାନସିକ	ADJ	JJ	Degree=Pos	4	amod	_	_
 4	ଅବସ୍ଥା	ଅବସ୍ଥା	NOUN	N_NN	Case=Nom|Number=Sing	5	nmod	_	_
 5	ବିଷୟରେ	ବିଷୟ	NOUN	N_NST	Case=Loc|Number=Sing	7	obl	_	_
 6	ଜାଣିପାରି	ଜାଣିପାରି	VERB	V_VM_VNF	VerbForm=Conv|Voice=Act	7	advcl	_	_
@@ -6921,10 +6900,11 @@
 7	,	,	PUNCT	RD_PUNC	_	6	punct	_	_
 8	ସେଦିନ	ସେଦିନ	NOUN	N_NST	_	15	nmod	_	_
 9	ପରମହଂସଦେବ	ପରମହଂସଦେବ	PROPN	N_NNP	_	15	nsubj	_	Entity=(e9-person-9-coref)
-10	ତାଙ୍କୁ	ତାଙ୍କ	PRON	PR_PRP	Case=Acc	12	obj	_	Entity=e1)
+10	ତାଙ୍କୁ	ତାଙ୍କ	PRON	PR_PRP	PronType=Dem|Case=Acc	12	obj	_	Entity=e1)
 11	ଏକା	ଏକା	ADJ	JJ	_	12	amod	_	_
 12	ପାଇ	ପାଇବା	VERB	V_VM_VNF	VerbForm=Conv	15	advcl	_	_
 13	ଭାବାବସ୍ଥାରେ	ଭାବାବସ୍ଥା	NOUN	N_NN	Case=Loc	15	obl	_	_
 14	ସ୍ପର୍ଶ	ସ୍ପର୍ଶ	NOUN	N_NN	Number=Sing	15	obj	_	_
 15	କଲେ	କରିବା	VERB	V_VM_VF	Tense=Past|Person=3|Number=Sing	0	root	_	_
 16	।	।	PUNCT	RD_PUNC	_	15	punct	_	SpacesAfter=\n
+
