@@ -878,7 +878,7 @@
 6	ମଧ୍ୟ	_	PART	RP_RPD	_	5	discourse	_	Translit=madhŷa
 7	ଗଣତନ୍ତ୍ରର	_	NOUN	N_NN	Case=Gen|Number=Sing|Gender=Masc	8	nmod	_	Translit=gaṇatantrara
 8	ମହାପର୍ବରେ	_	NOUN	N_NN	Case=Loc|Number=Sing|Gender=Masc	11	compound	_	Translit=mahāparbare
-9	ନିଜକୁ	_	PRON	PR_PRF	Case=Acc|Number=Sing|PronType=Prs|Reflex=Yes	11	iobj	_	Translit=nijaku
+9	ନିଜକୁ	_	PRON	PR_PRF	Case=Acc|Number=Sing|PronType=Prs	11	iobj	_	Translit=nijaku
 10	ସାମିଲ	_	NOUN	N_NN	_	11	nmod	_	Translit=sāmila
 11	କରିଛନ୍ତି	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Pres|Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Politeness=Honorific	0	root	_	Translit=karichanti
 12	।	_	PUNCT	RD_PUNC	_	11	punct	_	SpacesAfter=\n|Translit=.
@@ -3667,7 +3667,7 @@
 21	ପାଇଲେ	ପାଇଲେ	VERB	V_VM_VF	Tense=Past|Aspect=Perf|Mood=Ind|Voice=Act|Person=3|Number=Plur	23	advcl	_	_
 22	ଖୋଲି	ଖୋଲି	VERB	V_VM_VNF	VerbForm=Conv|Aspect=Imp	23	advcl	_	_
 23	ଦିଏ	ଦିଏ	VERB	V_VM_VF	Tense=Pres|Aspect=Perf|Mood=Ind|Voice=Act|Person=3|Number=Sing	16	conj	_	_
-24	ନିଜର	ନିଜର	PRON	PR_PRP	PronType=Prs|Reflex=Yes|Case=Gen|Number=Sing|Person=3	26	nmod	_	_
+24	ନିଜର	ନିଜର	PRON	PR_PRP	PronType=Prs|Case=Gen|Number=Sing|Person=3	26	nmod	_	_
 25	ପିନ୍ଧାଲୁଗା	ପିନ୍ଧାଲୁଗା	NOUN	N_NN	Gender=Neut|Number=Sing|Case=Nom	26	compound	_	_
 26	ଖଣ୍ଡିକ	ଖଣ୍ଡିକ	NOUN	N_NN	Gender=Neut|Number=Sing|Case=Acc	23	obj	_	_
 27	।	।	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n
@@ -4640,7 +4640,7 @@
 7	‘	‘	PUNCT	RD_PUNC	_	11	punct	_	SpaceAfter=No
 8	ମନ	ମନ	NOUN	N_NN	Number=Sing	11	nsubj	_	_
 9	ଚାଲ	ଚାଲିବା	VERB	V_VM_VIMP	Mood=Imp	11	parataxis	_	_
-10	ନିଜ	ନିଜ	PRON	PR_PRP	PronType=Prs|Reflex=Yes	11	nmod	_	_
+10	ନିଜ	ନିଜ	PRON	PR_PRP	PronType=Prs	11	nmod	_	_
 11	ନିକେତନ	ନିକେତନ	NOUN	N_NN	Number=Sing	5	parataxis	_	SpaceAfter=No
 12	’	’	PUNCT	RD_PUNC	_	11	punct	_	_
 13	ଇତ୍ୟାଦି	ଇତ୍ୟାଦି	PART	RP_CL	_	11	discourse	_	_
@@ -5805,7 +5805,7 @@
 21	ପାଇଲେ	ପାଇଲେ	VERB	V_VM_VF	Tense=Past|Aspect=Perf|Mood=Ind|Voice=Act|Person=3|Number=Plur	23	advcl	_	_
 22	ଖୋଲି	ଖୋଲି	VERB	V_VM_VNF	VerbForm=Conv|Aspect=Imp	23	advcl	_	_
 23	ଦିଏ	ଦିଏ	VERB	V_VM_VF	Tense=Pres|Aspect=Perf|Mood=Ind|Voice=Act|Person=3|Number=Sing	16	conj	_	_
-24	ନିଜର	ନିଜର	PRON	PR_PRP	PronType=Prs|Reflex=Yes|Case=Gen|Number=Sing|Person=3	26	nmod	_	_
+24	ନିଜର	ନିଜର	PRON	PR_PRP	PronType=Prs|Case=Gen|Number=Sing|Person=3	26	nmod	_	_
 25	ପିନ୍ଧାଲୁଗା	ପିନ୍ଧାଲୁଗା	NOUN	N_NN	Gender=Neut|Number=Sing|Case=Nom	26	compound	_	_
 26	ଖଣ୍ଡିକ	ଖଣ୍ଡିକ	NOUN	N_NN	Gender=Neut|Number=Sing|Case=Acc	23	obj	_	_
 27	।	।	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n
@@ -6778,7 +6778,7 @@
 7	‘	‘	PUNCT	RD_PUNC	_	11	punct	_	SpaceAfter=No
 8	ମନ	ମନ	NOUN	N_NN	Number=Sing	11	nsubj	_	_
 9	ଚାଲ	ଚାଲିବା	VERB	V_VM_VIMP	Mood=Imp	11	parataxis	_	_
-10	ନିଜ	ନିଜ	PRON	PR_PRP	PronType=Prs|Reflex=Yes	11	nmod	_	_
+10	ନିଜ	ନିଜ	PRON	PR_PRP	PronType=Prs	11	nmod	_	_
 11	ନିକେତନ	ନିକେତନ	NOUN	N_NN	Number=Sing	5	parataxis	_	SpaceAfter=No
 12	’	’	PUNCT	RD_PUNC	_	11	punct	_	_
 13	ଇତ୍ୟାଦି	ଇତ୍ୟାଦି	PART	RP_CL	_	11	discourse	_	_
