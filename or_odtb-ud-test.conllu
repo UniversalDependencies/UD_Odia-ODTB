@@ -542,7 +542,7 @@
 # sent_id = f1-46
 # text = ତାଙ୍କର ଏହି ଗୋଟିଏ ଭୋଟରେ ସରକାରର ପତନ ଘଟିଲା।
 # text_en = This one vote of his led to the downfall of the government.
-1	ତାଙ୍କର	_	PRON	PR_PRF	Poss=Yes|Person=3|Number=Sing	4	nmod	_	Translit=tāṅkara
+1	ତାଙ୍କର	_	PRON	PR_PRF	PronType=Prs|Person=3|Number=Sing	4	nmod	_	Translit=tāṅkara
 2	ଏହି	_	DET	DM_DMD	_	4	det	_	Translit=ehi
 3	ଗୋଟିଏ	_	PART	RP_CL	_	4	clf	_	Translit=goṭie
 4	ଭୋଟରେ	_	NOUN	N_NN	Number=Sing	7	obj	_	Translit=bhoṭare
@@ -626,7 +626,7 @@
 3	ମା’	_	NOUN	N_NN	Person=3|Number=Sing|Gender=Fem|Case=Nom	11	nsubj	_	Entity=(e44-person-3-new-sgl)|Translit=mā’
 4	ଗୁଜୁରାଟର	_	PROPN	N_NNP	Case=Gen	5	compound	_	Entity=(e45-location-4-new-sgl)|Translit=gujurāṭara
 5	ଗାନ୍ଧୀନଗରରେ	_	PROPN	N_NNP	Case=Loc	11	obl	_	Entity=(e46-location-5-new-sgl)|Translit=gāndhīnagarare
-6	ନିଜର	_	PRON	PR_PRF	Poss=Yes|Person=3|Number=Sing	9	nmod	_	Translit=nijara
+6	ନିଜର	_	PRON	PR_PRF	PronType=Prs|Person=3|Number=Sing	9	nmod	_	Translit=nijara
 7	ଅନ୍ୟ	_	DET	DM_DMD	_	8	det	_	Translit=anŷa
 8	ଏକ	_	NUM	QT_QTC	_	9	nummod	_	Translit=eka
 9	ପୁଅ	_	NOUN	N_NN	Person=3|Number=Sing|Gender=Masc	11	iobj	_	Entity=(e47-person-9-new-sgl)|Translit=pua
@@ -1054,7 +1054,7 @@
 4	ଇସ୍ରାଏଲ୍ର	_	PROPN	N_NNP	Gender=Neut|Number=Sing|Case=Gen	5	nmod	_	Entity=(87-location-4-new-sgl)|Translit=isrāelra
 5	ସାର୍ବଭୌମତ୍ୱକୁ	_	NOUN	N_NN	Gender=Neut|Number=Sing|Case=Acc	9	obj	_	Translit=sārbabhaumatkku
 6	ଆନ୍ତର୍ଜାତିକ	_	ADJ	JJ	Degree=Pos	7	amod	_	Translit=āntarjātika
-7	ସମୁଦାୟ	_	NOUN	N_NN	|Number=Sing|Case=Nom	9	nsubj	_	Translit=samudāŷa
+7	ସମୁଦାୟ	_	NOUN	N_NN	Number=Sing|Case=Nom	9	nsubj	_	Translit=samudāŷa
 8	ଅନୁମୋଦ	_	NOUN	N_NN	Number=Sing|Case=Nom	9	compound	_	Translit=anumoda
 9	ଦେଉ	_	VERB	V_VM_VNF	Tense=Pres|Aspect=Prog	0	root	_	Translit=deu
 10	ନାହାନ୍ତି	_	AUX	V_VAUX	_Polarity=Neg|Tense=Pres|Person=3|Number=Plur|Politeness=Honorific	9	aux	_	SpaceAfter=No|Translit=nāhānti
@@ -1684,7 +1684,7 @@
 12	ସେହି	_	DET	DM_DMD	_	13	det	_	_
 13	ପ୍ରାଚୀର	_	NOUN	N_NN	Case=Nom|Number=Sing	14	compound	_	Entity=(e7-location-13-coref)
 14	ଭିତରେ	_	NOUN	N_NST	Case=Loc|Number=Sing	16	obl	_	_
-15	ଭର୍ତ୍ତି	_	VERB	V_VM_VNF	|Voice=Mid	16	compound	_	_
+15	ଭର୍ତ୍ତି	_	VERB	V_VM_VNF	Voice=Mid	16	compound	_	_
 16	କରିଦିଆଗଲା	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Past|Aspect=Perf|V|Person=3|Number=Sing	0	root	_	_
 17	।	_	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n
 
@@ -1692,7 +1692,7 @@
 # text = କଦବା ଭର୍ତ୍ତି କରିଦିଆଗଲା ଲେଖକ ମାନଙ୍କୁ- ଯେଉଁମାନେ ସେମାନଙ୍କ ବହିମାନ ଛାଡିବାକୁ ନାରାଜ ଥିଲେ |
 # text_en = The authors were imprisoned — those who were unwilling to part with their books.
 1	କଦବା	_	NOUN	N_NN	Case=Ins|Number=Sing|Gender=Neut	3	obl	_	_
-2	ଭର୍ତ୍ତି	_	VERB	V_VM_VNF	|Aspect=Perf	3	compound	_	_
+2	ଭର୍ତ୍ତି	_	VERB	V_VM_VNF	Aspect=Perf	3	compound	_	_
 3	କରିଦିଆଗଲା	_	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|V|Tense=Past|Mood=Ind	0	root	_	_
 4	ଲେଖକ	_	NOUN	N_NN	Case=Nom|Number=Sing|Gender=Masc	5	compound	_	Entity=(e10-profession-4-coref)
 5	ମାନଙ୍କୁ	_	PRON	PR_PRP	Case=Dat|Number=Plur|Person=3|PronType=Prs	3	obj	_	SpaceAfter=No
@@ -2568,7 +2568,7 @@
 18	ବିଚ୍ଛୁରିତ	_	ADJ	JJ	_	19	compound	_	_
 19	ହୋଇଯାନ୍ତି	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Pres|Aspect=Perf|Person=3|Number=Plur	12	conj	_	_
 20	ଏବଂ	_	CCONJ	CC_CCD	_	21	cc	_	_
-21	ତାଙ୍କର	_	PRON	PR_PRP	Person=3|Poss=Yes	22	nmod	_	_
+21	ତାଙ୍କର	_	PRON	PR_PRP	Person=3|PronType=Prs	22	nmod	_	_
 22	ଦୈର୍ଘ୍ୟ	_	NOUN	N_NN	_	26	nsubj	_	_
 23	ଓ	_	CCONJ	CC_CCD	_	24	cc	_	_
 24	ବିସ୍ତୃତିରେ	_	NOUN	N_NN	_	22	conj	_	_
@@ -3667,7 +3667,7 @@
 21	ପାଇଲେ	ପାଇଲେ	VERB	V_VM_VF	Tense=Past|Aspect=Perf|Mood=Ind|Voice=Act|Person=3|Number=Plur	23	advcl	_	_
 22	ଖୋଲି	ଖୋଲି	VERB	V_VM_VNF	VerbForm=Conv|Aspect=Imp	23	advcl	_	_
 23	ଦିଏ	ଦିଏ	VERB	V_VM_VF	Tense=Pres|Aspect=Perf|Mood=Ind|Voice=Act|Person=3|Number=Sing	16	conj	_	_
-24	ନିଜର	ନିଜର	PRON	PR_PRP	Reflex=Yes|Case=Gen|Number=Sing|Person=3	26	nmod	_	_
+24	ନିଜର	ନିଜର	PRON	PR_PRP	PronType=Prs|Reflex=Yes|Case=Gen|Number=Sing|Person=3	26	nmod	_	_
 25	ପିନ୍ଧାଲୁଗା	ପିନ୍ଧାଲୁଗା	NOUN	N_NN	Gender=Neut|Number=Sing|Case=Nom	26	compound	_	_
 26	ଖଣ୍ଡିକ	ଖଣ୍ଡିକ	NOUN	N_NN	Gender=Neut|Number=Sing|Case=Acc	23	obj	_	_
 27	।	।	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n
@@ -4169,7 +4169,7 @@
 
 # sent_id = f4-69
 # text = ତାଙ୍କର ତରୁଣ ମନରେ ଶତ ଶତ ଆଲୋଡ଼ନ ସୃଷ୍ଟି ହେଲା ।
-1	ତାଙ୍କର	ତାଙ୍କର	PRON	PR_PRP	Person=3|Poss=Yes	3	nmod	_	Entity=(e1-person-1-coref)
+1	ତାଙ୍କର	ତାଙ୍କର	PRON	PR_PRP	Person=3|PronType=Prs	3	nmod	_	Entity=(e1-person-1-coref)
 2	ତରୁଣ	ତରୁଣ	ADJ	JJ	Degree=Pos	3	amod	_	_
 3	ମନରେ	ମନ	NOUN	N_NST	Case=Loc	7	obl	_	_
 4	ଶତ	ଶତ	NUM	QT_QTC	NumType=Card	5	nummod	_	_
@@ -4640,7 +4640,7 @@
 7	‘	‘	PUNCT	RD_PUNC	_	11	punct	_	SpaceAfter=No
 8	ମନ	ମନ	NOUN	N_NN	Number=Sing	11	nsubj	_	_
 9	ଚାଲ	ଚାଲିବା	VERB	V_VM_VIMP	Mood=Imp	11	parataxis	_	_
-10	ନିଜ	ନିଜ	PRON	PR_PRP	Reflex=Yes	11	nmod	_	_
+10	ନିଜ	ନିଜ	PRON	PR_PRP	PronType=Prs|Reflex=Yes	11	nmod	_	_
 11	ନିକେତନ	ନିକେତନ	NOUN	N_NN	Number=Sing	5	parataxis	_	SpaceAfter=No
 12	’	’	PUNCT	RD_PUNC	_	11	punct	_	_
 13	ଇତ୍ୟାଦି	ଇତ୍ୟାଦି	PART	RP_CL	_	11	discourse	_	_
@@ -4650,7 +4650,7 @@
 17	କି	କି	PART	RP_QF	_	16	discourse	_	_
 18	ହେ	ହେ	INTJ	RD_INJ	_	22	discourse	_	_
 19	ଦିନ	ଦିନ	NOUN	N_NN	Number=Sing	22	nsubj	_	_
-20	ମୋର	ମୋର	PRON	PR_PRP	Poss=Yes	22	nmod	_	_
+20	ମୋର	ମୋର	PRON	PR_PRP	PronType=Prs	22	nmod	_	_
 21	ବିଫଳେ	ବିଫଳେ	ADV	RB	_	22	advmod	_	_
 22	ଚାଲି	ଚାଲିବା	VERB	V_VM_VNF	VerbForm=Conv	11	conj	_	SpaceAfter=No
 23	’	’	PUNCT	RD_PUNC	_	22	punct	_	_
@@ -4660,7 +4660,7 @@
 # sent_id = f4-105
 # text = ଶ୍ରୀରାମକୃଷ୍ଣ ତାଙ୍କର ଯୋଗଦୃଷ୍ଟି ସହାୟରେ ଜାଣିପାରିଥିଲେ ଯେ ନରେନ୍ଦ୍ରନାଥ ହିଁ ସେହି ଅଖଣ୍ଡ ଘରର ଋଷି-ତାଙ୍କର ଯୁଗବାର୍ତ୍ତା ପ୍ରଚାର ପାଇଁ ଜଗତ ଆସିଛନ୍ତି ।
 1	ଶ୍ରୀରାମକୃଷ୍ଣ	ଶ୍ରୀରାମକୃଷ୍ଣ	PROPN	N_NNP	_	5	nsubj	_	Entity=(e9-person-1,2,14-coref)
-2	ତାଙ୍କର	ତାଙ୍କ	PRON	PR_PRP	Poss=Yes	3	nmod	_	_
+2	ତାଙ୍କର	ତାଙ୍କ	PRON	PR_PRP	PronType=Prs	3	nmod	_	_
 3	ଯୋଗଦୃଷ୍ଟି	ଯୋଗଦୃଷ୍ଟି	NOUN	N_NN	Number=Sing	4	nmod	_	_
 4	ସହାୟରେ	ସହାୟ	NOUN	N_NN	Case=Ins	5	obl	_	_
 5	ଜାଣିପାରିଥିଲେ	ଜାଣିପାରିବା	VERB	V_VM_VF	Tense=Past|Aspect=Perf|Person=3	0	root	_	_
@@ -4672,7 +4672,7 @@
 11	ଘରର	ଘର	NOUN	N_NN	Case=Gen	12	nmod	_	_
 12	ଋଷି	ଋଷି	NOUN	N_NN	Number=Sing	5	ccomp	_	SpaceAfter=No
 13	-	-	PUNCT	RD_SYM	_	12	punct	_	SpaceAfter=No
-14	ତାଙ୍କର	ତାଙ୍କ	PRON	PR_PRP	Poss=Yes	15	nmod	_	Entity=e9)
+14	ତାଙ୍କର	ତାଙ୍କ	PRON	PR_PRP	PronType=Prs	15	nmod	_	Entity=e9)
 15	ଯୁଗବାର୍ତ୍ତା	ଯୁଗବାର୍ତ୍ତା	NOUN	N_NN	Number=Sing	16	obj	_	_
 16	ପ୍ରଚାର	ପ୍ରଚାର	NOUN	N_NN	Number=Sing	19	obl	_	_
 17	ପାଇଁ	ପାଇଁ	ADP	PSP	_	16	case	_	_
@@ -5253,7 +5253,7 @@
 
 # sent_id = f5-32
 # text = ତାଙ୍କ ସ୍ମରଣରେ ଏକ ତଟରକ୍ଷୀ ଜାହାଜର ନାମ "ମା' ରମାଦେବୀ" ରଖାଯାଇଥିଲା ।
-1	ତାଙ୍କ	ସେ	PRON	PR_PRP	Person=3|Number=Sing|Gender=Com|PronType=Prs|Poss=Yes	2	nmod	_	Entity=(e1-person-1,9-coref
+1	ତାଙ୍କ	ସେ	PRON	PR_PRP	Person=3|Number=Sing|Gender=Com|PronType=Prs	2	nmod	_	Entity=(e1-person-1,9-coref
 2	ସ୍ମରଣରେ	ସ୍ମରଣ	NOUN	N_NN	Case=Loc|Number=Sing	11	obl	_	_
 3	ଏକ	ଏକ	DET	DM_DMD	PronType=Ind	4	det	_	_
 4	ତଟରକ୍ଷୀ	ତଟରକ୍ଷୀ	ADJ	JJ	Degree=Pos	5	amod	_	_
@@ -5269,13 +5269,13 @@
 # sent_id = f5-33
 # text = ଭୁବନେଶ୍ୱରରେ ତାଙ୍କ ନାମରେ ରମାଦେବୀ ମହିଳା ମହାବିଦ୍ୟାଳୟ ସ୍ଥାପନା କରାଯାଇଥିଲା ।
 1	ଭୁବନେଶ୍ୱରରେ	ଭୁବନେଶ୍ୱର	PROPN	N_NST	Case=Loc|Number=Sing	8	obl	_	Entity=(e35-location-1-coref)
-2	ତାଙ୍କ	ସେ	PRON	PR_PRP	Person=3|Number=Sing|Gender=Com|PronType=Prs|Poss=Yes	3	nmod	_	Entity=(e1-person-1-coref)
+2	ତାଙ୍କ	ସେ	PRON	PR_PRP	Person=3|Number=Sing|Gender=Com|PronType=Prs	3	nmod	_	Entity=(e1-person-1-coref)
 3	ନାମରେ	ନାମ	NOUN	N_NN	Case=Loc|Number=Sing	8	obl	_	_
 4	ରମାଦେବୀ	ରମାଦେବୀ	PROPN	N_NNP	Number=Sing	7	compound	_	Entity=(e38-organization-4,5,6-new-sgl
 5	ମହିଳା	ମହିଳା	PROPN	N_NNP	Number=Sing	7	compound	_	_
 6	ମହାବିଦ୍ୟାଳୟ	ମହାବିଦ୍ୟାଳୟ	PROPN	N_NNP	Number=Sing	7	compound	_	Entity=e38)
 7	ସ୍ଥାପନା	ସ୍ଥାପନା	NOUN	N_NN	Number=Sing	8	nsubj	_	_
-8	କରାଯାଇଥିଲା	କରି	VERB	V_VM_VF	|Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin|Person=3|Number=Sing	0	root	_	_
+8	କରାଯାଇଥିଲା	କରି	VERB	V_VM_VF	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin|Person=3|Number=Sing	0	root	_	_
 9	।	।	PUNCT	RD_PUNC	_	8	punct	_	_
 
 # sent_id = f5-34
@@ -5805,7 +5805,7 @@
 21	ପାଇଲେ	ପାଇଲେ	VERB	V_VM_VF	Tense=Past|Aspect=Perf|Mood=Ind|Voice=Act|Person=3|Number=Plur	23	advcl	_	_
 22	ଖୋଲି	ଖୋଲି	VERB	V_VM_VNF	VerbForm=Conv|Aspect=Imp	23	advcl	_	_
 23	ଦିଏ	ଦିଏ	VERB	V_VM_VF	Tense=Pres|Aspect=Perf|Mood=Ind|Voice=Act|Person=3|Number=Sing	16	conj	_	_
-24	ନିଜର	ନିଜର	PRON	PR_PRP	Reflex=Yes|Case=Gen|Number=Sing|Person=3	26	nmod	_	_
+24	ନିଜର	ନିଜର	PRON	PR_PRP	PronType=Prs|Reflex=Yes|Case=Gen|Number=Sing|Person=3	26	nmod	_	_
 25	ପିନ୍ଧାଲୁଗା	ପିନ୍ଧାଲୁଗା	NOUN	N_NN	Gender=Neut|Number=Sing|Case=Nom	26	compound	_	_
 26	ଖଣ୍ଡିକ	ଖଣ୍ଡିକ	NOUN	N_NN	Gender=Neut|Number=Sing|Case=Acc	23	obj	_	_
 27	।	।	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n
@@ -6307,7 +6307,7 @@
 
 # sent_id = f6-69
 # text = ତାଙ୍କର ତରୁଣ ମନରେ ଶତ ଶତ ଆଲୋଡ଼ନ ସୃଷ୍ଟି ହେଲା ।
-1	ତାଙ୍କର	ତାଙ୍କର	PRON	PR_PRP	Person=3|Poss=Yes	3	nmod	_	Entity=(e1-person-1-coref)
+1	ତାଙ୍କର	ତାଙ୍କର	PRON	PR_PRP	Person=3|PronType=Prs	3	nmod	_	Entity=(e1-person-1-coref)
 2	ତରୁଣ	ତରୁଣ	ADJ	JJ	Degree=Pos	3	amod	_	_
 3	ମନରେ	ମନ	NOUN	N_NST	Case=Loc	7	obl	_	_
 4	ଶତ	ଶତ	NUM	QT_QTC	NumType=Card	5	nummod	_	_
@@ -6778,7 +6778,7 @@
 7	‘	‘	PUNCT	RD_PUNC	_	11	punct	_	SpaceAfter=No
 8	ମନ	ମନ	NOUN	N_NN	Number=Sing	11	nsubj	_	_
 9	ଚାଲ	ଚାଲିବା	VERB	V_VM_VIMP	Mood=Imp	11	parataxis	_	_
-10	ନିଜ	ନିଜ	PRON	PR_PRP	Reflex=Yes	11	nmod	_	_
+10	ନିଜ	ନିଜ	PRON	PR_PRP	PronType=Prs|Reflex=Yes	11	nmod	_	_
 11	ନିକେତନ	ନିକେତନ	NOUN	N_NN	Number=Sing	5	parataxis	_	SpaceAfter=No
 12	’	’	PUNCT	RD_PUNC	_	11	punct	_	_
 13	ଇତ୍ୟାଦି	ଇତ୍ୟାଦି	PART	RP_CL	_	11	discourse	_	_
@@ -6788,7 +6788,7 @@
 17	କି	କି	PART	RP_QF	_	16	discourse	_	_
 18	ହେ	ହେ	INTJ	RD_INJ	_	22	discourse	_	_
 19	ଦିନ	ଦିନ	NOUN	N_NN	Number=Sing	22	nsubj	_	_
-20	ମୋର	ମୋର	PRON	PR_PRP	Poss=Yes	22	nmod	_	_
+20	ମୋର	ମୋର	PRON	PR_PRP	PronType=Prs	22	nmod	_	_
 21	ବିଫଳେ	ବିଫଳେ	ADV	RB	_	22	advmod	_	_
 22	ଚାଲି	ଚାଲିବା	VERB	V_VM_VNF	VerbForm=Conv	11	conj	_	SpaceAfter=No
 23	’	’	PUNCT	RD_PUNC	_	22	punct	_	_
@@ -6798,7 +6798,7 @@
 # sent_id = f6-105
 # text = ଶ୍ରୀରାମକୃଷ୍ଣ ତାଙ୍କର ଯୋଗଦୃଷ୍ଟି ସହାୟରେ ଜାଣିପାରିଥିଲେ ଯେ ନରେନ୍ଦ୍ରନାଥ ହିଁ ସେହି ଅଖଣ୍ଡ ଘରର ଋଷି-ତାଙ୍କର ଯୁଗବାର୍ତ୍ତା ପ୍ରଚାର ପାଇଁ ଜଗତ ଆସିଛନ୍ତି ।
 1	ଶ୍ରୀରାମକୃଷ୍ଣ	ଶ୍ରୀରାମକୃଷ୍ଣ	PROPN	N_NNP	_	5	nsubj	_	Entity=(e9-person-1,2,14-coref)
-2	ତାଙ୍କର	ତାଙ୍କ	PRON	PR_PRP	Poss=Yes	3	nmod	_	_
+2	ତାଙ୍କର	ତାଙ୍କ	PRON	PR_PRP	PronType=Prs	3	nmod	_	_
 3	ଯୋଗଦୃଷ୍ଟି	ଯୋଗଦୃଷ୍ଟି	NOUN	N_NN	Number=Sing	4	nmod	_	_
 4	ସହାୟରେ	ସହାୟ	NOUN	N_NN	Case=Ins	5	obl	_	_
 5	ଜାଣିପାରିଥିଲେ	ଜାଣିପାରିବା	VERB	V_VM_VF	Tense=Past|Aspect=Perf|Person=3	0	root	_	_
@@ -6810,7 +6810,7 @@
 11	ଘରର	ଘର	NOUN	N_NN	Case=Gen	12	nmod	_	_
 12	ଋଷି	ଋଷି	NOUN	N_NN	Number=Sing	5	ccomp	_	SpaceAfter=No
 13	-	-	PUNCT	RD_SYM	_	12	punct	_	SpaceAfter=No
-14	ତାଙ୍କର	ତାଙ୍କ	PRON	PR_PRP	Poss=Yes	15	nmod	_	Entity=e9)
+14	ତାଙ୍କର	ତାଙ୍କ	PRON	PR_PRP	PronType=Prs	15	nmod	_	Entity=e9)
 15	ଯୁଗବାର୍ତ୍ତା	ଯୁଗବାର୍ତ୍ତା	NOUN	N_NN	Number=Sing	16	obj	_	_
 16	ପ୍ରଚାର	ପ୍ରଚାର	NOUN	N_NN	Number=Sing	19	obl	_	_
 17	ପାଇଁ	ପାଇଁ	ADP	PSP	_	16	case	_	_
