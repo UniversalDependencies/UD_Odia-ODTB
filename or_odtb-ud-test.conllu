@@ -1435,7 +1435,7 @@
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	Translit=.
 
 # sent_id = f2-1
-# text = ପ୍ରାୟ ଦୁଇ ହଜାର ବର୍ଷ ତଳ ର କଥା|
+# text = ପ୍ରାୟ ଦୁଇ ହଜାର ବର୍ଷ ତଳ ର କଥା |
 # text_en = It is the story of about two thousand years ago.
 1	ପ୍ରାୟ	_	ADV	RB	_	4	advmod	_	_
 2	ଦୁଇ	_	NUM	QT_QTC	NumType=Card	3	nummod	_	_
@@ -1958,7 +1958,7 @@
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
 
 # sent_id = f2-37
-# text = ତାଙ୍କ ଧର୍ମଶାସ୍ତ୍ରରେ ଯାହା ଲେଖାଅଛି , ଏହି ସବୁ ବହି ଯଦି ସେ  କଥାର ବିରୋଧ କରୁଥିବ, ତେବେ ତ  ଏସବୁ ନିଶ୍ଚୟ ପୋଡ଼ାହେବା ଚାହି |
+# text = ତାଙ୍କ ଧର୍ମଶାସ୍ତ୍ରରେ ଯାହା ଲେଖାଅଛି , ଏହି ସବୁ ବହି ଯଦି ସେ  କଥାର ବିରୋଧ କରୁଥିବ, ତେବେ ତ  ଏସବୁ ନିଶ୍ଚୟ ପୋଡ଼ାହେବା ଚାହି  |
 # text_en = In his scriptures, whatever is written — if these books oppose those words, then surely these must be burnt.
 1	ତାଙ୍କ	_	PRON	PR_PRP	Person=3|Case=Gen	2	nmod	_	Entity=(e14-person-1-coref)
 2	ଧର୍ମଶାସ୍ତ୍ରରେ	_	NOUN	N_NN	Number=Sing|Gender=Masc|Case=Loc	4	obl	_	_
@@ -1980,10 +1980,10 @@
 18	ନିଶ୍ଚୟ	_	ADV	RB	_	20	advmod	_	_
 19	ପୋଡ଼ାହେବା	_	VERB	V_VM_VNF	VerbForm=Inf	20	xcomp	_	_
 20	ଚାହି	_	VERB	V_VM_VF	Person=3|Number=Sing	0	root	_	_
-21	।	_	PUNCT	RD_PUNC	_	20	punct	_	SpacesAfter=\n
+21	|	_	PUNCT	RD_PUNC	_	20	punct	_	SpacesAfter=\n
 
 # sent_id = f2-38
-# text = ଯଦି ସମର୍ଥନ ହିଁ କରୁଥିବ, ତେବେ ଏ ସବୁ ରହି ଲାଭ ବା କଣ ? ଧର୍ମଶାସ୍ତ୍ର ତ ଅଛି । [there are 2 sentences here]
+# text = ଯଦି ସମର୍ଥନ ହିଁ କରୁଥିବ, ତେବେ ଏ ସବୁ ରହି ଲାଭ ବା କଣ ? ଧର୍ମଶାସ୍ତ୍ର ତ ଅଛି । 
 # text_en = If he indeed supported it, then what benefit would remain? After all, the religious law exists.
 1	ଯଦି	_	SCONJ	CC_CCS	_	4	mark	_	_
 2	ସମର୍ଥନ	_	NOUN	N_NN	Number=Sing|Gender=Masc	4	obj	_	_
@@ -3102,13 +3102,13 @@
 11	ଥିଲା	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Past|Person=3|Number=Sing	0	root	_	SpaceAfter=No
 12	,	_	PUNCT	RD-PUNC	_	11	punct	_	_
 13	ଏବଂ	_	CCONJ	CC_CCD	_	21	cc	_	_
-14	ଯାହାଠାରୁ	_	PRON	PR_PRP	PronType=Rel|Case=Abl	16	obl	_	_
+14	ଯାହାଠାରୁ	_	PRON	PR_PRP	PronType=Rel|Case=Abl	16	nmod	_	_
 15	ଲର୍ଡ	_	PROPN	N_NNP	_	16	compound	_	_
 16	ରେଲି	_	PROPN	N_NNP	_	21	nsubj	_	_
 17	ରମଣଙ୍କ	_	PROPN	N_NNP	Case=Gen	20	nmod	_	Entity=(e1-person-17,23-coref
 18	ସହିତ	_	ADP	PSP	_	20	case	_	_
 19	ଯୋଗାୟୋଗ	_	NOUN	N_NN	Gender=Neuter|Number=Sing|Case=Nom	20	nmod	_	here ଯୋଗାୟୋଗ should be ଯୋଗାଯୋଗ
-20	ଆରମ୍ଭ	_	NOUN	N_NN	VerbForm=Vnoun	21	obj	_	_
+20	ଆରମ୍ଭ	_	NOUN	N_NN	VerbForm=Vnoun	21	nmod	_	_
 21	କରିଥିଲେ	_	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Person=3|Number=Plur	11	conj	_	SpaceAfter=No
 22	,	_	PUNCT	RD-PUNC	_	21	punct	_	_
 23	ତାଙ୍କୁ	_	PRON	PR_PRP	PronType=Prs|Person=3|Number=Sing|Case=Dat	29	obj	_	Entity=e1)
@@ -3116,7 +3116,7 @@
 25	ଭାବରେ	_	NOUN	N_NN	Case=Loc	29	obl	_	_
 26	ପ୍ରଫେସର	_	NOUN	N_NN	Case=Nom	27	nmod	_	_
 27	ଭାବେ	_	NOUN	N_NN	Case=Gen	29	obl	_	_
-28	ସମ୍ବୋଧନ	_	NOUN	N_NN	VerbForm=Vnoun	29	obj	_	_
+28	ସମ୍ବୋଧନ	_	NOUN	N_NN	VerbForm=Vnoun	29	nmod	_	_
 29	କରିଥିଲେ	_	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Person=3|Number=Plur	21	conj	_	SpaceAfter=No
 30	।	_	PUNCT	RD-PUNC	_	29	punct	_	_
 
@@ -3153,7 +3153,7 @@
 4	ସହ	_	ADP	PSP	_	3	case	_	_
 5	ରମଣଙ୍କ	_	PROPN	N_NNP	Case=Gen	10	nsubj	_	Entity=(e1-person-5-coref)
 6	ଶାରୀରିକ	_	ADJ	JJ	Degree=Pos	7	amod	_	_
-7	ନିରୀକ୍ଷଣ	_	NOUN	N_NN	Gender=Neut|Number=Sing|Case=Nom	9	obl	_	_
+7	ନିରୀକ୍ଷଣ	_	NOUN	N_NN	Gender=Neut|Number=Sing|Case=Nom	9	nmod	_	_
 8	ପାଇଁ	_	ADP	PSP	_	7	case	_	_
 9	ବ୍ୟବସ୍ଥା	_	NOUN	N_NN	VerbForm=Vnoun	10	obj	_	_
 10	କରିଥିଲେ	_	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Person=3|Number=Plur	0	root	_	_
@@ -5283,7 +5283,6 @@
 6	ଦେହାନ୍ତ	ଦେହାନ୍ତ	NOUN	N_NN	Gender=Masc|Number=Sing|Case=Nom	7	nsubj	_	_
 7	ହୋଇଥିଲା	ହେବା	VERB	V_VM_VF	Aspect=Perf|Tense=Past|VerbForm=Fin||Person=3|Number=Sing|Gender=Masc	0	root	_	_
 8	।	।	PUNCT	RD_PUNC	_	7	punct	_	_
-
 
 # sent_id = f5-31
 # text = ତାଙ୍କୁ ଶ୍ରଦ୍ଧଞ୍ଜଳି ଜଣାଇ ରାଷ୍ଟ୍ରୀୟ ମର୍ଯ୍ୟାଦା ମିଳିଥିଲା ।
