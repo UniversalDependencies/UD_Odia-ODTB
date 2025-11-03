@@ -1984,7 +1984,7 @@
 
 # sent_id = f2-38
 # text = ଯଦି ସମର୍ଥନ ହିଁ କରୁଥିବ, ତେବେ ଏ ସବୁ ରହି ଲାଭ ବା କଣ ? ଧର୍ମଶାସ୍ତ୍ର ତ ଅଛି । 
-# text_en = If he indeed supported it, then what benefit would remain? After all, the religious law exists.
+# text_en = If you continue to support it, then what is the use of all this? After all, there is scripture.
 1	ଯଦି	_	SCONJ	CC_CCS	_	4	mark	_	_
 2	ସମର୍ଥନ	_	NOUN	N_NN	Number=Sing|Gender=Masc	4	obj	_	_
 3	ହିଁ	_	PART	RP_EMPH	Polarity=Neg	4	discourse	_	_
@@ -2005,7 +2005,7 @@
 
 # sent_id = f2-39
 # text = ଏହିପରି ବହିପତ୍ର ଉପରେ ଆକ୍ରମଣ ହୋଇଛି ।
-# text_en =Such manuscripts have been attacked.
+# text_en = Such manuscripts have been attacked.
 1	ଏହିପରି	_	DET	DM_DMD	PronType=Dem|Degree=Pos	2	det	_	_
 2	ବହିପତ୍ର	_	NOUN	N_NN	Number=Sing|Gender=Masc	4	nmod	_	Entity=(e4-object-2-coref)
 3	ଉପରେ	_	NOUN	N_NST	Case=Loc	4	obl	_	_
@@ -3172,7 +3172,7 @@
 8	ଦୁର୍ବଳ	_	ADJ	JJ	Degree=Pos	10	amod	_	_
 9	ବୋଲି	_	PART	RP_RPD	_	10	advmod	_	_
 10	ବିବେଚନା	_	NOUN	N_NN	VerbForm=Vnoun	11	obj	_	_
-11	କରାଯାଉଥିଲା	_	VERB	V_VM_VF	VerbForm=Fin|Voice=Pass|Aspect=Prog|Tense=Past|Person=3|Number=Sing	0	root	_	SpaceAfter=No
+11	କରାୟାଉଥିଲା	_	VERB	V_VM_VF	VerbForm=Fin|Voice=Pass|Aspect=Prog|Tense=Past|Person=3|Number=Sing	0	root	_	SpaceAfter=No
 12	|	_	PUNCT	RD-PUNC	_	11	punct	_	_
 
 # sent_id = f3-32
@@ -3211,13 +3211,13 @@
 1	ସ୍ୱାମୀ	ସ୍ୱାମୀ	NOUN	N_NN	Case=Nom|Gender=Masc	2	compound	_	Entity=(e1-person-1,2-person-new-coref
 2	ବିବେକାନନ୍ଦ	ବିବେକାନନ୍ଦ	PROPN	N_NNP	Case=Nom|Gender=Masc	18	nsubj	_	Entity=e1)
 3	(	(	PUNCT	RD_PUNC	_	6	punct	_	SpaceAfter=No
-4	12	12	NUM	QT_QTC	NumType=Card	5	nummod	_	_
+4	୧୨	୧୨	NUM	QT_QTC	NumType=Card	5	nummod	_	_
 5	ଜାନୁଆରୀ	ଜାନୁଆରୀ	NOUN	N_NN	Case=Nom|Gender=Masc	6	compound	_	_
-6	1863	1863	NUM	QT_QTC	NumType=Card	2	appos	_	_
+6	୧୮୬୩ 	୧୮୬୩	NUM	QT_QTC	NumType=Card	2	appos	_	_
 7	-	-	PUNCT	RD_PUNC	_	10	punct	_	_
-8	4	4	NUM	QT_QTC	NumType=Card	9	nummod	_	_
+8	୪	୪	NUM	QT_QTC	NumType=Card	9	nummod	_	_
 9	ଜୁଲାଇ	ଜୁଲାଇ	NOUN	N_NN	Case=Nom|Gender=Masc	10	compound	_	_
-10	1902	1902	NUM	QT_QTC	NumType=Card	6	conj	_	SpaceAfter=No
+10	୧୯୦୨	୧୯୦୨	NUM	QT_QTC	NumType=Card	6	conj	_	SpaceAfter=No
 11	)	)	PUNCT	RD_PUNC	_	6	punct	_	_
 12	ବେଦାନ୍ତର	ବେଦାନ୍ତର	NOUN	N_NN	Case=Gen	18	nmod	_	_
 13	ଜଣେ	ଜଣେ	DET	DM_DMD	NumType=Card	16	det	_	_
@@ -3243,7 +3243,7 @@
 # sent_id = f4-3
 # text = ସେ ୧୮୯୩ ମସିହା ଆମେରିକାର ଚିକାଗୋ ବିଶ୍ୱଧର୍ମ ସମ୍ମିଳନୀରେ ହିନ୍ଦୁଧର୍ମର ପ୍ରତିନିଧିତ୍ୱ କରିଥିଲେ।
 1	ସେ	ସେ	PRON	PR_PRP	Case=Nom|Person=3|PronType=Prs	9	nsubj	_	Entity=(e1-person-1-coref)
-2	1893	1893	NUM	QT_QTC	NumType=Card	3	nummod	_	_
+2	୧୮୯୩	୧୮୯୩	NUM	QT_QTC	NumType=Card	3	nummod	_	_
 3	ମସିହା	ମସିହା	NOUN	N_NN	Case=Nom	9	obl	_	_
 4	ଆମେରିକାର	ଆମେରିକା	PROPN	N_NNP	Case=Gen	6	nmod	_	Entity=(e3-location-4-new-coref)
 5	ଚିଋଗୋ	ଚିଋଗୋ	PROPN	N_NNP	Case=Nom	6	compound	_	Entity=(e4-location-5-new-coref)
@@ -3270,10 +3270,10 @@
 
 # sent_id = f4-5
 # text = ୧୮୬୩ ମସିହା ଜାନୁଆରୀ ୧୨ ତାରିଖର କଲିକତାର ସିମିଳାପଲ୍ଲୀରେ ବିଶ୍ୱନାଥ ଦତ୍ତ ଓ ଭୁବନେଶ୍ୱରୀ ଦେବୀଙ୍କର ପ୍ରଥମ ପୁତ୍ରରୁପେ ଜନ୍ମଗ୍ରହଣ କରିଥିଲେ ।
-1	1863	1863	NUM	QT_QTC	NumType=Card	2	nummod	_	_
+1	୧୮୬୩	୧୮୬୩	NUM	QT_QTC	NumType=Card	2	nummod	_	_
 2	ମସିହା	ମସିହା	NOUN	N_NN	Case=Nom	16	obl	_	_
 3	ଜାନୁଆରୀ	ଜାନୁଆରୀ	NOUN	N_NN	Case=Nom	4	compound	_	_
-4	12	12	NUM	QT_QTC	NumType=Card	5	nummod	_	_
+4	୧୨	୧୨	NUM	QT_QTC	NumType=Card	5	nummod	_	_
 5	ତାରିଖର	ତାରିଖ	NOUN	N_NN	Case=Gen	2	compound	_	_
 6	କଲିକତାର	କଲିକତା	PROPN	N_NNP	Case=Gen	7	nmod	_	Entity=(e5-location-6-new-sgl)
 7	ସିମିଳାପଲ୍ଲୀରେ	ସିମିଳାପଲ୍ଲୀ	PROPN	N_NNP	Case=Loc	16	obl	_	_
@@ -3483,7 +3483,7 @@
 2	ଦତ୍ତ	ଦତ୍ତ	PROPN	N_NNP	Case=Nom|Number=Sing	3	nsubj	_	Entity=e6)
 3	ଥିଲେ	ହେବା	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Mood=Ind|Voice=Act|Person=3|Number=Sing	0	root	_	_
 4	ଜଣେ	ଜଣେ	DET	DM_DMQ	DetType=Indef	6	det	_	_
-5	ଲବ୍ଧପ୍ରତିଷ୍ଠିତ	ଲବ୍ଧପ୍ରତିଷ୍ଠିତ	ADJ	JJ	Degree=Pos	6	amod	_	_
+5	ଲବ୍‌ଧପ୍ରତିଷ୍ଠିତ	ଲବ୍‌ଧପ୍ରତିଷ୍ଠିତ	ADJ	JJ	Degree=Pos	6	amod	_	_
 6	ଆଟର୍ଣ୍ଣି	ଆଟର୍ଣ୍ଣି	NOUN	N_NN	Case=Nom|Number=Sing	3	xcomp	_	_
 7	।	।	PUNCT	RD_PUNC	_	3	punct	_	SpacesAfter=\n
 
@@ -5114,7 +5114,7 @@
 7	ଶିଳ୍ପ	ଶିଳ୍ପ	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	14	compound	_	Entity=e29)|SpacesAfter=\n
 8	,	,	PUNCT	RD-PUNC	_	7	punct	_	_
 9	ତାରକସୀ	ତାରକସୀ	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing	10	compound	_	Entity=(e30-profession-9,10-new-sgl
-10	ଶିଳ୍ପ	ଶିଳ୍ପ	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	14	compound	_	Entity=e30)SpacesAfter=\n
+10	ଶିଳ୍ପ	ଶିଳ୍ପ	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	14	compound	_	Entity=e30)|SpacesAfter=\n
 11	,	,	PUNCT	RD-PUNC	_	10	punct	_	_
 12	ଚମଡ଼ା	ଚମଡ଼ା	PROPN	N_NNP	Case=Nom|Gender=Neut|Number=Sing	13	compound	_	Entity=(e31-profession-12,13-new-sgl
 13	ଶିଳ୍ପ	ଶିଳ୍ପ	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	14	compound	_	Entity=e31)
@@ -5151,7 +5151,7 @@
 8	ଓଡ଼ିଆ	ଓଡ଼ିଆ	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing	9	compound	_	_
 9	ଅନୁବାଦ	ଅନୁବାଦ	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	11	obj	_	_
 10	ସମସ୍ତଙ୍କୁ	ସମସ୍ତ	PRON	PR_PRP	Case=Dat|Number=Plur|Person=3|PronType=Ind	11	iobj	_	_
-11	ଶୁଣାଉଥିଲେ	ଶୁଣାଇବା	VERB	V_VM_VF	Aspect=Prog|Mood=Ind|Tense=Past|VerbForm=Fin|Person=3|Number=Sing|Gender=Fem	0	root	_	_
+11	ଶୁଣାଉଥିଲେ	ଶୁଣାଇବା	VERB	V_VM_VF	Aspect=Prog|Mood=Ind|Tense=Past|VerbForm=Fin|Person=3|Number=Sing|Gender=Fem	0	root	_	SpacesAfter=\n
 12	।	।	PUNCT	RD_PUNC	_	11	punct	_	_
 
 # sent_id = f5-22
@@ -5385,7 +5385,7 @@
 2	୧୮୯୩	୧୮୯୩	NUM	QT_QTC	NumType=Card	3	nummod	_	_
 3	ମସିହା	ମସିହା	NOUN	N_NN	Case=Nom	9	obl	_	_
 4	ଆମେରିକାର	ଆମେରିକା	PROPN	N_NNP	Case=Gen	6	nmod	_	Entity=(e3-location-4-new-coref)
-5	ଚିଋଗୋ	ଚିଋଗୋ	PROPN	N_NNP	Case=Nom	6	compound	_	Entity=(e4-location-5-new-coref)
+5	ଚିକାଗୋ	ଚିକାଗୋ	PROPN	N_NNP	Case=Nom	6	compound	_	Entity=(e4-location-5-new-coref)
 6	ବିଶ୍ୱଧର୍ମ	ବିଶ୍ୱଧର୍ମ	NOUN	N_NN	Case=Nom	7	compound	_	_
 7	ସମ୍ମିଳନୀରେ	ସମ୍ମିଳନୀ	NOUN	N_NN	Case=Loc	9	obl	_	_
 8	ହିନ୍ଦୁଧର୍ମର	ହିନ୍ଦୁଧର୍ମ	NOUN	N_NN	Case=Gen	9	obj	_	Entity=(e2-abstract-8-coref)
