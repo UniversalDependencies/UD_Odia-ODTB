@@ -1970,7 +1970,7 @@
 8	ବହି	_	NOUN	N_NN	Number=Plur|Gender=Neut|Case=Nom	13	dislocated	_	_
 9	ଯଦି	_	SCONJ	CC_CCS	PronType=Cond	13	mark	_	_
 10	ସେ	_	PRON	PR_PRP	Person=3|Number=Sing|Case=Nom	13	nsubj	_	_
-11	କଥାର	_	NOUN	N_NN	Number=Sing|Gender=Fem|Case=Gen	12	obl	_	_
+11	କଥାର	_	NOUN	N_NN	Number=Sing|Gender=Fem|Case=Gen	12	nmod	_	_
 12	ବିରୋଧ	_	NOUN	N_NN	Number=Sing|Gender=Masc|Case=Nom	13	obj	_	_
 13	କରୁଥିବ	_	VERB	V_VM_VF	Aspect=Prog|Tense=Pres	20	advcl	_	SpaceAfter=No
 14	,	_	PUNCT	RD_PUNC	_	13	punct	_	_
@@ -1983,7 +1983,7 @@
 21	|	_	PUNCT	RD_PUNC	_	20	punct	_	SpacesAfter=\n
 
 # sent_id = f2-38
-# text = ଯଦି ସମର୍ଥନ ହିଁ କରୁଥିବ, ତେବେ ଏ ସବୁ ରହି ଲାଭ ବା କଣ ? ଧର୍ମଶାସ୍ତ୍ର ତ ଅଛି । 
+# text = ଯଦି ସମର୍ଥନ ହିଁ କରୁଥିବ , ତେବେ ଏ ସବୁ ରହି ଲାଭ ବା କଣ ? ଧର୍ମଶାସ୍ତ୍ର ତ ଅଛି । 
 # text_en = If you continue to support it, then what is the use of all this? After all, there is scripture.
 1	ଯଦି	_	SCONJ	CC_CCS	_	4	mark	_	_
 2	ସମର୍ଥନ	_	NOUN	N_NN	Number=Sing|Gender=Masc	4	obj	_	_
@@ -2008,7 +2008,7 @@
 # text_en = Such manuscripts have been attacked.
 1	ଏହିପରି	_	DET	DM_DMD	PronType=Dem|Degree=Pos	2	det	_	_
 2	ବହିପତ୍ର	_	NOUN	N_NN	Number=Sing|Gender=Masc	4	nmod	_	Entity=(e4-object-2-coref)
-3	ଉପରେ	_	NOUN	N_NST	Case=Loc	4	obl	_	_
+3	ଉପରେ	_	NOUN	N_NST	Case=Loc	4	nmod	_	_
 4	ଆକ୍ରମଣ	_	NOUN	N_NN	Number=Sing|Gender=Neuter	5	nsubj	_	_
 5	ହୋଇଛି	_	VERB	V_VM_VF	Tense=Perf|Person=3	0	root	_	_
 6	।	_	PUNCT	RD_PUNC	_	5	punct	_	SpacesAfter=\n
@@ -2017,7 +2017,7 @@
 # text = କିନ୍ତୁ ଯୁଗେ ଯୁଗେ ଯେଉଁ ସବୁ ବହିକୁ ଧ୍ୱଂସ କରିଦିଆହୋଇଛି ବୋଲି ମନେ କରାହୋଇଥାଏ, ସେସବୁ ବହିର ପୁନବିର୍ଭାବ ଘଟେ ।
 # text_en =  But time and again, the books that are thought to have been destroyed are revived.
 1	କିନ୍ତୁ	_	CCONJ	CC_CCD	_	6	cc	_	_
-2	ଯୁଗେ	_	NOUN	N_NN	Number=Sing|Case=Loc	3	obl	_	_
+2	ଯୁଗେ	_	NOUN	N_NN	Number=Sing|Case=Loc	3	nmod	_	_
 3	ଯୁଗେ	_	NOUN	N_NN	Number=Sing|Case=Loc	6	nmod	_	_
 4	ଯେଉଁ	_	DET	DM_DMD	PronType=Rel	6	det	_	_
 5	ସବୁ	_	DET	DM_DMD	PronType=Ind	6	det	_	_
