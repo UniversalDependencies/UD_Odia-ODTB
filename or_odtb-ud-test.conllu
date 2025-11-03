@@ -5058,11 +5058,11 @@
 12	ଅଗଷ୍ଟ	_	NOUN	N_NNP	Case=Nom|Gender=Neut|Number=Sing	14	compound	_	_
 13	୮	_	NUM	QT_QTC	NumType=Card	14	nummod	_	_
 14	ଗାନ୍ଧିଜୀଙ୍କ	_	PROPN	N_NNP	Case=Gen|Gender=Masc|Number=Sing|Honorific=Yes	18	nmod	_	Entity=(e27-person-14-coref)
-15		_	PUNCT	PUNCT	_	18	punct	_	SpaceAfter=No
+15	"	_	PUNCT	PUNCT	_	18	punct	_	SpaceAfter=No
 16	ପୁରୀ	_	PROPN	N_NNP	Case=Nom|Gender=Neut|Number=Sing	18	compound	_	_
 17	ହରିଜନ	_	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing	18	compound	_	_
 18	ସମାବେଶ	_	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing	22	nmod	_	SpaceAfter=No
-19		_	PUNCT	PUNCT	_	18	punct	_	_
+19	"	_	PUNCT	PUNCT	_	18	punct	_	_
 20	ସହ	_	ADP	PSP	Case=Ins	18	case	_	_
 21	ଜଗନ୍ନାଥ	_	PROPN	N_NNP	Case=Nom|Gender=Masc|Number=Sing	22	compound	_	Entity=(e28-organization-21,22-new-sgl
 22	ମନ୍ଦିର	_	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing	23	nmod	_	Entity=e28)
@@ -5073,9 +5073,6 @@
 27	ମୁଖ୍ୟ	_	ADJ	JJ	Degree=Pos|Gender=Masc|Number=Sing|Case=Nom	28	amod	_	_
 28	ଦାୟିତ୍ୱ	_	NOUN	N_NN	Case=Nom|Gender=Masc|Number=Sing	29	obj	_	_
 29	ନେଇଥିଲେ	_	VERB	V_VM_VF	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
-30	।	_	PUNCT	PUNCT	_	29	punct	_	_
-28	ଦାୟିତ୍ୱ	_	NOUN	N_NN	_	29	obj	_	_
-29	ନେଇଥିଲେ	_	VERB	V_VM_VF	_	0	root	_	_
 30	।	_	PUNCT	PUNCT	_	29	punct	_	_
 
 # sent_id = f5-18
