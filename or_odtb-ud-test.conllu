@@ -1435,7 +1435,7 @@
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	Translit=.
 
 # sent_id = f2-1
-# text = ପ୍ରାୟ ଦୁଇ ହଜାର ବର୍ଷ ତଳ ର କଥା |
+# text = ପ୍ରାୟ ଦୁଇ ହଜାର ବର୍ଷ ତଳ ର କଥା|
 # text_en = It is the story of about two thousand years ago.
 1	ପ୍ରାୟ	_	ADV	RB	_	4	advmod	_	_
 2	ଦୁଇ	_	NUM	QT_QTC	NumType=Card	3	nummod	_	_
@@ -1444,7 +1444,7 @@
 5	ତଳ	_	NOUN	N_NN	Case=Nom|Number=Sing	4	compound	_	_
 6	ର	_	ADP	PSP	Case=Gen	4	case	_	_
 7	କଥା	_	NOUN	N_NN	Case=Nom|Number=Sing	0	root	_	_
-8	।	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
+8	|	_	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = f2-2
 # text = ଚୀନ ଦେଶରେ ଥିଲେ ଜଣେ ସମ୍ରାଟ ନାମ ସିହ୍ବାଂତୀ ।
@@ -1871,7 +1871,7 @@
 3	ସ୍ୱପ୍ନ	_	NOUN	N_NN	Number=Sing|Gender=Neut|Case=Nom	4	nsubj	_	_
 4	ସତ୍ୟ	_	NOUN	N_NN	Number=Sing|Gender=Neut|Case=Nom	5	xcomp	_	_
 5	ହେଲା	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Past|Aspect=Perf|Person=3|Number=Sing	0	root	_	_
-6	।	_	PUNCT	RD_PUNC	_	5	punct	_	SpacesAfter=\n
+6	|	_	PUNCT	RD_PUNC	_	5	punct	_	SpacesAfter=\n
 
 # sent_id = f2-31
 # text = ସେଠାକାର ପ୍ରକାଣ୍ଡ ପାଠାଗାର କୋଠାମାନ ଧଂସସ୍ତୂପରେ ପରିଣତ ହେଲା ବିଦେଶୀ ଶତୃର ଆକ୍ରମଣରେ |
@@ -1886,7 +1886,7 @@
 8	ବିଦେଶୀ	ବିଦେଶୀ	ADJ	JJ	Degree=Pos	9	amod	_	_
 9	ଶତୃର	ଶତୃ	NOUN	N_NN	Number=Sing|Gender=Masc|Case=Gen	10	nmod	_	_
 10	ଆକ୍ରମଣରେ	ଆକ୍ରମଣ	NOUN	N_NN	Number=Sing|Gender=Masc|Case=Loc	7	obl	_	_
-11	।	।	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
+11	|	।	PUNCT	RD_PUNC	_	7	punct	_	SpacesAfter=\n
 
 # sent_id = f2-32
 # text = ସୁପ୍ରାଚୀନ ଆଲେକ୍ ଜାଣ୍ଡ୍ରିଆ ନଗରୀରେ ଏକଦା ଥିଲା ଏକ ବିରାଟ ପାଠଗାର ।
@@ -2001,7 +2001,7 @@
 14	ଧର୍ମଶାସ୍ତ୍ର	_	NOUN	N_NN	Number=Sing|Gender=Masc	16	nsubj	_	_
 15	ତ	_	PART	RP_EMPH	_	16	discourse	_	_
 16	ଅଛି	_	VERB	V_VM_VF	Tense=Pres|Person=3	0	root	_	_
-17	।	_	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n
+17	|	_	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n
 
 # sent_id = f2-39
 # text = ଏହିପରି ବହିପତ୍ର ଉପରେ ଆକ୍ରମଣ ହୋଇଛି ।
@@ -2134,7 +2134,7 @@
 10	ଅଧିକ	_	ADV	RB	Degree=Cmp	12	advmod	_	_
 11	ଭଲ	_	ADJ	JJ	Degree=Pos	12	xcomp	_	_
 12	ପାଆନ୍ତି	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Pres|Aspect=Hab|Person=3|Number=Plur	4	acl	_	SpaceAfter=No
-13	।	_	PUNCT	RD_PUNC	_	12	punct	_	_
+13	|	_	PUNCT	RD_PUNC	_	12	punct	_	_
 
 # sent_id = f2-46
 # text = ଜୀବନକୁ ପାଣି ଛଡ଼ାଇ ସେମାନେ ନିଜ ନିଜର ପ୍ରିୟ ବହିଟି ମାନଙ୍କୁ ରକ୍ଷା କରନ୍ତି ।
@@ -2320,7 +2320,7 @@
 8	ତାକୁ	_	PRON	PR_PRP	PronType=Dem|Case=Acc|Number=Sing	9	obj	_	Entity=(e18-object-8-coref)
 9	ମନେ	_	NOUN	N_NN	Case=Loc	10	obl	_	_
 10	ରଖୁଥିଲା	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Past|Aspect=Prog|Person=3|Number=Sing	0	root	_	_
-11	।	_	PUNCT	RD_PUNC	_	10	punct	_	_
+11	|	_	PUNCT	RD_PUNC	_	10	punct	_	_
 
 # sent_id = f2-57
 # text = ବେଦ ରଚନା ହୋଇଥିଲା ପ୍ରାଚୀନ ସଂସ୍କୃତିରେ |
@@ -3159,7 +3159,7 @@
 10	କରିଥିଲେ	_	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Person=3|Number=Plur	0	root	_	_
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	_
 
-# sent_id=31
+# sent_id = f3-31
 # text = ରମଣଙ୍କର ଅନେକ ସମୟରେ ସ୍ବାସ୍ଥ୍ୟାବସ୍ଥା ଖରାପ ରହୁଥିବାରୁ ତାଙ୍କୁ ଦୁର୍ବଳ ବୋଲି ବିବେଚନା କରାୟାଉଥିଲା।
 # text_en = Because Raman’s health was often poor, he was considered weak.
 1	ରମଣଙ୍କର	_	PROPN	N_NNP	_	3	nmod	_	Entity=(e1-person-1,7-coref
@@ -3173,7 +3173,7 @@
 9	ବୋଲି	_	PART	RP_RPD	_	10	advmod	_	_
 10	ବିବେଚନା	_	NOUN	N_NN	VerbForm=Vnoun	11	obj	_	_
 11	କରାଯାଉଥିଲା	_	VERB	V_VM_VF	VerbForm=Fin|Voice=Pass|Aspect=Prog|Tense=Past|Person=3|Number=Sing	0	root	_	SpaceAfter=No
-12	।	_	PUNCT	RD-PUNC	_	11	punct	_	_
+12	|	_	PUNCT	RD-PUNC	_	11	punct	_	_
 
 # sent_id = f3-32
 # text = ପରେ ସେ ଏହି ଘଟଣାକୁ ମନେ ପକାଇ କହିଥିଲେ , ଜିଫାର୍ଡ ମୋତେ ପରୀକ୍ଷା କରିଥିଲେ ଏବଂ ପ୍ରମାଣିତ କରିଥିଲେ ଯେ ମୁଁ ଯକ୍ଷ୍ମା ରୋଗରେ ମରିବାକୁ ଯାଉଛି ... ଯଦି ମୁଁ ଇଂଲଣ୍ଡ ଯିବି ।
@@ -5075,7 +5075,7 @@
 29	ନେଇଥିଲେ	_	VERB	V_VM_VF	Aspect=Perf|Mood=Ind|Number=Sing|Person=3|Polarity=Pos|Tense=Past	0	root	_	_
 30	।	_	PUNCT	PUNCT	_	29	punct	_	_
 
-# sent_id = f5-18
+# sent_id = f5-37
 # text = ୧୯୨୫ ଅଗଷ୍ଟ ୧୯ ଓ ୨୦ ଦୁଇଦିନ ଧରି ମହାତ୍ମା ଗାନ୍ଧୀ ମଧୁସୂଦନ ଦାସଙ୍କ କଟକ ବାସଭବନରେ ରହିବା ବେଳେ ତାଙ୍କଠାରୁ ସ୍ୱଦେଶ ଜାଗରଣ କାର୍ଯ୍ୟର ଅନେକ ଗୁରୁତ୍ୱପୂର୍ଣ୍ଣ ପରାମର୍ଶ ଗ୍ରହଣ କରିଥିଲେ ।
 1	୧୯୨୫	୧୯୨୫	NUM	QT_QTC	NumType=Card	2	nummod	_	_
 2	ଅଗଷ୍ଟ	ଅଗଷ୍ଟ	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	6	compound	_	_
@@ -5111,10 +5111,10 @@
 4	ମଧୁସୂଦନଙ୍କ	ମଧୁସୂଦନ	PROPN	N_NNP	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	Entity=(e3-person-4-coref)
 5	ସଞ୍ଚାଳିତ	ସଞ୍ଚାଳିତ	ADJ	JJ	Degree=Pos	6	amod	_	_
 6	କୁଟୀର	କୁଟୀର	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	7	compound	_	Entity=(e29-profession-6,7-new-sgl
-7	ଶିଳ୍ପ	ଶିଳ୍ପ	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	14	compound	_	Entity=e29)
+7	ଶିଳ୍ପ	ଶିଳ୍ପ	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	14	compound	_	Entity=e29)|SpacesAfter=\n
 8	,	,	PUNCT	RD-PUNC	_	7	punct	_	_
 9	ତାରକସୀ	ତାରକସୀ	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing	10	compound	_	Entity=(e30-profession-9,10-new-sgl
-10	ଶିଳ୍ପ	ଶିଳ୍ପ	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	14	compound	_	Entity=e30)
+10	ଶିଳ୍ପ	ଶିଳ୍ପ	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	14	compound	_	Entity=e30)SpacesAfter=\n
 11	,	,	PUNCT	RD-PUNC	_	10	punct	_	_
 12	ଚମଡ଼ା	ଚମଡ଼ା	PROPN	N_NNP	Case=Nom|Gender=Neut|Number=Sing	13	compound	_	Entity=(e31-profession-12,13-new-sgl
 13	ଶିଳ୍ପ	ଶିଳ୍ପ	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	14	compound	_	Entity=e31)
@@ -5284,30 +5284,6 @@
 7	ହୋଇଥିଲା	ହେବା	VERB	V_VM_VF	Aspect=Perf|Tense=Past|VerbForm=Fin||Person=3|Number=Sing|Gender=Masc	0	root	_	_
 8	।	।	PUNCT	RD_PUNC	_	7	punct	_	_
 
-# sent_id = f5-30
-# text = ତାଙ୍କ ମୃତ୍ୟୁରେ ଓଡ଼ିଶାର ତତ୍କାଳୀନ ରାଜ୍ୟପାଳ ବିଶ୍ୱମ୍ଭରନାଥ ପାଣ୍ଡେ କହିଥିଲେ, "ସେ ଓଡ଼ିଆ ଜାତିର ମା' ନଥିଲେ, ମୋର ମଧ୍ୟ ମା' ଥିଲେ" ।
-1	ତାଙ୍କ	ସେ	DET	DM_DMD	Person=3|Number=Sing|Gender=Com|PronType=Prs|Poss=Yes	2	det	_	Entity=(e1-person-1,10-coref
-2	ମୃତ୍ୟୁରେ	ମୃତ୍ୟୁ	NOUN	N_NN	Case=Loc|Number=Sing	8	obl	_	_
-3	ଓଡ଼ିଶାର	ଓଡ଼ିଶା	PROPN	N_NNP	Case=Gen|Number=Sing	5	nmod	_	Entity=(e36-location-3-new-sgl)
-4	ତଭ୍ତକାଳୀନ	ତଭ୍ତକାଳୀନ	ADJ	JJ	Degree=Pos	5	amod	_	_
-5	ରାଜ୍ୟପାଳ	ରାଜ୍ୟପାଳ	NOUN	N_NN	Number=Sing	8	nsubj	_	_
-6	ବିଶ୍ୱମ୍ଭରନାଥ	ବିଶ୍ୱମ୍ଭରନାଥ	PROPN	N_NNP	Number=Sing	7	compound	_	Entity=(e37-person-6,7,16-new-sgl
-7	ପାଣ୍ଡେ	ପାଣ୍ଡେ	PROPN	N_NNP	Number=Sing	5	appos	_	_
-8	କହିଥିଲେ	କହି	VERB	V_VM_VF	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin|Person=3|Number=Sing	0	root	_	SpaceAfter=No
-9	,	,	PUNCT	RD_PUNC	_	8	punct	_	_
-10	"	"	PUNCT	RD_PUNC	_	11	punct	_	SpaceAfter=No
-11	ସେ	ସେ	PRON	PR_PRP	Person=3|Number=Sing|Gender=Com|PronType=Prs	14	nsubj	_	Entity=e1)
-12	ଓଡ଼ିଆ	ଓଡ଼ିଆ	ADJ	JJ	Degree=Pos	13	amod	_	_
-13	ଜାତିର	ଜାତି	NOUN	N_NN	Case=Gen|Number=Sing	14	nmod	_	_
-14	ମା'	ମା'	NOUN	N_NN	Number=Sing	15	nsubj	_	_
-15	ନଥିଲେ	ନଥିଲେ	VERB	V_VM_VF	Polarity=Neg|Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin|Person=3|Number=Sing	8	parataxis	_	SpaceAfter=No
-16	,	,	PUNCT	RD_PUNC	_	15	punct	_	_
-17	ମୋର	ମୁଁ	PRON	PR_PRP	Person=1|Number=Sing|Gender=Com|PronType=Prs|Poss=Yes	19	nmod	_	Entity=e37)
-18	ମଧ୍ୟ	ମଧ୍ୟ	PART	RP	_	19	discourse	_	_
-19	ମା'	ମା'	NOUN	N_NN	Number=Sing	20	nsubj	_	_
-20	ଥିଲେ	ଥିଲେ	VERB	V_VM_VF	Aspect=Perf|Mood=Ind|Tense=Past|VerbForm=Fin|Person=3|Number=Sing	15	conj	_	SpaceAfter=No
-21	"	"	PUNCT	RD_PUNC	_	15	punct	_	_
-22	।	।	PUNCT	RD_PUNC	_	8	punct	_	_
 
 # sent_id = f5-31
 # text = ତାଙ୍କୁ ଶ୍ରଦ୍ଧଞ୍ଜଳି ଜଣାଇ ରାଷ୍ଟ୍ରୀୟ ମର୍ଯ୍ୟାଦା ମିଳିଥିଲା ।
@@ -5375,13 +5351,13 @@
 1	ସ୍ୱାମୀ	ସ୍ୱାମୀ	NOUN	N_NN	Case=Nom|Gender=Masc	2	compound	_	Entity=(e1-person-1,2-person-new-coref)
 2	ବିବେକାନନ୍ଦ	ବିବେକାନନ୍ଦ	PROPN	N_NNP	Case=Nom|Gender=Masc	18	nsubj	_	Entity=e1
 3	(	(	PUNCT	RD_PUNC	_	6	punct	_	SpaceAfter=No
-4	12	12	NUM	QT_QTC	NumType=Card	5	nummod	_	_
+4	୧୨	୧୨	NUM	QT_QTC	NumType=Card	5	nummod	_	_
 5	ଜାନୁଆରୀ	ଜାନୁଆରୀ	NOUN	N_NN	Case=Nom|Gender=Masc	6	compound	_	_
-6	1863	1863	NUM	QT_QTC	NumType=Card	2	appos	_	_
+6	୧୮୬୩	୧୮୬୩	NUM	QT_QTC	NumType=Card	2	appos	_	_
 7	-	-	PUNCT	RD_PUNC	_	10	punct	_	_
-8	4	4	NUM	QT_QTC	NumType=Card	9	nummod	_	_
+8	୪	୪	NUM	QT_QTC	NumType=Card	9	nummod	_	_
 9	ଜୁଲାଇ	ଜୁଲାଇ	NOUN	N_NN	Case=Nom|Gender=Masc	10	compound	_	_
-10	1902	1902	NUM	QT_QTC	NumType=Card	6	conj	_	SpaceAfter=No
+10	୧୯୦୨	୧୯୦୨	NUM	QT_QTC	NumType=Card	6	conj	_	SpaceAfter=No
 11	)	)	PUNCT	RD_PUNC	_	6	punct	_	_
 12	ବେଦାନ୍ତର	ବେଦାନ୍ତର	NOUN	N_NN	Case=Gen	18	nmod	_	_
 13	ଜଣେ	ଜଣେ	DET	DM_DMD	NumType=Card	16	det	_	_
@@ -5407,7 +5383,7 @@
 # sent_id = f6-3
 # text = ସେ ୧୮୯୩ ମସିହା ଆମେରିକାର ଚିକାଗୋ ବିଶ୍ୱଧର୍ମ ସମ୍ମିଳନୀରେ ହିନ୍ଦୁଧର୍ମର ପ୍ରତିନିଧିତ୍ୱ କରିଥିଲେ।
 1	ସେ	ସେ	PRON	PR_PRP	Case=Nom|Person=3|PronType=Prs	9	nsubj	_	Entity=(e1-person-1-coref)
-2	1893	1893	NUM	QT_QTC	NumType=Card	3	nummod	_	_
+2	୧୮୯୩	୧୮୯୩	NUM	QT_QTC	NumType=Card	3	nummod	_	_
 3	ମସିହା	ମସିହା	NOUN	N_NN	Case=Nom	9	obl	_	_
 4	ଆମେରିକାର	ଆମେରିକା	PROPN	N_NNP	Case=Gen	6	nmod	_	Entity=(e3-location-4-new-coref)
 5	ଚିଋଗୋ	ଚିଋଗୋ	PROPN	N_NNP	Case=Nom	6	compound	_	Entity=(e4-location-5-new-coref)
@@ -5434,10 +5410,10 @@
 
 # sent_id = f6-5
 # text = ୧୮୬୩ ମସିହା ଜାନୁଆରୀ ୧୨ ତାରିଖର କଲିକତାର ସିମିଳାପଲ୍ଲୀରେ ବିଶ୍ୱନାଥ ଦତ୍ତ ଓ ଭୁବନେଶ୍ୱରୀ ଦେବୀଙ୍କର ପ୍ରଥମ ପୁତ୍ରରୁପେ ଜନ୍ମଗ୍ରହଣ କରିଥିଲେ ।
-1	1863	1863	NUM	QT_QTC	NumType=Card	2	nummod	_	_
+1	୧୮୬୩	୧୮୬୩	NUM	QT_QTC	NumType=Card	2	nummod	_	_
 2	ମସିହା	ମସିହା	NOUN	N_NN	Case=Nom	16	obl	_	_
 3	ଜାନୁଆରୀ	ଜାନୁଆରୀ	NOUN	N_NN	Case=Nom	4	compound	_	_
-4	12	12	NUM	QT_QTC	NumType=Card	5	nummod	_	_
+4	୧୨	୧୨	NUM	QT_QTC	NumType=Card	5	nummod	_	_
 5	ତାରିଖର	ତାରିଖ	NOUN	N_NN	Case=Gen	2	compound	_	_
 6	କଲିକତାର	କଲିକତା	PROPN	N_NNP	Case=Gen	7	nmod	_	Entity=(e5-location-6-new-sgl)
 7	ସିମିଳାପଲ୍ଲୀରେ	ସିମିଳାପଲ୍ଲୀ	PROPN	N_NNP	Case=Loc	16	obl	_	_
