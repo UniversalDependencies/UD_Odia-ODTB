@@ -397,7 +397,7 @@
 1	ପ୍ରଧାନମନ୍ତ୍ରୀ	ପ୍ରଧାନମନ୍ତ୍ରୀ	NOUN	N_NN	_	6	nsubj	_	Translit=pradhānamantrī|LTranslit=pradhānamantrī
 2	ଆସନ୍ତାକାଲି	ଆସନ୍ତାକାଲି	ADV	RB	_	3	advmod	_	Translit=āsantākāli|LTranslit=āsantākāli
 3	ସକାଳେ	ସକାଳ	ADV	RB	_	6	advmod	_	Translit=sakāḷe|LTranslit=sakāḷa
-4	ଗୌହାଟୀରୁ	ଗୌହାଟୀ	PROPN	N_NNP	_	5	obl	_	Translit=gauhāṭīru|LTranslit=gauhāṭī
+4	ଗୌହାଟୀରୁ	ଗୌହାଟୀ	PROPN	N_NNP	_	5	nmod	_	Translit=gauhāṭīru|LTranslit=gauhāṭī
 5	ଇଟାନଗରରେ	ଇଟାନଗର	PROPN	N_NNP	_	6	obl	_	Translit=iṭānagarare|LTranslit=iṭānagara
 6	ପହଂଚିବେ	ପହଂଚି	VERB	V_VM_VF	_	0	root	_	Translit=pahaṁcibe|LTranslit=pahaṁci
 7	।	।	PUNCT	RD_PUNC	_	6	punct	_	SpacesAfter=\n|Translit=.|LTranslit=.
