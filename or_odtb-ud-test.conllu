@@ -1631,7 +1631,7 @@
 2	ଥିରେ	_	NOUN	N_NN	Case=Loc|Number=Sing	8	obl	_	_
 3	ଖୋଦେଇ	_	NOUN	N_NN	Case=Ins|Number=Sing	4	compound	_	_
 4	କରି	_	VERB	V_VM_VNF	VerbForm=Conv|Voice=Act	8	advcl	_	_
-5	କେତେ	_	DET	DM_QT	PronType=Int|NumType=Card	6	det	_	_
+5	କେତେ	_	DET	DM_QT	PronType=Int	6	det	_	_
 6	କଣ	_	PRON	PR_Q	PronType=Int	7	nsubj	_	_
 7	ଲେଖା	_	NOUN	N_NN	Case=Nom|Number=Sing	8	nsubj	_	_
 8	ହୋଇଥାଏ	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Pres|Person=3|Number=Sing	0	root	_	_
@@ -1670,7 +1670,7 @@
 # sent_id = f2-17
 # text = ଅନେକ ବଡ ବଡ ବହିକୁ , ଅର୍ଥାତ କାଠ ଗଣ୍ଡିମାନଙ୍କୁ ଗଡ଼ାଇ ଗଡ଼ାଇ ନେଇ ସେହି ପ୍ରାଚୀର ଭିତରେ ଭର୍ତ୍ତି କରିଦିଆଗଲା |
 # text_en = Many large books, that is, wooden blocks, were carefully placed inside the Great Wall.
-1	ଅନେକ	_	DET	DM_QT	PronType=Ind|NumType=Card	4	det	_	_
+1	ଅନେକ	_	DET	DM_QT	PronType=Ind	4	det	_	_
 2	ବଡ	_	ADJ	JJ	Degree=Pos	4	amod	_	_
 3	ବଡ	_	ADJ	JJ	Degree=Pos	4	amod	_	_
 4	ବହିକୁ	_	NOUN	N_NN	Case=Acc|Number=Sing	16	obj	_	Entity=(e4-object-4-coref)
@@ -1817,7 +1817,7 @@
 5	ଭାରତର	_	PROPN	N_NNP	Number=Sing|Case=Genitive	6	nmod	_	Entity=(e9-location-5-new-coref)
 6	ନାଳନ୍ଦା	_	PROPN	N_NNP	Number=Sing|Case=Nom	7	compound	_	Entity=(e10-organization-new-coref
 7	ବିଶ୍ଵବିଦ୍ୟାଳୟ	_	NOUN	N_NN	Animacy=Inan|Number=Sing|Case=Nom	10	nsubj	_	Entity=e10)
-8	ଏକ	_	DET	DM_DMD	NumType=Card|Number=Sing	9	det	_	_
+8	ଏକ	_	DET	DM_DMD	Number=Sing	9	det	_	_
 9	ମହାନ୍	_	ADJ	JJ	Degree=Pos	10	amod	_	_
 10	ବିଦ୍ୟାପୀଠ	_	NOUN	N_NN	Number=Sing|Case=Nom	0	root	_	Entity=(e11-location-10-new-coref)
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
@@ -1951,7 +1951,7 @@
 4	ହେଲା	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Past|Aspect=Perf|Person=3|Number=Sing	10	acl	_	SpaceAfter=No
 5	,	_	PUNCT	RD_PUNC	_	4	punct	_	_
 6	ତାଙ୍କର	_	PRON	PR_PRP	Person=3|Number=Sing|Case=Gen	9	nmod	_	_
-7	ଏକ	_	DET	DM_DMD	NumType=Card	9	det	_	_
+7	ଏକ	_	DET	DM_DMD	_	9	det	_	_
 8	ଅଦ୍ଭୁତ	_	ADJ	JJ	Degree=Pos	9	amod	_	_
 9	ଯୁକ୍ତି	_	NOUN	N_NN	Number=Sing|Gender=Fem|Case=Nom	10	nsubj	_	_
 10	ଥିଲା	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Past|Aspect=Imp|Person=3|Number=Sing	0	root	_	_
@@ -2061,13 +2061,13 @@
 4	ନାମକ	_	ADJ	JJ	_	3	amod	_	_
 5	ଡେନମାର୍କ	_	PROPN	N_NNP	_	6	compound	_	Entity=(e16-location-5-new-coref)
 6	ଦେଶର	_	NOUN	N_NN	Number=Sing|Gender=Masc|Case=Gen	9	nmod	_	_
-7	ଜଣେ	_	DET	DM_DMD	NumType=Card	9	det	_	_
+7	ଜଣେ	_	DET	DM_DMD	_	9	det	_	_
 8	ବିଶିଷ୍ଠ	_	ADJ	JJ	Degree=Pos	9	amod	_	_
 9	ବ୍ୟକ୍ତିଙ୍କୁ	_	NOUN	N_NN	Number=Sing|Gender=Masc|Case=Acc	19	obj	_	_
 10	ସେ	_	PRON	PR_PRP	Person=3|Number=Sing|Case=Nom	14	nsubj	_	_
 11	ସଙ୍କଳନ	_	NOUN	N_NN	VerbForm=Vnoun|Case=Nom	12	obj	_	_
 12	କରିଥିବା	_	VERB	V_VM_VNF	Aspect=Perf|Tense=Past	13	acl	_	_
-13	ଖଣ୍ଡିଏ	_	DET	DM_DMD	NumType=Card|Indef	14	obl	_	_
+13	ଖଣ୍ଡିଏ	_	DET	DM_DMD	_	14	obl	_	_
 14	ବହି	_	NOUN	N_NN	Number=Plur|Gender=Neut|Case=Acc	15	obl	_	Entity=(e4-object-14-coref)
 15	ସହିତ	_	ADP	PSP	_	19	case	_	_
 16	ଜୀବନ୍ତ	_	ADJ	JJ	Degree=Pos	19	amod	_	_
@@ -2218,7 +2218,7 @@
 # text = ଏ ଉଭୟ ମହାକାବ୍ୟରେ ମୋଟ ୨୮ ହଜାର ଧାଡ଼ି ରହିଛି ।
 # text_en =Both these epics together contain a total of 28,000 lines.
 1	ଏ	_	DET	DM_DMD	PronType=Dem	3	det	_	_
-2	ଉଭୟ	_	DET	DM_DMD	NumType=Dual	3	det	_	_
+2	ଉଭୟ	_	DET	DM_DMD	_	3	det	_	_
 3	ମହାକାବ୍ୟରେ	_	NOUN	N_NN	Number=Sing|Gender=Neut|Case=Loc	8	obl	_	Entity=(e4-object-3-coref)
 4	ମୋଟ	_	ADV	RB	_	7	advmod	_	_
 5	୨୮	_	NUM	QT_QTC	NumType=Card	6	nummod	_	_
@@ -2442,7 +2442,7 @@
 6	ଭିତରକୁ	_	NOUN	N_NN	Case=Lat	12	obl	_	_
 7	ଏ	_	DET	DM_DMD	_	8	det	_	_
 8	ବହି	_	NOUN	N_NN	Gender=Neut|Number=Sing	12	nsubj	_	Entity=(e4-object-7-coref)
-9	ଏକ	_	DET	DM_DMD	NumType=Card	10	det	_	_
+9	ଏକ	_	DET	DM_DMD	_	10	det	_	_
 10	ଛୋଟ	_	ADJ	JJ	Degree=Pos	11	amod	_	_
 11	ଗବାକ୍ଷ	_	NOUN	N_NN	Gender=Neut|Number=Sing	12	compound	_	_
 12	ମାତ୍ର	_	NOUN	N_NN	_	0	root	_	_
@@ -2518,7 +2518,7 @@
 11	ନଭେମ୍ବର	_	PROPN	N_NNP	_	4	obl	_	_
 12	୧୯୭୦	_	NUM	QT_QTC	_	11	nummod	_	SpaceAfter=No
 13	)	_	PUNCT	RD_PUNC	–	4	punct	_	_
-14	ଜଣେ	_	DET	DM_DMD	NumType=Indef	17	det	_	_
+14	ଜଣେ	_	DET	DM_DMD	_	17	det	_	_
 15	ଭାରତୀୟ	_	ADJ	JJ	Rel=Nat	16	amod	_	_
 16	ପଦାର୍ଥ	_	NOUN	N_NN	Number=Sing	17	compound	_	Entity=(e2-abstract-16,17-new-coref
 17	ବିଜ୍ଞାନୀ	_	NOUN	N_NN	Number=Sing	18	obj	_	Entity=e2)
@@ -2555,7 +2555,7 @@
 5	ଆଲୋକ	_	NOUN	N_NN	_	6	compound	_	_
 6	ରଶ୍ମି	_	NOUN	N_NN	_	12	nsubj	_	_
 7	ଯେତେବେଳେ	_	ADV	RB	_	12	advmod	_	_
-8	ଗୋଟିଏ	_	DET	DM_DMD	NumType=Card	10	det	_	_
+8	ଗୋଟିଏ	_	DET	DM_DMD	_	10	det	_	_
 9	ସ୍ୱଚ୍ଛ	_	ADJ	JJ	Degree=Pos	10	amod	_	_
 10	ପଦାର୍ଥ	_	NOUN	N_NN	_	12	obl	_	_
 11	ଦେଇ	_	ADP	PSP	_	10	case	_	_
@@ -2631,7 +2631,7 @@
 3	ତିରୁଚିରାପଲ୍ଲୀ	_	PROPN	N_NNP	Number=Sing|Case=Nom	5	compound	_	SpaceAfter=No|Entity=(e6-location-3-new-sgl
 4	,	_	PUNCT	RD-PUNC	_	5	punct	_	_
 5	ତାମିଲନାଡୁର	_	PROPN	N_NNP	Number=Sing|Case=Gen	8	obl	_	Entity=(e7-location-5-new-sgl)
-6	ଏକ	_	DET	DM_DMD	NumType=Card	7	det	_	_
+6	ଏକ	_	DET	DM_DMD	_	7	det	_	_
 7	ବ୍ରାହ୍ମଣ	_	ADJ	JJ	Number=Sing|Case=Nom	8	amod	_	_
 8	ପରିବାରରେ	_	NOUN	N_NN	Number=Sing|Case=Loc	10	obl	_	_
 9	ଜନ୍ମଗ୍ରହଣ	_	NOUN	N_NN	VerbForm=Vnoun|Aspect=Perf|Case=Nom	10	obj	_	_
@@ -2661,7 +2661,7 @@
 2	ମା	_	NOUN	N_NN	Gender=Fem|Number=Sing|Case=Nom	9	nsubj	_	_
 3	ପାର୍ବତୀ	_	PROPN	N_NNP	Gender=Fem|Number=Sing|Case=Nom	4	compound	_	Entity=(e11-person-3,4-new-coref
 4	ଅମ୍ମାଲ	_	PROPN	N_NNP	Gender=Fem|Number=Sing|Case=Nom	5	compound	_	Entity=e11)
-5	ଜଣେ	_	DET	DM_DMD	NumType=Card|Person=Hum	9	det	_	_
+5	ଜଣେ	_	DET	DM_DMD	Person=Hum	9	det	_	_
 6	ସଂସ୍କୃତ	_	ADJ	JJ	Degree=Pos	7	amod	_	_
 7	ପରିବାରର	_	NOUN	N_NN	Gender=Com|Number=Sing|Case=Gen	8	nmod	_	_
 8	ମହିଳା	_	NOUN	N_NN	Gender=Fem|Number=Sing|Case=Nom	9	obl	_	_
@@ -2878,7 +2878,7 @@
 4	ନିକଟରେ	_	ADP	PSP	Case=Loc	15	obl	_	_
 5	ତାଙ୍କ	_	PRON	PR_PRP	PronType=Prs|Person=3|Number=Sing|Case=Gen	6	det:poss	_	Entity=e1)
 6	ପିତା	_	NOUN	N_NN	Gender=Masc|Number=Sing|Case=Nom	15	nsubj	_	Entity=e6)
-7	ଏକ	_	DET	DT	NumType=Card	9	det	_	_
+7	ଏକ	_	DET	DT	_	9	det	_	_
 8	ବଡ	_	ADJ	JJ	Degree=Pos	9	amod	_	_
 9	ଆଲୋକିକ	_	ADJ	JJ	Degree=Pos	6	amod	_	_
 10	ଅନ୍ୱେଷକ	_	NOUN	N_NN	Gender=Masc|Number=Sing|Case=Nom	6	conj	_	_
@@ -3142,7 +3142,7 @@
 # text = ରମଣଙ୍କର ଅନେକ ସମୟରେ ସ୍ବାସ୍ଥ୍ୟାବସ୍ଥା ଖରାପ ରହୁଥିବାରୁ ତାଙ୍କୁ ଦୁର୍ବଳ ବୋଲି ବିବେଚନା କରାୟାଉଥିଲା।
 # text_en = Because Raman’s health was often poor, he was considered weak.
 1	ରମଣଙ୍କର	_	PROPN	N_NNP	_	3	nmod	_	Entity=(e1-person-1,7-coref
-2	ଅନେକ	_	DET	DM_DMD	PronType=Ind|NumType=Card	3	det	_	_
+2	ଅନେକ	_	DET	DM_DMD	PronType=Ind	3	det	_	_
 3	ସମୟରେ	_	NOUN	N_NN	Gender=Neuter|Number=Sing|Case=Loc	11	obl	_	_
 4	ସ୍ବାସ୍ଥ୍ୟାବସ୍ଥା	_	NOUN	N_NN	Gender=Neuter|Number=Sing|Case=Nom	6	nsubj	_	_
 5	ଖରାପ	_	ADJ	JJ	Degree=Pos	6	amod	_	_
@@ -4282,7 +4282,7 @@
 3	ଦେଖିଲେ	ଦେଖିବା	VERB	V_VM_VF	Tense=Past|Aspect=Perf|Person=3	0	root	_	_
 4	ଯେ	ଯେ	SCONJ	CC_CCS	_	10	mark	_	_
 5	ବ୍ରାହ୍ମସମାଜ	ବ୍ରାହ୍ମସମାଜ	PROPN	N_NNP	Number=Sing|Case=Nom	10	nsubj	_	Entity=(e10-group-5-coref)
-6	ଗୋଟିଏ	ଗୋଟିଏ	DET	QT_QTC	NumType=Card	10	det	_	_
+6	ଗୋଟିଏ	ଗୋଟିଏ	DET	QT_QTC	_	10	det	_	_
 7	ସମାଜ	ସମାଜ	NOUN	N_NN	Gender=Masc|Number=Sing	9	compound	_	SpaceAfter=No
 8	-	-	PUNCT	RD_PUNC	_	9	punct	_	SpaceAfter=No
 9	ସଂସ୍କାରକ	ସଂସ୍କାରକ	ADJ	JJ	Degree=Pos	10	amod	_	_
@@ -4300,7 +4300,7 @@
 # sent_id = f4-80
 # text = ସେ ସବୁ ଧର୍ମଯାଜକଙ୍କୁ ପଚାରନ୍ତି-ଆପଣ ଈଶ୍ୱରଙ୍କୁ ଦର୍ଶନ କରିଛନ୍ତି କି ?
 1	ସେ	ସେ	PRON	PR_PRP	Person=3|Number=Sing|Case=Nom	4	nsubj	_	Entity=(e1-person-1-coref)
-2	ସବୁ	ସବୁ	DET	QT_QTF	NumType=Quant	3	det	_	_
+2	ସବୁ	ସବୁ	DET	QT_QTF	_	3	det	_	_
 3	ଧର୍ମଯାଜକଙ୍କୁ	ଧର୍ମଯାଜକ	NOUN	N_NN	Number=Plur|Case=Dat	4	obj	_	_
 4	ପଚାରନ୍ତି	ପଚାରିବା	VERB	V_VM_VF	Tense=Pres|Aspect=Imp|Person=3	0	root	_	SpaceAfter=No
 5	-	-	PUNCT	RD_SYM	_	4	punct	_	SpaceAfter=No
@@ -4418,7 +4418,7 @@
 8	ପରିଚିତ	ପରିଚିତ	ADJ	JJ	Degree=Pos	9	amod	_	_
 9	ଭକ୍ତମାନଙ୍କୁ	ଭକ୍ତ	NOUN	N_NN	Case=Dat|Number=Plur	10	obj	_	_
 10	ନେଇ	ନେବା	VERB	V_VM_VNF	VerbForm=Conv	14	acl	_	_
-11	ଗୋଟିଏ	ଗୋଟିଏ	DET	QT_QTC	NumType=Card	13	det	_	_
+11	ଗୋଟିଏ	ଗୋଟିଏ	DET	QT_QTC	_	13	det	_	_
 12	ଛୋଟ	ଛୋଟ	ADJ	JJ	Degree=Pos	13	amod	_	_
 13	ଉତ୍ସବରେ	ଉତ୍ସବ	NOUN	N_NST	Case=Loc|Number=Sing	14	nmod	_	_
 14	ଆୟୋଜନ	ଆୟୋଜନ	NOUN	N_NN	Number=Sing	15	nsubj	_	_
@@ -4633,7 +4633,7 @@
 # text = ନରେନ୍‌ ମଧ୍ୟ ଦୁଇଟି ଗୀତ ଗାଇଲେ-‘ମନ ଚାଲ ନିଜ ନିକେତନ’ ଇତ୍ୟାଦି ଏବଂ ‘ଯିବ କି ହେ ଦିନ ମୋର ବିଫଳେ ଚାଲି’ ଇତ୍ୟାଦି ।
 1	ନରେନ୍‌	ନରେନ୍ଦ୍ର	PROPN	N_NNP	_	5	nsubj	_	Entity=(e1-person-1-coref)
 2	ମଧ୍ୟ	ମଧ୍ୟ	PART	RP_EMP	_	5	discourse	_	_
-3	ଦୁଇଟି	ଦୁଇ	DET	QT_QTC	NumType=Card	4	det	_	_
+3	ଦୁଇଟି	ଦୁଇ	DET	QT_QTC	_	4	det	_	_
 4	ଗୀତ	ଗୀତ	NOUN	N_NN	Number=Plur	5	obj	_	_
 5	ଗାଇଲେ	ଗାଇବା	VERB	V_VM_VF	Tense=Past|Person=3|Number=Sing	0	root	_	SpaceAfter=No
 6	-	-	PUNCT	RD_SYM	_	5	punct	_	SpaceAfter=No
@@ -4712,7 +4712,7 @@
 9	ଜୁଲାଇ	_	NOUN	N_NNP	Number=Sing|Case=Nom	5	conj	_	_
 10	୧୯୮୫	_	NUM	QT_QTC	NumType=Card	9	nmod	_	SpaceAfter=No
 11	)	_	PUNCT	RD_SYM	_	2	punct	_	_
-12	ଜଣେ	_	DET	DM_DMI	PronType=Art|NumType=Card|Number=Sing	15	det	_	_
+12	ଜଣେ	_	DET	DM_DMI	PronType=Art|Number=Sing	15	det	_	_
 13	ଓଡ଼ିଆ	_	ADJ	JJ	Gender=Com|Number=Sing|Case=Nom	15	amod	_	_
 14	ସ୍ୱାଧୀନତା	_	NOUN	N_NN	Gender=Fem|Number=Sing|Case=Nom	15	compound	_	Entity=(e2-profession-14,15-new-coref
 15	ସଂଗ୍ରାମୀ	_	NOUN	N_NN	Gender=Com|Number=Sing|Case=Nom	16	xcomp	_	Entity=e2)
@@ -5224,7 +5224,7 @@
 11	ସମର୍ଥନ	ସମର୍ଥନ	NOUN	N_NN	Gender=Masc|Number=Sing|Case=Nom	12	obj	_	_
 12	କରି	କରି	VERB	V_VM_VNF	Aspect=Imp|Tense=Pres	17	advcl	_	_
 13	ଭୁବନେଶ୍ୱରରେ	ଭୁବନେଶ୍ୱର	PROPN	N_NST	Gender=Masc|Number=Sing|Case=Loc	17	obl	_	Entity=(e35-location-13-coref)
-14	ଏକ	ଏକ	DET	DM_DMD	PronType=Art|NumType=Card	16	det	_	_
+14	ଏକ	ଏକ	DET	DM_DMD	PronType=Art	16	det	_	_
 15	ବିଶାଳ	ବିଶାଳ	ADJ	JJ	Degree=Pos	16	amod	_	_
 16	ସମାବେଶ	ସମାବେଶ	NOUN	N_NN	Gender=Masc|Number=Sing|Case=Nom	17	obj	_	_
 17	କରାଇଥିଲେ	କରାଇ	VERB	V_VM_VF	Aspect=Perf|Tense=Past|VerbForm=Fin|Voice=Caus|Person=3|Number=Sing|Gender=Masc	0	root	_	_
@@ -5316,7 +5316,7 @@
 10	୧୯୦୨	୧୯୦୨	NUM	QT_QTC	NumType=Card	6	conj	_	SpaceAfter=No
 11	)	)	PUNCT	RD_PUNC	_	6	punct	_	_
 12	ବେଦାନ୍ତର	ବେଦାନ୍ତର	NOUN	N_NN	Case=Gen	18	nmod	_	_
-13	ଜଣେ	ଜଣେ	DET	DM_DMD	NumType=Card	16	det	_	_
+13	ଜଣେ	ଜଣେ	DET	DM_DMD	_	16	det	_	_
 14	ବିଶ୍ୱ	ବିଶ୍ୱ	NOUN	N_NN	Case=Nom	15	compound	_	_
 15	ପ୍ରସିଦ୍ଧ	ପ୍ରସିଦ୍ଧ	ADJ	JJ	_	16	amod	_	_
 16	ଆଧ୍ୟାତ୍ମିକ	ଆଧ୍ୟାତ୍ମିକ	ADJ	JJ	_	17	amod	_	_
@@ -6420,7 +6420,7 @@
 3	ଦେଖିଲେ	ଦେଖିବା	VERB	V_VM_VF	Tense=Past|Aspect=Perf|Person=3	0	root	_	_
 4	ଯେ	ଯେ	SCONJ	CC_CCS	_	10	mark	_	_
 5	ବ୍ରାହ୍ମସମାଜ	ବ୍ରାହ୍ମସମାଜ	PROPN	N_NNP	Number=Sing|Case=Nom	10	nsubj	_	Entity=(e10-group-5-coref)
-6	ଗୋଟିଏ	ଗୋଟିଏ	DET	QT_QTC	NumType=Card	10	det	_	_
+6	ଗୋଟିଏ	ଗୋଟିଏ	DET	QT_QTC	_	10	det	_	_
 7	ସମାଜ	ସମାଜ	NOUN	N_NN	Gender=Masc|Number=Sing	9	compound	_	SpaceAfter=No
 8	-	-	PUNCT	RD_PUNC	_	9	punct	_	SpaceAfter=No
 9	ସଂସ୍କାରକ	ସଂସ୍କାରକ	ADJ	JJ	Degree=Pos	10	amod	_	_
@@ -6438,7 +6438,7 @@
 # sent_id = f6-80
 # text = ସେ ସବୁ ଧର୍ମଯାଜକଙ୍କୁ ପଚାରନ୍ତି-ଆପଣ ଈଶ୍ୱରଙ୍କୁ ଦର୍ଶନ କରିଛନ୍ତି କି ?
 1	ସେ	ସେ	PRON	PR_PRP	Person=3|Number=Sing|Case=Nom	4	nsubj	_	Entity=(e1-person-1-coref)
-2	ସବୁ	ସବୁ	DET	QT_QTF	NumType=Quant	3	det	_	_
+2	ସବୁ	ସବୁ	DET	QT_QTF	_	3	det	_	_
 3	ଧର୍ମଯାଜକଙ୍କୁ	ଧର୍ମଯାଜକ	NOUN	N_NN	Number=Plur|Case=Dat	4	obj	_	_
 4	ପଚାରନ୍ତି	ପଚାରିବା	VERB	V_VM_VF	Tense=Pres|Aspect=Imp|Person=3	0	root	_	SpaceAfter=No
 5	-	-	PUNCT	RD_SYM	_	4	punct	_	SpaceAfter=No
@@ -6556,7 +6556,7 @@
 8	ପରିଚିତ	ପରିଚିତ	ADJ	JJ	Degree=Pos	9	amod	_	_
 9	ଭକ୍ତମାନଙ୍କୁ	ଭକ୍ତ	NOUN	N_NN	Case=Dat|Number=Plur	10	obj	_	_
 10	ନେଇ	ନେବା	VERB	V_VM_VNF	VerbForm=Conv	14	acl	_	_
-11	ଗୋଟିଏ	ଗୋଟିଏ	DET	QT_QTC	NumType=Card	13	det	_	_
+11	ଗୋଟିଏ	ଗୋଟିଏ	DET	QT_QTC	_	13	det	_	_
 12	ଛୋଟ	ଛୋଟ	ADJ	JJ	Degree=Pos	13	amod	_	_
 13	ଉତ୍ସବରେ	ଉତ୍ସବ	NOUN	N_NST	Case=Loc|Number=Sing	14	nmod	_	_
 14	ଆୟୋଜନ	ଆୟୋଜନ	NOUN	N_NN	Number=Sing	15	nsubj	_	_
@@ -6771,7 +6771,7 @@
 # text = ନରେନ୍‌ ମଧ୍ୟ ଦୁଇଟି ଗୀତ ଗାଇଲେ-‘ମନ ଚାଲ ନିଜ ନିକେତନ’ ଇତ୍ୟାଦି ଏବଂ ‘ଯିବ କି ହେ ଦିନ ମୋର ବିଫଳେ ଚାଲି’ ଇତ୍ୟାଦି ।
 1	ନରେନ୍‌	ନରେନ୍ଦ୍ର	PROPN	N_NNP	_	5	nsubj	_	Entity=(e1-person-1-coref)
 2	ମଧ୍ୟ	ମଧ୍ୟ	PART	RP_EMP	_	5	discourse	_	_
-3	ଦୁଇଟି	ଦୁଇ	DET	QT_QTC	NumType=Card	4	det	_	_
+3	ଦୁଇଟି	ଦୁଇ	DET	QT_QTC	_	4	det	_	_
 4	ଗୀତ	ଗୀତ	NOUN	N_NN	Number=Plur	5	obj	_	_
 5	ଗାଇଲେ	ଗାଇବା	VERB	V_VM_VF	Tense=Past|Person=3|Number=Sing	0	root	_	SpaceAfter=No
 6	-	-	PUNCT	RD_SYM	_	5	punct	_	SpaceAfter=No
