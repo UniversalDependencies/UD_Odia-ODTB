@@ -1299,7 +1299,7 @@
 8	ମୁମ୍ବାଇରେ	_	PROPN	N_NNP	Case=Loc|Number=Sing	5	conj	_	Entity=e104)Translit=mumbāire
 9	ପ୍ରବଳ	_	ADJ	JJ	_	10	amod	_	Translit=prabaḷa
 10	ବର୍ଷା	_	NOUN	N_NN	Case=Acc|Number=Sing|Gender=Fem	12	nsubj	_	Translit=barṣā
-11	ଦେଖିବାକୁ	_	NOUN	N_NNV	NounForm=Verbal Noun|VerbForm=Inf	12	nmod	_	Translit=dekhibāku
+11	ଦେଖିବାକୁ	_	NOUN	N_NNV	NounForm=Verbal|Noun|VerbForm=Inf	12	nmod	_	Translit=dekhibāku
 12	ମିଳିଛି	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Pres|Aspect=Perf|Person=3|Number=Sing	0	root	_	Translit=miḷichi
 13	।	_	PUNCT	RD_PUNC	_	12	punct	_	Translit=.
 
@@ -1433,6 +1433,7 @@
 9	ଭାବିବା	_	VERB	V_VM_VINF	VerbForm=Inf	10	acl	_	Translit=bhābibā
 10	ଅନୁଚିତ	_	NOUN	N_NN	_	0	root	_	Translit=anucita
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	Translit=.
+
 # sent_id = f2-1
 # text = ପ୍ରାୟ ଦୁଇ ହଜାର ବର୍ଷ ତଳ ର କଥା |
 # text_en = It is the story of about two thousand years ago.
@@ -1792,14 +1793,14 @@
 # text = ବହିପତ୍ର ଧ୍ୱଂସ କରିବା ନିମନ୍ତେ ଏଇ ଥରେ ମାତ୍ର ଯେ ଉଦ୍ୟମ ହୋଇଥିଲା, ତାହା ନୁହେଁ |
 # text_en = This was not the only attempt to destroy books.
 1	ବହିପତ୍ର	_	NOUN	N_NN	Number=Sing|Case=Acc|inanimate	2	compound	_	Entity=(e4-object-1-coref)
-2	ଧ୍ୱଂସ	_	NOUN	N_NN	verbal noun	3	obj	_	_
-3	କରିବା	_	VERB	V_VM_VNF	infinitive|non-finite	4	acl	_	_
-4	ନିମନ୍ତେ	_	ADP	PSP	Case=Purposive|postposition	7	obl	_	_
-5	ଏଇ	_	DET	DM_DMD	proximal determiner	6	det	_	_
+2	ଧ୍ୱଂସ	_	NOUN	N_NN	VerbForm=Vnoun	3	obj	_	_
+3	କରିବା	_	VERB	V_VM_VNF	VerbForm=Fin	4	acl	_	_
+4	ନିମନ୍ତେ	_	ADP	PSP	_	7	obl	_	_
+5	ଏଇ	_	DET	DM_DMD	_	6	det	_	_
 6	ଥରେ	_	NOUN	N_NN	Number=Sing|Case=Loc	7	obl	_	_
 7	ମାତ୍ର	_	ADV	RB	_	10	advmod	_	_
 8	ଯେ	_	SCONJ	CC_CCS	_	10	mark	_	_
-9	ଉଦ୍ୟମ	_	NOUN	N_NN	 Number=Sing|Case=Nom	10	nsubj	_	_
+9	ଉଦ୍ୟମ	_	NOUN	N_NN	Number=Sing|Case=Nom	10	nsubj	_	_
 10	ହୋଇଥିଲା	_	VERB	V_VM_VF	_	13	acl	_	SpaceAfter=No
 11	,	_	PUNCT	RD_PUNC	—	10	punct	_	_
 12	ତାହା	_	PRON	PR_DMR	Person=3|Number=Sing|Gender=Neut|Case=Nom	13	nsubj	_	_
@@ -1809,23 +1810,23 @@
 # sent_id = f2-26
 # text = ସପ୍ତମ ଶତାବ୍ଦୀର କଥା , ଭାରତର ନାଳନ୍ଦା ବିଶ୍ଵବିଦ୍ୟାଳୟ ଏକ ମହାନ୍ ବିଦ୍ୟାପୀଠ ।
 # text_en = Back in the seventh century, India’s Nalanda University was a great center of learning.
-1	ସପ୍ତମ	_	ADJ	JJ	NumType=Ordinal numeral	2	amod	_	_
+1	ସପ୍ତମ	_	ADJ	JJ	NumType=Ord	2	amod	_	_
 2	ଶତାବ୍ଦୀର	_	NOUN	N_NN	Number=Sing|Case=Gen	3	nmod	_	_
-3	କଥା	_	NOUN	N_NN	 Number=Sing|Case=Nom	7	obl	_	_
+3	କଥା	_	NOUN	N_NN	Number=Sing|Case=Nom	7	obl	_	_
 4	,	_	PUNCT	RD_PUNC	_	3	punct	_	_
-5	ଭାରତର	_	PROPN	N_NNP	Proper noun|Number=Sing|Case=Genitive	6	nmod	_	Entity=(e9-location-5-new-coref)
-6	ନାଳନ୍ଦା	_	PROPN	N_NNP	Proper noun|Number=Sing|Case=Nom	7	compound	_	Entity=(e10-organization-new-coref
-7	ବିଶ୍ଵବିଦ୍ୟାଳୟ	_	NOUN	N_NN	Inanimate|Number=Sing|Case=Nom	10	nsubj	_	Entity=e10)
+5	ଭାରତର	_	PROPN	N_NNP	Number=Sing|Case=Genitive	6	nmod	_	Entity=(e9-location-5-new-coref)
+6	ନାଳନ୍ଦା	_	PROPN	N_NNP	Number=Sing|Case=Nom	7	compound	_	Entity=(e10-organization-new-coref
+7	ବିଶ୍ଵବିଦ୍ୟାଳୟ	_	NOUN	N_NN	Animacy=Inan|Number=Sing|Case=Nom	10	nsubj	_	Entity=e10)
 8	ଏକ	_	DET	DM_DMD	NumType=Card|Number=Sing	9	det	_	_
-9	ମହାନ୍	_	ADJ	JJ	 Degree=Pos	10	amod	_	_
-10	ବିଦ୍ୟାପୀଠ	_	NOUN	N_NN	 Number=Sing|Case=Nom	0	root	_	Entity=(e11-location-10-new-coref)
+9	ମହାନ୍	_	ADJ	JJ	Degree=Pos	10	amod	_	_
+10	ବିଦ୍ୟାପୀଠ	_	NOUN	N_NN	Number=Sing|Case=Nom	0	root	_	Entity=(e11-location-10-new-coref)
 11	।	_	PUNCT	RD_PUNC	_	10	punct	_	SpacesAfter=\n
 
 # sent_id = f2-27
 # text = ଚୀନ ଦେଶରୁ ଆସିଥିବା ପରିବ୍ରାଜକ ହୁଏନ୍ ସାଂ ସେଠାରେ ରହି ଗବେଷଣା କରୁଥାନ୍ତି ।
 # text_en = The traveling monk Huen Sang from China stayed there and conducted research.
 1	ଚୀନ	_	PROPN	N_NNP	Number=Sing	2	compound	_	Entity=(e1-location—1-coref)
-2	ଦେଶରୁ	_	NOUN	N_NN	 Number=Sing|Case=Abl	3	obl	_	_
+2	ଦେଶରୁ	_	NOUN	N_NN	Number=Sing|Case=Abl	3	obl	_	_
 3	ଆସିଥିବା	_	VERB	V_VM_VNF	Aspect=Perf	4	acl	_	_
 4	ପରିବ୍ରାଜକ	_	NOUN	N_NN	Gender=Masc|Number=Sing|Case=Nom	6	nsubj	_	_
 5	ହୁଏନ୍	_	PROPN	N_NNP	Number=Sing	6	compound	_	Entity=(e12-person-5,6-new-coref
@@ -1938,7 +1939,7 @@
 6	ସପ୍ତମ	_	ADJ	JJ	NumType=Ord	7	amod	_	_
 7	ଶତାବ୍ଦୀରେ	_	NOUN	N_NN	Number=Sing|Gender=Fem|Case=Loc	8	obl	_	_
 8	ପୋଡି	_	VERB	V_VM_VNF	VerbForm=Conv	9	compound	_	_
-9	ଦିଆଗଲା	_	VERB	V_VM_VF	VerbForm=Caus Fin|Tense=Past|Aspect=Perf|Person=3|Number=Sing	0	root	_	SpaceAfter=No
+9	ଦିଆଗଲା	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Past|Aspect=Perf|Person=3|Number=Sing	0	root	_	SpaceAfter=No
 10	।	_	PUNCT	RD_PUNC	_	9	punct	_	SpacesAfter=\n
 
 # sent_id = f2-36
@@ -1946,7 +1947,7 @@
 # text_en =The one at whose order it was burnt had a strange reason.
 1	ଯାହାଙ୍କ	_	PRON	PR_PRL	PronType=Rel|Person=3|Case=Gen	2	nmod	_	Entity=(e14-person-1-new-coref)
 2	ଆଦେଶରେ	_	NOUN	N_NN	Number=Sing|Gender=Masc|Case=Loc	4	obl	_	_
-3	ପୋଡ଼ା	_	VERB	V_VM_VNF		4	compound	_	_
+3	ପୋଡ଼ା	_	VERB	V_VM_VNF	_	4	compound	_	_
 4	ହେଲା	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Past|Aspect=Perf|Person=3|Number=Sing	10	acl	_	SpaceAfter=No
 5	,	_	PUNCT	RD_PUNC	_	4	punct	_	_
 6	ତାଙ୍କର	_	PRON	PR_PRP	Person=3|Number=Sing|Case=Gen	9	nmod	_	_
@@ -1971,11 +1972,11 @@
 10	ସେ	_	PRON	PR_PRP	Person=3|Number=Sing|Case=Nom	13	nsubj	_	_
 11	କଥାର	_	NOUN	N_NN	Number=Sing|Gender=Fem|Case=Gen	12	obl	_	_
 12	ବିରୋଧ	_	NOUN	N_NN	Number=Sing|Gender=Masc|Case=Nom	13	obj	_	_
-13	କରୁଥିବ	_	VERB	V_VM_VF	  Aspect=Prog|Tense=Pres	20	advcl	_	SpaceAfter=No
+13	କରୁଥିବ	_	VERB	V_VM_VF	Aspect=Prog|Tense=Pres	20	advcl	_	SpaceAfter=No
 14	,	_	PUNCT	RD_PUNC	_	13	punct	_	_
 15	ତେବେ	_	ADV	RB	PronType=Cond	20	advmod	_	_
 16	ତ	_	PART	RP_EMPH	_	20	discourse	_	_
-17	ଏସବୁ	_	DET	DM_DMD	 PronType=Dem	20	nsubj	_	_
+17	ଏସବୁ	_	DET	DM_DMD	PronType=Dem	20	nsubj	_	_
 18	ନିଶ୍ଚୟ	_	ADV	RB	_	20	advmod	_	_
 19	ପୋଡ଼ାହେବା	_	VERB	V_VM_VNF	VerbForm=Inf	20	xcomp	_	_
 20	ଚାହି	_	VERB	V_VM_VF	Person=3|Number=Sing	0	root	_	_
@@ -1985,7 +1986,7 @@
 # text = ଯଦି ସମର୍ଥନ ହିଁ କରୁଥିବ, ତେବେ ଏ ସବୁ ରହି ଲାଭ ବା କଣ ? ଧର୍ମଶାସ୍ତ୍ର ତ ଅଛି । [there are 2 sentences here]
 # text_en = If he indeed supported it, then what benefit would remain? After all, the religious law exists.
 1	ଯଦି	_	SCONJ	CC_CCS	_	4	mark	_	_
-2	ସମର୍ଥନ	_	NOUN	N_NN	Number=Sing |Gender=Masculine	4	obj	_	_
+2	ସମର୍ଥନ	_	NOUN	N_NN	Number=Sing|Gender=Masc	4	obj	_	_
 3	ହିଁ	_	PART	RP_EMPH	Polarity=Neg	4	discourse	_	_
 4	କରୁଥିବ	_	VERB	V_VM_VF	Tense=Pres|Aspect=Prog	16	advcl	_	SpaceAfter=No
 5	,	_	PUNCT	RD_PUNC	_	4	punct	_	_
@@ -1993,13 +1994,13 @@
 7	ଏ	_	DET	DM_DMD	PronType=Dem	8	det	_	_
 8	ସବୁ	_	PRON	PR_PRC	PronType=Ind	9	nsubj	_	_
 9	ରହି	_	VERB	V_VM_VNF	Tense=Pres|Aspect=Prog	10	advcl	_	_
-10	ଲାଭ	_	NOUN	N_NN	Number=Sing|Gender=Masculine	16	obj	_	_
+10	ଲାଭ	_	NOUN	N_NN	Number=Sing|Gender=Masc	16	obj	_	_
 11	ବା	_	CCONJ	CC_CCD	_	10	cc	_	_
 12	କଣ	_	PRON	PR_Q	PronType=Int	10	conj	_	_
 13	?	_	PUNCT	RD_PUNC	_	12	punct	_	SpacesAfter=_
-14	ଧର୍ମଶାସ୍ତ୍ର	_	NOUN	N_NN	Number=Sing |Gender=Mas	16	nsubj	_	_
+14	ଧର୍ମଶାସ୍ତ୍ର	_	NOUN	N_NN	Number=Sing|Gender=Masc	16	nsubj	_	_
 15	ତ	_	PART	RP_EMPH	_	16	discourse	_	_
-16	ଅଛି	_	VERB	V_VM_VF	Tense=Pres |Person=3	0	root	_	_
+16	ଅଛି	_	VERB	V_VM_VF	Tense=Pres|Person=3	0	root	_	_
 17	।	_	PUNCT	RD_PUNC	_	16	punct	_	SpacesAfter=\n
 
 # sent_id = f2-39
@@ -2064,20 +2065,20 @@
 5	ହୁଏ	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Pres	0	root	_	SpaceAfter=No
 6	,	_	PUNCT	RD_PUNC	_	5	punct	_	_
 7	ମଣିଷର	_	NOUN	N_NN	Number=Sing|Gender=Masc|Case=Gen	10	nmod	_	_
-8	ଏହି	_	DET	DM_DMD	 PronType=Dem	10	det	_	_
+8	ଏହି	_	DET	DM_DMD	PronType=Dem	10	det	_	_
 9	ସବୁ	_	DET	DM_DMD	PronType=Tot	10	det	_	_
 10	ଗୁଣକୁ	_	NOUN	N_NN	Number=Plur|Gender=Masc|Case=Acc	12	obj	_	_
 11	କେହି	_	PRON	PR_Q	PronType=Ind	12	nsubj	_	_
-12	ପୋଡ଼ିଦେଇ	_	VERB	V_VM_VNF	Aspect=Perf|CompoundVerb	13	advcl	_	_
+12	ପୋଡ଼ିଦେଇ	_	VERB	V_VM_VNF	Aspect=Perf	13	advcl	_	_
 13	ପାରେନା	_	VERB	V_VM_VF	Person=3|Number=Sing|Polarity=Neg|Tense=Pres	5	conj	_	_
 14	।	_	PUNCT	RD_PUNC	_	13	punct	_	SpacesAfter=\n
 
 # sent_id = f2-43
 # text = ବେନ୍ ଜୋସେଫ୍ ଆକିବା ନାମକ ଡେନମାର୍କ ଦେଶର ଜଣେ ବିଶିଷ୍ଠ ବ୍ୟକ୍ତିଙ୍କୁ ସେ ସଙ୍କଳନ କରିଥିବା ଖଣ୍ଡିଏ ବହି ସହିତ ଜୀବନ୍ତ ପୋଡ଼ି ଦିଆ ଯାଇଥିଲା ।
 # text_en =Ben Joseph Akiba, an eminent person from Denmark, was burnt alive along with the few books he had compiled.
-1	ବେନ୍	_	PROPN	N_NNP	Proper Noun|Person=3|Number=Sing|Case=Nom	3	compound	_	Entity=(e15-person-1,2,3-new-coref)
-2	ଜୋସେଫ୍	_	PROPN	N_NNP	Proper Noun|Person=3|Number=Sing|Case=Nom	3	compound	_	_
-3	ଆକିବା	_	PROPN	N_NNP	Proper Noun|Person=3|Number=Sing|Case=Nom	6	compound	_	Entity=e15)
+1	ବେନ୍	_	PROPN	N_NNP	Person=3|Number=Sing|Case=Nom	3	compound	_	Entity=(e15-person-1,2,3-new-coref)
+2	ଜୋସେଫ୍	_	PROPN	N_NNP	Person=3|Number=Sing|Case=Nom	3	compound	_	_
+3	ଆକିବା	_	PROPN	N_NNP	Person=3|Number=Sing|Case=Nom	6	compound	_	Entity=e15)
 4	ନାମକ	_	ADJ	JJ	_	3	amod	_	_
 5	ଡେନମାର୍କ	_	PROPN	N_NNP	_	6	compound	_	Entity=(e16-location-5-new-coref)
 6	ଦେଶର	_	NOUN	N_NN	Number=Sing|Gender=Masc|Case=Gen	9	nmod	_	_
@@ -2111,8 +2112,8 @@
 10	କିନ୍ତୁ	_	CCONJ	CC_CCD	_	7	cc	_	_
 11	ଶବ୍ଦ	_	NOUN	N_NN	Number=Sing|Gender=Masc|Case=Nom	13	nsubj	_	_
 12	ତକ	_	PART	RP_RPD	_	11	discourse	_	_
-13	ଉଡ଼ି	_	VERB	V_VM_VNF	 Aspect=Prog	14	advcl	_	_
-14	ପଳାଉଥିବାର	_	NOUN	N_NN	 Aspect=Prog|Case=Gen	16	obl	_	_
+13	ଉଡ଼ି	_	VERB	V_VM_VNF	Aspect=Prog	14	advcl	_	_
+14	ପଳାଉଥିବାର	_	NOUN	N_NN	Aspect=Prog|Case=Gen	16	obl	_	_
 15	ମୁଁ	_	PRON	PR_PRP	Person=1|Number=Sing	16	nsubj	_	Entity=e15)
 16	ଦେଖିପାରୁଛି	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Pres|Aspect=Prog	7	conj	_	SpaceAfter=No
 17	"	_	PUNCT	RD_PUNC	–	3	punct	_	SpaceAfter=No
@@ -2121,7 +2122,7 @@
 # sent_id = f2-45
 # text = ଏପରି ଲୋକ ବି ଅଛନ୍ତି ଯେଉଁ ମାନେ ନିଜ ଜୀବନଠାରୁ ବହିକୁ ଅଧିକ ଭଲ ପାଆନ୍ତି|
 # text_en =There are also such people who love books more than their own life.
-1	ଏପରି	_	DET	DM_DMD	 PronType=Dem	2	det	_	_
+1	ଏପରି	_	DET	DM_DMD	PronType=Dem	2	det	_	_
 2	ଲୋକ	_	NOUN	N_NN	Number=Plur|Gender=Masc|Case=Nom	4	nsubj	_	_
 3	ବି	_	PART	RP_EMPH	_	2	discourse	_	_
 4	ଅଛନ୍ତି	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Pres|Person=3|Number=Plur	0	root	_	_
@@ -2204,16 +2205,16 @@
 8	ଥିଲା	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Past|Aspect=Perf|Person=3|Number=Sing	10	ccomp	_	_
 9	ବୋଲି	_	SCONJ	CC_CCS	_	10	mark	_	_
 10	ମନେ	_	NOUN	N_NN	_	11	nsubj	_	_
-11	ହୁଏ	_	VERB	V_VM_VF	VerbForm=Fin |Tense=Pres|Aspect=Gen|Person=3|Number=Sing	0	root	_
+11	ହୁଏ	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Pres|Aspect=Gen|Person=3|Number=Sing	0	root	_
 12	।	_	PUNCT	RD_PUNC	_	11	punct	_	_
 
 # sent_id = f2-50
 # text = ଖ୍ରୀଷ୍ଟ ଜନ୍ମର ନଅଶହ ବର୍ଷ ତଳର ବିଖ୍ୟାତ ଗ୍ରୀକ୍ ହୋମର୍ ଙ୍କର ‘ଇଲିଆଡ୍’ ଏବଂ ‘ଓଡ଼ିସେ’ ମହାକାବ୍ୟକୁ ଚାରଣ ଗାୟକ ମାନେ ପୁରୁଷ ପୁରୁଷ ଧରି ମନେ ରଖି ପାରୁଥିଲେ ।
 # text_en = About nine hundred years before the birth of Christ, the famous Greek Homer’s epics ‘Iliad’ and ‘Odyssey’ were memorized by bard-singers, generation after generation.
 1	ଖ୍ରୀଷ୍ଟ	_	PROPN	N_NNP	Number=Sing	2	compound	_	_
-2	ଜନ୍ମର	_	NOUN	N_NN	 Number=Sing|Case=Gen	6	nmod	_	_
+2	ଜନ୍ମର	_	NOUN	N_NN	Number=Sing|Case=Gen	6	nmod	_	_
 3	ନଅଶହ	_	NUM	QT_QTFNUM	NumType=Card	4	amod	_	_
-4	ବର୍ଷ	_	NOUN	N_NN	 Number=Sing|Case=Nom	5	compound	_	_
+4	ବର୍ଷ	_	NOUN	N_NN	Number=Sing|Case=Nom	5	compound	_	_
 5	ତଳର	_	ADJ	JJ	Case=Gen|Gender=Neut|Number=Sing	6	amod	_	_
 6	ବିଖ୍ୟାତ	_	ADJ	JJ	Degree=Pos	8	amod	_	ହୋମର୍ ଙ୍କର should be written as one word ହୋମର୍ +ଙ୍କର
 7	ଗ୍ରୀକ୍	_	ADJ	JJ	Degree=Pos	8	amod	_	Entity=(e17-person-7-coref
@@ -2283,7 +2284,7 @@
 1	ବେଦହିଁ	_	NOUN	N_NN	Noun=Sing	11	xcomp	_	Entity=(e18-object-1-coref)|SpaceAfter=No
 2	ହିଁ	_	PART	RP_EMPH	_	1	discourse	_	_
 3	ଭାରତର	_	PROPN	N_NNP	Case=Gen	4	nmod	_	Entity=(e9-location-3-coref)
-4	 ପ୍ରଥମ	_	ADJ	JJ	NumType=Ord	10	amod	_	_
+4	ପ୍ରଥମ	_	ADJ	JJ	NumType=Ord	10	amod	_	_
 5	ତଥା	_	CCONJ	CC_CCD	_	4	cc	_	_
 6	ଅନେକଙ୍କ	_	PRON	PR_PRP	PronType=Ind|Case=Gen|Number=Plur	7	nmod	_	_
 7	ମତରେ	_	NOUN	N_NN	Case=Loc|Gender=Masc	10	obl	_	_
@@ -2412,11 +2413,11 @@
 1	ବାଇବଲ୍	_	PROPN	N_NNP	Number=Sing	4	nmod	_	Entity=(e4-object-1-coref)
 2	ରେ	_	ADP	PSP	Case=Loc	1	case	_	_
 3	ବର୍ଣ୍ଣିତ	_	VERB	V_VM_VNF		4	acl	_	_
-4	କାହାଣୀ	_	NOUN	N_NN	 Number=Sing	23	nsubj	_	_
+4	କାହାଣୀ	_	NOUN	N_NN	Number=Sing	23	nsubj	_	_
 5	,	_	PUNCT	RD_PUNC	–	4	punct	_	_
 6	ଇସପ୍	_	PROPN	N_NNP	Number=Sing	7	nmod	_	_
 7	ଙ୍କ	_	PRON	PR_PRP	Case=Gen	8	nmod	_	_
-8	କାହାଣୀ	_	NOUN	N_NN	 Number=Sing	4	conj	_	_
+8	କାହାଣୀ	_	NOUN	N_NN	Number=Sing	4	conj	_	_
 9	,	_	PUNCT	RD_PUNC	–	8	punct	_	_
 10	ଜର୍ମାନୀର	_	PROPN	N_NNP	Case=Gen	11	nmod	_	Entity=(e24-location-10-new-sgl)
 11	ଗ୍ରୀମ୍	_	PROPN	N_NNP	Number=Sing	12	compound	_	_
@@ -2492,7 +2493,7 @@
 2	ସବୁ	_	DET	DM_DMD	_	3	det	_	_
 3	ବହି	_	NOUN	N_NN	Gender=Neut|Number=Plur	6	nsubj	_	Entity=(e4-object-3-coref)
 4	ବିଷୟରେ	_	NOUN	N_NN	Case=Loc|Postposition	6	obl	_	_
-5	ଏଠାରେ	_	ADV	RB	 Case=Loc	6	advmod	_	_
+5	ଏଠାରେ	_	ADV	RB	Case=Loc	6	advmod	_	_
 6	ଆଭାସ	_	NOUN	N_NN	Gender=Neut|Number=Sing	7	nsubj	_	_
 7	ଦିଆଯାଉଛି	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Pres|Aspect=Prog	9	acl	_	_
 8	ସେସବୁ	_	PRON	PR_DMR	_	9	nsubj	_	_
@@ -2550,17 +2551,17 @@
 # text_en = In 1930|the Nobel Prize was awarded for research on light scattering (the Raman Effect).
 1	୧୯୩୦	_	NUM	QT_QTC	_	2	nummod	_	_
 2	ମସିହାରେ	_	NOUN	N_NN	Case=Loc	15	obl	_	_
-3	ଆଲୋକ	_	NOUN	N_NN	 Number=Sing	4	compound	_	_
-4	ପ୍ରତିସରଣ	_	NOUN	N_NN	 Number=Sing	6	nmod	_	_
+3	ଆଲୋକ	_	NOUN	N_NN	Number=Sing	4	compound	_	_
+4	ପ୍ରତିସରଣ	_	NOUN	N_NN	Number=Sing	6	nmod	_	_
 5	ଉପରେ	_	ADP	PSP	Case=Loc	6	case	_	_
-6	ଗବେଷଣା	_	NOUN	N_NN	 Number=Sing	15	obl	_	_
+6	ଗବେଷଣା	_	NOUN	N_NN	Number=Sing	15	obl	_	_
 7	(	_	PUNCT	RD-PUNC	–	9	punct	_	SpaceAfter=No
 8	ରମଣ	_	PROPN	N_NNP	Number=Sing	9	compound	_	Entity=(e3-abstract-8,9-new-coref
-9	ପ୍ରଭାବ	_	NOUN	N_NN	 Number=Sing	6	appos	_	SpaceAfter=No|Entity=e3)
+9	ପ୍ରଭାବ	_	NOUN	N_NN	Number=Sing	6	appos	_	SpaceAfter=No|Entity=e3)
 10	)	_	PUNCT	RD-PUNC	–	9	punct	_	_
 11	ପାଇଁ	_	ADP	PSP	_	15	obl	_	_
 12	ନୋବେଲ	_	PROPN	N_NNP	Number=Sing	13	compound	_	Entity=(e4-prize-12,13-new-coref
-13	ପୁରସ୍କାର	_	NOUN	N_NN	 Number=Sing	14	compound	_	Entity=e4)
+13	ପୁରସ୍କାର	_	NOUN	N_NN	Number=Sing	14	compound	_	Entity=e4)
 14	ପ୍ରଦାନ	_	NOUN	N_NN	VerbNominal|Derived	15	obj	_	_
 15	କରାଯାଇଥିଲା	_	VERB	V_VM_VF	VerbForm=Fin|Voice=Pass|Tense=Past|Aspect=Perf|Person=3|Number=Sing	0	root	_	_
 16	।	_	PUNCT	RD-PUNC	_	15	punct	_	SpaceAfter=No
@@ -2646,14 +2647,14 @@
 # sent_id = f3-7
 # text = ସି.ଭି ରମଣ ତିରୁଚିରାପଲ୍ଲୀ, ତାମିଲନାଡୁର ଏକ ବ୍ରାହ୍ମଣ ପରିବାରରେ ଜନ୍ମଗ୍ରହଣ କରିଥିଲେ ।
 # text_en =  C. V. Raman was born in a Brahmin family in Tiruchirappalli, Tamil Nadu.
-1	ସି.ଭି	_	PROPN	N_NNP	 Case=Nom	2	compound	_	Entity=(e1-person-1,2-coref
+1	ସି.ଭି	_	PROPN	N_NNP	Case=Nom	2	compound	_	Entity=(e1-person-1,2-coref
 2	ରମଣ	_	PROPN	N_NNP	Gender=Masc|Number=Sing|Case=Nom	10	nsubj	_	Entity=e1)
 3	ତିରୁଚିରାପଲ୍ଲୀ	_	PROPN	N_NNP	Number=Sing|Case=Nom	5	compound	_	SpaceAfter=No|Entity=(e6-location-3-new-sgl
 4	,	_	PUNCT	RD-PUNC	_	5	punct	_	_
 5	ତାମିଲନାଡୁର	_	PROPN	N_NNP	Number=Sing|Case=Gen	8	obl	_	Entity=(e7-location-5-new-sgl)
 6	ଏକ	_	DET	DM_DMD	NumType=Card	7	det	_	_
-7	ବ୍ରାହ୍ମଣ	_	ADJ	JJ	 Number=Sing|Case=Nom	8	amod	_	_
-8	ପରିବାରରେ	_	NOUN	N_NN	 Number=Sing|Case=Loc	10	obl	_	_
+7	ବ୍ରାହ୍ମଣ	_	ADJ	JJ	Number=Sing|Case=Nom	8	amod	_	_
+8	ପରିବାରରେ	_	NOUN	N_NN	Number=Sing|Case=Loc	10	obl	_	_
 9	ଜନ୍ମଗ୍ରହଣ	_	NOUN	N_NN	VerbForm=Vnoun|Aspect=Perf|Case=Nom	10	obj	_	_
 10	କରିଥିଲେ	_	VERB	V_VM_VF	VerbForm=Fin|Tense=Past|Aspect=Perf|Person=3|Number=Plur/	0	root	_	_
 11	।	_	PUNCT	RD-PUNC	_	10	punct	_	_
@@ -2730,7 +2731,7 @@
 4	ବୟସରେ	_	NOUN	N_NN	Gender=Com|Number=Sing|Case=Loc	9	obl	_	_
 5	ସେ	_	PRON	PR_PRP	PronType=Prs|Person=3|Number=Sing|Case=Nom	9	nsubj	_	Entity=(e1-person-5-coref)
 6	ମାଟ୍ରିକ	_	NOUN	N_NN	Number=Sing|Case=Nom	7	compound	_	_
-7	ପରୀକ୍ଷାରେ	_	NOUN	N_NN	 Number=Sing|Case=Loc	9	obl	_	_
+7	ପରୀକ୍ଷାରେ	_	NOUN	N_NN	Number=Sing|Case=Loc	9	obl	_	_
 8	ଉତ୍ତୀର୍ଣ୍ଣ	_	ADJ	JJ	VerbForm=Part|Voice=Pass	9	amod	_	_
 9	ହୋଇଥିଲେ	_	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Person=3|Number=Plur/	0	root	_	_
 10	ଏବଂ	_	CCONJ	CC_CCD	_	18	cc	_	_
@@ -2920,8 +2921,8 @@
 6	ପାସ୍	_	NOUN	N_NN	VerbForm=Vnoun	7	obj	_	_
 7	କରିଥିଲେ	_	VERB	V_VM_VF	VerbForm=Fin|Aspect=Perf|Tense=Past|Person=3|Number=Plur	0	root	_	_
 8	ଏବଂ	_	CCONJ	CC_CCD	_	14	cc	_	_
-9	କଳା	_	NOUN	N_NN	 Number=Sing|Case=Nom	10	compound	_	_
-10	ପରୀକ୍ଷାରେ	_	NOUN	N_NN	 Number=Sing|Case=Loc	14	obl	_	_
+9	କଳା	_	NOUN	N_NN	Number=Sing|Case=Nom	10	compound	_	_
+10	ପରୀକ୍ଷାରେ	_	NOUN	N_NN	Number=Sing|Case=Loc	14	obl	_	_
 11	ପ୍ରଥମ	_	ADJ	JJ	Degree=Pos	12	amod	_	_
 12	ପରୀକ୍ଷା	_	NOUN	N_NN	Gender=Fem|Number=Sing|Case=Acc	13	compound	_	_
 13	ପାସ୍	_	NOUN	N_NN	VerbForm=Vnoun	14	obj	_	_
@@ -2933,17 +2934,17 @@
 # text_en = At the age of 13, under the pre-university curriculum with a scholarship, he secured first place in both examinations conducted by the Andhra Pradesh School Board.
 1	ପ୍ରାକ୍	_	NOUN	N_NN	Prefix|Modifier	3	compound	_	Entity=(e19-organization-1,2,3-coref
 2	-	_	PUNCT	RD_SYM	_	3	punct	_	_
-3	ବିଶ୍ବବିଦ୍ୟାଳୟ	_	NOUN	N_NN	 Number=Sing|Case=Nom	4	compound	_	Entity=e19)
-4	ପାଠ୍ୟକ୍ରମ	_	NOUN	N_NN	 Number=Sing|Case=Nom	20	obl	_	_
+3	ବିଶ୍ବବିଦ୍ୟାଳୟ	_	NOUN	N_NN	Number=Sing|Case=Nom	4	compound	_	Entity=e19)
+4	ପାଠ୍ୟକ୍ରମ	_	NOUN	N_NN	Number=Sing|Case=Nom	20	obl	_	_
 5	୧୩	_	NUM	QT_QTC	NumType=Card	6	nummod	_	_
-6	ବର୍ଷ	_	NOUN	N_NN	 Number=Sing|Case=Nom	7	compound	_	_
-7	ବୟସରେ	_	NOUN	N_NN	 Number=Sing|Case=Loc	20	obl	_	_
-8	ବୃତ୍ତି	_	NOUN	N_NN	 Number=Sing|Case=Ins	9	nmod	_	_
+6	ବର୍ଷ	_	NOUN	N_NN	Number=Sing|Case=Nom	7	compound	_	_
+7	ବୟସରେ	_	NOUN	N_NN	Number=Sing|Case=Loc	20	obl	_	_
+8	ବୃତ୍ତି	_	NOUN	N_NN	Number=Sing|Case=Ins	9	nmod	_	_
 9	ସହ	_	ADP	PSP	Case=Ins	20	obl	_	SpaceAfter=No
 10	,	_	PUNCT	RD_PUNC	_	9	punct	_	_
 11	ଆନ୍ଧ୍ର	_	PROPN	N_NNP	Number=Sing	12	compound	_	Entity=(e18-location-11,12-coref
 12	ପ୍ରଦେଶ	_	PROPN	N_NNP	Number=Sing	14	compound	_	Entity=e12)
-13	ସ୍କୁଲ	_	PROPN	N_NNP	 Number=Sing|Case=Nom	14	compound	_	_
+13	ସ୍କୁଲ	_	PROPN	N_NNP	Number=Sing|Case=Nom	14	compound	_	_
 14	ବୋର୍ଡ	_	PROPN	N_NNP	Gender=Neut|Number=Sing|Case=Nom	15	compound	_	_
 15	ପରୀକ୍ଷା	_	NOUN	N_NN	Gender=Neut|Number=Sing|Case=Nom	16	nmod	_	_
 16	ଅଧୀନରେ	_	ADP	PSP	Case=Loc	20	obl	_	_
