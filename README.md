@@ -60,10 +60,10 @@ License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
 Genre: nonfiction news
-Lemmas: automatic
+Lemmas: not available
 UPOS: manual native
 XPOS: manual native
-Features: manual native
+Features: not available
 Relations: manual native
 Contributors: Parida, Shantipriya; Sahoo, Kalyanamalini; Ojha, Atul Kr.; Sahoo, Saraswati; Mohapatra, Biswakalpita; Dash, Satya Ranjan; Dash, Bijayalaxmi, Kusumlata Patiyal
 Contributing: here
