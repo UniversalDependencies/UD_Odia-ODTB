@@ -3173,7 +3173,7 @@
 9	ବୋଲି	_	PART	RP_RPD	_	10	advmod	_	_
 10	ବିବେଚନା	_	NOUN	N_NN	VerbForm=Vnoun	11	obj	_	_
 11	କରାୟାଉଥିଲା	_	VERB	V_VM_VF	VerbForm=Fin|Voice=Pass|Aspect=Prog|Tense=Past|Person=3|Number=Sing	0	root	_	SpaceAfter=No
-12	|	_	PUNCT	RD-PUNC	_	11	punct	_	_
+12	।	_	PUNCT	RD-PUNC	_	11	punct	_	_
 
 # sent_id = f3-32
 # text = ପରେ ସେ ଏହି ଘଟଣାକୁ ମନେ ପକାଇ କହିଥିଲେ , ଜିଫାର୍ଡ ମୋତେ ପରୀକ୍ଷା କରିଥିଲେ ଏବଂ ପ୍ରମାଣିତ କରିଥିଲେ ଯେ ମୁଁ ଯକ୍ଷ୍ମା ରୋଗରେ ମରିବାକୁ ଯାଉଛି ... ଯଦି ମୁଁ ଇଂଲଣ୍ଡ ଯିବି ।
@@ -3209,11 +3209,11 @@
 # sent_id = f4-1
 # text = ସ୍ୱାମୀ ବିବେକାନନ୍ଦ (୧୨ ଜାନୁଆରୀ ୧୮୬୩ - ୪ ଜୁଲାଇ ୧୯୦୨) ବେଦାନ୍ତର ଜଣେ ବିଶ୍ୱ ପ୍ରସିଦ୍ଧ ଆଧ୍ୟାତ୍ମିକ ଧର୍ମ ଗୁରୁ ।
 1	ସ୍ୱାମୀ	ସ୍ୱାମୀ	NOUN	N_NN	Case=Nom|Gender=Masc	2	compound	_	Entity=(e1-person-1,2-person-new-coref
-2	ବିବେକାନନ୍ଦ	ବିବେକାନନ୍ଦ	PROPN	N_NNP	Case=Nom|Gender=Masc	18	nsubj	_	Entity=e1)
+2	ବିବେକାନନ୍ଦ	ବିବେକାନନ୍ଦ	PROPN	N_NNP	Case=Nom|Gender=Masc	18	nsubj	_	Entity=e1)|SpaceAfter=No
 3	(	(	PUNCT	RD_PUNC	_	6	punct	_	SpaceAfter=No
 4	୧୨	୧୨	NUM	QT_QTC	NumType=Card	5	nummod	_	_
 5	ଜାନୁଆରୀ	ଜାନୁଆରୀ	NOUN	N_NN	Case=Nom|Gender=Masc	6	compound	_	_
-6	୧୮୬୩ 	୧୮୬୩	NUM	QT_QTC	NumType=Card	2	appos	_	_
+6	୧୮୬୩	୧୮୬୩	NUM	QT_QTC	NumType=Card	2	appos	_	_
 7	-	-	PUNCT	RD_PUNC	_	10	punct	_	_
 8	୪	୪	NUM	QT_QTC	NumType=Card	9	nummod	_	_
 9	ଜୁଲାଇ	ଜୁଲାଇ	NOUN	N_NN	Case=Nom|Gender=Masc	10	compound	_	_
@@ -3246,7 +3246,7 @@
 2	୧୮୯୩	୧୮୯୩	NUM	QT_QTC	NumType=Card	3	nummod	_	_
 3	ମସିହା	ମସିହା	NOUN	N_NN	Case=Nom	9	obl	_	_
 4	ଆମେରିକାର	ଆମେରିକା	PROPN	N_NNP	Case=Gen	6	nmod	_	Entity=(e3-location-4-new-coref)
-5	ଚିଋଗୋ	ଚିଋଗୋ	PROPN	N_NNP	Case=Nom	6	compound	_	Entity=(e4-location-5-new-coref)
+5	ଚିକାଗୋ	ଚିକାଗୋ	PROPN	N_NNP	Case=Nom	6	compound	_	Entity=(e4-location-5-new-coref)
 6	ବିଶ୍ୱଧର୍ମ	ବିଶ୍ୱଧର୍ମ	NOUN	N_NN	Case=Nom	7	compound	_	_
 7	ସମ୍ମିଳନୀରେ	ସମ୍ମିଳନୀ	NOUN	N_NN	Case=Loc	9	obl	_	_
 8	ହିନ୍ଦୁଧର୍ମର	ହିନ୍ଦୁଧର୍ମ	NOUN	N_NN	Case=Gen	9	obj	_	Entity=(e2-abstract-8-coref)
@@ -5104,17 +5104,17 @@
 25	।	।	PUNCT	PUNCT	_	24	punct	_	_
 
 # sent_id = f5-19
-# text = କଟକ ରହଣି ସମୟରେ ମଧୁସୂଦନଙ୍କ ସଞ୍ଚାଳିତ କୁଟୀର ଶିଳ୍ପ, ତାରକସୀ ଶିଳ୍ପ, ଚମଡ଼ା ଶିଳ୍ପ କେନ୍ଦ୍ରଗୁଡ଼ିକ ଦେଖି ଗାନ୍ଧୀ ପ୍ରଭାବିତ ହୋଇଥିଲେ ।
+# text = କଟକ ରହଣି ସମୟରେ ମଧୁସୂଦନଙ୍କ ସଞ୍ଚାଳିତ କୁଟୀର ଶିଳ୍ପ , ତାରକସୀ ଶିଳ୍ପ , ଚମଡ଼ା ଶିଳ୍ପ କେନ୍ଦ୍ରଗୁଡ଼ିକ ଦେଖି ଗାନ୍ଧୀ ପ୍ରଭାବିତ ହୋଇଥିଲେ ।
 1	କଟକ	କଟକ	PROPN	N_NNP	Case=Nom|Gender=Neut|Number=Sing	2	compound	_	Entity=(e7-location-1-coref)
 2	ରହଣି	ରହଣି	NOUN	N_NN	Case=Nom|Gender=Fem|Number=Sing	3	compound	_	_
 3	ସମୟରେ	ସମୟ	NOUN	N_NST	Case=Loc|Gender=Masc|Number=Sing	18	obl	_	_
 4	ମଧୁସୂଦନଙ୍କ	ମଧୁସୂଦନ	PROPN	N_NNP	Case=Gen|Gender=Masc|Number=Sing	6	nmod	_	Entity=(e3-person-4-coref)
 5	ସଞ୍ଚାଳିତ	ସଞ୍ଚାଳିତ	ADJ	JJ	Degree=Pos	6	amod	_	_
 6	କୁଟୀର	କୁଟୀର	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	7	compound	_	Entity=(e29-profession-6,7-new-sgl
-7	ଶିଳ୍ପ	ଶିଳ୍ପ	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	14	compound	_	Entity=e29)|SpacesAfter=\n
+7	ଶିଳ୍ପ	ଶିଳ୍ପ	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	14	compound	_	Entity=e29)
 8	,	,	PUNCT	RD-PUNC	_	7	punct	_	_
 9	ତାରକସୀ	ତାରକସୀ	PROPN	N_NNP	Case=Nom|Gender=Fem|Number=Sing	10	compound	_	Entity=(e30-profession-9,10-new-sgl
-10	ଶିଳ୍ପ	ଶିଳ୍ପ	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	14	compound	_	Entity=e30)|SpacesAfter=\n
+10	ଶିଳ୍ପ	ଶିଳ୍ପ	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	14	compound	_	Entity=e30)
 11	,	,	PUNCT	RD-PUNC	_	10	punct	_	_
 12	ଚମଡ଼ା	ଚମଡ଼ା	PROPN	N_NNP	Case=Nom|Gender=Neut|Number=Sing	13	compound	_	Entity=(e31-profession-12,13-new-sgl
 13	ଶିଳ୍ପ	ଶିଳ୍ପ	NOUN	N_NN	Case=Nom|Gender=Neut|Number=Sing	14	compound	_	Entity=e31)
