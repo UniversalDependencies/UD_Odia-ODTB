@@ -60,7 +60,7 @@ License: CC BY-SA 4.0
 Includes text: yes
 Parallel: no
 Genre: nonfiction news
-Lemmas: not available
+Lemmas: manual native
 UPOS: manual native
 XPOS: manual native
 Features: not available
