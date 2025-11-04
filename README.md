@@ -65,7 +65,7 @@ UPOS: manual native
 XPOS: manual native
 Features: not available
 Relations: manual native
-Contributors: Parida, Shantipriya; Sahoo, Kalyanamalini; Ojha, Atul Kr.; Sahoo, Saraswati; Mohapatra, Biswakalpita; Dash, Satya Ranjan; Dash, Bijayalaxmi; Lata, Kusumlata 
+Contributors: Parida, Shantipriya; Sahoo, Kalyanamalini; Ojha, Atul Kr.; Sahoo, Saraswati; Mohapatra, Biswakalpita; Dash, Satya Ranjan; Dash, Bijayalaxmi; Lata, Kusum 
 Contributing: here
 Contact: shantipriya.parida@gmail.com, shashwatup9k@gmail.com, sdashfca@kiit.ac.in, biswakalpitamohapatra1@gmail.com, kalyanamalini.shabadi@univ-lille.fr, sahoosaraswati455@gmail.com, rudrabijayalaxmi@gmail.com,ranapoo@gmail.com
 ===============================================================================
