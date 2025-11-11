@@ -55,11 +55,11 @@
     <dep name="iobj">15</dep>
     <dep name="list">1</dep>
     <dep name="mark">10</dep>
-    <dep name="nmod">149</dep>
-    <dep name="nsubj">94</dep>
+    <dep name="nmod">160</dep>
+    <dep name="nsubj">95</dep>
     <dep name="nummod">21</dep>
-    <dep name="obj">69</dep>
-    <dep name="obl">68</dep>
+    <dep name="obj">68</dep>
+    <dep name="obl">57</dep>
     <dep name="parataxis">3</dep>
     <dep name="punct">132</dep>
     <dep name="root">100</dep>

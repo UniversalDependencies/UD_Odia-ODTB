@@ -5,18 +5,20 @@ The Odia UD Treebank (ODTB) is a part of the Universal Dependency treebank proje
 # Introduction
 
 The Odia Universal Dependency Treebank (ODTB) project is a collaboration initiated by the below institute/university to develop the first Universal Dependency Treebank in Odia language suitable for many natural language processing (NLP) tasks.
-  * [Silo AI](https://silo.ai/), Finland
+  * [AMD SiloAI](https://www.amd.com/en/solutions/ai/silo-ai.html), Finland
   * [University of Lille](https://www.univ-lille.fr/home/), France
   * [Insight Research Ireland Centre for Data Analytics, DSI](https://www.insight-centre.org/),[University of Galway, Galway](https://www.universityofgalway.ie/), Ireland
   * [Institute of Mathematics & Applications](https://iomaorissa.ac.in/), India
   * [KIIT University](https://kiit.ac.in/), India
   * [Ravenshaw University](https://ravenshawuniversity.ac.in/), India
+  * [Sharda University](https://www.sharda.ac.in/), India
 
 The Odia UD Treebank (ODTB) consists of 100 sentences. The ODTB data contains syntactic annotation according to dependency-constituency schema, as well as morphological/POS tags and lemmas. In this data, XPOS is annotated according to Bureau of Indian Standards (BIS) Part Of Speech (POS) tagset.
 
 # Acknowledgments
 
-We would like to acknowledge the support of the [Research Ireland](https://www.researchireland.ie/) as part of Grant Number SFI/12/RC/2289_P2 Insight_2, Insight Research Ireland Centre for Data Analytics. The authors thank Dr. Daniel Zeman (UFAL, Charles University) for his encouragement and support in building ODTB.
+We would like to acknowledge the support of the [Research Ireland](https://www.researchireland.ie/) as part of Grant Number SFI/12/RC/2289_P2 Insight_2, Insight Research Ireland Centre for Data Analytics and and [CA21167
+COST Action UniDive (by COST (European Cooperation in Science and Technology)](https://unidive.lisn.upsaclay.fr/). The authors thank John Bauer (Stanford University) for supporting the [Odia Treebank project](https://www.odiagenai.org/odiatreebank). The authors also thank Dr. Daniel Zeman (UFAL, Charles University) for his encouragement and support in building ODTB.
 
 ## References
 
@@ -56,14 +58,15 @@ We would like to acknowledge the support of the [Research Ireland](https://www.r
 Data available since: UD v2.16
 License: CC BY-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: nonfiction news
-Lemmas: not available
+Lemmas: manual native
 UPOS: manual native
-XPOS: not available
+XPOS: manual native
 Features: not available
 Relations: manual native
-Contributors: Parida, Shantipriya; Sahoo, Kalyanamalini; Ojha, Atul Kr.; Sahoo, Saraswati; Mohapatra, Biswakalpita; Dash, Satya Ranjan; Dash, Bijayalaxmi
+Contributors: Parida, Shantipriya; Sahoo, Kalyanamalini; Ojha, Atul Kr.; Sahoo, Saraswati; Mohapatra, Biswakalpita; Dash, Satya Ranjan; Dash, Bijayalaxmi; Lata, Kusum 
 Contributing: here
-Contact: shantipriya.parida@gmail.com, shashwatup9k@gmail.com, sdashfca@kiit.ac.in, biswakalpitamohapatra1@gmail.com, kalyanamalini.shabadi@univ-lille.fr, sahoosaraswati455@gmail.com, rudrabijayalaxmi@gmail.com
+Contact: shantipriya.parida@gmail.com, shashwatup9k@gmail.com, sdashfca@kiit.ac.in, biswakalpitamohapatra1@gmail.com, kalyanamalini.shabadi@univ-lille.fr, sahoosaraswati455@gmail.com, rudrabijayalaxmi@gmail.com,ranapoo@gmail.com
 ===============================================================================
 </pre>
