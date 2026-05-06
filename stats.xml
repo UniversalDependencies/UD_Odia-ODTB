@@ -5,64 +5,111 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>100</sentences><tokens>1029</tokens><words>1029</words><fused>0</fused></total>
+    <total><sentences>456</sentences><tokens>5818</tokens><words>5818</words><fused>0</fused></total>
     <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
     <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>100</sentences><tokens>1029</tokens><words>1029</words><fused>0</fused></test>
+    <test><sentences>456</sentences><tokens>5818</tokens><words>5818</words><fused>0</fused></test>
   </size>
-  <lemmas unique="184" /><!-- ।, ,, କରି, କରା, ଭାବେ, ଏହି, କୌଣସି, ଘଟଣା, ମୁଖ୍ୟ, ସୂଚନା, ଅନେକ, ଅବସ୍ଥା, ଅଳେଇଚ, ପକ୍ଷ, ପାଇ -->
-  <forms unique="685" /><!-- ।, ,, ଏହି, ଓ, ଏକ, ପାଇଁ, ମଧ୍ୟ, ଏବଂ, କରି, କରିଥିଲେ, ନେଇ, :, ସେ, ଅନେକ, ଅନ୍ୟ -->
+  <lemmas unique="810" /><!-- ।, ,, ସେ, ନରେନ୍ଦ୍ର, ହେବା, ଓ, କରିବା, ଏହି, କରି, ପାଇଁ, ପରେ, ସମୟ, ‘, ’, - -->
+  <forms unique="2573" /><!-- ।, ,, ସେ, ଓ, କରିଥିଲେ, ତାଙ୍କ, ଥିଲେ, ଏବଂ, ପାଇଁ, ତାଙ୍କର, ଏହି, (, ), ଏକ, - -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="14">
-    <tag name="ADJ">60</tag><!-- _, ମୁଖ୍ୟ, ଅନଲାଇନ, ଅର୍ଦ୍ଧଦଗ୍ଧ, ଗରମ, ଡିଜିଟାଲ, ପରିଚିତ, ମୃତାହତ, ସଙ୍କଟାପନ୍ନ, ସମସ୍ତ -->
-    <tag name="ADP">39</tag><!-- _, ଅନୁସାରେ, ପକ୍ଷ, ପକ୍ଷରୁ, ପରେ, ଭାବେ, ସହ, ସହିତ -->
-    <tag name="ADV">40</tag><!-- _, ଭାବେ, ଅଧିକ, ଆସନ୍ତାକାଲି, ଏକାଠି, ଏଥର, ଏବେ, ବାରମ୍ବାର, ଭଲ, ମଧ୍ୟ -->
-    <tag name="AUX">8</tag><!-- _ -->
-    <tag name="CCONJ">26</tag><!-- _, ଏବଂ, ଓ, କିମ୍ବା, ତେବେ -->
-    <tag name="DET">39</tag><!-- _, ଏହି, ଅନେକ, କୌଣସି, ଅନ୍ୟ, ଜଣେ -->
-    <tag name="NOUN">344</tag><!-- _, ଘଟଣା, ସୂଚନା, ଅବସ୍ଥା, ପୋଲିସ, ପ୍ରଶାସନ, ଫିଲ୍ମ, ଶାନ୍ତି, ଅତିଥି, ଅଧିକାରୀ -->
-    <tag name="NUM">21</tag><!-- _, ଏକ, ଗୋଟେ, ୨୦୦ -->
-    <tag name="PART">21</tag><!-- _, ଆଦି, ମଧ୍ୟ -->
-    <tag name="PRON">34</tag><!-- _, ଏ, କୌଣସି, ସେ -->
-    <tag name="PROPN">119</tag><!-- _, ଅଳେଇଚ, ଇଟାନଗର, ଏସ, ଓଡିଶା, କୋଲକାତା, ଗଡକରୀ, ଗୁଗୁଲ, ଗୌହାଟୀ, ଜୁମ୍ -->
-    <tag name="PUNCT">132</tag><!-- _, ।, ,, : -->
-    <tag name="SCONJ">8</tag><!-- _, ବୋଲି, ପାଇ -->
-    <tag name="VERB">138</tag><!-- _, କରି, କରା, ଆସିବା, ଆସିବେ, କରାଯିବ, କରିବେ, କହିଛନ୍ତି, ଚଳା, ଜବତ -->
+  <tags unique="15">
+    <tag name="ADJ">436</tag><!-- _, ବିଶେଷ, ଭଲ, ପ୍ରଥମ, ଗଭୀର, ମୁଖ୍ୟ, ଅଖଣ୍ଡ, ଅଦ୍ଭୁତ, ଅଲଗା, ଦୁଷ୍ଟ -->
+    <tag name="ADP">154</tag><!-- _, ପାଇଁ, ପରେ, ଉପରେ, ଛଡ଼ା, ସହିତ, ଧରି, ପୂର୍ବ, ପ୍ରତି, ଭଳି -->
+    <tag name="ADV">155</tag><!-- _, ଖୁବ୍‌, ଅତି, କିପରି, କ୍ରମେ, ମାତ୍ର, ଯେତେ, ସଂଗେ, ଅତିଶୟ, ଅତ୍ୟନ୍ତ -->
+    <tag name="AUX">10</tag><!-- _ -->
+    <tag name="CCONJ">157</tag><!-- _, ଓ, କିନ୍ତୁ, ଏବଂ, ଆଉ, କିମ୍ବା, ନା, ବା -->
+    <tag name="DET">169</tag><!-- _, ଏହି, ସେହି, କେତେ, ଜଣେ, ଏ, ଅନେକ, ଏଇ, ଏକ, ଏତେ -->
+    <tag name="INTJ">1</tag><!-- ହେ -->
+    <tag name="NOUN">1761</tag><!-- _, ସମୟ, ଦିନ, ମସିହା, ଜାତି, ନାମ, ବର୍ଷ, ଦର୍ଶନ, ଧର୍ମ, ଭାବ -->
+    <tag name="NUM">185</tag><!-- _, ଶତ, ଏକ, ଗୋଟିଏ, ୧୨, ୧୮୬୩, ଦୁଇ, ଅନେକ, ଆଠ, ଉଭୟ -->
+    <tag name="PART">80</tag><!-- _, ନ, କି, ହିଁ, ତ, ନାହିଁ, ଇତ୍ୟାଦି, ମଧ୍ୟ, ଆଦି, କଣ -->
+    <tag name="PRON">376</tag><!-- _, ସେ, ତା, ତାଙ୍କ, ବିଲେ, ତାହା, ମୁଁ, କଅଣ, କିଛି, କେହି -->
+    <tag name="PROPN">668</tag><!-- _, ନରେନ୍ଦ୍ର, ରମାଦେବୀ, ଗାନ୍ଧୀ, ଦତ୍ତ, ନରେନ୍ଦ୍ରନାଥ, ବିବେକାନନ୍ଦ, କଟକ, ଦକ୍ଷିଣେଶ୍ୱର, ପରମହଂସଦେବ -->
+    <tag name="PUNCT">809</tag><!-- _, ।, ,, ‘, ’, -, ?, ", ', ; -->
+    <tag name="SCONJ">37</tag><!-- _, ଯେ, ବୋଲି, ଯଦି, ଯେଉଁଦିନ -->
+    <tag name="VERB">820</tag><!-- _, ହେବା, କରିବା, କରି, ଥି, କରିଥିଲେ, କର, ଗାଇବା, ଦେଖ, ଦେଖିବା -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="0">
+  <feats unique="45">
+    <feat name="Animacy" value="Anim" upos="NOUN,PROPN">8</feat><!-- ଅଧିକାରୀ, ଜନସାଧାରଣଙ୍କର, ପରମହଂସଙ୍କୁ, ପୁତ୍ର, ବିବେକାନନ୍ଦ, ରାମକୃଷ୍ଣ, ଶିଶୁଙ୍କର, ସ୍ୱାମୀ -->
+    <feat name="Animacy" value="Hum" upos="NOUN">1</feat><!-- ସମ୍ରାଟ -->
+    <feat name="Animacy" value="Inan" upos="NOUN,PROPN">6</feat><!-- ଅଶିକ୍ଷା, ଆନନ୍ଦ, ଗୁରୁରୁପେ, ଦାରିଦ୍ର୍ୟ, ଦୃଢ଼ମନର, ଭାରତର -->
+    <feat name="Aspect" value="Imp" upos="NOUN,VERB">45</feat><!-- କରି, ଅଛି, ଆରମ୍ଭ, କଟି, କରନ୍ତୁ, କରିବା, କରିବାକୁ, କରିବାରେ, କରିବି, କରୁଥାନ୍ତି -->
+    <feat name="Aspect" value="Perf" upos="ADJ,NOUN,VERB">301</feat><!-- କରିଥିଲେ, ଥିଲେ, ହୋଇଥିଲେ, ଥିଲା, ହୋଇଥିଲା, ହେଲା, କରି, ହୋଇ, କରାଯାଇଥିଲା, ଦେଲେ -->
+    <feat name="Aspect" value="Prog" upos="VERB">40</feat><!-- କରୁଥିଲେ, ଦେଉଥିଲେ, ଯାଉଥିଲା, ହେଉଥିଲେ, ଆସେ, କରାଯାଉଛି, କରାହୋଇଥାଏ, କରାୟାଉଥିଲା, କରୁଛି, କରୁଥାନ୍ତୁ -->
+    <feat name="Case" value="Acc" upos="NOUN,PRON,PROPN">280</feat><!-- ତାଙ୍କୁ, ବହି, ବହିକୁ, ବିବାହ, ସେବା, ଆଶ୍ରମ, ଇତିହାସ, ଦର୍ଶନ, ଯୋଗ, ଲାଭ -->
+    <feat name="Case" value="Gen" upos="NOUN,PRON,PROPN">347</feat><!-- ତାଙ୍କ, ତାଙ୍କର, ଭାରତର, ଟାଗୋରଙ୍କ, ମୋ, ନରେନ୍ଦ୍ରଙ୍କର, କଲିକତାର, ଜୀବନର, ନିଜର, ସେମାନଙ୍କ -->
+    <feat name="Case" value="Ins" upos="ADP,NOUN,PROPN">27</feat><!-- ସହ, ଜରିଆରେ, କଦବା, ଖୋଦେଇ, ଗାନ୍ଧିଙ୍କଦ୍ୱାରା, ଗୁରୁରୁପେ, ଛଡ଼ା, ଦ୍ୱାରା, ନିମିତ୍ତ, ପକ୍ଷରୁ -->
+    <feat name="Case" value="Loc" upos="NOUN,PROPN">310</feat><!-- ମସିହାରେ, ସମୟରେ, ବୟସରେ, ଭାଷାରେ, ଆନ୍ଦୋଳନରେ, ଦିନେ, ବିଷୟରେ, କାଳରେ, ତାରିଖରେ, ଭାବରେ -->
+    <feat name="Case" value="Nom" upos="NOUN,PRON,PROPN">1100</feat><!-- ସେ, ବର୍ଷ, ମୁଁ, ଟାଗୋର, ଦେବୀ, ମସିହା, ରମାଦେବୀ, ଦତ୍ତ, ପରିବାର, ପିତା -->
+    <feat name="Definite" value="Def" upos="DET">1</feat><!-- ଏହି -->
+    <feat name="Degree" value="Cmp" upos="ADJ,ADV">5</feat><!-- ଅଧିକ, ଗଭୀରତର, ନିକଟତର -->
+    <feat name="Degree" value="Pos" upos="ADJ,ADV">359</feat><!-- ଭଲ, ଛୋଟ, ବିଶେଷ, ପ୍ରଥମ, ବଡ, ବଡ଼, ଶେଷ, ପ୍ରିୟ, ମୁଖ୍ୟ, ଖୁବ୍‌ -->
+    <feat name="Gender" value="Com" upos="ADJ,DET,NOUN,PRON,PROPN,VERB">67</feat><!-- ତାଙ୍କ, ସେ, ତାଙ୍କର, ତାଙ୍କୁ, ବୟସରେ, ଅଧ୍ୟାପକ, ଆଦିବାସୀ, କରିଥିଲେ, ସଂଗ୍ରାମୀ, ଅଧିକାରୀ -->
+    <feat name="Gender" value="Fem" upos="ADJ,NOUN,PRON,PROPN,VERB">239</feat><!-- ଦେବୀ, ରମାଦେବୀ, ଶାନ୍ତି, ଶିକ୍ଷା, କବିତା, ସେବା, ପରୀକ୍ଷା, ପ୍ରତିଷ୍ଠା, ଭାଷା, ଭାଷାରେ -->
+    <feat name="Gender" value="Masc" upos="ADJ,NOUN,PRON,PROPN,VERB">648</feat><!-- ସେ, ଟାଗୋର, ତାଙ୍କ, କରିଥିଲେ, ତାଙ୍କର, ମୋ, ଟାଗୋରଙ୍କ, ନରେନ୍ଦ୍ର, ପିତା, ଭାଇ -->
+    <feat name="Gender" value="Neut" upos="ADJ,NOUN,PRON,PROPN">306</feat><!-- ବର୍ଷ, ବହି, ପଦାର୍ଥ, କଟକ, ବୟସରେ, ଭାରତ, ମସିହାରେ, ଶିଳ୍ପ, ଅଗଷ୍ଟ, ଆନ୍ଦୋଳନରେ -->
+    <feat name="Mood" value="Imp" upos="VERB">11</feat><!-- କରନ୍ତୁ, ଚାଲ, ଦିଅ, ଦିଅନ୍ତୁ, ଦେଖ, ପକାନ୍ତୁ, ଯାଅ -->
+    <feat name="Mood" value="Ind" upos="VERB">451</feat><!-- କରିଥିଲେ, ଥିଲେ, ଥିଲା, ହେଲା, ହୋଇଥିଲା, ହୋଇଥିଲେ, କରୁଥିଲେ, କଲେ, କରାଯାଇଥିଲା, ଦେଲେ -->
+    <feat name="Number" value="Plur" upos="ADJ,AUX,DET,NOUN,PRON,PROPN,VERB">278</feat><!-- କରିଥିଲେ, ଥିଲେ, ବହି, ହୋଇଥିଲେ, ଆଦିବାସୀ, ସେମାନଙ୍କ, ସେମାନେ, ଗଳ୍ପ, ଦେଲେ, ପିଲାଙ୍କ -->
+    <feat name="Number" value="Sing" upos="ADJ,ADP,AUX,DET,NOUN,NUM,PART,PRON,PROPN,VERB">2580</feat><!-- ସେ, ତାଙ୍କ, କରିଥିଲେ, ତାଙ୍କର, ତାଙ୍କୁ, ଥିଲେ, ଥିଲା, ବର୍ଷ, ମସିହାରେ, ଟାଗୋର -->
+    <feat name="NumType" value="Card" upos="NUM">150</feat><!-- ଏକ, ୧୯୩୪, ଗୋଟିଏ, ଦୁଇ, ଶତ, ୧୨, ୧୮, ୧୮୬୩, ୧୯୦୨, ୮ -->
+    <feat name="Person" value="1" upos="PRON,VERB">34</feat><!-- ମୁଁ, ମୋ, ଆମମାନଙ୍କର, ଆମେ, କରିପାରିବି, କରିବି, କହିଲି, କହୁନାହୁଁ, ଜାଣିନି, ଥିଲି -->
+    <feat name="Person" value="2" upos="PRON,VERB">14</feat><!-- କରନ୍ତୁ, ଆପଣ, ତୁମ, ତୁମେମାନେ, ଦିଅନ୍ତୁ, ଦେଖ, ପକାନ୍ତୁ, ପାଇବ, ପାରିବେ, ଯାଅ -->
+    <feat name="Person" value="3" upos="DET,NOUN,PRON,PROPN,VERB">761</feat><!-- ସେ, କରିଥିଲେ, ତାଙ୍କ, ଥିଲେ, ତାଙ୍କର, ତାଙ୍କୁ, ଥିଲା, ହୋଇଥିଲେ, ହେଲା, ହୋଇଥିଲା -->
+    <feat name="Polarity" value="Neg" upos="VERB">16</feat><!-- ନୁହେଁ, କରାଯାଇନଥିଲା, କରାଯାଇନାହିଁ, କରିନଥିଲେ, କରିନାହାନ୍ତି, କରିପାରିନଥିଲେ, କହୁନାହୁଁ, ଜାଣିନି, ନଥିଲା, ନପିନ୍ଧି -->
+    <feat name="Polarity" value="Pos" upos="VERB">26</feat><!-- କରିଥିଲେ, ଦେଉଥିଲେ, କରନ୍ତୁ, କରିଥିଲା, କରୁଥାନ୍ତୁ, କଲେ, ଥିଲେ, ଦିଅ, ଦେଇଥିଲା, ଦେଉଥାନ୍ତୁ -->
+    <feat name="Polite" value="Form" upos="NOUN,PRON">2</feat><!-- ତାଙ୍କୁ, ଯୁବତୀଙ୍କୁ -->
+    <feat name="PronType" value="Dem" upos="ADV,DET,PRON">139</feat><!-- ଏହି, ସେହି, ଏ, କେତେ, ସବୁ, ସେଠାରେ, ତାହା, ଅନେକ, ଏଇ, ଏସବୁ -->
+    <feat name="PronType" value="Ind" upos="DET,PRON">84</feat><!-- ଜଣେ, ଏକ, କିଛି, କୌଣସି, ବହୁତ, ସବୁ, ଅନେକ, କେହି, ଅନ୍ୟ, ବହୁ -->
+    <feat name="PronType" value="Int" upos="ADV,PRON">9</feat><!-- କଅଣ, କ’ଣ, କଣ, କାହିଁକି, କେଉଁଠି, କେଉଁଠୁ -->
+    <feat name="PronType" value="Prs" upos="PRON">301</feat><!-- ସେ, ତାଙ୍କ, ତାଙ୍କର, ତାଙ୍କୁ, ମୁଁ, ନିଜ, ନିଜର, ମୋ, ତା, ସେମାନଙ୍କ -->
+    <feat name="PronType" value="Rel" upos="ADV,PRON">24</feat><!-- ଯାହା, ଯେଉଁ, ଯେତେ, ଯାହାଙ୍କ, ଯିଏ, ଯେଉଁଠାରେ, ମାନେ, ଯା', ଯାହାକି, ଯାହାଠାରୁ -->
+    <feat name="Tense" value="Fut" upos="VERB">31</feat><!-- କରାଯିବ, କରିବେ, ପାରିବେ, ଆସିବା, ଆସିବେ, କରିପାରିବେ, କରିବ, କରିବି, କୁହାଯିବ, ଦିଆଯିବ -->
+    <feat name="Tense" value="Past" upos="VERB">395</feat><!-- କରିଥିଲେ, ଥିଲେ, ଥିଲା, ହେଲା, ହୋଇଥିଲା, ହୋଇଥିଲେ, କଲେ, କରୁଥିଲେ, ଲେଖିଥିଲେ, ଦେଲେ -->
+    <feat name="Tense" value="Pres" upos="VERB">152</feat><!-- କରିଛନ୍ତି, ରହିଛି, ହୁଏ, ହୋଇଥାଏ, ହେଉଛି, ହୋଇଛି, ଅଛନ୍ତି, କରି, ଯାଏ, ହେଉଛନ୍ତି -->
+    <feat name="VerbForm" value="Conv" upos="NOUN,VERB">79</feat><!-- କରି, ଦେଖି, ନେଇ, ରଖି, ଶୁଣି, ଟାଣି, ପଢ଼ି, ପହଞ୍ଚି, ବୁଲି, ହସି -->
+    <feat name="VerbForm" value="Fin" upos="VERB">364</feat><!-- କରିଥିଲେ, ଥିଲେ, ଥିଲା, ହୋଇଥିଲେ, ହୋଇଥିଲା, ହେଲା, କଲେ, କରନ୍ତୁ, ରହିଛି, ହୋଇଛି -->
+    <feat name="VerbForm" value="Ger" upos="VERB">1</feat><!-- ବଦଳିବାରେ -->
+    <feat name="VerbForm" value="Inf" upos="NOUN,VERB">84</feat><!-- କରିବା, ପଢ଼ିବାକୁ, କରିବାକୁ, ଆରମ୍ଭ, କରିବାରେ, ଗାଇବା, ଜନ୍ମଗ୍ରହଣ, ଦେଖିବା, ପଢ଼ିବା, ପହଁରିବା -->
+    <feat name="VerbForm" value="Part" upos="ADJ,NOUN,VERB">55</feat><!-- ହୋଇ, ଥିବା, ଉତ୍ତୀର୍ଣ୍ଣ, କରିଥିବା, ପ୍ରକାଶିତ, ଅନୁବାଦିତ, ଅନୁଷ୍ଠିତ, ଅବଗତ, ଆକ୍ରାନ୍ତ, ଆରମ୍ଭ -->
+    <feat name="VerbForm" value="Vnoun" upos="ADJ,NOUN,VERB">27</feat><!-- ହାସଲ, ଜନ୍ମଗ୍ରହଣ, ଯୋଗ, ପାସ୍, ଆରମ୍ଭ, ଉଦ୍ଧାର, ଜାରି, ଧ୍ୱଂସ, ପାଠପଢ଼ିବା, ପ୍ରକାଶ -->
+    <feat name="Voice" value="Act" upos="NOUN,VERB">97</feat><!-- କରିଥିଲେ, ଥିଲା, କରି, କରିବା, କରିବାକୁ, କଲେ, ଥିଲେ, ଦେଲେ, ନେଇ, ପଢ଼ିବାକୁ -->
+    <feat name="Voice" value="Pass" upos="NOUN,VERB">23</feat><!-- କରାଯାଇଥିଲା, କରାଯାଇନାହିଁ, ଦିଆଗଲା, ଅଣାଗଲା, କରାଯାଇଛି, କରାଯାଉଛି, କରାୟାଉଥିଲା, କୁହାଯାଉଛି, ଜଡ଼ିତ, ଜଣାପଡିବା -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="29">
-    <dep name="acl">12</dep>
-    <dep name="advcl">10</dep>
-    <dep name="advmod">43</dep>
-    <dep name="amod">49</dep>
-    <dep name="appos">3</dep>
-    <dep name="aux">5</dep>
-    <dep name="case">31</dep>
-    <dep name="cc">25</dep>
-    <dep name="ccomp">3</dep>
+  <deps unique="30">
+    <dep name="acl">54</dep>
+    <dep name="advcl">156</dep>
+    <dep name="advmod">168</dep>
+    <dep name="amod">352</dep>
+    <dep name="appos">52</dep>
+    <dep name="aux">6</dep>
+    <dep name="case">125</dep>
+    <dep name="cc">157</dep>
+    <dep name="ccomp">27</dep>
     <dep name="clf">4</dep>
-    <dep name="compound">62</dep>
-    <dep name="conj">31</dep>
+    <dep name="compound">600</dep>
+    <dep name="conj">265</dep>
     <dep name="cop">3</dep>
-    <dep name="det">39</dep>
-    <dep name="discourse">5</dep>
-    <dep name="dislocated">1</dep>
-    <dep name="flat">27</dep>
-    <dep name="iobj">15</dep>
-    <dep name="list">1</dep>
-    <dep name="mark">10</dep>
-    <dep name="nmod">160</dep>
-    <dep name="nsubj">95</dep>
-    <dep name="nummod">21</dep>
-    <dep name="obj">68</dep>
-    <dep name="obl">57</dep>
-    <dep name="parataxis">3</dep>
-    <dep name="punct">132</dep>
-    <dep name="root">100</dep>
-    <dep name="xcomp">14</dep>
+    <dep name="det">171</dep>
+    <dep name="det:poss">2</dep>
+    <dep name="discourse">50</dep>
+    <dep name="dislocated">3</dep>
+    <dep name="flat">46</dep>
+    <dep name="iobj">35</dep>
+    <dep name="mark">42</dep>
+    <dep name="nmod">618</dep>
+    <dep name="nsubj">523</dep>
+    <dep name="nummod">136</dep>
+    <dep name="obj">380</dep>
+    <dep name="obl">447</dep>
+    <dep name="parataxis">26</dep>
+    <dep name="punct">809</dep>
+    <dep name="root">456</dep>
+    <dep name="vocative">2</dep>
+    <dep name="xcomp">103</dep>
   </deps>
 </treebank>
