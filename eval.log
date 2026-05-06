@@ -1,25 +1,25 @@
 Running the following version of UD tools:
-commit 26e6c87a2f518322d15901a351199b6be6569062
+commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri Nov 7 15:39:58 2025 +0100
+Date:   Tue May 5 17:01:41 2026 +0200
 Evaluating the following revision of UD_Odia-ODTB:
-commit e5b203ae46082accb3479e41f391985550ee9497
-Merge: facc7cd eaa1cef
+commit d9a1f4e0531f05735efebfc728e8e9b42848beaa
+Merge: 719363f da5d1ad
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'or_odtb'
 Language code (from CoNLL-U file name) = 'or'
 Found the following data files: or_odtb-ud-test.conllu
-Size: counted 1029 of 1029 words (nodes).
-Size: min(0, log((N/1000)**2)) = 0.057174913703825.
+Size: counted 5818 of 5818 words (nodes).
+Size: min(0, log((N/1000)**2)) = 3.52191312014602.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Did not find more than 10000 training words.
 Split: Did not find at least 10000 development words.
 Split: Did not find at least 10000 test words.
 Lemmas: '_' is the most frequent lemma.
-Universal POS tags: 14 out of 17 found in the corpus.
+Universal POS tags: 15 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 1.
-Features: 0 out of 1029 total words have one or more features.
+Features: 4121 out of 5818 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 29 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 1.
@@ -27,13 +27,13 @@ Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang or --max-err=10 UD_Odia-ODTB/or_odtb-ud-test.conllu
 *** PASSED ***
 Validity: 1
-(weight=0.111111111111111) * (score{features}=0.01) = 0.00111111111111111
+(weight=0.111111111111111) * (score{features}=0.4) = 0.0444444444444444
 (weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
 (weight=0.111111111111111) * (score{lemmas}=0.01) = 0.00111111111111111
-(weight=0.37037037037037) * (score{size}=0.0041384582541443) = 0.00153276231634974
+(weight=0.37037037037037) * (score{size}=0.25492457230368) = 0.0944165082606223
 (weight=0.0740740740740741) * (score{split}=0.01) = 0.000740740740740741
-(weight=0.111111111111111) * (score{tags}=0.823529411764706) = 0.0915032679738562
+(weight=0.111111111111111) * (score{tags}=0.882352941176471) = 0.0980392156862745
 (weight=0.111111111111111) * (score{udeprels}=0.783783783783784) = 0.0870870870870871
-(TOTAL score=0.195431759352602) * (availability=1) * (validity=1) = 0.195431759352602
-STARS = 1
-UD_Odia-ODTB	0.195431759352602	1
+(TOTAL score=0.338184786342626) * (availability=1) * (validity=1) = 0.338184786342626
+STARS = 1.5
+UD_Odia-ODTB	0.338184786342626	1.5
